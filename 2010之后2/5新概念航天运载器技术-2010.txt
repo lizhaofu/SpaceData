@@ -1,0 +1,287 @@
+
+PT J
+AU Sohier, H
+   Piet-Lahanier, H
+   Farges, JL
+AF Sohier, Henri
+   Piet-Lahanier, Helene
+   Farges, Jean-Loup
+TI Analysis and optimization of an air-launch-to-orbit separation
+SO ACTA ASTRONAUTICA
+LA English
+DT Article
+DE Sensitivity analysis; Air-launch-to-orbit; Screening; Morris method;
+   Factors fixing; Latin hypercube
+ID SENSITIVITY-ANALYSIS; MODELS
+AB In an air-launch-to-orbit, a space rocket is launched from a carrier aircraft Air-launch-to-orbit appears as particularly interesting for nano- and microsatellites which are generally launched as secondary loads, that is, placed in the conventional launch vehicle's payload section with a larger primary satellite. In an air-launch-to-orbit, a small satellite can be launched alone as a primary load, away from a carrier aircraft, aboard a smaller rocket vehicle, and in doing so, benefit from more flexible dates and trajectories. One of the most important phases of the mission is the separation between the carrier aircraft and the space rocket. A flight simulator including a large number of factors of uncertainties has been especially developed to study the separation, and a safety criteria has been defined with respect to store collision avoidance. It is used for a sensitivity analysis and an optimization of the possible trajectories. The sensitivity analysis first requires a screening method to select unessential factors that can be held constant. The Morris method is amongst the most popular screening methods. It requires limited calculations, but may result in keeping constant an essential factor which would greatly affect the results of the sensitivity analysis. This paper shows that this risk can be important in spite of recent improvements of the Morris method. It presents an adaptation of this method which divides this risk by a factor of ten on a standard test function. It is based on the maximum of the elementary effects instead of their average. The method focuses the calculations on the factors with a low impact, checking the convergence of this set of factors, and uses two different factor variations instead of one. This adaptation of the Morris method is used to limit the amount of the air-launch-to-orbit simulations and simplify the uncertainty domain for analysis by Sobol's method. The aerodynamic perturbations due to wind, the parameters defining the trajectory, the interactions, and the mass characteristics of the systems are detected as factors with a high impact The parameters of the trajectory are finally optimized with a stochastic gradient method. It shows that the separation is safer with a low speed, a low climb angle, and a high vertical acceleration of the aircraft. A trajectory offering such a separation will be tested with an air-launch-to-orbit demonstrator from the French space agency CNES and the French aerospace laboratory ONERA. (C) 2014 IAA. Published by Elsevier Ltd. All rights reserved.
+C1 [Sohier, Henri] CNES, F-75612 Paris, France.
+   [Sohier, Henri; Farges, Jean-Loup] Off Natl Etud & Rech Aerosp, F-31055 Toulouse, France.
+   [Piet-Lahanier, Helene] Off Natl Etud & Rech Aerosp, Chem Huniere, F-91123 Palaiseau, France.
+RP Sohier, H (reprint author), CNES, 52 Rue J Hillairet, F-75612 Paris, France.
+EM henri.sohier@onera.fr
+FU French space agency CNES (Centre National dEtudes Spatiales); French
+   aerospace laboratory Onera (Office National d'Etudes et de Recherches
+   Aerospatiales)
+FX The authors thank the French space agency CNES (Centre National dEtudes
+   Spatiales) and the French aerospace laboratory Onera (Office National
+   d'Etudes et de Recherches Aerospatiales) for funding this work.
+CR Bhagwat MJ, 2003, J AM HELICOPTER SOC, V48, P143
+   Byko M, 2004, JOM-US, V56, P24, DOI 10.1007/s11837-004-0247-7
+   Campolongo F, 2011, COMPUT PHYS COMMUN, V182, P978, DOI 10.1016/j.cpc.2010.12.039
+   Cenko A., 2010, 27 INT C AER SCI
+   Cenko A., 2004, USE STAT TOOLS IMPRO
+   [Anonymous], 2011, REP HOR LAUNCH STUD
+   Francos A, 2003, RELIAB ENG SYST SAFE, V79, P205, DOI 10.1016/S0951-8320(02)00231-4
+   Fu M. C., 2005, TECHNICAL REPORT
+   Gotor M. P. G., 2008, P 59 INT ASTR C
+   Hamm NAS, 2006, COMPUT GEOSCI-UK, V32, P803, DOI 10.1016/j.cageo.2005.10.007
+   Hingre H., 2011, 4 EUR C AER SCI
+   Ledogar J., 2012, 28 INT C AER SCI
+   Maeda M., 2010, J AERO AQUA BIOMECH, V1, P71, DOI DOI 10.5226/JABMECH.1.71
+   MORRIS MD, 1991, TECHNOMETRICS, V33, P161, DOI 10.2307/1269043
+   Pamadi B. N., 2005, AIAA CIRA 13 INT SPA
+   Perez RE, 2004, 10 AIAA ISSMO MULT A
+   Saltelli A., 2004, SENSITIVITY ANAL PRA
+   Saltelli A, 2010, COMPUT PHYS COMMUN, V181, P259, DOI 10.1016/j.cpc.2009.09.018
+   Schade C., 1994, P 15 INT COMM SAT SY
+   Sobol IM, 2007, RELIAB ENG SYST SAFE, V92, P957, DOI 10.1016/j.ress.2006.07.001
+   Sobol IM, 2001, MATH COMPUT SIMULAT, V55, P271, DOI 10.1016/S0378-4754(00)00270-6
+   Sohier H., 2014, IEEE AER C
+   Sohier H., 2014, 19 IFAC WORLD C
+   Tong C, 2006, RELIAB ENG SYST SAFE, V91, P1257, DOI 10.1016/j.ress.2005.11.027
+   Yang J, 2011, ENVIRON MODELL SOFTW, V26, P444, DOI 10.1016/j.envsoft.2010.10.007
+NR 25
+TC 4
+Z9 4
+U1 1
+U2 10
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0094-5765
+EI 1879-2030
+J9 ACTA ASTRONAUT
+JI Acta Astronaut.
+PD MAR-APR
+PY 2015
+VL 108
+BP 18
+EP 29
+DI 10.1016/j.actaastro.2014.11.043
+PG 12
+WC Engineering, Aerospace
+SC Engineering
+GA CB6JV
+UT WOS:000349734200002
+ER
+
+
+PT J
+AU Wang, K
+   Fan, W
+   Yan, Y
+   Jin, L
+AF Wang, Ke
+   Fan, Wei
+   Yan, Yu
+   Jin, Le
+TI Preliminary Studies on a Small-Scale Single-Tube Pulse Detonation Rocket
+   Prototype
+SO INTERNATIONAL JOURNAL OF TURBO & JET-ENGINES
+LA English
+DT Article
+DE detonation; rocket engine; kerosene; oxygen
+ID IMPULSE; ENGINES; PERFORMANCE
+AB As a new concept propulsion system, the pulse detonation engine has received extensive concerns from all over the world in the past few years. With oxidizer on board, it operates as a rocket engine which is known as pulse detonation rocket engine. In this study, a rocket model powered by a single-tube pulse detonation rocket engine was fabricated to demonstrate and validate whether or not it could operate stably and reliably independently. The single-tube pulse detonation rocket prototype consisted of a wireless control unit, three tanks for oxidizer, fuel and purge gas, various valves and a detonation tube. With compact design, the pulse detonation rocket prototype had an outer diameter of 260 mm and a length of 2200 mm. Oxygen, liquid aviation kerosene and nitrogen were utilized as oxidizer, fuel and purge gas, respectively. Operation tests were carried out to obtain proper operating conditions for the pulse detonation rocket prototype first, and then sliding test was conducted. It was concluded that the pulse detonation rocket prototype could operate stably and reliably. The generated thrust was estimated and compared with theoretical value.
+C1 [Wang, Ke; Fan, Wei; Yan, Yu; Jin, Le] Northwestern Polytech Univ, Sch Power & Energy, Xian 710072, Peoples R China.
+RP Fan, W (reprint author), Northwestern Polytech Univ, Sch Power & Energy, Xian 710072, Peoples R China.
+EM weifan419@nwpu.edu.cn
+FU National Natural Science Foundation of China [51176158]; Doctoral
+   Program Foundation of Ministry of Education of China [20126102110029];
+   Doctorate Foundation of Northwestern Polytechnical University
+   [CX201112]; Ministry of Education of China
+FX This work is supported by National Natural Science Foundation of China
+   (51176158), Doctoral Program Foundation of Ministry of Education of
+   China (20126102110029), Doctorate Foundation of Northwestern
+   Polytechnical University (CX201112) and Scholarship Award for Excellent
+   Doctoral Student granted by Ministry of Education of China. The authors
+   are grateful to Cheng Yuan, Xudong Zhu, Yang Mu and Wei Chen for their
+   assistance with the experiments.
+CR Bussing T., 1996, DEV HIGH SPEED VEHIC, V165, P421
+   Cheatham S., 2005, COMBUSTION THEORY MO, V19, P23
+   Cooper M, 2004, J PROPUL POWER, V20, P947, DOI 10.2514/1.4997
+   Cooper M, 2002, J PROPUL POWER, V18, P1033, DOI 10.2514/2.6052
+   Cooper M., 20023628 AIAA
+   Endo T, 2004, AIAA J, V42, P1921, DOI 10.2514/1.976
+   Gordon S., 1994, RP1311 NASA
+   He X, 2003, J SCI COMPUT, V19, P201, DOI 10.1023/A:1025351924837
+   Heiser WH, 2002, J PROPUL POWER, V18, P68, DOI 10.2514/2.5899
+   Kailasanath K, 2009, 2009631 AIAA, P2009
+   Kasahara J, 2009, J PROPUL POWER, V25, P1281, DOI 10.2514/1.42224
+   Kasahara J, 2009, J PROPUL POWER, V25, P173, DOI 10.2514/1.37924
+   Li CP, 2003, J PROPUL POWER, V19, P908, DOI 10.2514/2.6183
+   McBride B.J., 1996, RP1311 NASA
+   Morris CI, 2005, J PROPUL POWER, V21, P527, DOI 10.2514/1.7875
+   NICHOLLS JA, 1957, JET PROPULSION, V27, P534
+   Sato S, 2006, J PROPUL POWER, V22, P64, DOI 10.2514/1.9514
+   Wintenberger E, 2003, J PROPUL POWER, V19, P22, DOI 10.2514/2.6099
+   Yan Y., 2010, INT J TURBO JET ENGI, V27
+   Zitoun R, 1999, COMBUST SCI TECHNOL, V144, P93, DOI 10.1080/00102209908924199
+NR 20
+TC 2
+Z9 2
+U1 1
+U2 5
+PU WALTER DE GRUYTER GMBH
+PI BERLIN
+PA GENTHINER STRASSE 13, D-10785 BERLIN, GERMANY
+SN 0334-0082
+J9 INT J TURBO JET ENG
+JI Int. J. Turbo. Jet-Engines
+PD JUN
+PY 2013
+VL 30
+IS 2
+BP 145
+EP 151
+DI 10.1515/tjj-2013-0001
+PG 7
+WC Engineering, Aerospace
+SC Engineering
+GA 220KF
+UT WOS:000324581500002
+ER
+
+
+PT J
+AU Lee, BS
+   Choi, JH
+   Kwon, OJ
+AF Lee, Bum Seok
+   Choi, Jae Hoon
+   Kwon, Oh Joon
+TI Numerical Simulation of Free-Flight Rockets Air-Launched from a
+   Helicopter
+SO JOURNAL OF AIRCRAFT
+LA English
+DT Article
+ID PREDICTION
+AB Numerical simulation of unsteady flows around a complete helicopter was conducted, and the effect of rotor downwash on the behavior of free-flight rockets air-launched from the helicopter and their plume was investigated. For this purpose, a three-dimensional inviscid flow solver based on unstructured meshes was developed, and an overset mesh technique was adopted to handle the relative motion of the main rotor, tail rotor, fuselage, and traveling rockets. The flow solver was coupled with six-degrees-of-freedom equations of motion to describe the trajectory of the free-flight rockets. To validate the flow solver for simulating the plume flow from the rocket nozzle, calculations were made for a jet flow impinging on flat plates. To demonstrate the accuracy of the flow solver for predicting rotor downwash, a rotor-fuselage aerodynamic interaction flow was calculated, and the results were compared with available experimental data. The trajectory simulation of an external store released from a fixed wing was also performed to validate the present flow solver coupled with the six-degrees-of-freedom equations of motion. Then the present method was applied to the simulation of free-flight rockets air-launched from a complete helicopter configuration. It was found that rotor downwash has nonnegligible effects on the trajectory of the air-launched rockets and their plume development, which may potentially affect the safety and the reliability of other equipments installed on the mother helicopter.
+C1 [Lee, Bum Seok; Choi, Jae Hoon; Kwon, Oh Joon] Korea Adv Inst Sci & Technol, Dept Aerosp Engn, Taejon 305701, South Korea.
+RP Lee, BS (reprint author), Korea Adv Inst Sci & Technol, Dept Aerosp Engn, Taejon 305701, South Korea.
+EM good-xyz@kaist.ac.kr; cjh0711@kaist.ac.kr; ojkwon@kaist.ac.kr
+RI KWON, OH JOON/C-1532-2011
+FU Agency for Defense Development; Defense Acquisition Program
+   Administration; National Research Foundation of Korea [2009-0083510];
+   Korean government through Multi-Phenomena CFD Engineering Research
+   Center
+FX The work was partially supported by the Agency for Defense Development
+   and the Defense Acquisition Program Administration. The contract number
+   was UD070041AD. The six-degrees-of-freedom simulation was supported by
+   the National Research Foundation of Korea grant no. 2009-0083510, funded
+   by the Korean government through Multi-Phenomena CFD Engineering
+   Research Center.
+CR Bousman W. G., 2003, TP2003212265 NASA
+   Cavallo P. A., 2004, 20041057 AIAA
+   Elliot J. W., 1988, 100541 NASA TM
+   Hilbert K. B., 1984, 85890 NASA TM
+   Jung M. S., 2009, 20093536 AIAA
+   Jung M. S., 2007, INT C PAR COMP FLUID
+   Karypis G, 1998, J PARALLEL DISTR COM, V48, P96, DOI 10.1006/jpdc.1997.1404
+   Kenyon A. R., 2007, AM HEL SOC 63 ANN FO, P945
+   LAMONT PJ, 1980, J FLUID MECH, V100, P471, DOI 10.1017/S0022112080001255
+   LIJEWSKI LE, 1994, J AIRCRAFT, V31, P886, DOI 10.2514/3.46575
+   Nakahashi K, 2000, AIAA J, V38, P2077, DOI 10.2514/2.869
+   Nam HJ, 2006, J AM HELICOPTER SOC, V51, P141
+   Raymond EM, 2000, 2000210286 NASA TM
+   ROE PL, 1981, J COMPUT PHYS, V43, P357, DOI 10.1016/0021-9991(81)90128-5
+   Shanks S., 1991, 19911663 AIAA
+   Taylor R. B., 1979, R799129855 UTRC
+   Wake BE, 1996, J AM HELICOPTER SOC, V41, P7
+   Wei F.-S., 2001, 20010992 AIAA
+NR 18
+TC 2
+Z9 4
+U1 0
+U2 5
+PU AMER INST AERONAUTICS  ASTRONAUTICS
+PI RESTON
+PA 1801 ALEXANDER BELL DRIVE, STE 500, RESTON, VA 22091-4344 USA
+SN 0021-8669
+EI 1533-3868
+J9 J AIRCRAFT
+JI J. Aircr.
+PD SEP-OCT
+PY 2011
+VL 48
+IS 5
+BP 1766
+EP 1775
+DI 10.2514/1.C031365
+PG 10
+WC Engineering, Aerospace
+SC Engineering
+GA 831TR
+UT WOS:000295754500026
+ER
+
+
+PT J
+AU Elliott, J
+   Alkalai, L
+AF Elliott, John
+   Alkalai, Leon
+TI Lunette: A network of lunar landers for in-situ geophysical science
+SO ACTA ASTRONAUTICA
+LA English
+DT Article; Proceedings Paper
+CT 60th International Astronautical Congress
+CY OCT 12-16, 2009
+CL Daejeon, SOUTH KOREA
+DE Lunar lander; Network
+AB Over the last 3 years, a team at JPL has worked to design a new concept for a small, low cost lander applicable to a variety of in-situ lunar exploration activities. This concept, named Lunette, originated as a design which would exploit potential excess capacity of EELV launches by being compatible with the EELV Secondary Payload Adapter (ESPA). The original Lunette mission concept would have allowed up to six low cost landers to be delivered to a targeted region of the moon, with landings separated by a few km, allowing establishment of a regional network with a single, shared launch. The original concept faced limits in the extent of regional distribution of landing sites since all six landers were dependent on a single solid rocket braking motor. In the last year the Lunette team has focused on a modification of the original ESPA-based concept to a design that would allow launch of multiple individual landers (each with its own braking stage) on a single launch vehicle, where each lander would be capable of independent targeting and landing. With such an implementation, the entire lunar surface could be accessed for establishment of network nodes that could enable high priority geophysical measurements on a scale not seen since Apollo. The present paper discusses the current state of the design of the Lunette geophysical network lander, as well as describing mission design, science operations, and an innovative design solution allowing the lander to take critical data continuously, even over the lunar night, without the need for radioisotope power systems. (C) 2010 Published by Elsevier Ltd.
+C1 [Elliott, John; Alkalai, Leon] CALTECH, Jet Prop Lab, Pasadena, CA 91125 USA.
+RP Elliott, J (reprint author), CALTECH, Jet Prop Lab, Pasadena, CA 91125 USA.
+EM jelliott@jpl.nasa.gov
+CR CHUNG MJ, 2010, P AIAA GUID NAV CONT
+   ELLIOTT JO, 2008, P 59 INT ASTR C GLAS
+   NASA, 1969, NASA
+   *NASA, 2009, SCI DEF TEAM ILN ANC
+   RONCOLI RB, 2010, P AIAA GUID NAV CONT
+NR 5
+TC 6
+Z9 6
+U1 1
+U2 2
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0094-5765
+J9 ACTA ASTRONAUT
+JI Acta Astronaut.
+PD APR-MAY
+PY 2011
+VL 68
+IS 7-8
+BP 1201
+EP 1207
+DI 10.1016/j.actaastro.2010.10.024
+PG 7
+WC Engineering, Aerospace
+SC Engineering
+GA 727SL
+UT WOS:000287821600053
+ER
+
+
+PT J
+AU Alfano, S
+AF Alfano, Salvatore
+TI Ballistic representation for kinematic access
+SO CELESTIAL MECHANICS & DYNAMICAL ASTRONOMY
+LA English
+DT Article
+DE Anti-satellite; Kinetic kill; Vulnerability; Collision; Ballistic
+   missile; ASAT; KKV; Intercept trajectories; Space situational awareness;
+   SOLARA; Kinematic access
+AB This work uses simple two-body orbital dynamics to initially determine the kinematic access for a ballistic vehic

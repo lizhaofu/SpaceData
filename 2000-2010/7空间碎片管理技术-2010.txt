@@ -1,0 +1,3812 @@
+PT J
+AU Satish, S
+   Raju, SS
+   Swamy, TSN
+   Kulkarni, PL
+AF Satish, S.
+   Raju, S. Selva
+   Swamy, T. S. Nanjunda
+   Kulkarni, P. L.
+TI Quality management for space systems in ISRO
+SO ACTA ASTRONAUTICA
+LA English
+DT Article
+AB In a little over four decades, the Indian Space Program has carved a niche for itself with the unique application driven program oriented towards National development. The end-to-end capability approach of the space projects in the country call for innovative practices and procedures in assuring the quality and reliability of space systems. The System Reliability (SR) efforts initiated at the start of the projects continue during the entire life cycle of the project encompassing design, development, realisation, assembly, testing and integration and during launch. Even after the launch, SR groups participate in the on-orbit evaluation of transponders in communication satellites and camera systems in remote sensing satellites. SR groups play a major role in identification, evaluation and inculcating quality practices in work centres involved in the fabrication of mechanical, electronics and propulsion systems required for Indian Space Research Organization's (ISRO's) launch vehicle and spacecraft projects. Also the reliability analysis activities like prediction, assessment and demonstration as well as de-rating analysis, Failure Mode Effects and Criticality Analysis (FMECA) and worst-case analysis are carried out by SR groups during various stages of project realisation. These activities provide the basis for project management to take appropriate techno-managerial decisions to ensure that the required reliability goals are met. Extensive test facilities catering to the needs of the space program has been set up. A system for consolidating the experience and expertise gained for issue of standards called product assurance specifications to be used in all ISRO centres has also been established. (C) 2009 Published by Elsevier Ltd.
+C1 [Satish, S.] Indian Space Res Org, Bangalore 562140, Karnataka, India.
+   [Raju, S. Selva] Vikram Sarabhai Space Ctr, Trivendram, India.
+   [Swamy, T. S. Nanjunda] ISRO Satellite Ctr, Bangalore, Karnataka, India.
+   [Kulkarni, P. L.] ISRO, Ctr Space Applicat, Ahmadabad 380053, Gujarat, India.
+RP Satish, S (reprint author), Indian Space Res Org, Bangalore 562140, Karnataka, India.
+EM satish@isro.gov.in; s_selvaraju@vssc.gov.in; nswamy@isac.gov.in;
+   plkulkarni@sac.isro.gov.in
+CR ARAVAMUDAN R, 1986, ASI S
+   KULKARNI PL, 2001, 15 LC VERM AW LECT A
+   SATISH S, 2001, COMMUNICATION
+NR 3
+TC 0
+Z9 0
+U1 1
+U2 2
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0094-5765
+J9 ACTA ASTRONAUT
+JI Acta Astronaut.
+PD NOV-DEC
+PY 2009
+VL 65
+IS 9-10
+BP 1424
+EP 1428
+DI 10.1016/j.actaastro.2009.03.078
+PG 5
+WC Engineering, Aerospace
+SC Engineering
+GA 504UC
+UT WOS:000270642200026
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Singaravelu, J
+   Jeyakumar, D
+   Rao, BN
+AF Singaravelu, J.
+   Jeyakumar, D.
+   Rao, B. Nageswara
+TI Taguchi's approach for reliability and safety assessments in the stage
+   separation process of a multistage launch vehicle
+SO RELIABILITY ENGINEERING & SYSTEM SAFETY
+LA English
+DT Article
+DE Separation system; Separation motors; Jet damping; Pyro; Relative
+   velocity; Relative distance; Launch vehicle; Taguchi method
+ID DYNAMICS
+AB This paper presents in brief the formulation for lateral and longitudinal dynamics associated with the separation and pull out of an ongoing functional stage from the spent stage of a multistage launch vehicle using separation motors as jettisoning system. Taguchi method is employed to understand the influencing parameters in the separation process. It is possible to minimize the number of Monte-Carlo simulations (MCS) by Taguchi's orthogonal array. Statistical analysis has been carried out to identify the probability distribution function (PDF) for reliability and safety assessment of the stage separation system. The tolerances on the pull out time, relative velocity, lateral gap and longitudinal clearances between the separating bodies are taken into account while examining the non-occurrence of collision between the separating bodies. Lateral gap/dynamic clearance between stages are found to be very vital from collision aspects. This study clearly demonstrates the applicability of Taguchi method to capture the essential Monte-Carlo simulation results in the stage separation process. The method of approach followed in this study will be useful to understand the dynamic behavior of the separating bodies during the stage separation process of multistage launch vehicles. (c) 2009 Elsevier Ltd. All rights reserved.
+C1 [Rao, B. Nageswara] Vikram Sarabhai Space Ctr, Struct Anal & Testing Grp, Trivandrum 695022, Kerala, India.
+   [Singaravelu, J.] Vikram Sarabhai Space Ctr, Project LVM3, Trivandrum 695022, Kerala, India.
+   [Jeyakumar, D.] Vikram Sarabhai Space Ctr, RLV TD Project, Trivandrum 695022, Kerala, India.
+RP Rao, BN (reprint author), Vikram Sarabhai Space Ctr, Struct Anal & Testing Grp, Trivandrum 695022, Kerala, India.
+EM bnrao52@rediffmail.com
+CR ADDELMAN S, 1962, TECHNOMETRICS, V4, P21, DOI 10.2307/1266170
+   Ball K. J., 1967, SPACE VEHICLE DYNAMI
+   Bilal M, 2002, PROBABILITY STAT REL
+   BLISCHE WR, 2000, RELIABILITY MODELING
+   BOSE RC, 1952, ANN MATH STAT, V23, P508, DOI 10.1214/aoms/1177729331
+   BRAUER GL, 1975, CR132689 NASA, V1
+   Choi S, 2002, J SPACECRAFT ROCKETS, V39, P439, DOI 10.2514/2.3827
+   Chubb W., 1961, NASATND598
+   COOK S, 1995, REUSABLE LAUNCH VEHI, P95
+   Cornelisse J. W., 1979, ROCKET PROPULSION SP
+   DECKER JP, 1968, NASATND4765
+   GOPALASWAMI R, 2005, J AEROSPACE SCI TECH, V57, P221
+   HURLEY MJ, 1972, J SPACECRAFT ROCKETS, V9, P764, DOI 10.2514/3.30393
+   Isakowitz S.J, 2004, INT REFERENCE GUIDE
+   JEYAKUMAR D, 2007, THESIS J NEHRU TECHN
+   JEYAKUMAR D., 2003, J AEROSPACE SCI TECH, V55, P211
+   Kempthorne O., 1979, DESIGN ANAL EXPT
+   LOCHNER RH, 2007, DESIGNING QUALITY
+   LONGREN DR, 1970, J SPACECRAFT ROCKETS, V9, P764
+   MASUYAMA M, 1957, REP STAT APPL RES UN, V32, P27
+   Rao BN, 2006, AERONAUT J, V110, P289
+   REGAN FJ, 1984, ALAA ED SERIES
+   Roy R. K., 1990, PRIMER TAGUCHI METHO
+   RUKEMANN KJO, 1973, J SPACECRAFT ROCKETS, V10, P617
+   SEIDEN E, 1954, ANN MATH STAT, V25, P151, DOI 10.1214/aoms/1177728855
+   Taguchi G., 2005, TAGUCHIS QUALITY ENG
+   Taguchi G, 1987, SYSTEM EXPT DESIGN
+   Thomson W.T., 1961, INTRO SPACE DYNAMICS
+   WASKO RA, 1961, NASATND868
+   Wu Y., 2000, TAGUCHI METHODS ROBU
+NR 30
+TC 19
+Z9 25
+U1 0
+U2 4
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0951-8320
+J9 RELIAB ENG SYST SAFE
+JI Reliab. Eng. Syst. Saf.
+PD OCT
+PY 2009
+VL 94
+IS 10
+BP 1526
+EP 1541
+DI 10.1016/j.ress.2009.02.017
+PG 16
+WC Engineering, Industrial; Operations Research & Management Science
+SC Engineering; Operations Research & Management Science
+GA 477KX
+UT WOS:000268519100004
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Lewis, HG
+   Swinerd, GG
+   Newland, RJ
+   Saunders, A
+AF Lewis, H. G.
+   Swinerd, G. G.
+   Newland, R. J.
+   Saunders, A.
+TI The fast debris evolution model
+SO ADVANCES IN SPACE RESEARCH
+LA English
+DT Article
+DE Space debris; Modelling; Particles-in-a-box
+ID SPACE
+AB The 'particles-in-a-box' (PIB) model introduced by Talent [Talent, D.L. Analytic model for orbital debris environmental management. J. Spacecraft Rocket, 29 (4), 508-513, 1992.] removed the need for computer-intensive Monte Carlo simulation to predict the gross characteristics of an evolving debris environment. The PlB model was described using a differential equation that allows the stability of the low Earth orbit (LEO) environment to be tested by a straightforward analysis of the equation's coefficients. As part of an ongoing research effort to investigate more efficient approaches to evolutionary modelling and to develop a suite of educational tools, a new PlB model has been developed. The model, entitled Fast Debris Evolution (FADE), employs a first-order differential equation to describe the rate at which new objects >= 10 cm are added and removed from the environment. Whilst Talent [Talent, D.L. Analytic model for orbital debris environmental management. J. Spacecraft Rocket, 29 (4), 508-513, 1992.] based the collision theory for the PlB approach on collisions between gas particles and adopted specific values for the parameters of the model from a number of references, the form and coefficients of the FADE model equations can be inferred from the outputs of future projections produced by high-fidelity models, such as the DAMAGE model.
+   The FADE model has been implemented as a client-side, web-based service using JavaScript embedded within a HTML document. Due to the simple nature of the algorithm, FADE can deliver the results of future projections immediately in a graphical format, with complete user-control over key simulation parameters. Historical and future projections for the >= 10 cm. LEO debris environment under a variety of different scenarios are possible, including business as usual, no future launches, post-mission disposal and remediation. A selection of results is presented with comparisons with predictions made using the DAMAGE environment model. The results demonstrate that the FADE model is able to capture comparable time-series of collisions and number of objects as predicted by DAMAGE in several scenarios. Further, and perhaps more importantly, its speed and flexibility allows the user to explore and understand the evolution of the space debris environment. (C) 2009 COSPAR. Published by Elsevier Ltd. All rights reserved.
+C1 [Lewis, H. G.; Swinerd, G. G.; Newland, R. J.; Saunders, A.] Univ Southampton, Sch Engn Sci, Astronaut Res Grp, Southampton SO17 1BJ, Hants, England.
+RP Lewis, HG (reprint author), Univ Southampton, Sch Engn Sci, Astronaut Res Grp, Southampton SO17 1BJ, Hants, England.
+EM hglewis@soton.ac.uk
+CR Emmert JT, 2004, J GEOPHYS RES-SPACE, V109, DOI 10.1029/2003JA010176
+   FARINELLA P, 1991, SCI GLOBAL SECUR, V2, P368
+   Johnson NL, 2001, ADV SPACE RES, V28, P1377, DOI 10.1016/S0273-1177(01)00423-9
+   KESSLER DJ, 1981, ICARUS, V48, P39, DOI 10.1016/0019-1035(81)90151-2
+   Krisko PH, 2007, P I MECH ENG G-J AER, V221, P975, DOI 10.1243/09544100JAERO192
+   LEWIS HG, 2005, ESA PUBLICATION, P243
+   Liou JC, 2006, SCIENCE, V311, P340, DOI 10.1126/science1121337
+   Liou JC, 2004, ADV SPACE RES, V34, P981, DOI 10.1016/j.asr.2003.02.027
+   LIOU JC, 2005, P 56 INT ASTR C FUK
+   Liou J.C., 2007, P 58 INT ASTR C HYD
+   LIOU JC, 2003, P LUN PLAN SCI, V34
+   ROSSI A, 1994, J GEOPHYS RES-PLANET, V99, P23195, DOI 10.1029/94JE02320
+   TALENT DL, 1992, J SPACECRAFT ROCKETS, V29, P508, DOI 10.2514/3.25493
+   TALENT DL, 2008, P 18 AAS AIAA SPAC F
+NR 14
+TC 6
+Z9 6
+U1 1
+U2 5
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0273-1177
+J9 ADV SPACE RES
+JI Adv. Space Res.
+PD SEP 1
+PY 2009
+VL 44
+IS 5
+BP 568
+EP 578
+DI 10.1016/j.asr.2009.05.018
+PG 11
+WC Astronomy & Astrophysics; Geosciences, Multidisciplinary; Meteorology &
+   Atmospheric Sciences
+SC Astronomy & Astrophysics; Geology; Meteorology & Atmospheric Sciences
+GA 489LC
+UT WOS:000269420600004
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Lecakes, GD
+   Morris, JA
+   Schmalzel, JL
+   Mandayam, S
+AF Lecakes, George D., Jr.
+   Morris, Jonathan A.
+   Schmalzel, John L.
+   Mandayam, Shreekanth
+TI Virtual Reality Environments for Integrated Systems Health Management of
+   Rocket Engine Tests
+SO IEEE TRANSACTIONS ON INSTRUMENTATION AND MEASUREMENT
+LA English
+DT Article
+DE Automated test and diagnostic systems; human-computer interface; virtual
+   measurement systems
+ID VISUALIZATION
+AB Integrated Systems Health Management (ISHM) consists of processes managing erroneous conditions that systems may encounter during their operational life by either designing out failures early on or defending and mitigating any possible failures. A successful implementation of ISHM consists of the following four components: data sensors, computations, data sinks, and visualization modules. In this paper, we explore the use of virtual reality (VR) platforms as a candidate for developing ISHM visualization modules. VR allows for a complete and spatially accurate 3-D model of a system to be displayed in real time. It provides a medium for improved data assimilation and analysis through its core tenants of immersion, interaction, and navigation. Furthermore, VR allows for integrating graphical, functional, and measurement data in the same platform-providing for the development of subsequent risk-analysis modules. The research objectives of this paper are focused on creating a detailed visual model of a multisensor rocket engine test facility inside a VR platform and demonstrating the capability of the VR platform in integrating graphical, measurement, and health data in an immersive, navigable, and interactive manner. A human-based performance evaluation of the VR platform is also presented. These research objectives are addressed using an example of a multisensor rocket-engine portable test stand at the National Aeronautics and Space Administration (NASA) Stennis Space Center's E-3 test facility.
+C1 [Lecakes, George D., Jr.; Mandayam, Shreekanth] Rowan Univ, Dept Elect & Comp Engn, Glassboro, NJ 08028 USA.
+   [Morris, Jonathan A.; Schmalzel, John L.] NASA, Stennis Space Ctr, MS 39529 USA.
+RP Lecakes, GD (reprint author), Rowan Univ, Dept Elect & Comp Engn, Glassboro, NJ 08028 USA.
+FU National Aeronautics and Space Administration John C. Stennis Space
+   Center [NNS06AC08P]
+FX Manuscript received June 30, 2008; revised February 16, 2009. Current
+   version published August 12, 2009. This work was supported in part by
+   the National Aeronautics and Space Administration John C. Stennis Space
+   Center under Order NNS06AC08P. The Associate Editor coordinating the
+   review process for this paper was Dr. Emil Petriu.
+CR Brooks FP, 1999, IEEE COMPUT GRAPH, V19, P16, DOI 10.1109/38.799723
+   DAM D, 2002, COMPUT GRAPH-UK, V26, P535
+   Eick SG, 2000, IEEE T VIS COMPUT GR, V6, P44, DOI 10.1109/2945.841120
+   GERMANS DM, 2008, IEEE T INSTRUM MEAS, V57, P1117
+   HONG T, 1997, THESIS IOWA STATE U
+   Keim DA, 2002, IEEE T VIS COMPUT GR, V8, P1, DOI 10.1109/2945.981847
+   Koo S. O., 2006, P INT C COMP GRAPH I, P57
+   LECAKES G, 2008, P IEEE INT INSTR MEA, P388
+   Lee NS, 1996, INT J IND ERGONOM, V18, P187, DOI 10.1016/0169-8141(95)00082-8
+   Papson S, 2004, PROCEEDINGS OF THE ISA/IEEE SENSORS FOR INDUSTRY CONFERENCE, P116
+   PAPSON S, 2004, THESIS ROWAN U GLASS
+   PIERCE MJ, 1999, THESIS IOWA STATE U
+   Reitinger B, 2006, IEEE COMPUT GRAPH, V26, P36, DOI 10.1109/MCG.2006.131
+   Saddik A. E., 2008, IEEE T INSTRUM MEAS, V57, P1830, DOI 10.1109/TIM.2008.919867
+   Schmalzel J, 2005, IEEE T INSTRUM MEAS, V54, P1612, DOI 10.1109/TIM.2005.851477
+   SCHMALZEL JL, 2008, P 2008 IEEE INT INST, P522
+   Schuemie MJ, 2001, CYBERPSYCHOL BEHAV, V4, P183, DOI 10.1089/109493101300117884
+   Schulz M, 1998, IEEE COMPUT GRAPH, V18, P46, DOI 10.1109/38.734979
+   Shapiro L., 2001, COMPUTER VISION
+   Slater M, 1999, IEEE COMPUT GRAPH, V19, P6, DOI 10.1109/38.749116
+   Thurmond JB, 2005, COMPUT GEOSCI-UK, V31, P913, DOI 10.1016/j.cageo.2005.03.007
+   van Dam A, 2000, IEEE COMPUT GRAPH, V20, P26, DOI 10.1109/38.888006
+   Ware C, 1996, ACM T GRAPHIC, V15, P121, DOI 10.1145/234972.234975
+   Ware C., 2004, INFORM VISUALIZATION
+   Wright H., 2007, INTRO SCI VISUALIZAT
+NR 25
+TC 3
+Z9 3
+U1 2
+U2 6
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855 USA
+SN 0018-9456
+J9 IEEE T INSTRUM MEAS
+JI IEEE Trans. Instrum. Meas.
+PD SEP
+PY 2009
+VL 58
+IS 9
+BP 3050
+EP 3057
+DI 10.1109/TIM.2009.2016823
+PG 8
+WC Engineering, Electrical & Electronic; Instruments & Instrumentation
+SC Engineering; Instruments & Instrumentation
+GA 482PL
+UT WOS:000268901100018
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Scherrer, J
+   Carrico, J
+   Crock, J
+   Cross, W
+   DeLosSantos, A
+   Dunn, A
+   Dunn, G
+   Epperly, M
+   Fields, B
+   Fowler, E
+   Gaio, T
+   Gerhardus, J
+   Grossman, W
+   Hanley, J
+   Hautamaki, B
+   Hawes, D
+   Holemans, W
+   Kinaman, S
+   Kirn, S
+   Loeffler, C
+   McComas, DJ
+   Osovets, A
+   Perry, T
+   Peterson, M
+   Phillips, M
+   Pope, S
+   Rahal, G
+   Tapley, M
+   Tyler, R
+   Ungar, B
+   Walter, E
+   Wesley, S
+   Wiegand, T
+AF Scherrer, J.
+   Carrico, J.
+   Crock, J.
+   Cross, W.
+   DeLosSantos, A.
+   Dunn, A.
+   Dunn, G.
+   Epperly, M.
+   Fields, B.
+   Fowler, E.
+   Gaio, T.
+   Gerhardus, J.
+   Grossman, W.
+   Hanley, J.
+   Hautamaki, B.
+   Hawes, D.
+   Holemans, W.
+   Kinaman, S.
+   Kirn, S.
+   Loeffler, C.
+   McComas, D. J.
+   Osovets, A.
+   Perry, T.
+   Peterson, M.
+   Phillips, M.
+   Pope, S.
+   Rahal, G.
+   Tapley, M.
+   Tyler, R.
+   Ungar, B.
+   Walter, E.
+   Wesley, S.
+   Wiegand, T.
+TI The IBEX Flight Segment
+SO SPACE SCIENCE REVIEWS
+LA English
+DT Review
+DE IBEX; Spacecraft; Launch
+AB IBEX provides the observations needed for detailed modeling and in-depth understanding of the interstellar interaction (McComas et al. in Physics of the Outer Heliosphere, Third Annual IGPP Conference, pp. 162-181, 2004; Space Sci. Rev., 2009a, this issue). From mission design to launch and acquisition, this goal drove all flight system development. This paper describes the management, design, testing and integration of IBEX's flight system, which successfully launched from Kwajalein Atoll on October 19, 2008. The payload is supported by a simple, Sun-pointing, spin-stabilized spacecraft with no deployables. The spacecraft bus consists of the following subsystems: attitude control, command and data handling, electrical power, hydrazine propulsion, RF, thermal, and structures. A novel 3-step orbit approach was employed to put IBEX in its highly elliptical, 8-day final orbit using a Solid Rocket Motor, which provided large delta-V after IBEX separated from the Pegasus launch vehicle; an adapter cone, which interfaced between the SRM and Pegasus; Motorized Lightbands, which performed separation from the Pegasus, ejection of the adapter cone, and separation of the spent SRM from the spacecraft; a ShockRing isolation system to lower expected launch loads; and the onboard Hydrazine Propulsion System. After orbit raising, IBEX transitioned from commissioning to nominal operations and science acquisition. At every phase of development, the Systems Engineering and Mission Assurance teams supervised the design, testing and integration of all IBEX flight elements.
+C1 [Scherrer, J.; DeLosSantos, A.; Dunn, G.; Epperly, M.; Gerhardus, J.; Hanley, J.; Loeffler, C.; McComas, D. J.; Phillips, M.; Pope, S.; Tapley, M.] SW Res Inst, San Antonio, TX 78238 USA.
+   [Carrico, J.] Appl Def Solut Inc, Fulton, MD 20759 USA.
+   [Crock, J.] Alliant Techsyst Inc ATK, Elkton, MD 21921 USA.
+   [Cross, W.; Fields, B.; Gaio, T.; Grossman, W.; Hautamaki, B.; Hawes, D.; Kinaman, S.; Kirn, S.; Osovets, A.; Perry, T.; Peterson, M.; Rahal, G.; Tyler, R.; Ungar, B.; Walter, E.; Wesley, S.; Wiegand, T.] Orbital Sci, Dulles, VA 20166 USA.
+   [Dunn, A.] Comtech AeroAstro Inc, Ashburn, VA 20147 USA.
+   [Fowler, E.] CSA Engn, Mountain View, CA 94043 USA.
+   [Holemans, W.] Planetary Syst Corp, Silver Spring, MD 20190 USA.
+RP Scherrer, J (reprint author), SW Res Inst, 6220 Culebra Rd, San Antonio, TX 78238 USA.
+EM JScherrer@swri.edu
+FU NASA [NNG05EC85C]
+FX The authors would like to acknowledge and thank Ms. W. Mills of SwRI for
+   her tremendous help in compiling and editing this paper. The IBEX
+   project was funded under NASA Contract No. NNG05EC85C.
+CR McComas D, 2004, AIP CONF PROC, V719, P162
+   McComas DJ, 2009, SPACE SCI REV, V142, P157, DOI 10.1007/s11214-008-9467-4
+NR 2
+TC 9
+Z9 9
+U1 1
+U2 4
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0038-6308
+J9 SPACE SCI REV
+JI Space Sci. Rev.
+PD AUG
+PY 2009
+VL 146
+IS 1-4
+BP 35
+EP 73
+DI 10.1007/s11214-009-9514-9
+PG 39
+WC Astronomy & Astrophysics
+SC Astronomy & Astrophysics
+GA 495HL
+UT WOS:000269881300003
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Menon, PP
+   Postlethwaite, I
+   Bennani, S
+   Marcos, A
+   Bates, DG
+AF Menon, P. P.
+   Postlethwaite, I.
+   Bennani, S.
+   Marcos, A.
+   Bates, D. G.
+TI Robustness analysis of a reusable launch vehicle flight control law
+SO CONTROL ENGINEERING PRACTICE
+LA English
+DT Article
+CT IFAC Symposium on Automatic Control in Aerospace
+CY 2006
+CL Toulouse, FRANCE
+SP IFAC
+DE Hybrid optimisation; Robustness analysis; Flight control; Nonlinear
+   systems
+ID MULTIOBJECTIVE OPTIMIZATION; EVOLUTIONARY OPTIMIZATION; GENETIC
+   ALGORITHM; SEARCH; DESIGN; AIRCRAFT; MODEL
+AB This paper describes a novel optimisation-based framework for analysing the robustness of advanced flight control laws for reusable launch vehicles. The proposed analysis methods are applied and tested on an industrial-standard simulation model of a reusable launch vehicle equipped with a full authority nonlinear dynamic inversion-based flight control law. The reliability, computational complexity and efficiency of the framework are evaluated against standard industrial approaches based on Monte Carlo simulation. The results of the study show that the proposed approach has the potential to significantly improve both the reliability and efficiency of the flight clearance process for future reusable launch vehicles. (C) 2008 Elsevier Ltd. All rights reserved.
+C1 [Menon, P. P.; Postlethwaite, I.; Bates, D. G.] Univ Leicester, Control & Instrumentat Res Grp, Dept Engn, Leicester LE1 7RH, Leics, England.
+   [Bennani, S.] ESA ESTEC TEC ECN, Guidance Nav & Control Grp, NL-2201 AZ Noordwijk, Netherlands.
+   [Marcos, A.] DEIMOS Space SL, Adv Projects Div, Madrid 28760, Spain.
+RP Bates, DG (reprint author), Univ Leicester, Control & Instrumentat Res Grp, Dept Engn, Leicester LE1 7RH, Leics, England.
+EM ppm6@le.ac.uk; ixp@le.ac.uk; samir.bennani@esa.int;
+   andres.marcos@deimos-space.com; dgb3@le.ac.uk
+CR Arora R.K., 2002, 9 AIAA ISSMO S MULT
+   Hagstrom M., 2007, NONLINEAR ANAL SYNTH
+   Biannic JM, 2006, EUR J CONTROL, V12, P71, DOI 10.3166/ejc.12.71-85
+   Carter RG, 2001, OPTIM ENG, V2, P139, DOI 10.1023/A:1013123110266
+   Chernoff H., 1952, ANN MATH STAT
+   Davis L., 1991, HDB GENETIC ALGORITH
+   Deb K, 2002, IEEE T EVOLUT COMPUT, V6, P182, DOI 10.1109/4235.996017
+   FERNOW CL, 1806, ROMISCHE STUDIEN, V1, P1
+   Fielding C., 2002, ADV TECHNIQUES CLEAR
+   FINKEL DE, 2004, CRSCTR0428 NC STAT U
+   Fonseca CM, 1998, IEEE T SYST MAN CY A, V28, P38, DOI 10.1109/3468.650320
+   Fonseca CM, 1998, IEEE T SYST MAN CY A, V28, P26, DOI 10.1109/3468.650319
+   Forssell L., 2003, P AIAA GUID NAV CONT
+   GANG C, 2005, AIAA ATM FLIGHT MECH
+   Haario H, 2001, BERNOULLI, V7, P223, DOI 10.2307/3318737
+   HAJELA P, 1992, STRUCT OPTIMIZATION, V4, P99, DOI 10.1007/BF01759923
+   JONES DR, 1993, J OPTIMIZ THEORY APP, V79, P157, DOI 10.1007/BF00941892
+   Krasnogor N, 2005, IEEE T EVOLUT COMPUT, V9, P474, DOI 10.1109/TEVC.2005.850260
+   KRISHNASWAMY K, 2005, P AM CONTR C
+   Lampinen J., 1999, NEW IDEAS OPTIMIZATI, P127
+   Lobo F. G., 1996, 96009 ILLIGAL
+   *MATHWORKS, 2000, OPT TOOLB US GUID VE
+   Menon PP, 2007, CONTROL ENG PRACT, V15, P655, DOI 10.1016/j.conengprac.2006.11.015
+   Menon PP, 2006, IEEE T EVOLUT COMPUT, V10, P689, DOI 10.1109/TEVC.2006.873220
+   Pinter J., 1986, OPTIMIZATION, V17, P187, DOI 10.1080/02331938608843118
+   ROGALSKY T, 2000, P 8 ANN C COMP FLUID
+   Rogalsky T., 2000, CANADIAN AERONAUTICS, V46, P183
+   Schaffer JD, 1985, P INT C GEN ALG THEI
+   SHUBERT BO, 1972, SIAM J NUMER ANAL, V9, P379, DOI 10.1137/0709036
+   Storn R, 1997, J GLOBAL OPTIM, V11, P341, DOI 10.1023/A:1008202821328
+   Tahk MJ, 2007, ENG OPTIMIZ, V39, P87, DOI 10.1080/03052150600957314
+   Vidyasagar M, 1998, IEEE CONTR SYST MAG, V18, P69, DOI 10.1109/37.736014
+   Vrugt JA, 2007, P NATL ACAD SCI USA, V104, P708, DOI 10.1073/pnas.0610471104
+   WILLIAMS PS, 2001, AIAA20014067
+   YEN J, 1995, PR CONF ART INT APPL, P277, DOI 10.1109/CAIA.1995.378811
+   Zhu H, 2002, IEEE T MAGN, V38, P2168, DOI 10.1109/TMAG.2002.802794
+   Zwolak JW, 2005, IEE P SYST BIOL, V152, P81, DOI [10.1049/ip-syb:20045032, 10.1049/ip-sb:20045032]
+NR 37
+TC 14
+Z9 18
+U1 0
+U2 10
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0967-0661
+J9 CONTROL ENG PRACT
+JI Control Eng. Practice
+PD JUL
+PY 2009
+VL 17
+IS 7
+BP 751
+EP 765
+DI 10.1016/j.conengprac.2008.12.002
+PG 15
+WC Automation & Control Systems; Engineering, Electrical & Electronic
+SC Automation & Control Systems; Engineering
+GA 455JE
+UT WOS:000266754200002
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Ailor, W
+   Krag, H
+AF Ailor, William
+   Krag, Holger
+TI SPACE DEBRIS AND SPACE SAFETY: LOOKING FORWARD
+SO JBIS-JOURNAL OF THE BRITISH INTERPLANETARY SOCIETY
+LA English
+DT Article
+DE Space debris; orbital debris; reentry hazards; debris removal; collision
+   avoidance; space traffic control
+AB Man's activities in space are creating a shell of space debris around planet Earth which provides a growing risk of collision with operating satellites and manned systems. Including both the larger tracked objects and the small, untracked debris, more than 98% of the estimated 600,000 objects larger than 1 cm currently in orbit are "space junk"-dead satellites, expended rocket stages, debris from normal operations, fragments from explosions and collisions, and other material. Recognizing the problem, space faring nations have joined together to develop three basic principles for minimizing the growth of the debris population: prevent on-orbit breakups, remove spacecraft and orbital stages that have reached the end of their mission operations from the useful densely populated orbit regions, and limit the objects released during normal operations. This paper provides an overview of what is being done to support these three principles and describes proposals that an active space traffic control service to warn satellite operators of pending collisions with large objects combined with a program to actively remove large objects may reduce the rate of future collisions. The paper notes that cost and cost effectiveness are important considerations that will affect the evolution of such systems.
+C1 [Ailor, William] Aerosp Corp, El Segundo, CA 90245 USA.
+   [Krag, Holger] European Space Agcy, European Space Operat Ctr, D-64293 Darmstadt, Germany.
+RP Ailor, W (reprint author), Aerosp Corp, 2350 E El Segundo Blvd, El Segundo, CA 90245 USA.
+EM william.h.ailor@aero.org; holger.krag@esa.int
+CR AILOR WH, 2008, INT ASS ADV SPAC SAF
+   BUTLER A, AVIATION WEEK SPACE
+   DALBELLO R, 2008, INT ASS ADV SPAC SAF
+   Inter-Agency Space Debris Coordination Committee, 2007, IADC0201
+   Liou JC, 2008, ACTA ASTRONAUT, V62, P264, DOI 10.1016/j.actaastro.2006.12.030
+   LIOU JC, 2008, 26 IADC M 14 17 APR
+   PATERA RP, 2006, 2 INT ASS ADV SPAC S
+NR 7
+TC 1
+Z9 1
+U1 1
+U2 14
+PU BRITISH INTERPLANETARY SOC
+PI LONDON
+PA 27-29 S LAMBETH RD, LONDON SW8 1SZ, ENGLAND
+SN 0007-084X
+J9 JBIS-J BRIT INTERPLA
+JI JBIS-J. Br. Interplanet. Soc.
+PD JUL-AUG
+PY 2009
+VL 62
+IS 7-8
+BP 261
+EP 264
+PG 4
+WC Engineering, Aerospace; Astronomy & Astrophysics; Geosciences,
+   Multidisciplinary
+SC Engineering; Astronomy & Astrophysics; Geology
+GA 532XR
+UT WOS:000272784200005
+OA No
+DA 2017-09-27
+ER
+
+EF
+
+PT J
+AU Stabroth, S
+   Homeister, M
+   Oswald, M
+   Wiedemann, C
+   Klinkrad, H
+   Vorsmann, P
+AF Stabroth, Sebastian
+   Homeister, Maren
+   Oswald, Michael
+   Wiedemann, Carsten
+   Klinkrad, Heiner
+   Voersmann, Peter
+TI The influence of solid rocket motor retro-burns on the space debris
+   environment
+SO ADVANCES IN SPACE RESEARCH
+LA English
+DT Article; Proceedings Paper
+CT 50th Conference of the Committee-on-the-Peaceful-Uses-of-Outer-Space
+CY JUN 06-15, 2007
+CL Vienna, AUSTRIA
+SP Comm Peaceful Uses Outer Space
+DE solid rocket motor; retro-firing; Zenit; Yantar; Orlets; LDEF
+AB The ESA space debris population model MASTER (Meteoroid and Space Debris Terrestrial Environment Reference) considers firings of solid rocket motors (SRM) as a debris source with the associated generation of slag and dust particles. The resulting slag and dust population is a major contribution to the sub-millimetre size debris environment in Earth orbit. The current model version, MASTER-2005, is based on the simulation of 1076 orbital SRM firings which contributed to the long-term debris environment. A comparison of the modelled flux with impact data from returned surfaces shows that the shape and quantity of the modelled SRM dust distribution matches that of recent Hubble Space Telescope (HST) solar array measurements very well. However, the absolute flux level for dust is under-predicted for some of the analysed Long Duration Exposure Facility (LDEF) surfaces. This points into the direction of some past SRM firings not included in the current event database. The most suitable candidates for these firings are the large number of SRM retro-burns of return capsules. Objects released by those firings have highly eccentric orbits with perigees in the lower regions of the atmosphere. Thus, they produce no long-term effect on the debris environment. However, a large number of those firings during the on-orbit time frame of LDEF might lead to an increase of the dust population for some of the LDEF surfaces. In this paper, the influence of SRM retro-burns on the short- and long-term debris environment is analysed. The existing firing database is updated with gathered information of some 800 Russian retro-firings. Each firing is simulated with the MASTER population generation module. The resulting population is compared against the existing background population of SRM slag and dust particles in terms of spatial density and flux predictions. (C) 2006 COSPAR. Published by Elsevier Ltd. All rights reserved.
+C1 [Stabroth, Sebastian; Homeister, Maren; Oswald, Michael; Wiedemann, Carsten; Voersmann, Peter] Tech Univ Carolo Wilhelmina Braunschweig, Inst Aerosp Syst, D-38108 Braunschweig, Germany.
+   [Klinkrad, Heiner] ESA, ESOC, Space Debris Off, D-64293 Darmstadt, Germany.
+RP Stabroth, S (reprint author), Tech Univ Carolo Wilhelmina Braunschweig, Inst Aerosp Syst, Hermann Blenk Str 23, D-38108 Braunschweig, Germany.
+EM s.stabroth@tu-bs.de
+CR Clark PS, 2002, JBIS-J BRIT INTERPLA, V55, P21
+   CLARK PS, 2001, JBIS, V54, P344
+   HORZ F, 2002, SPACE DEBRIS, V2, P51
+   KOZLOV DI, 1996, KONSTRUIROVANIE AVTO, P418
+   MCDONNELL JAM, 1992, HYPERVELOCITY IMPACT, P39
+   OSWALD M, 2006, UPGRADE MASTER MODEL, P54
+   SCHOBERT D, 1996, ALUMINIUMOXID BELAST
+   SOROKIN V, 1997, YANTARNAYA ISTORIYA
+   Wade M, ENCY ASTRONAUTICA
+   Wegener P, 1999, ADV SPACE RES, V23, P161, DOI 10.1016/S0273-1177(98)00242-7
+   1998, METEOROID DEBRIS FLU
+   2005, POSTFLIGHT IMPACT AN
+NR 12
+TC 1
+Z9 1
+U1 0
+U2 3
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0273-1177
+J9 ADV SPACE RES
+JI Adv. Space Res.
+PY 2008
+VL 41
+IS 7
+BP 1054
+EP 1062
+DI 10.1016/j.asr.2006.12.024
+PG 9
+WC Astronomy & Astrophysics; Geosciences, Multidisciplinary; Meteorology &
+   Atmospheric Sciences
+SC Astronomy & Astrophysics; Geology; Meteorology & Atmospheric Sciences
+GA 283ZV
+UT WOS:000254675900008
+OA No
+DA 2017-09-27
+ER
+
+
+PT S
+AU Marshall, DB
+   Cox, BN
+AF Marshall, David B.
+   Cox, Brian N.
+TI Integral textile ceramic structures
+SO ANNUAL REVIEW OF MATERIALS RESEARCH
+SE Annual Review of Materials Research
+LA English
+DT Review; Book Chapter
+DE heat exchangers; woven preforms; three-dimensional reinforcement
+ID MATRIX COMPOSITES; COMBUSTOR; INFILTRATION; ARCHITECTURE; PYROLYSIS; RIG
+AB A new paradigm for ceramic composite structural components enables functionality in heat exchange, transpiration, detailed shape, and thermal strain management that significantly exceeds the prior art. The paradigm is based on the use of three-dimensional fiber reinforcement that: is tailored to the specific shape, stress, and thermal requirements of a structural application and therefore generally requires innovative textile methods for each real-features include the attainment of thin skins (less than 1 mm) that are nevertheless structurally robust, transpiration holes formed without cutting fibers, double curvature, compliant integral attachment to other structures that avoids thermal stress buildup, and microcomposite ceramic matrices that minimize spalling and allow the formation of smooth surfaces. All these features can be combined into structures of very varied gross shape and function, using a wide range of materials such as all-oxide systems and SiC and carbon fibers in SiC matrices. Illustrations are drawn from rocket nozzles, thermal protection systems, and gas turbine engines. The new den challenges that arise for such material/structure systems are being met by specialized computational modeling that departs significantly in the representation of materials behavior from that used in conventional finite element methods.
+C1 [Marshall, David B.; Cox, Brian N.] Teledyne Sci Co, Thousand Oaks, CA 91360 USA.
+RP Cox, BN (reprint author), Teledyne Sci Co, Thousand Oaks, CA 91360 USA.
+EM dmarshall@teledyne.com; bcox@teledyne.com
+CR Berbon MZ, 2002, J AM CERAM SOC, V85, P2039
+   Berbon MZ, 2001, J AM CERAM SOC, V84, P2229
+   BESSMAN TM, 1991, SCIENCE, V253, P1104
+   Corman GS, 2002, J ENG GAS TURB POWER, V124, P459, DOI 10.1115/1.1455637
+   Cox BN, 2005, J PROPUL POWER, V21, P314, DOI 10.2514/1.11010
+   COX BN, 2006, F3361502C5221 TEL SC, P36102
+   COX BN, 2003, INT SAMPE TECH C 35, P36102
+   COX BN, 2002, ASME TURBOEXPO 2002, P36102
+   Davis JB, 1999, COMPOS PART A-APPL S, V30, P483, DOI 10.1016/S1359-835X(98)00138-9
+   Davis JB, 2000, J EUR CERAM SOC, V20, P583, DOI 10.1016/S0955-2219(99)00256-3
+   DAVIS JB, 2000, AIAA SPAC C EXP LONG, P36102
+   Hsu KY, 1998, J PROPUL POWER, V14, P57, DOI 10.2514/2.5266
+   INCROPERA FP, 1996, INTRO HEAT TRANSFER, P36102
+   INTERRANTE LV, 1995, HIGH TEMPERATURE CER, P111
+   KO FK, 1989, AM CERAM SOC BULL, V68, P401
+   Marshall DB, 2001, CURR OPIN SOLID ST M, V5, P283, DOI 10.1016/S1359-0286(01)00017-1
+   MARSHALL DB, 2006, F336150272257 TEL SC, P36102
+   MARSHALL DB, 2006, NAS800141 J NASA TEL, P36102
+   MARSHALL DB, 2001, F3361597C5288 IHPRPT, P36102
+   Mattoni MA, 2005, INT J APPL CERAM TEC, V2, P133, DOI 10.1111/j.1744-7402.2005.02015.x
+   Morscher GN, 2005, J AM CERAM SOC, V88, P146, DOI 10.1111/j.1551-2916.2004.00029.x
+   Morscherz GN, 2006, J AM CERAM SOC, V89, P1652, DOI 10.1111/j.1551-2916.2006.00939.x
+   NAKANO K, 1995, J AM CERAM SOC, V78, P2811, DOI 10.1111/j.1151-2916.1995.tb08058.x
+   NASLAIN R, 1981, REV CHIM MINER, V18, P544
+   Naslain R., 1990, HIGH TEMP SCI, V27, P221
+   Parthasarathy TA, 2005, INT J APPL CERAM TEC, V2, P122, DOI 10.1111/j.1744-7402.2005.02014.x
+   ROQUEMORE WM, 2001, AIAA J, P483
+   Takeda M, 1999, J AM CERAM SOC, V82, P1579
+   TIMOSHENKO SP, 2005, STRENGHT MAT, P36102
+   Yang QD, 2005, J AM CERAM SOC, V88, P719, DOI 10.1111/j.1551-2916.2005.00156.x
+   ZOK FW, 2006, J AM CERAM SOC, V89, P309
+   Cox BN, 2002, U.S. Patent, Patent No. [6,418,973 B1, 6418973]
+NR 32
+TC 43
+Z9 43
+U1 1
+U2 36
+PU ANNUAL REVIEWS
+PI PALO ALTO
+PA 4139 EL CAMINO WAY, PO BOX 10139, PALO ALTO, CA 94303-0139 USA
+SN 1531-7331
+BN 978-0-8243-1738-6
+J9 ANNU REV MATER RES
+JI Ann. Rev. Mater. Res.
+PY 2008
+VL 38
+BP 425
+EP 443
+DI 10.1146/annurev.matsci.38.060407.130214
+PG 19
+WC Materials Science, Multidisciplinary
+SC Materials Science
+GA 336AS
+UT WOS:000258337300018
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Adimurthy, V
+   Prasad, MYS
+   Shivakumar, SK
+AF Adimurthy, V.
+   Prasad, M. Y. S.
+   Shivakumar, S. K.
+TI Space mission planning and operations
+SO CURRENT SCIENCE
+LA English
+DT Article
+DE spacecraft operations; launch vehicle mission; mission constraints;
+   lunar trajectory design; ground stations; control centre; space debris
+   mitigation
+ID DEBRIS; INDIA
+AB Indian Space Research Organization successfully carried out more than 40 space missions, during the last four decades, in the area of space sciences, spacecraft technologies, space applications and launch vehicle technologies. Mission planning and mission design are the most important multi-disciplinary elements in realizing these objectives. The present article describes the methodology followed in mission planning and mission design for different types of space missions of ISRO, bringing out the trade-off and inter-disciplinary nature of these activities. Important aspects of mission planning in the lift-off phase, the atmospheric and exoatmospheric phases of a launch vehicle are described. A number of conflicting mission constraints have to be addressed in designing an optimal and robust mission profile for the launch. In addition to reducing aerodynamic and structural loads, considerations related to flight safety and ground station visibility are important parameters. Special launch considerations are to be addressed in designing trajectories for lunar or planetary missions. Launch phase would extend up to injection of the spacecraft in the desired orbit. Thereupon, the spacecraft mission operations are divided into initial phase and operational phase. Initial orbital phase operations include, orbit raising and acquisition operations, and testing of the payloads. The operational phase of spacecraft mission covers, satellite health monitoring and maintenance, station keeping, special operations on the spacecraft, trend analysis and any contingency operations, all leading to gainful utilization of the satellite. A number of mission operations also have now become imperative for mitigating the detrimental effects of ever increasing space debris.
+C1 [Prasad, M. Y. S.] SATCOM & IT Appl Area, Ctr Space Applicat, Ahmadabad 380015, Gujarat, India.
+   [Adimurthy, V.] ISRO PO, Vikram Sarabhai Space Ctr, Trivandrum 695022, Kerala, India.
+   [Shivakumar, S. K.] ISRO, ISTRAC Ctr, Bangalore 560058, Karnataka, India.
+RP Prasad, MYS (reprint author), SATCOM & IT Appl Area, Ctr Space Applicat, Ambawadi Vistar PO,Jodhpur Tekra, Ahmadabad 380015, Gujarat, India.
+EM mys@sac.isro.gov.in
+CR ADIMURTHY V, 1987, ACTA ASTRONAUT, V15, P845, DOI 10.1016/0094-5765(87)90039-7
+   Adimurthy V, 2005, J EARTH SYST SCI, V114, P711, DOI 10.1007/BF02715954
+   Adimurthy V, 2006, ACTA ASTRONAUT, V58, P168, DOI 10.1016/j.actaastro.2005.09.002
+   *INT TEL UN, 1998, RAD REG
+   *ISRO, SAT OP DOC MAST CONT
+   *ISRO, MISS OP DOC GEOS PRO
+   Prasad MYS, 2005, SPACE POLICY, V21, P243, DOI 10.1016/j.spacepol.2005.08.010
+   Ramanan RV, 2005, J GUID CONTROL DYNAM, V28, P217, DOI 10.2514/1.7607
+   Richharia M., 1999, SATELLITE COMMUNICAT
+   SOOP EM, 1994, HDB GEOSTATIONARY OR
+   VLADMIR AC, 1996, ORBITAL MECH
+   2007, CHANDRAYAAN 1 GROUND
+   2007, CHANDRAYAAN 1 MISSIO
+   2006, ASTROSAT MISSION PDR
+NR 14
+TC 1
+Z9 1
+U1 1
+U2 5
+PU CURRENT SCIENCE ASSOC
+PI BANGALORE
+PA C V RAMAN AVENUE, PO BOX 8005, BANGALORE 560 080, INDIA
+SN 0011-3891
+J9 CURR SCI INDIA
+JI Curr. Sci.
+PD DEC 25
+PY 2007
+VL 93
+IS 12
+BP 1791
+EP 1811
+PG 21
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 249SJ
+UT WOS:000252249700026
+OA gold
+DA 2017-09-27
+ER
+
+
+PT J
+AU Hertzfeld, HR
+   Williamson, RA
+   Peter, N
+AF Hertzfeld, Henry R.
+   Williamson, Ray A.
+   Peter, Nicolas
+TI The relevance of economic data in the decision-making process for
+   orbital launch vehicle programs, a US perspective
+SO ACTA ASTRONAUTICA
+LA English
+DT Article
+AB Over the past fifteen years, major U.S. initiatives for the development of new launch vehicles have been remarkably unsuccessful. The list is long: NLI, SLI, and X-33. not to mention several cancelled programs aimed at high speed airplanes (NASP, HSCT) which would share some similar technological problems. The economic aspects of these programs are equally as important to their success as are the technical aspects. In fact, by largely ignoring economic realities in the decisions to undertake these programs and in subsequent management decisions, space agencies (and their commercial partners) have inadvertently contributed to the eventual demise of these efforts. The transportation revolution that was envisaged by the promises of these programs has never occurred. Access to space is still very expensive; reliability of launch vehicles has remained constant over the years; and market demand has been relatively low, volatile and slow to develop. The changing international context of the industry (launching overcapacity, etc.) has also worked against the investment in new vehicles in the U.S. Today, unless there are unforeseen technical breakthroughs, orbital space access is likely to continue as it has been with high costs and market stagnation. Space exploration will require significant launching capabilities. The details of the future needs are not yet well defined. But, the question of the launch costs, the overall demand for vehicles, and the size and type of role that NASA will play in the overall launch market is likely to influence the industry. This paper will emphasize the lessons learned from the economic and management perspective from past launch programs, analyze the issues behind the demand for launches, and project the challenges that NASA will face as only one new customer in a very complex market situation. It will be important for NASA to make launch vehicle decisions based as much on economic considerations as it does on solving new technical challenges. (c) 2007 Elsevier Ltd. All rights reserved.
+C1 George Washington Univ, Inst Space Policy, Washington, DC 20052 USA.
+RP Hertzfeld, HR (reprint author), George Washington Univ, Inst Space Policy, Washington, DC 20052 USA.
+EM hrh@gwu.edu; rayw@awu.edu; nicolas@gwu.edu
+CR BROWN W, 1977, NASW2924 NASA
+   *CHAS EC ASS INC, 1976, NASW2741
+   *CSTC ALL, 1994, COMM SPAC TRANSP STU
+   *FED AV ADM, 2004, COMM SPAC TRANSP Q L
+   *FED AV ADM, 2004, EC IMP COMM SPAC TRA
+   *FED AV ADM, 1997, COMM SPAC TRANSP Q L
+   *FED AV ADM, 1998, COMM SPAC TRANSP Q L
+   *FED AV ADM, 2003, US COMM SPAC TRANSP
+   *FED AV ADM, 2004, US COMM SPAC TRANSP
+   *FUTR CORP, 2005, DECL US ROL COMM LAU
+   ISAKOWITZ S, 2003, INT REFERENCE GUIDE
+   LANE C, 2001, X33 PROGRAM CASE STU
+   *SCI APPL INC, 1978, NASA32197
+   *US C CONGR BUDG O, 2004, BUDG AN NASAS NEW VI
+NR 14
+TC 1
+Z9 1
+U1 0
+U2 1
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0094-5765
+J9 ACTA ASTRONAUT
+JI Acta Astronaut.
+PD DEC
+PY 2007
+VL 61
+IS 11-12
+BP 1076
+EP 1084
+DI 10.1016/j.actaastro.2006.12.015
+PG 9
+WC Engineering, Aerospace
+SC Engineering
+GA 238RW
+UT WOS:000251466300013
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Johnson, NL
+AF Johnson, N. L.
+TI Developments in space debris mitigation policy and practices
+SO PROCEEDINGS OF THE INSTITUTION OF MECHANICAL ENGINEERS PART G-JOURNAL OF
+   AEROSPACE ENGINEERING
+LA English
+DT Article
+DE space debris; mitigation; policy
+AB Since the American Institute of Aeronautics and Astronautics issued the first position paper on space debris 25 years ago, recognition of the threats posed by debris in Earth orbit and the need to act now to protect the future space environment have become widespread. This new awareness has been matched with positive actions by spacecraft and launch vehicle designers, manufacturers, and operators. As a result, a common set of space debris mitigation policies and practices has been forming at both the national and international levels.
+C1 NASA, Johnson Space Ctr, Washington, DC 20546 USA.
+RP Johnson, NL (reprint author), NASA, Johnson Space Ctr, Washington, DC 20546 USA.
+EM nicholas.l.johnson@nasa.gov
+NR 0
+TC 5
+Z9 5
+U1 0
+U2 1
+PU PROFESSIONAL ENGINEERING PUBLISHING LTD
+PI WESTMINISTER
+PA 1 BIRDCAGE WALK, WESTMINISTER SW1H 9JJ, ENGLAND
+SN 0954-4100
+J9 P I MECH ENG G-J AER
+JI Proc. Inst. Mech. Eng. Part G-J. Aerosp. Eng.
+PD DEC
+PY 2007
+VL 221
+IS G6
+BP 907
+EP 909
+DI 10.1243/09544100JAERO166
+PG 3
+WC Engineering, Aerospace; Engineering, Mechanical
+SC Engineering
+GA 246YM
+UT WOS:000252044300002
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Anilkumar, AK
+   Ananthasayanam, MR
+   Rao, PVS
+AF Anilkumar, A. K.
+   Ananthasayanam, M. R.
+   Rao, P. V. Subba
+TI A constant gain Kalman filter approach for the prediction of re-entry of
+   risk objects
+SO ACTA ASTRONAUTICA
+LA English
+DT Article
+AB The accurate estimation of the predicted re-entry time of decaying space debris objects is very important for proper planning of mitigation strategies and hazard assessment. This paper highlights the implementation strategies adopted for the online re-entry prediction using Kalman filter approach with constant gains with the states being the semi-major axis, eccentricity and ballistic coefficient and using the measurements of the apogee height and perigee height derived from the Two Line Elements provided by agencies like USSPACECOM. Only a very simple model is utilised for the orbit propagation and a basic feature of the present approach is that any unmodellable state and measurement errors can be accounted for by adjusting the Kalman gains which are chosen based on a suitable cost function. In this paper we provide the details of validating this approach by utilising three re-entries of debris objects, namely, US Sat. No. 25947, SROSS-C2 Satellite and COSMOS 1043 rocket body. These three objects re-entered the Earth's atmosphere on 4th March 2000, 12th July 2001 and 19th January 2002, respectively. (C) 2007 Elsevier Ltd. All rights reserved.
+C1 Indian Space Res Org, Vikram Sarabhai Space Ctr, Trivandrum 695022, Kerala, India.
+   Indian Inst Sci, Dept Aerosp Engn, Bangalore 560012, Karnataka, India.
+   Indian Space Res Org, Vikram Sarabhai Space Ctr, Div Appl Math, Trivandrum 695022, Kerala, India.
+RP Anilkumar, AK (reprint author), Indian Space Res Org, Vikram Sarabhai Space Ctr, Trivandrum 695022, Kerala, India.
+EM anilk_ak@yahoo.com; sayanam@aero.iisc.ernet.in; pulipakasrao@yahoo.co.in
+CR Ananthasayanam MR, 2006, J SPACECRAFT ROCKETS, V43, P1271, DOI 10.2514/1.19623
+   ANILKUMAR AK, 2003, AIAA20035393
+   ANILKUMAR AK, 2004, THESIS INDIAN I SCI
+   DEB K, 1995, OPTIMIZATION ENG DES
+   Gelb A., 1974, APPL OPTIMAL ESTIMAT
+   GEMSON RMO, 1991, THESIS INDIAN I SCI
+   GEMSON RMO, 1998, AIAA984153
+   HEDIN AE, 1987, J GEOPHYS RES, V92, P4649, DOI 10.1029/JA092iA05p04649
+   Johnson N. L., 1987, ARTIFICIAL SPACE DEB
+   King-Hele D. G., 1987, SATELLITE ORBITS ATM
+   MYERS KA, 1976, IEEE T AUTOMAT CONTR, V21, P520, DOI 10.1109/TAC.1976.1101260
+   Philip NK, 2003, ACTA ASTRONAUT, V52, P511, DOI 10.1016/S0094-5765(02)00125-X
+   PHILIP NK, 1995, 95 IND I SCI DEP AER
+   SORENSON HW, 1970, IEEE SPECTRUM, V7, P63
+   Sugiyama N, 2000, J ENG GAS TURB POWER, V122, P19, DOI 10.1115/1.483172
+   *US STAND ATM, 1976, NOAA NASA USAF
+   Vallado D. A., 2001, FUNDAMENTALS ASTRODY
+   Whitley L.D., 1993, FDN GENETIC ALGORITH
+   WHITTEN RC, 1990, AIAAG0031988
+NR 19
+TC 6
+Z9 6
+U1 0
+U2 3
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0094-5765
+J9 ACTA ASTRONAUT
+JI Acta Astronaut.
+PD NOV
+PY 2007
+VL 61
+IS 10
+BP 831
+EP 839
+DI 10.1016/j.actaastro.2007.01.063
+PG 9
+WC Engineering, Aerospace
+SC Engineering
+GA 224EY
+UT WOS:000250431500003
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Mallek, SB
+   Prather, TS
+   Stapleton, JJ
+AF Mallek, Susan B.
+   Prather, Timothy S.
+   Stapleton, James J.
+TI Interaction effects of Allium spp. residues, concentrations and soil
+   temperature on seed germination of four weedy plant species
+SO APPLIED SOIL ECOLOGY
+LA English
+DT Article
+DE Allium cepa; Allium sativa; biofumigation; Echinochloa crus-galli;
+   Portulaca oleracea; Sisymbrium irio; Solanum nigrum; solarization
+ID SCLEROTIUM CEPIVORUM BERK; MELOIDOGYNE-INCOGNITA; FUNGAL GROWTH; ONION;
+   AMENDMENTS; SOLARIZATION; INHIBITION; EXTRACTS; ROTATION; ROLFSII
+AB Soil in laboratory microcosm experiments was amended with dried and milled crop residues of onion (Allium cepa L. cv. Mission) or garlic (A. sativa L. cv. California Early). The amendments, along with the additional factors of amendment concentration (0, 1 or 3% (w/w)) and soil temperature (23 or 39 degrees C), were evaluated with respect to germination of seeds of the weedy annual plants Echinochloa crus-galli (L.) Beauv. (barnyard grass), Portulaca oleracea L. (common purslane), Sisymbrium irio L. (London rocket) and Solanum nigrum L. (black nightshade). Deleterious effects of seed exposure to 39 degrees C versus 23 degrees C were demonstrated in ECHCG, POROL, and SSYIR; and to increasing amendment concentration and the [concentration x temperature] interaction in all four plant species tested (P < 0.05). The effect of garlic versus onion amendment was significant only in SOLNI, where garlic residues demonstrated more herbistatic and/or herbicidal activity. The results of these experiments showed that the garlic and onion plant residues were capable of causing significant reductions in seed germination during their decomposition in soil, but only at elevated (39 degrees C versus 23 degrees C) soil temperature. At the agricultural level, activity of these residues could be exploited as a component of integrated weed management using appropriate crop sequencing, and may extend utility of soil heating treatments (e.g. solarization) for weed control to cooler climates or seasons, or for shorter treatment durations. (c) 2007 Elsevier B.V. All rights reserved.
+C1 Univ Calif, Kearney Agr Ctr, Statewide Integrated Pest Management Program, Parlier, CA 93648 USA.
+   Univ Idaho, Dept Plant Soil & Entomol Sci, Moscow, ID 83844 USA.
+RP Stapleton, JJ (reprint author), Univ Calif, Kearney Agr Ctr, Statewide Integrated Pest Management Program, 9240 S Riverbend Ave, Parlier, CA 93648 USA.
+EM jim@uckac.edu
+RI Prather, Timothy /B-2997-2012
+OI Stapleton, James/0000-0002-3571-1115; Prather,
+   Timothy/0000-0003-3464-7577
+CR AGRAWAL P, 1978, T BRIT MYCOL SOC, V70, P439
+   Bianchi A, 1997, PLANT DIS, V81, P1241, DOI 10.1094/PDIS.1997.81.11.1241
+   Clarkson JP, 2006, PLANT PATHOL, V55, P375, DOI 10.1111/j.1356-3059.2006.01389.x
+   COLEYSMI.JR, 1969, ANN APPL BIOL, V64, P289, DOI 10.1111/j.1744-7348.1969.tb02879.x
+   DAHLQUIST RM, 2007, IN PRESS WEED SCI, V55, DOI DOI 10.1614/WS-04-178
+   EGLEY GH, 1990, WEED SCI, V38, P429
+   ELMORE CL, 1991, FAO PLANT P, V109, P129
+   Fennimore SA, 2003, WEED TECHNOL, V17, P42, DOI 10.1614/0890-037X(2003)017[0042:OAATEO]2.0.CO;2
+   Gamliel A, 1997, PHYTOPARASITICA, V25, pS31, DOI 10.1007/BF02980329
+   GAMLIEL A, 1993, PHYTOPATHOLOGY, V83, P899, DOI 10.1094/Phyto-83-899
+   Hao JJ, 2003, PLANT DIS, V87, P159, DOI 10.1094/PDIS.2003.87.2.159
+   Hartz TK, 2005, HORTSCIENCE, V40, P2016
+   International Seed Testing Association, 1985, SEED SCI TECHNOL, V13, P356
+   Jones MG, 2004, J EXP BOT, V55, P1903, DOI 10.1093/jxb/erh138
+   KALLIO H, 1990, J AGR FOOD CHEM, V38, P1560, DOI 10.1021/jf00097a029
+   KING JE, 1968, ANN APPL BIOL, V61, P407, DOI 10.1111/j.1744-7348.1968.tb04542.x
+   NATH A, 1982, NEMATOLOGICA, V28, P253
+   Ploeg AT, 2001, NEMATOLOGY, V3, P855, DOI 10.1163/156854101753625353
+   RAMIREZVILLAPUDUA J, 1988, PHYTOPATHOLOGY, V78, P289
+   RUBIN B, 1984, WEED SCI, V32, P138
+   SINGH HB, 1980, MYCOLOGIA, V72, P1022, DOI 10.2307/3759741
+   Stapleton J. J., 2005, California Agriculture, V59, P84
+   Stapleton JJ, 1998, PLANT PATHOL, V47, P737
+   Stapleton JJ, 2002, HORTTECHNOLOGY, V12, P697
+   STAPLETON JJ, 1998, SOIL SOLARIZATION IN, V147, P78
+   TANSEY MR, 1975, MYCOLOGIA, V67, P409, DOI 10.2307/3758431
+   TAYLORSON RB, 1970, WEED SCI, V18, P265
+   TIMONIN MI, 1950, SOIL SCI SOC AM P, P186
+   Verdu AMC, 2004, SEED SCI TECHNOL, V32, P297
+   ZEIDAN O, 1986, PLANT DIS, V70, P426, DOI 10.1094/PD-70-426
+NR 30
+TC 15
+Z9 15
+U1 0
+U2 7
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0929-1393
+J9 APPL SOIL ECOL
+JI Appl. Soil Ecol.
+PD NOV
+PY 2007
+VL 37
+IS 3
+BP 233
+EP 239
+DI 10.1016/j.apsoil.2007.07.003
+PG 7
+WC Soil Science
+SC Agriculture
+GA 227OR
+UT WOS:000250668000007
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Ning, GD
+   Zhang, SG
+   Fang, ZP
+AF Ning Guo-dong
+   Zhang Shu-guang
+   Fang Zhen-ping
+TI Integrated entry guidance for reusable launch vehicle
+SO CHINESE JOURNAL OF AERONAUTICS
+LA English
+DT Article
+DE guidance; trajectory generation; entry; onboard; constraint; robustness
+ID TRAJECTORIES
+AB A method for the implementation of integrated three-degree-of-freedom constrained entry guidance for reusable launch vehicle is presented. Given any feasible entry conditions, terminal area energy management interface conditions, and the reference trajectory generated onboard then, the method can generate a longitudinal guidance profile rapidly, featuring linear quadratic regular method and a proportional-integral-derivative tracking law with time-varying gains, which satisfies all the entry corridor constraints and meets the requirements with high precision. Afterwards, by utilizing special features of crossrange parameter, establishing bank-reversal corridor, and determining bank-reversals according to dynamically adjusted method, the algorithm enables the lateral entry guidance system to fly a wide range of missions and provides reliable and good performance in the presence of significant aerodynamic modeling uncertainty. Fast trajectory guidance profiles and simulations with a reusable launch vehicle model for various missions and aerodynamic uncertainties are presented to demonstrate the capacity and reliability of this method.
+C1 [Ning Guo-dong; Zhang Shu-guang; Fang Zhen-ping] Beijing Univ Aeronaut & Astronaut, Sch Aeronaut Sci & Technol, Beijing 100083, Peoples R China.
+RP Ning, GD (reprint author), Beijing Univ Aeronaut & Astronaut, Sch Aeronaut Sci & Technol, Beijing 100083, Peoples R China.
+EM Orlando@ase.buaa.edu.cn
+CR Dukeman G.A., 2002, 20024457 AIAA
+   FUHRY DP, 1999, 994211 AIAA
+   HARPOLD JC, 1979, J ASTRONAUT SCI, V27, P239
+   Lu P, 1999, J GUID CONTROL DYNAM, V22, P784, DOI 10.2514/2.4479
+   Mease KD, 2002, J GUID CONTROL DYNAM, V25, P257, DOI 10.2514/2.4906
+   Shen ZJ, 2004, J GUID CONTROL DYNAM, V27, P949, DOI 10.2514/1.8008
+   Shen ZJ, 2003, J GUID CONTROL DYNAM, V26, P111, DOI 10.2514/2.5021
+   TSIKALAS GM, 1982, 821604 AIAA
+NR 8
+TC 4
+Z9 5
+U1 1
+U2 4
+PU PRESS AAAS
+PI BEIJING
+PA 37 XUEYAN RD, HAIDAN DISTRICT, BEIJING, 100083, PEOPLES R CHINA
+SN 1000-9361
+J9 CHINESE J AERONAUT
+JI Chin. J. Aeronaut.
+PD FEB
+PY 2007
+VL 20
+IS 1
+BP 1
+EP 8
+DI 10.1016/S1000-9361(07)60001-6
+PG 8
+WC Engineering, Aerospace
+SC Engineering
+GA 290UD
+UT WOS:000255147000001
+OA gold
+DA 2017-09-27
+ER
+
+
+PT J
+AU McNab, IR
+   Candler, GV
+   Barbee, CS
+AF McNab, I. R.
+   Candler, G. V.
+   Barbee, C. S.
+TI Projectile nosetip thermal management for railgun launch to space
+SO IEEE TRANSACTIONS ON MAGNETICS
+LA English
+DT Article; Proceedings Paper
+CT 13th International Symposium on Electromagnetic Launch Technology
+CY MAY 22-25, 2006
+CL Berlin, GERMANY
+SP European Electromagnet Launch Soc, Inst Adv Technol, Univ Texas Austin
+DE launch to space; projectile nosetip; railgun; thermal management
+AB A major issue in achieving direct launch to space using electromagnetic railguns from the surface of the earth is that we are at the bottom of a gravity well, requiring very high launch velocities to achieve orbit insertion. The atmosphere is most dense at the earth's surface-this, combined with high velocity, leads to very stressing thermal conditions for the launch aerobody. To minimize aerodynamic losses, a typical hypersonic flight body is a blunt slender cone. The thermal loads are greatest on the nosetip of this cone, and for small bodies (< 10 kg) the thermal loads may exceed the capabilities of present passive thermal protection systems, such as dense, ablative carbon phenolics. Even for launch from a high-altitude airborne platform, aerothermal loads can be considerable unless rocket assist is provided. This paper discusses aspects of the launch package and characteristics of the railgun needed to achieve orbit insertion velocities.
+C1 Univ Texas, Inst Adv Technol, Austin, TX 78712 USA.
+   Univ Minnesota, Minneapolis, MN 55455 USA.
+RP McNab, IR (reprint author), Univ Texas, Inst Adv Technol, Austin, TX 78712 USA.
+EM ian_mcnab@iat.utexas.edu
+CR ANDERSON JD, 1989, HYPERSONIC HIGH TEMP, P289
+   Chen YK, 1999, J SPACECRAFT ROCKETS, V36, P475, DOI 10.2514/2.3469
+   KEENAN JA, 1993, 19932789 AIAA
+   KEENAN JA, 1994, THESIS N CAROLINA ST
+   Candler G. V., 1994, 19942083 AIAA
+   McNab IR, 2003, IEEE T MAGN, V39, P295, DOI 10.1109/TMAG.2002.805923
+   Nompelis I., 2004, 20042227 AIAA
+   PALMER MR, 1989, IEEE T MAGN, V25, P393, DOI 10.1109/20.22570
+   Sullivan J. M., 1987, 19871516 AIAA
+   WOOL MR, 1975, SAMSOTR75250 RSSE
+   Wright MJ, 1998, AIAA J, V36, P1603, DOI 10.2514/2.586
+NR 11
+TC 2
+Z9 2
+U1 1
+U2 11
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855 USA
+SN 0018-9464
+J9 IEEE T MAGN
+JI IEEE Trans. Magn.
+PD JAN
+PY 2007
+VL 43
+IS 1
+SI SI
+BP 491
+EP 495
+DI 10.1109/IMAG.2006.887450
+PN 2
+PG 5
+WC Engineering, Electrical & Electronic; Physics, Applied
+SC Engineering; Physics
+GA 123IB
+UT WOS:000243288500087
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Hall, CE
+   Shtessel, YB
+AF Hall, Charles E.
+   Shtessel, Yuri B.
+TI Sliding mode disturbance observer-based control for a reusable launch
+   vehicle
+SO JOURNAL OF GUIDANCE CONTROL AND DYNAMICS
+LA English
+DT Article; Proceedings Paper
+CT AIAA Guidance, Navigation and Control Conference
+CY SEP 15-18, 2005
+CL San  Francisco, CA
+SP AIAA
+ID NONLINEAR-SYSTEMS; GUIDANCE
+AB The nation's goals to replace the aging Space Shuttle fleet and pursue exploration of our solar system and beyond will require more robust, less costly launch vehicles and spacecraft. This paper presents a novel sliding mode control approach, sliding mode control driven by sliding mode disturbance observers with gain adaptation, for a reusable launch vehicle flight control system design as a way to improve robustness to many phenomena such as modeling uncertainties and disturbances, while retaining continuity of control without using high control gains. Because of the robustness to external disturbances and modeling uncertainties, the proposed flight control system design also can reduce cost by requiring less time in design cycle and preflight analyses. This design is applied to terminal area energy management and approach/landing. The multiple-loop flight controller design features low-order disturbance observers that rely only on knowledge of the bounds of the disturbance. A gain-adaptation algorithm is included in the disturbance observer design that provides the least gain needed for existence of the sliding mode. Six degree-of-freedom computer simulations of the X-33 technology demonstration suborbital reusable launch vehicle for nominal and severe wind-gust tests demonstrate improved performance over a more conventional, classical control system design.
+C1 NASA, George C Marshall Space Flight Ctr, Flight Mech & Analysis Div, Huntsville, AL 35812 USA.
+   Univ Alabama, Dept Elect & Comp Engn, Huntsville, AL 35899 USA.
+RP Hall, CE (reprint author), NASA, George C Marshall Space Flight Ctr, Flight Mech & Analysis Div, Huntsville, AL 35812 USA.
+EM Charles.E.Hall@nasa.gov
+CR BEVAQUA T, 2004, 2004875 AIAA
+   BLAKELOCK JH, 1991, AUTOMATIC CONTROL AI, P333
+   DRAKE D, 2004, J GUIDANCE CONTROL D, V27, P930, DOI 10.2514/1.9058
+   HANSON J, 2003, AEROSPACE AM     MAR, P36
+   Hanson J., 2002, 20024561 AIAA
+   HILL A, 2005, TRFRL1115051 NASA
+   Hull J.R., 2005, 20057114 AIAA
+   Isidori A., 1995, NONLINEAR CONTROL SY, P31
+   Kluever CA, 2004, J GUID CONTROL DYNAM, V27, P967, DOI 10.2514/1.7877
+   Kluever C.A., 2005, 20056058 AIAA
+   KUO BC, 1992, DIGITAL CONTROL SYST, P225
+   Levant A, 2001, IEEE T AUTOMAT CONTR, V46, P1447, DOI 10.1109/9.948475
+   Massey T, 2005, J GUID CONTROL DYNAM, V28, P826, DOI 10.2514/1.14126
+   Polycarpou MM, 1996, IEEE T AUTOMAT CONTR, V41, P447, DOI 10.1109/9.486648
+   POULARIKAS AD, 1985, SIGNALS SYSTEMS, P352
+   Schierman JD, 2004, J GUID CONTROL DYNAM, V27, P975, DOI 10.2514/1.10344
+   SHKOLNIKOV I, 2000, 20003986 AIAA
+   Shkolnikov I., 2001, 20014218 AIAA
+   SHKOLNIKOV IA, 2002, P IFAC WORLD C
+   Shtessel Y, 2000, J GUID CONTROL DYNAM, V23, P1013, DOI 10.2514/2.4669
+   Shtessel Y, 2002, IEEE T CONTR SYST T, V10, P288, DOI 10.1109/87.987075
+   Shtessel Y, 1999, J GUID CONTROL DYNAM, V22, P873, DOI 10.2514/2.4465
+   Shtessel Y., 1997, 973533 AIAA
+   SHTESSEL Y, 2002, 20024779 AIAA
+   Shtessel YB, 2001, P AMER CONTR CONF, P4357, DOI 10.1109/ACC.2001.945663
+   Shtessel Y. B., 2000, 20003883 AIAA
+   Slotine J.J., 1991, APPL NONLINEAR CONTR, P276
+   Swaroop D, 2000, IEEE T AUTOMAT CONTR, V45, P1893, DOI 10.1109/TAC.2000.880994
+   Utkin V., 1999, SLIDING MODE CONTROL, P51
+   Wise KA, 1998, J GUID CONTROL DYNAM, V21, P441, DOI 10.2514/2.4256
+   2006, NP200602423HQ NASA
+NR 31
+TC 69
+Z9 98
+U1 9
+U2 34
+PU AMER INST AERONAUT ASTRONAUT
+PI RESTON
+PA 1801 ALEXANDER BELL DRIVE, STE 500, RESTON, VA 22091-4344 USA
+SN 0731-5090
+J9 J GUID CONTROL DYNAM
+JI J. Guid. Control Dyn.
+PD NOV-DEC
+PY 2006
+VL 29
+IS 6
+BP 1315
+EP 1328
+DI 10.2514/1.20151
+PG 14
+WC Engineering, Aerospace; Instruments & Instrumentation
+SC Engineering; Instruments & Instrumentation
+GA 108GK
+UT WOS:000242228100006
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Shuker, ST
+AF Shuker, ST
+TI Rocket-propelled grenade maxillofacial injuries and management
+SO JOURNAL OF ORAL AND MAXILLOFACIAL SURGERY
+LA English
+DT Article
+ID BLAST INJURIES; WAR INJURIES
+C1 Baghdad Med City, Dept Oral & Maxillofacial Surg, Baghdad, Iraq.
+RP Shuker, ST (reprint author), 5907 Shillingham Dr, W Bloomfield, MI 48322 USA.
+EM sabrishuker@yahoo.com
+CR ADLER OB, 1988, ACTA RADIOL, V29, P125
+   BAILEY BJ, 2001, HEAD NECK SURG OTOLA, V1, P360
+   BARRY J, 2004, NEWSWEEK        0503, P24
+   CHAMPION HR, 2004, TRAUMA, P1161
+   COPPEL DL, 1976, BRIT J SURG, V63, P735, DOI 10.1002/bjs.1800631003
+   DE CANDOLE C. A., 1967, CAN MED ASS J, V96, P207
+   DEPALMA RG, 2005, NEW ENGL J MED, V352, P13
+   Eiseman B, 2001, J TRAUMA, V51, P821, DOI 10.1097/00005373-200111000-00001
+   HILL JF, 1979, ANN ROY COLL SURG, V61, P4
+   HIRSCH M, 1969, Clinical Radiology, V20, P362, DOI 10.1016/S0009-9260(69)80087-5
+   HULLER T, 1970, ARCH SURG-CHICAGO, V100, P24
+   *JAN INF WEAP, 1998, AMB MOG
+   MELLOR SG, 1989, BRIT J SURG, V76, P1006, DOI 10.1002/bjs.1800761006
+   Odhiambo WA, 2002, INT J ORAL MAX SURG, V31, P374, DOI 10.1054/ijom.2001.0199
+   RAWLINS JSP, 1978, INJURY, V9, P313
+   SHUKER S, 1986, J ORAL MAXIL SURG, V44, P152, DOI 10.1016/0278-2391(86)90202-8
+   SHUKER ST, 1988, J CRANIO MAXILL SURG, V16, P120, DOI 10.1016/S1010-5182(88)80031-3
+   SHUKER ST, 1995, J CRANIO MAXILL SURG, V23, P91, DOI 10.1016/S1010-5182(05)80454-8
+   STAPCZYNSKI JS, 1982, ANN EMERG MED, V11, P687, DOI 10.1016/S0196-0644(82)80268-0
+   WILSON J, 2004, POP MECH, V64
+   ZOROYA G, 2005, US TODAY        0306
+NR 21
+TC 13
+Z9 13
+U1 0
+U2 1
+PU W B SAUNDERS CO-ELSEVIER INC
+PI PHILADELPHIA
+PA INDEPENDENCE SQUARE WEST CURTIS CENTER, STE 300, PHILADELPHIA, PA
+   19106-3399 USA
+SN 0278-2391
+J9 J ORAL MAXIL SURG
+JI J. Oral Maxillofac. Surg.
+PD MAR
+PY 2006
+VL 64
+IS 3
+BP 503
+EP 510
+DI 10.1016/j.jams.2005.11.033
+PG 8
+WC Dentistry, Oral Surgery & Medicine
+SC Dentistry, Oral Surgery & Medicine
+GA 018TD
+UT WOS:000235786800023
+PM 16487815
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Adimurthy, V
+   Ganeshan, AS
+AF Adimurthy, V
+   Ganeshan, AS
+TI Space debris mitigation measures in India
+SO ACTA ASTRONAUTICA
+LA English
+DT Article
+ID LAUNCH
+AB The Indian Space Research Organization (ISRO) recognizes the importance of the current space debris scenario, and the impact it has on the effective utilization of space technology for the improvement in the quality of life on the Earth. ISRO is committed to effective management of the threats due to space debris. Towards this commitment ISRO works on different aspects of space debris, including the debris mitigation measures. This paper highlights the activities and achievements in the implementation of the mitigation measures. ISRO successfully designed and developed a propellant venting system for implementation in the existing upper stage of India's Polar Satellite Launch Vehicle (PSLV), which uses Earth-storable liquid propellants. GSLV also employs passivation of the Cryogenic Upper Stage at the end of its useful mission. ISRO's communication satellites in GSO are designed with adequate propellant margins for re-orbiting at the end of their useful life to a higher graveyard orbit. A typical successful operation in connection with INSAT-2C is described. ISRO developed its debris environmental models and software to predict the close approach of any of the debris to the functional satellites. The software are regularly used for the debris risk management of the orbiting spacecraft and launch vehicles. ISRO recognizes the role of international cooperation in the debris mitigation measures and actively contributes to the efforts of the Inter-Agency Space Debris Coordination Committee (IADC) and United Nations Committee on the Peaceful Uses of Outer Space (UNCOPUOS). (c) 2005 Elsevier Ltd. All rights reserved.
+C1 Vikram Sarabhai Space Ctr, Aeronaut Entity, Trivandrum 695022, Kerala, India.
+   ISRO Satellite Ctr, Flight Dynam Div, Bangalore 560017, Karnataka, India.
+RP Adimurthy, V (reprint author), Vikram Sarabhai Space Ctr, Aeronaut Entity, Trivandrum 695022, Kerala, India.
+EM v_adimurthy@vssc.org; asganesh@isac.ernet.in
+CR ANANTHASAYAMAM MR, 2002, 02A01772 COSPAR
+   ANANTHASAYANAM MR, 2003, IAA5P04
+   Bandyopadhyay P, 2004, ADV SPACE RES, V34, P1246, DOI 10.1016/j.asr.2003.10.042
+   Bandyopadhyay P, 2004, ADV SPACE RES, V34, P1125, DOI 10.1016/j.asr.2003.10.043
+   Ganeshan AS, 1997, ADV SPACE RES-SERIES, V19, P309, DOI 10.1016/S0273-1177(97)00019-7
+   GANESHAN AS, 1996, IAA966305 AAS, V95
+   GANESHAN AS, 1988, 88552 IAA, P143
+   GANESHAN AS, 2001, IAA01IAA6502
+   KUMAR AKA, 2002, 02A01843 COSPAR
+   KUMAR AKN, 2002, 02A01372 COSPAR
+   KUMAR AKN, 2003, IAA5209
+   MATHEW SP, 2003, THESIS COCHIN U SCI
+   PARAMESWARAN S, 2003, REPORT REORBITING DE
+   Sharma RK, 2004, ADV SPACE RES, V34, P1227, DOI 10.1016/j.asr.2003.10.044
+NR 14
+TC 1
+Z9 1
+U1 1
+U2 3
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0094-5765
+J9 ACTA ASTRONAUT
+JI Acta Astronaut.
+PD FEB
+PY 2006
+VL 58
+IS 3
+BP 168
+EP 174
+DI 10.1016/j.actaastro.2005.09.002
+PG 7
+WC Engineering, Aerospace
+SC Engineering
+GA 997CI
+UT WOS:000234222200005
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Adimurthy, V
+   Ganeshan, AS
+AF Adimurthy, V
+   Ganeshan, AS
+TI Space debris mitigation measures in India
+SO ACTA ASTRONAUTICA
+LA English
+DT Article
+ID LAUNCH
+AB The Indian Space Research Organization (ISRO) recognizes the importance of the current space debris scenario, and the impact it has on the effective utilization of space technology for the improvement in the quality of life on the Earth. ISRO is committed to effective management of the threats due to space debris. Towards this commitment ISRO works on different aspects of space debris, including the debris mitigation measures. This paper highlights the activities and achievements in the implementation of the mitigation measures. ISRO successfully designed and developed a propellant venting system for implementation in the existing upper stage of India's Polar Satellite Launch Vehicle (PSLV), which uses Earth-storable liquid propellants. GSLV also employs passivation of the Cryogenic Upper Stage at the end of its useful mission. ISRO's communication satellites in GSO are designed with adequate propellant margins for re-orbiting at the end of their useful life to a higher graveyard orbit. A typical successful operation in connection with INSAT-2C is described. ISRO developed its debris environmental models and software to predict the close approach of any of the debris to the functional satellites. The software are regularly used for the debris risk management of the orbiting spacecraft and launch vehicles. ISRO recognizes the role of international cooperation in the debris mitigation measures and actively contributes to the efforts of the Inter-Agency Space Debris Coordination Committee (IADC) and United Nations Committee on the Peaceful Uses of Outer Space (UNCOPUOS). (c) 2005 Elsevier Ltd. All rights reserved.
+C1 Vikram Sarabhai Space Ctr, Aeronaut Entity, Trivandrum 695022, Kerala, India.
+   ISRO Satellite Ctr, Flight Dynam Div, Bangalore 560017, Karnataka, India.
+RP Adimurthy, V (reprint author), Vikram Sarabhai Space Ctr, Aeronaut Entity, Trivandrum 695022, Kerala, India.
+EM v_adimurthy@vssc.org; asganesh@isac.ernet.in
+CR ANANTHASAYAMAM MR, 2002, 02A01772 COSPAR
+   ANANTHASAYANAM MR, 2003, IAA5P04
+   Bandyopadhyay P, 2004, ADV SPACE RES, V34, P1246, DOI 10.1016/j.asr.2003.10.042
+   Bandyopadhyay P, 2004, ADV SPACE RES, V34, P1125, DOI 10.1016/j.asr.2003.10.043
+   Ganeshan AS, 1997, ADV SPACE RES-SERIES, V19, P309, DOI 10.1016/S0273-1177(97)00019-7
+   GANESHAN AS, 1996, IAA966305 AAS, V95
+   GANESHAN AS, 1988, 88552 IAA, P143
+   GANESHAN AS, 2001, IAA01IAA6502
+   KUMAR AKA, 2002, 02A01843 COSPAR
+   KUMAR AKN, 2002, 02A01372 COSPAR
+   KUMAR AKN, 2003, IAA5209
+   MATHEW SP, 2003, THESIS COCHIN U SCI
+   PARAMESWARAN S, 2003, REPORT REORBITING DE
+   Sharma RK, 2004, ADV SPACE RES, V34, P1227, DOI 10.1016/j.asr.2003.10.044
+NR 14
+TC 1
+Z9 1
+U1 1
+U2 3
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0094-5765
+J9 ACTA ASTRONAUT
+JI Acta Astronaut.
+PD FEB
+PY 2006
+VL 58
+IS 3
+BP 168
+EP 174
+DI 10.1016/j.actaastro.2005.09.002
+PG 7
+WC Engineering, Aerospace
+SC Engineering
+GA 997CI
+UT WOS:000234222200005
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Chato, DJ
+AF Chato, DJ
+TI The role of flight experiments in the development of cryogenic fluid
+   management technologies
+SO CRYOGENICS
+LA English
+DT Article; Proceedings Paper
+CT 22nd Space Cryogenics Workshop (SCW)
+CY AUG 25-26, 2005
+CL Colorado Springs, CO
+SP Gooddard Space Flight Ctr
+DE flight experiments; low gravity; fluid management; liquid hydrogen;
+   liquid oxygen; launch vehicles
+AB This paper reviews the history of cryogenic fluid management technology development and infusion into both the Saturn and Centaur vehicles. Ground testing and analysis proved inadequate to demonstrate full scale performance. As a consequence flight demonstration with full scale vehicle was required by both the Saturn and Centaur programs to build confidence that problems were addressed. However; the flight vehicles were highly limited on flight instrumentation and the flight demonstration "locked-in" the design without challenging the function of design elements. Projects reviewed include: the Aerobee Sounding Rocket Cryogenic Fluid Management (CFM) tests which served as a valuable stepping stone to flight demonstration and built confidence in the ability to handle hydrogen in low gravity; the Saturn IVB Fluid Management Qualification flight test; the Atlas Centaur demonstration flights to develop two burn capability; and finally the Titan Centaur two post mission flight tests. (C) 2005 Elsevier Ltd. All rights reserved.
+C1 NASA, Glenn Res Ctr, Cleveland, OH 44135 USA.
+RP Chato, DJ (reprint author), NASA, Glenn Res Ctr, 21000 Brookpk Rd,Mail Stop 86-2, Cleveland, OH 44135 USA.
+EM David.J.Chato@nasa.gov
+RI Chato, David/B-2698-2013
+OI Chato, David/0000-0003-2990-0646
+CR Abdalla K., 1965, X1134 NASA TM
+   Abdalla K.L., 1964, X1001 NASA TM
+   AYDELOTT J, 1965, X1052 NASA TM
+   Aydelott J., 1967, D4171 NASA TN
+   AYDELOTT JC, 1964, X1006 NASA TM
+   AYDELOTT JC, 1967, D4286 NASA TN
+   Buchanan H. J., 1967, D3968 NASA TN
+   KNOLL R, 1962, X484 NASA TM
+   Lacovic RF, 1968, D4571 NASA TN
+   LACOVIC RF, THERMODYNAMIC DATA R
+   LACOVIC RF, 1975, X71821 NASA TM
+   LACOVIC RF, 1977, X73749 NASA TM
+   MCARDLE JG, 1962, X718 NASA TM
+   Nunamaker R. R., 1963, X872 NASA TM
+   OTTO EW, 1966, CHEM ENG PROG, V62
+   PETRASH DA, 1963, D1577 NASA TN
+   Regetz J. D., 1964, X873 NASA TM
+   SHEPARD W, 1995, 952811 AIAA
+   SWALLEY FE, 1965, FLUID MECH HEAT TRAN
+   SWALLEY FE, 1966, P C LONG TERM CRYOPR
+   1967, EVALUATION AS203 LOW
+   X53158 NASA TM
+NR 22
+TC 2
+Z9 2
+U1 0
+U2 2
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0011-2275
+J9 CRYOGENICS
+JI Cryogenics
+PD FEB-MAR
+PY 2006
+VL 46
+IS 2-3
+BP 82
+EP 88
+DI 10.1016/j.cryogenics.2005.11.010
+PG 7
+WC Thermodynamics; Physics, Applied
+SC Thermodynamics; Physics
+GA 022YP
+UT WOS:000236092400003
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Stabroth, S
+   Wegener, P
+   Oswald, M
+   Wiedemann, C
+   Klinkrad, H
+   Vorsmann, P
+AF Stabroth, S.
+   Wegener, P.
+   Oswald, M.
+   Wiedemann, C.
+   Klinkrad, H.
+   Voersmann, P.
+TI Introduction of a nozzle throat diameter dependency into the SRM dust
+   size distribution
+SO ADVANCES IN SPACE RESEARCH
+LA English
+DT Article
+DE SRM dust size distribution; SRM firings; nozzle throat diameter;
+   aluminium projectiles; validation results
+AB The ESA space debris population model MASTER (Meteoroid and Space Debris Terrestrial Environment Reference) considers 1032 firings of solid rocket motors (SRM) with the associated generation of SRM slag and dust particles in its current version. The resulting dust population is a major contribution to the sub-millimetre size space debris environment in Earth orbit. For the modelling of each SRM dust release event a detailed knowledge of the particle size distribution is essential. However, the knowledge of the particle sizes after passing the nozzle throat is poor. The current dust implementation in the MASTER model assumes a fixed size distribution which is identically used for both large upper stages and small apogee motors. This assumption can lead to an over-representation of large dust particles in regions, where mainly apogee motors are used (i.e., Geostationary Earth Orbit) and an under-representation in lower altitudes, where large stages predominate. In this paper, a concept for the improvement of SRM dust size modelling is discussed. It will be shown that an introduction of a nozzle throat diameter dependency into the dust size distribution enables a more precise modelling of SRM dust release events. The improved SRM dust size distribution is going to be used by the MASTER-2005 space debris model which is currently under development by the Institute of Aerospace Systems and QinetiQ (UK) under ESA contract. (C) 2006 COSPAR. Published by Elsevier Ltd. All rights reserved.
+C1 [Stabroth, S.; Oswald, M.; Wiedemann, C.; Voersmann, P.] Tech Univ Carolo Wilhelmina Braunschweig, Inst Aerospace Syst, D-38108 Braunschweig, Germany.
+   [Wegener, P.] Wegener Aerospace Consult, D-38108 Braunschweig, Germany.
+   [Klinkrad, H.] ESOC, ESA, D-64293 Darmstadt, Germany.
+RP Stabroth, S (reprint author), Tech Univ Carolo Wilhelmina Braunschweig, Inst Aerospace Syst, Hermann Blenk Str 32, D-38108 Braunschweig, Germany.
+EM s.stabroth@tu-bs.de
+CR AKIBA R, 1990, P WORKSH SPAC DEBR K, P51
+   BURRIS RA, 1978, 143016 MDTSCO
+   HORZ F, 2002, SPACE DEBRIS, V2, P51
+   McDonnell J. A. M, 1998, 1188796NLJG ESA
+   Mueller A.C., 1985, ADV SPACE RES, V5, P77, DOI 10.1016/0273-1177(85)90389-8
+   Wegener P, 1999, ADV SPACE RES, V23, P161, DOI 10.1016/S0273-1177(98)00242-7
+NR 6
+TC 0
+Z9 0
+U1 1
+U2 1
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0273-1177
+J9 ADV SPACE RES
+JI Adv. Space Res.
+PY 2006
+VL 38
+IS 9
+BP 2117
+EP 2121
+DI 10.1016/j.asr.2006.02.051
+PG 5
+WC Astronomy & Astrophysics; Geosciences, Multidisciplinary; Meteorology &
+   Atmospheric Sciences
+SC Astronomy & Astrophysics; Geology; Meteorology & Atmospheric Sciences
+GA V44FM
+UT WOS:000202988600035
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Jiao, XM
+   Zheng, GB
+   Alexander, PA
+   Campbell, MT
+   Lawlor, OS
+   Norris, J
+   Haselbacher, A
+   Heath, MT
+AF Jiao, Xiangmin
+   Zheng, Gengbin
+   Alexander, Phillip A.
+   Campbell, Michael T.
+   Lawlor, Orion S.
+   Norris, John
+   Haselbacher, Andreas
+   Heath, Michael T.
+TI A system integration framework for coupled multiphysics simulations
+SO ENGINEERING WITH COMPUTERS
+LA English
+DT Article
+DE software framework; multiphysics simulation; system integration; data
+   abstraction
+ID OVERLAYING SURFACE MESHES; ALGORITHMS; LOAD
+AB Multiphysics simulations are playing an increasingly important role in computational science and engineering for applications ranging from aircraft design to medical treatments. These simulations require integration of techniques and tools from multiple disciplines, and in turn demand new advanced technologies to integrate independently developed physics solvers effectively. In this paper, we describe some numerical, geometrical, and system software components required by such integration, with a concrete case study of detailed, three-dimensional, parallel rocket simulations involving system-level interactions among fluid, solid, and combustion, as well as subsystem-level interactions. We package these components into a software framework that provides common-refinement based methods for transferring data between potentially non-matching meshes, novel and robust face-offsetting methods for tracking Lagrangian surface meshes, as well as integrated support for parallel mesh optimization, remeshing, algebraic manipulations, performance monitoring, and high-level data management and I/O. From these general, reusable framework components we construct domain-specific building blocks to facilitate integration of parallel, multiphysics simulations from high-level specifications that are easy to read and can also be visualized graphically. These reusable building blocks are integrated with independently developed physics codes to perform various multiphysics simulations.
+C1 Georgia Inst Technol, Coll Comp, Atlanta, GA 30332 USA.
+   Univ Illinois, Ctr Simulat Adv Rockets, Urbana, IL 61801 USA.
+RP Jiao, XM (reprint author), Georgia Inst Technol, Coll Comp, Atlanta, GA 30332 USA.
+EM jiao@cc.gatech.edu
+CR ALLAN B, 2002, CONCURR COMP-PRACT E, V5, P323
+   ALLEN G, 2001, P SUP 01 DENV CO
+   BASSETTI F, 1998, P SUP 98 SAN JOS CA
+   Belgacem B, 1997, RAIRO-MATH MODEL NUM, V31, P289
+   Bernardi C., 1994, NONLINEAR PARTIAL DI, VXI, P13
+   BUDGE KG, 1998, WORKSH OBJ OR METH I
+   Farhat C, 1998, COMPUT METHOD APPL M, V157, P95, DOI 10.1016/S0045-7825(97)00216-8
+   FREITAG L, 2002, 8 INT C NUM GRID GEN, P159
+   HAKONEN H, 1999, P 6 FENN S SOFTW TEC, P139
+   Huang C., 2003, P 16 INT WORKSH LANG
+   Huang C, 2006, P ACM SIGPLAN S PRIN
+   Jaiman RK, 2005, INT J NUMER METH ENG, V64, P2014, DOI 10.1002/nme.1434
+   JIAO X, 2004, INT J NUMER METH ENG, V61, P2401
+   Jiao XM, 2004, INT J COMPUT GEOM AP, V14, P403, DOI 10.1142/S0218195904001524
+   Jiao XM, 2004, INT J COMPUT GEOM AP, V14, P379, DOI 10.1142/S0218195904001512
+   Kale LV, 2006, FUTURE GENER COMP SY, V22, P347, DOI 10.1016/j.future.2004.11.020
+   Kale L. V., 2004, P 1 INT WORKSH PROD
+   KALE LV, 2002, LOS ALAMOS COMPUTER
+   Lawlor O. S., 2002, P 6 INT C SUP JUN, P285
+   Liskov B, 1999, LECT NOTES COMPUT SC, V1628, P230
+   London K., 2001, INT C PAR DISTR COMP
+   Osher S., 2003, LEVEL SET METHODS DY
+   REYNDERS J, 1996, PARALLEL PROGRAMMING, P553
+   Sethian J., 1999, LEVEL SET METHODS FA
+   STEVENS P, 1999, USING UML SOFTWARE E
+   Stewart JR, 2004, FINITE ELEM ANAL DES, V40, P1599, DOI 10.1016/j.finel.2003.10.006
+   Thompson J.F., 1999, HDB GRID GENERATION
+   WILSON WG, 1992, 923819 AIAA
+   ZHENG G, 2006, P 8 WORKSH HIGH PERF
+   Zheng G. B., 2005, THESIS U ILLINOIS UR
+NR 30
+TC 6
+Z9 6
+U1 0
+U2 2
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING STREET, NEW YORK, NY 10013 USA
+SN 0177-0667
+J9 ENG COMPUT-GERMANY
+JI Eng. Comput.
+PY 2006
+VL 22
+IS 3-4
+BP 293
+EP 309
+DI 10.1007/s00366-006-0034-x
+PG 17
+WC Computer Science, Interdisciplinary Applications; Engineering,
+   Mechanical
+SC Computer Science; Engineering
+GA 124KA
+UT WOS:000243365500010
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Schmalzel, J
+   Figueroa, F
+   Morris, J
+   Mandayam, S
+   Polikar, R
+AF Schmalzel, J
+   Figueroa, F
+   Morris, J
+   Mandayam, S
+   Polikar, R
+TI An architecture for intelligent systems based on smart sensors
+SO IEEE TRANSACTIONS ON INSTRUMENTATION AND MEASUREMENT
+LA English
+DT Article; Proceedings Paper
+CT IEEE Instrumentation and Measurement Technology Conference
+CY MAY 18-20, 2004
+CL Como, ITALY
+SP IEEE Instrumentat & Measurement Soc
+DE health management; IEEE 1451; integrated system health management
+   (ISHM); integrated vehicle health monitoring (IVHM); rocket testing;
+   sensor fusion; smart sensors
+AB Based on requirements for a next-generation rocket test facility, elements of a prototype intelligent rocket test facility (IRTF) have been implemented. The preliminary results provide the basis for future advanced development and validation using rocket test stand facilities at Stennis Space Center (SSC). Key components include distributed smart sensor elements integrated using a knowledge-driven environment. One of the specific goals is to imbue sensors with the intelligence needed to perform self-diagnosis of health and to participate in a hierarchy of health determination at sensor, process, and system levels. We have identified issues important to further development of health-enabled networks, which should be of interest to others working with smart sensors and intelligent health management systems.
+C1 Rowan Univ, Dept Elect & Comp Engn, Glassboro, NJ 08028 USA.
+   Stennis Space Ctr, Program Dev Directorate, Technol Dev & Transfer Off, Stennis Space Ctr, MS 39529 USA.
+RP Schmalzel, J (reprint author), Rowan Univ, Dept Elect & Comp Engn, Glassboro, NJ 08028 USA.
+EM j.schmalzel@ieee.org
+RI Polikar, Robi/N-4742-2015
+OI Polikar, Robi/0000-0002-2739-4228
+CR Ferrari P., 2002, Proceedings of IEEE Sensors 2002. First IEEE International Conference on Sensors (Cat. No.02CH37394), P1549, DOI 10.1109/ICSENS.2002.1037353
+   FIGUEROA F, 2001, P IMTC           MAY, P20
+   GUO CH, 1996, P INT C IND TECH, P460
+   HOGENBIRK EJ, 1995, P INT S CIRC SYST, P2225
+   *IEEE, CARR SENS MULT ACC C
+   *IEEE, NETW CAP APPL PROC N
+   LEE K, 2001, P 18 IMTC, P147
+   Luo R., 1992, DATA FUSION ROBOTICS, P7
+   PASCHALIDIS NP, 1999, P ICECS, P1787
+   POLIKAR R, 2000, P IEEE 25 INT C AC S, V6, P3466
+NR 10
+TC 43
+Z9 44
+U1 0
+U2 7
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855 USA
+SN 0018-9456
+J9 IEEE T INSTRUM MEAS
+JI IEEE Trans. Instrum. Meas.
+PD AUG
+PY 2005
+VL 54
+IS 4
+SI SI
+BP 1612
+EP 1616
+DI 10.1109/TIM.2005.851477
+PG 5
+WC Engineering, Electrical & Electronic; Instruments & Instrumentation
+SC Engineering; Instruments & Instrumentation
+GA 947FK
+UT WOS:000230628600042
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Thomas, T
+AF Thomas, T
+TI Guidance scheme for solid propelled vehicle during atmospheric phase
+SO DEFENCE SCIENCE JOURNAL
+LA English
+DT Article; Proceedings Paper
+CT National Workshop on Tactical Missile Guidance
+CY MAR, 2004
+CL Hyderabad, INDIA
+SP Def Res & Dev Lab
+DE long-range missiles; missile guidance schemes; launch vehicle; ballistic
+   missiles; energy management guidance scheme; atmospheric phase
+AB Strategic ballistic missiles are the long-range missiles designed to intercept stationary, defined targets. Guidance is in the boost phase which represents only a small fraction of the total time of flight of the missile. A missile has to be guided and steered to the required position and velocity states at the end of the boost phase. The problem of guiding a vehicle in atmospheric phase in the presence of drag and lift, poses a challenge for the designer. This paper describes an energy management guidance scheme for guiding the vehicle in atmospheric phase of the flight. The estimated drag is taken care of by the guidance scheme. Uncertainty in velocity due to drag or impulse variation at the end of the boost phase are corrected by an augmented velocity package. A closed-loop guidance scheme has been used during this phase also. A ballistic re-entry has been considered for this design study.
+C1 Adv Syst Lab, Hyderabad 500058, Andhra Pradesh, India.
+RP Thomas, T (reprint author), Adv Syst Lab, Hyderabad 500058, Andhra Pradesh, India.
+CR NAUTIAL A, DRDL61001002
+   THOMAS T, ASL009
+   1959, ARS J, V29, P915
+NR 3
+TC 3
+Z9 3
+U1 0
+U2 1
+PU DEFENCE SCIENTIFIC INFORMATION DOCUMENTATION CENTRE
+PI DELHI
+PA METCALFE HOUSE, DELHI 110054, INDIA
+SN 0011-748X
+J9 DEFENCE SCI J
+JI Def. Sci. J.
+PD JUL
+PY 2005
+VL 55
+IS 3
+BP 253
+EP 264
+PG 12
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 972BO
+UT WOS:000232429000006
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Jeyakumar, D
+   Biswas, KK
+   Rao, BN
+AF Jeyakumar, D
+   Biswas, KK
+   Rao, BN
+TI Stage separation dynamic analysis of upper stage of a multistage launch
+   vehicle using retro rockets
+SO MATHEMATICAL AND COMPUTER MODELLING
+LA English
+DT Article
+DE jettisoning system; retro-rocket; jet damping; pyro; relative velocity;
+   relative distance; launch vehicle
+ID STRAP-ON BOOSTERS; SPIN-STABILIZED STAGES; ATMOSPHERE
+AB This paper presents in brief the formulation used for the studies of lateral and longitudinal dynamics associated with separation and pull out of an ongoing functional stage from the spent stage of a multistage launch vehicle using retro rockets as jettisoning system. A fourth-order Runge-Kutta method is employed to solve the governing nonlinear differential equations of motion to obtain the state vectors of the separating bodies. A statistical method is adapted to account for the off nominal design parameters of the bodies undergoing separation and the jettisoning system. The tolerances in magnitude of the pull out time, relative velocity, lateral gap and longitudinal clearances between the separating bodies were used to find out the nonoccurrence of collision between the separating bodies. This procedure helps in designing and adapting a suitable jettisoning system to achieve collision free separation of multistage launch vehicle stages. (c) 2005 Elsevier Ltd. All rights reserved.
+C1 Vikram Sarabhai Space Ctr, Struct Anal & Testing Grp, Thiruvananthapuram 685022, Kerala, India.
+   Vikram Sarabhai Space Ctr, Miss Design & Anal Div, Trivandrum 695022, Kerala, India.
+RP Rao, BN (reprint author), Vikram Sarabhai Space Ctr, Struct Anal & Testing Grp, Thiruvananthapuram 685022, Kerala, India.
+EM bnrao52@rediffmail.com
+CR BALL KJ, 1967, SPACE VEHICLE DYNAMI, P59
+   Biswas KK, 1986, SPACE DYNAMICS CELES, P369
+   Bowker A.H, 1972, ENG STAT
+   BRAUER GL, 1975, CR132689 NASA, V1
+   Cheng SC, 1999, J SPACECRAFT ROCKETS, V36, P511
+   Choi S, 2002, J SPACECRAFT ROCKETS, V39, P439, DOI 10.2514/2.3827
+   Chubb W., 1961, NASATND598
+   Cornelisse J. W., 1979, ROCKET PROPULSION SP
+   DECKER JP, 1965, NASATMX1174
+   DECKER JP, 1968, NASATND4765
+   DECKER JP, 1975, 7529 AIAA
+   DECKER JP, 1965, NASATMX1051
+   DWORK M, 1963, AIAA J, V1, P2639
+   HURLEY MJ, 1972, J SPACECRAFT ROCKETS, V9, P764, DOI 10.2514/3.30393
+   JEYAKUMAR D., 2003, P INT C MOD SIM OPT
+   JEYAKUMAR D., 2003, J AEROSPACE SCI TECH, V55, P211
+   JEYAKUMAR D, 2003, P 54 INT ASTR C INT
+   Lochan R, 1997, J GUID CONTROL DYNAM, V20, P633, DOI 10.2514/2.4110
+   LOCHAN R, 1992, J GUID CONTROL DYNAM, V15, P137, DOI 10.2514/3.20811
+   LOCHAN R, 1994, J GUID CONTROL DYNAM, V17, P426, DOI 10.2514/3.21217
+   LOCHAN R, 1993, THESIS INDIAN I TECH
+   LONGREN DR, 1970, J SPACECRAFT ROCKETS, V7, P434, DOI 10.2514/3.29959
+   MORAES P, 1990, 903098 AIAA
+   ORLIKRUCKEMANN KJ, 1973, J SPACECRAFT ROCKETS, V10, P617, DOI 10.2514/3.61937
+   Regan F. J., 1984, REENTRY VEHICLE DYNA
+   SUBRAMANYAM JDA, 1973, P INT S SPAC SCI TEC, P383
+   Thomson W.T., 1961, INTRO SPACE DYNAMICS
+   WASKO RA, 1961, NASATND868
+   WATERFALL AP, 1968, TR682016
+   WILKE RO, 1964, AIAA J, V2, P1358, DOI 10.2514/3.55072
+NR 30
+TC 6
+Z9 10
+U1 1
+U2 4
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0895-7177
+J9 MATH COMPUT MODEL
+JI Math. Comput. Model.
+PD APR-MAY
+PY 2005
+VL 41
+IS 8-9
+BP 849
+EP 866
+DI 10.1016/j.mcm.2005.02.001
+PG 18
+WC Computer Science, Interdisciplinary Applications; Computer Science,
+   Software Engineering; Mathematics, Applied
+SC Computer Science; Mathematics
+GA 938JY
+UT WOS:000229997100001
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Neeck, SP
+   Magner, TJ
+   Paules, GE
+AF Neeck, SP
+   Magner, TJ
+   Paules, GE
+TI NASA's small satellite missions for Earth observation
+SO ACTA ASTRONAUTICA
+LA English
+DT Article; Proceedings Paper
+CT 4th IAA International Symposium n Small Satellites for Earth Observation
+CY APR 07-11, 2003
+CL Berlin, GERMANY
+SP Deutsch Zentrum Luft & Raumfahrt eV, Int Acad Astronaut
+AB The mission of NASA's Earth Science Enterprise (ESE) is to develop a scientific understanding of the Earth system and its response to natural and human-induced changes to enable improved prediction of climate. weather. and natural hazards for present and future generations. The ESE has an end-to-end strategy to assure that information. understanding. and capabilities derived from its research program achieve maximum usefulness to the scientific and decision-making communities. Small satellites (< 500 kg) have been crucial contributors to satisfying the research strategy since the inception of NASA's Earth observation program in the 1960s. In the last decade, NASA's ESE has placed a renewed emphasis on small satellites. This reemphasis reflects advancements in compact sensor, small satellite bus. and launch vehicle technologies in addition to management innovations. Near term and advanced planning suggest that this trend will continue. A number of related small satellite missions have been recently launched, are in development. or are planned. Multi-satellite constellations under study include small satellites as key architectural elements. Studies indicate that low cost. capable microspacecraft along with compact sensors and increased autonomy are technology enablers to the sensorwebs and associated distributed spacecraft infrastructure required to realize the long-term NASA Earth Science Vision (ESV). Published by Elsevier Ltd.
+C1 NASA, Off Earth Sci, Washington, DC 20546 USA.
+RP Neeck, SP (reprint author), NASA, Off Earth Sci, Washington, DC 20546 USA.
+CR Hooker S. B., 1992, 104566 NASA, V1
+   JOHNSON C, 2003, 4 IAA S SMALL SAT EA
+   KOBLINSKY CJ, 2001, 11 C SAT MET OC MAD
+   LEMMERMAN L, 2002, IEEE GEOSC REM SENS
+   LEMMERMAN L, 2003, 4 IAA S SMALL SAT EA
+   NASA, 2000, EXPL OUR HOM PLAN EA
+   STEINER M, 2003, 12 C SAT MET OC LONG
+   VONDERHAAR TH, 1982, NASA PUBLICATION, V2257
+   WINKER DM, 2002, 21 ILRC QUEB CIT CAN
+   Woods T., 2000, SPIE P, V4135, P192, DOI 10.1117/12.494229
+NR 10
+TC 27
+Z9 28
+U1 0
+U2 1
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0094-5765
+J9 ACTA ASTRONAUT
+JI Acta Astronaut.
+PD JAN
+PY 2005
+VL 56
+IS 1-2
+BP 187
+EP 192
+DI 10.1016/j.actaastro.2004.09.034
+PG 6
+WC Engineering, Aerospace
+SC Engineering
+GA 879VQ
+UT WOS:000225747600027
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Goehlich, RA
+   Rucker, U
+AF Goehlich, RA
+   Rucker, U
+TI Low-cost management aspects for developing, producing and operating
+   future space transportation systems
+SO ACTA ASTRONAUTICA
+LA English
+DT Article; Proceedings Paper
+CT 4th IAA International Symposium n Small Satellites for Earth Observation
+CY APR 07-11, 2003
+CL Berlin, GERMANY
+SP Deutsch Zentrum Luft & Raumfahrt eV, Int Acad Astronaut
+AB It is believed that a potential means for further significant reduction of the recurrent launch cost, which results also in a stimulation of launch rates of small satellites, is to make the launcher reusable. to increase its reliability and to make it suitable for new markets such as mass space tourism. Therefore, not only launching small satellites with expendable rocket on non-regular flights but also with reusable rockets on regular flights should be considered for the long term. However. developing. producing and operating reusable rockets require a fundamental change in the current "business as usual" philosophy. Under current conditions, it might not be possible to develop, to produce or to operate a reusable vehicle fleet economically. The favorite philosophy is based on "smart business" processes adapted by the author using cost engineering techniques. In the following paper, major strategies for reducing costs are discussed. which are applied for a representative program proposal. (C) 2004 Elsevier Ltd. All rights reserved.
+C1 Keio Univ, Space Syst Engn Ohkami Lab, Dept Syst Design Engn, Kohoku Ku, Yokohama, Kanagawa 2238522, Japan.
+   EADS Space Transportat, Kourou Spaceport, French Guiana.
+RP Goehlich, RA (reprint author), Keio Univ, Space Syst Engn Ohkami Lab, Dept Syst Design Engn, Kohoku Ku, 3-14-1 Hiyoshi, Yokohama, Kanagawa 2238522, Japan.
+EM mail@Robert-Goehlich.de
+CR ABITZSCH S, 1998, THESIS TU BERLIN
+   BEKEY I, 1994, WIN WIN CONCEPT COMM
+   GOEHLICH RA, 2003, REPRESENTATIVE PROGR
+   GOEHLICH RA, 2002, 53 INT ASTR C HOUST
+   GOEHLICH RA, 2002, SPACE TOURISM EC TEC
+   KOELLE DE, 2000, HDB COST ENG SPACE
+   KOELLE HH, 1997, SPACE TRANSPORTATION
+   *NASA, NIST SHUTTL REF MAN
+   *SOL MATR LTD, ENC BUS CAS TERMS
+   WHITEHAIR CL, 1993, 43 INT ASTR C WASH D
+NR 10
+TC 1
+Z9 2
+U1 2
+U2 4
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0094-5765
+J9 ACTA ASTRONAUT
+JI Acta Astronaut.
+PD JAN
+PY 2005
+VL 56
+IS 1-2
+BP 337
+EP 346
+DI 10.1016/j.actaastro.2004.09.010
+PG 10
+WC Engineering, Aerospace
+SC Engineering
+GA 879VQ
+UT WOS:000225747600046
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Himeno, T
+   Watanabe, T
+   Konno, A
+AF Himeno, T
+   Watanabe, T
+   Konno, A
+TI Numerical analysis for propellant management in rocket tanks
+SO JOURNAL OF PROPULSION AND POWER
+LA English
+DT Article; Proceedings Paper
+CT AIAA/ASME/SAE/ASEE 37th Joint Propulsion Conference
+CY JUL 08-11, 2001
+CL Salt Lake City, UT
+SP Amer Inst Aeronaut & Astronaut, ASME, SAE, ASEE
+ID FLUID; FLOW
+AB To track the three-dimensional behavior of liquid surfaces in storage tanks on orbit, a numerical scheme based on the level set method was developed. For the verification of the numerical methods, experimental data were acquired through the observation of the unsteady deformations of liquid surfaces in cylindrical containers under low-gravity conditions in a drop tower. Primary emphasis was placed on the dynamic behavior of the liquid surface and the displacement of the contact line on the solid wall. Based on the results, the boundary condition for surface tension was discussed and the model of wetting phenomena was adequately introduced into the computation. Compared with the experimental data, the corresponding numerical results showed good agreement. With the developed code, the flowfields at the draining process in the liquid oxygen (LOchi) tank for the upper-stage propulsion system of an H-IIA launch vehicle under low-gravity conditions were also investigated. It was found that the buoyancy induced by a slight acceleration was efficient to prevent dip growth and that the serviceable propellant in the launch-vehicle tank could thereby be increased in a realistic situation.
+C1 Univ Tokyo, Tokyo 1138656, Japan.
+   Japan Aerosp Explorat Agcy, Ibaraki 3058505, Japan.
+RP Himeno, T (reprint author), Univ Tokyo, Tokyo 1138656, Japan.
+CR Antar B. N., 1993, FUNDAMENTALS LOW GRA
+   BRACKBILL JU, 1992, J COMPUT PHYS, V100, P335, DOI 10.1016/0021-9991(92)90240-Y
+   GERSTMANN J, 2003, P APPL MATH MECH MAR, P316
+   HIMENO T, 2003, 20034894 AIAA
+   HIMENO T, 2001, THESIS U TOKYO TOKYO
+   HIMENO T, 1999, 992177 AIAA
+   Himeno T., 2003, T JAPAN SOC MECH ENG, V68, P2400
+   HIRT CW, 1981, J COMPUT PHYS, V39, P201, DOI 10.1016/0021-9991(81)90145-5
+   Kunugi T, 2001, INT J HEAT FLUID FL, V22, P245, DOI 10.1016/S0142-727X(01)00086-8
+   Kunugi T., 2000, CFD J, V9, pIX
+   MICHAELIS M, 2003, THESIS U BREMEN DUSS
+   *NAG AER SYST WORK, 1996, NU90341 NASDA NAT SP
+   OSHER S, 1988, J COMPUT PHYS, V79, P12, DOI 10.1016/0021-9991(88)90002-2
+   REYNOLDS WC, 1966, SP106 NASA REP, P387
+   SUSSMAN M, 1994, J COMPUT PHYS, V114, P146, DOI 10.1006/jcph.1994.1155
+   Yabe T, 2001, J COMPUT PHYS, V169, P556, DOI 10.1006/jcph.2000.6625
+   YABE T, 1991, J PHYS SOC JPN, V60, P2105, DOI 10.1143/JPSJ.60.2105
+   YABE T, 1988, J PHYS SOC JPN, V57, P2598, DOI 10.1143/JPSJ.57.2598
+   Young D. L., 1982, NUMERICAL METHODS FL
+NR 19
+TC 11
+Z9 12
+U1 0
+U2 2
+PU AMER INST AERONAUT ASTRONAUT
+PI RESTON
+PA 1801 ALEXANDER BELL DRIVE, STE 500, RESTON, VA 22091-4344 USA
+SN 0748-4658
+J9 J PROPUL POWER
+JI J. Propul. Power
+PD JAN-FEB
+PY 2005
+VL 21
+IS 1
+BP 76
+EP 86
+DI 10.2514/1.4792
+PG 11
+WC Engineering, Aerospace
+SC Engineering
+GA 887TM
+UT WOS:000226328400008
+OA No
+DA 2017-09-27
+ER
+
+
+PT S
+AU Kearsley, AT
+   Drolshagen, G
+   McDonnell, JAM
+   Mandeville, JC
+   Moussi, A
+AF Kearsley, AT
+   Drolshagen, G
+   McDonnell, JAM
+   Mandeville, JC
+   Moussi, A
+BE Anselmo, L
+TI Impacts on Hubble Space Telescope solar arrays: Discrimination between
+   natural and man-made particles
+SO SPACE DEBRIS
+SE ADVANCES IN SPACE RESEARCH
+LA English
+DT Article; Proceedings Paper
+CT Scientific Meeting on Space Debris held at the 35th COSPAR Scientific
+   Assembly
+CY JUL 22-24, 2004
+CL Paris, FRANCE
+SP European Space Agcy, Int Acad Astronaut, Int Astronaut Federat, Int Astron Union, UN Off Outer Space Affairs
+DE space debris; micrometeoroids; Hubble Space Telescope; hypervelocity
+   impact; analytical electron microscopy; solar array
+ID LOW-EARTH-ORBIT; HYPERVELOCITY IMPACTS; DEBRIS; DUST; RESIDUES; CELLS
+AB A Post-Flight Investigation was initiated by the European Space Agency to analyze impacts on solar arrays of the Hubble Space Telescope (HST), exposed to space for 8.25 years at approximately 600 km altitude. The solar cells deployed during the first Service Mission (SM-1 in December 1993) were retrieved in March 2002 as part of Service Mission 3B (SM-313). A sub-panel of 2 m(2) was cut from the arrays for subsequent selection and removal of individual solar cells for analysis. Six cells (4.8 x 10(-3) m(2)) were surveyed for flux of all craters of sizes greater than 5 microns. Analytical scanning electron microscopy was used to analyse residues in 111 features of 3-4000 micron conchoidal detachment diameter (D-co), examined on 23 solar cells. Eighty three show identifiable residue: 38 are Space Debris impacts and 45 Micrometeoroid impacts. Of the remaining 28, 2 contain residue of ambiguous origin, 1 is probably a minor manufacturing flaw, 1 is obscured by contamination, and 24 are unresolved, lacking recognizable residue.
+   The majority of space debris impacts on the SM-3B cells are less than 80 microns D-co, dominated by Al-rich residue, probably of solid rocket motor origin, although three may be due to sodium metal droplet impacts. Three larger features include paint pigment and binder, ferrous alloy, and possible carbon-fibre composite material debris.
+   Micrometeoroid residues are found across the entire crater size range and dominate features of between 100 and 1000 microns, their residues are similar to those found in earlier SM-1 surveys. Fe- and Mg-rich silicates dominate; Fe sulphides are common and there are occasional vesicular Ni- and S-bearing mafic silicates of hydrous phyllosilicate origin. A single sodium aluminosilicate residue and one Fe Ni metal residue were found; as well as enigmatic Mg- and S-bearing residues, all considered as probably of micrometeoroid origin. A few Fe-, O- and C-bearing residues were classified as of ambiguous origin. (c) 2005 Published by Elsevier Ltd on behalf of COSPAR.
+C1 Nat Hist Museum, Dept Mineral, London SW7 5BD, England.
+   Estec, ESA, NL-2200 AG Noordwijk, Netherlands.
+   Open Univ, Planetary & Space Res Inst, Milton Keynes MK7 6AA, Bucks, England.
+   DESP, ONERA, F-31055 Toulouse, France.
+RP Kearsley, AT (reprint author), Nat Hist Museum, Dept Mineral, Exhibit Rd, London SW7 5BD, England.
+EM antk@nhm.ac.uk
+CR Brearley A. J., 1998, REV MINERAL, V36
+   FOMENKOVA MN, 1994, GEOCHIM COSMOCHIM AC, V58, P4503, DOI 10.1016/0016-7037(94)90351-4
+   Graham GA, 2000, ADV SPACE RES-SERIES, V25, P303, DOI 10.1016/S0273-1177(99)00948-5
+   Graham GA, 1999, ADV SPACE RES-SERIES, V23, P95, DOI 10.1016/S0273-1177(98)00235-X
+   Graham GA, 2001, INT J IMPACT ENG, V26, P263, DOI 10.1016/S0734-743X(01)00087-2
+   Graham GA, 1999, INT J IMPACT ENG, V23, P319, DOI 10.1016/S0734-743X(99)00083-4
+   GRAHAM GA, 2001, ESA SP PUBL, V473, P197
+   HERBERT MK, 1997, ESA SPEC PUB, V393, P169
+   Horz F, 2000, ICARUS, V147, P559, DOI 10.1006/icar.2000.6450
+   HORZ F, 2002, SPACE DEBRIS, V2, P51
+   Jenniskens P, 2000, ASTROPHYS J, V531, P1161, DOI 10.1086/308472
+   Kearsley AT, 2004, ADV SPACE RES, V34, P939, DOI 10.1016/j.asr.2003.01.020
+   KEARSLEY AT, 2004, UNPUB ADV SPACE  SEP
+   MESHCHERYAKOV SA, 1997, ESA SPEC PUB, V393, P257
+   Mittlefehldt D.W., 1998, REV MINERAL, V36, P4
+   SMITH C, 2000, LUNAR PLANET SCI, V31
+   ZOLENSKY ME, 1993, LDEF 69 MONTHS SPAC, P277
+NR 17
+TC 12
+Z9 12
+U1 1
+U2 6
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI KIDLINGTON
+PA THE BOULEVARD, LANGFORD LANE,, KIDLINGTON OX5 1GB, OXFORD, ENGLAND
+SN 0273-1177
+J9 ADV SPACE RES
+PY 2005
+VL 35
+IS 7
+BP 1254
+EP 1262
+DI 10.1016/j.asr.2005.05.049
+PG 9
+WC Engineering, Aerospace; Astronomy & Astrophysics; Geosciences,
+   Multidisciplinary; Meteorology & Atmospheric Sciences
+SC Engineering; Astronomy & Astrophysics; Geology; Meteorology &
+   Atmospheric Sciences
+GA BDA59
+UT WOS:000232300700007
+OA No
+DA 2017-09-27
+ER
+
+
+PT S
+AU Johnson, NL
+AF Johnson, NL
+BE Anselmo, L
+TI Space debris mitigation strategies and practices in geosynchronous
+   transfer orbits
+SO SPACE DEBRIS
+SE ADVANCES IN SPACE RESEARCH
+LA English
+DT Article; Proceedings Paper
+CT Scientific Meeting on Space Debris held at the 35th COSPAR Scientific
+   Assembly
+CY JUL 22-24, 2004
+CL Paris, FRANCE
+SP European Space Agcy, Int Acad Astronaut, Int Astronaut Federat, Int Astron Union, UN Off Outer Space Affairs
+DE space debris; mitigation; geosynchronous transfer orbit
+AB Missions to geosynchronous orbits remain one of the most important elements of space launch traffic, accounting for 40% of all missions to Earth orbit and beyond during the four-year period 2000-2003. The vast majority of these missions leave one or more objects in geosynchronous transfer orbits (GTOs), contributing oil a short-term or long-term basis to the space debris population. National and international space debris mitigation guidelines seek to curtail the accumulation of debris in orbits which penetrate the regions of low Earth orbit and of geosynchronous orbit. The orbital lifetime of objects in GTO can be greatly influenced by the initial values of perigee, inclination, and right ascension of the orbital plane, leading to orbital lifetimes of from less than one month to more than 100 years. An examination of the characteristic GTOs employed by launch vehicles from around the world has been conducted. The consequences of using perigees above 300 km and super-synchronous apogees, typically above 40,000 km, have been identified. In addition, the differences in orbital behavior of launch vehicle stages and mission-related debris in GTOs have been investigated. Greater coordination and cooperation between space launch service providers and spacecraft designers and owners could significantly improve overall compliance with guidelines to mitigate the accumulation of debris in Earth orbit. Published by Elsevier Ltd on behalf of COSPAR.
+C1 NASA, Lyndon B Johnson Space Ctr, Orbital Debris Program Off, Houston, TX 77058 USA.
+RP Johnson, NL (reprint author), NASA, Lyndon B Johnson Space Ctr, Orbital Debris Program Off, 2101 NASA Pkwy, Houston, TX 77058 USA.
+EM nicholas.l.johnson@nasa.gov
+CR BONNAL C, 1997, P 2 EUR C SPAC DEBR, P681
+   CHERNYAVSKIY GM, 1993, P 1 EUR C SPAC DEBR, P575
+   EICHLER P, 1998, POSTMISSION DISPOSAL
+   *IADC SPAC DEBR MI, 2002, IADC0201 IADC SPAC D
+   JOHNSON NL, 1982, JBIS-J BRIT INTERPLA, P450
+NR 5
+TC 1
+Z9 1
+U1 0
+U2 1
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI KIDLINGTON
+PA THE BOULEVARD, LANGFORD LANE,, KIDLINGTON OX5 1GB, OXFORD, ENGLAND
+SN 0273-1177
+J9 ADV SPACE RES
+PY 2005
+VL 35
+IS 7
+BP 1328
+EP 1334
+DI 10.1016/j.asr.2004.11.037
+PG 7
+WC Engineering, Aerospace; Astronomy & Astrophysics; Geosciences,
+   Multidisciplinary; Meteorology & Atmospheric Sciences
+SC Engineering; Astronomy & Astrophysics; Geology; Meteorology &
+   Atmospheric Sciences
+GA BDA59
+UT WOS:000232300700016
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Burchett, BT
+AF Burchett, BT
+TI Fuzzy logic trajectory design and guidance for terminal area energy
+   management
+SO JOURNAL OF SPACECRAFT AND ROCKETS
+LA English
+DT Article
+AB The second-generation reusable launch vehicle will incorporate sophisticated new guidance and control methods to increase the system's flexibility, in particular making it a practical vehicle for unmanned cargo missions. This project focuses on trajectory design and guidance for the terminal area energy management phase of flight, where traditional methods have produced limited results. Fuzzy logic methods are used to make onboard autonomous gliding return trajectory design robust to the possibility of control surface failures, thus, increasing the flexibility of unmanned gliding recovery and landing. Fuzzy inference systems are used to design the trajectory and provide guidance commands for the vehicle bank angle and negative z axis acceleration. Fuzzy logic provides a practical means of incorporating conflicting objectives and constraints in choosing trajectory parameters. The method has the flexibility to choose these parameters from a continuum of possible values. The design is validated using a high-fidelity six-degree-of-freedom simulation of the X-33 technology demonstrator.
+C1 Rose Hulman Inst Technol, Dept Mech Engn, Terre Haute, IN 47803 USA.
+RP Burchett, BT (reprint author), Rose Hulman Inst Technol, Dept Mech Engn, Terre Haute, IN 47803 USA.
+CR Barton GH, 2001, ADV ASTRONAUT SCI, V107, P193
+   Barton G.H., 1999, 994161 AIAA
+   GIRERD A, 2000, 20003960 AIAA
+   Grantham K., 2003, 20030305 AIAA
+   Hanson JM, 2003, AEROSPACE AM, V41, P36
+   Hanson J.M., 1998, 984409 AIAA
+   JAMSHIDI M, 2003, GENETIC ALGORITHMS R, P199
+   Larkin L I, 1985, IND APPL FUZZY CONTR, P87
+   LEE CC, 1990, IEEE T SYST MAN CYB, V20, P404, DOI 10.1109/21.52551
+   MCCARTER J, 1999, NASAMSFCTD54
+   MOORE TE, 1991, 104744 NASA TM
+   *URL, 2000, 11217 URL, V1
+   VANMISES R, 1959, THEORY FLIGHT, P9
+   VINH NX, 1981, OPTIMAL TRAJECTORIES, pCH3
+NR 14
+TC 10
+Z9 10
+U1 0
+U2 3
+PU AMER INST AERONAUT ASTRONAUT
+PI RESTON
+PA 1801 ALEXANDER BELL DRIVE, STE 500, RESTON, VA 22091-4344 USA
+SN 0022-4650
+J9 J SPACECRAFT ROCKETS
+JI J. Spacecr. Rockets
+PD MAY-JUN
+PY 2004
+VL 41
+IS 3
+BP 444
+EP 450
+DI 10.2514/1.10938
+PG 7
+WC Engineering, Aerospace
+SC Engineering
+GA 830DM
+UT WOS:000222101800021
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Suresh, BN
+   Sivan, K
+AF Suresh, BN
+   Sivan, K
+TI Performance evaluation of multi-sensor data-fusion systems in launch
+   vehicles
+SO SADHANA-ACADEMY PROCEEDINGS IN ENGINEERING SCIENCES
+LA English
+DT Article
+DE multi-sensor data-fusion systems; launch vehicles; satellite injection;
+   redundancy management
+AB In this paper, the utilization of multi-sensors of different types, their characteristics, and their data-fusion in launch vehicles to achieve the goal of injecting the satellite into a precise orbit is explained. Performance requirements of sensors and their redundancy management in a typical launch vehicle are also included. The role of an integrated system level-test bed for evaluating multi-sensors and mission performance in a typical launch vehicle mission is described. Some of the typical simulation results to evaluate the effect of the sensors on the overall system are highlighted.
+C1 Vikram Sarabhai Space Ctr, Trivandrum 695022, Kerala, India.
+RP Suresh, BN (reprint author), Vikram Sarabhai Space Ctr, Trivandrum 695022, Kerala, India.
+EM bn_suresh@vssc.org
+CR CHIDAMBARAM TR, 2002, P NAT WORKSH NAV SYS
+   CHIDAMBARAM TR, 1996, P NAT WORKSH FLIGHT
+   CHIDAMBARAM TR, 1996, J AEROSP SOC INDIA, V48, P331
+   GUPTA AK, 2002, P NAT WORKSH NAV SYS
+   PURI SN, 2002, P NAT WORKSH NAV SYS
+   SHUKKOOR AA, 2000, P NAT WORKSH AER FLI
+   SIVAN K, 2000, P 24 NAT SYST C BANG, P62
+   SIVAN K, 2000, P NAT WORKSH AER FLI
+NR 8
+TC 1
+Z9 1
+U1 0
+U2 2
+PU INDIAN ACADEMY SCIENCES
+PI BANGALORE
+PA C V RAMAN AVENUE, SADASHIVANAGAR, P B #8005, BANGALORE 560 080, INDIA
+SN 0256-2499
+J9 SADHANA-ACAD P ENG S
+JI Sadhana-Acad. Proc. Eng. Sci.
+PD APR
+PY 2004
+VL 29
+BP 175
+EP 188
+DI 10.1007/BF02703730
+PN 2
+PG 14
+WC Engineering, Multidisciplinary
+SC Engineering
+GA 820TF
+UT WOS:000221411500003
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Mueller, GE
+   Kohrs, D
+   Bailey, R
+   Lai, G
+AF Mueller, GE
+   Kohrs, D
+   Bailey, R
+   Lai, G
+TI Autonomous safety and reliability features of the K-1 avionics system
+SO ACTA ASTRONAUTICA
+LA English
+DT Article
+AB Kistler Aerospace Corporation is developing the K-1, a fully reusable, two-stage-to-orbit launch vehicle. Both stages return to the launch site using parachutes and airbags. Initial flight operations will occur from Woomera, Australia. K-I guidance is performed autonomously. Each stage of the K-I employs a triplex, fault tolerant avionics architecture, including three fault tolerant computers and three radiation hardened Embedded GPS/INS units with a hardware voter. The K-1 has an Integrated Vehicle Health Management (IVHM) system on each stage residing in the three vehicle computers based on similar systems in commercial aircraft. During first-stage ascent, the IVHM system performs an Instantaneous Impact Prediction (IIP) calculation 25 times per second, initiating an abort in the event the vehicle is outside a predetermined safety corridor for at least 3 consecutive calculations. In this event, commands are issued to terminate thrust, separate the stages, dump all propellant in the first-stage, and initiate a normal landing sequence. The second-stage flight computer calculates its ability to reach orbit along its state vector, initiating an abort sequence similar to the first stage if it cannot. On a nominal mission, following separation, the second-stage also performs calculations to assure its impact point is within a safety corridor.
+   The K-1's guidance and control design is being tested through simulation with hardware-in-the-loop at Draper Laboratory. Kistler's verification strategy assures reliable and safe operation of the K-1. (C) 2003 Kistler Aerospace Corporation. Published by Elsevier Ltd. All rights reserved.
+C1 Kistler Aerosp Corp, Kirkland, WA 98033 USA.
+RP Mueller, GE (reprint author), Kistler Aerosp Corp, 3760 Carillon Point, Kirkland, WA 98033 USA.
+CR *NAT AC SCI NAT RE, 2000, COMM SPAC LAUNCH RAN
+   *NAT TOX PROGR, 2000, SOD FLUOR, P33
+   2000, FED REG, V65, P56618
+   2000, FED REG, V65, P56628
+NR 4
+TC 2
+Z9 2
+U1 2
+U2 7
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0094-5765
+J9 ACTA ASTRONAUT
+JI Acta Astronaut.
+PD MAR
+PY 2004
+VL 54
+IS 5
+BP 363
+EP 370
+DI 10.1016/S0094-5765(03)00032-8
+PG 8
+WC Engineering, Aerospace
+SC Engineering
+GA 770CH
+UT WOS:000188705300007
+OA No
+DA 2017-09-27
+ER
+
+
+PT S
+AU Datta, K
+   Squires, D
+AF Datta, K
+   Squires, D
+GP IEEE
+TI A methodology to quantify some IVHM requirements during RLV conceptual
+   design
+SO ANNUAL RELIABILITY AND MAINTAINABILITY SYMPOSIUM, 2004 PROCEEDINGS
+SE PROCEEDINGS : ANNUAL RELIABILITY AND MAINTAINABILITY SYMPOSIUM
+LA English
+DT Article; Proceedings Paper
+CT 50th Annual Reliability and Maintainability Symposium (RAMS)
+CY JAN 26-FEB 29, 2004
+CL Los Angeles, CA
+SP SAE, IEEE, IIE, SLE, Soc Reliab Engineers, IEST, AIAA, Syst Safety Soc
+DE requirement; allocation; Integrated Vehicle Health Management; loss of
+   mission; loss of vehicle; maintenance
+AB Based on high level safety and cost requirements, system architects and subsystem engineers are called upon to provide requirements at a lower level during the conceptual design phase of a Reusable Launch Vehicle (RLV). This paper describes an event tree based methodology for quantitatively assessing the limits of some of the lower-level Integrated Vehicle Health Management (IVHM) requirements during RLV conceptual design. The metrics assessed in the paper are fault detection coverage, false alarm probability, fault isolation capability, probability of IVHM failing to detect a fault, and safety allocation. The fault detection and isolation metrics were assessed based on their applicability with respect to cost and safety in the mission and turnaround phase of the RLV operations. The paper shows that the mission-phase requirement for IVHM fault detection coverage for a subsystem is large (more stringent) when IVHM needs to make the subsystem safer, the failure remediation probability is small, and the subsystem is already reliable. The requirement on IVHM false alarm rate in the mission phase is small (more stringent) when the subsystem is reliable, IVHM needs to make the subsystem safer, and IVHM should cause fewer false aborts.
+   The paper concludes by stressing the use of appropriate system analysis and optimization in allocating IVHM requirements to a subsystem of the RLV. Although the paper is written from an IVHM and RLV perspective, it is targeted towards system engineers/architects who are interested in estimating the effects of fault detection and isolation requirements during conceptual design.
+C1 NASA, Ames Res Ctr, Moffett Field, CA 94035 USA.
+   Jacobs Sverdup Ames R&D Grp, Moffett Field, CA 94035 USA.
+RP Datta, K (reprint author), NASA, Ames Res Ctr, MS 218-7, Moffett Field, CA 94035 USA.
+EM kdatta@mail.arc.nasa.gov; dsquires@mail.arc.nasa.gov
+CR BAROTH E, 2001, AIAA 2001 3523 37 JO
+   FOX JJ, 2000, 2000 IEEE AER C P 18, V2, P179, DOI 10.1109/AERO.2000.878223
+   JONES JV, 1989, LOGISTIC SUPPORT ANA
+   *NASA, 2001, INTRO NASAS INT SPAC
+   RAO SS, 1992, RELIABILIT BASED DES
+   WHITE JA, 1977, PRINCIPLES ENG EC AN
+   YATES WD, 1995, P A REL MAI, P193, DOI 10.1109/RAMS.1995.513245
+NR 7
+TC 1
+Z9 1
+U1 2
+U2 4
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN 0149-144X
+BN 0-7803-8215-3
+J9 P A REL MAI
+PY 2004
+BP 485
+EP 491
+DI 10.1109/RAMS.2004.1285495
+PG 7
+WC Engineering, Multidisciplinary
+SC Engineering
+GA BY64B
+UT WOS:000189427800082
+OA No
+DA 2017-09-27
+ER
+
+
+PT S
+AU Packard, MH
+   Zampino, EJ
+AF Packard, MH
+   Zampino, EJ
+GP IEEE
+TI Probabilistic risk assessment (PRA) approach for the Next Generation
+   Launch Technology (NGLT) Program Turbine-Based Combined Cycle (TBCC)
+   Architecture 6 launch vehicle
+SO ANNUAL RELIABILITY AND MAINTAINABILITY SYMPOSIUM, 2004 PROCEEDINGS
+SE PROCEEDINGS : ANNUAL RELIABILITY AND MAINTAINABILITY SYMPOSIUM
+LA English
+DT Article; Proceedings Paper
+CT 50th Annual Reliability and Maintainability Symposium (RAMS)
+CY JAN 26-FEB 29, 2004
+CL Los Angeles, CA
+SP SAE, IEEE, IIE, SLE, Soc Reliab Engineers, IEST, AIAA, Syst Safety Soc
+DE event sequence diagrams; mission map; reliability analysis;
+   probabilistic design methods; probabilistic risk assessment;
+   rocket-based combined cycle; systems architecture; turbine-based
+   combined cycle; system effectiveness
+AB The NASA Next Generation Launch Technology (NGLT) Program is evaluating various concepts for less expensive and reduced-risk access to space. Critical to these goals are more reliable and easily maintained vehicles, with high fidelity Integrated Vehicle Health Management (IVHM) systems, rapid turn-around time and dual-use technology. The initial application of Probabilistic Risk Assessment (PRA) on the Turbine-Based Combined Cycle (TBCC) Architecture 6 Concept has helped to define key assumptions necessary to make the development of the Architecture 6 concept successful. While the final figures of merit (FOMs) will be based on successfully developing and testing the vehicle, preliminary FOMs can be used now for basic trades between propulsion and staging concepts, thus providing a valuable tool to evaluate the overall trade space between highly divergent concepts. Reliability analysis, Probabilistic Design Methods (PDM), and Probabilistic Risk Assessment can be integrated to evaluate overall systems architecture, a complete mission model, and a fleet logistics model. In addition, the PRA may be used to evaluate and compare a high and low energy crew escape system.
+C1 Sci Applicat Int Corp, NASA, Glenn Res Ctr Lewis Field, Cleveland, OH 44135 USA.
+RP Packard, MH (reprint author), Sci Applicat Int Corp, NASA, Glenn Res Ctr Lewis Field, 21000 Brookpk Rd,MS 501-4, Cleveland, OH 44135 USA.
+EM Michael.Packard@grc.nasa.gov; Edward.Zampino@grc.nasa.gov
+CR BARTOLOTTA P, 2002, UNPUB NASAS ADV SPAC
+   BARTOLOTTA P, 2002, 38 AIAA ASME SAE ASE
+   GARRETT H, 2003, UNPUB ULTRARELIABILI
+   LALLI V, 2000, UNPUB EFFECTIENESS E
+   (NASA) Planning, 1998, NASASTD87291
+   *NASA, 2003, FS20020761LARCJULY N
+   *NASA HEADQ, 2002, NPG 8715 3 NASA SAF
+   SAFIE FM, 2002, JOINT ESA NASA SPAC
+NR 8
+TC 0
+Z9 0
+U1 1
+U2 7
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN 0149-144X
+BN 0-7803-8215-3
+J9 P A REL MAI
+PY 2004
+BP 604
+EP 609
+DI 10.1109/RAMS.2004.1285513
+PG 6
+WC Engineering, Multidisciplinary
+SC Engineering
+GA BY64B
+UT WOS:000189427800100
+OA No
+DA 2017-09-27
+ER
+
+
+PT S
+AU Bandyopadhyay, P
+   Sharma, RK
+   Adimurthy, V
+AF Bandyopadhyay, P
+   Sharma, RK
+   Adimurthy, V
+BE Flury, W
+   Klinkrad, H
+TI Space debris proximity analysis in powered and orbital phases during
+   satellite launch
+SO SPACE DEBRIS
+SE ADVANCES IN SPACE RESEARCH
+LA English
+DT Article; Proceedings Paper
+CT 2nd World Space Congress/34th COSPAR Scientific Assembly
+CY OCT 10-19, 2002
+CL HOUSTON, TX
+SP Comm Space Res
+DE space debris; space debris proximity analysis; satellite launches;
+   powered and orbital phases; SGP4/SDP4
+AB This paper describes the methodology of the space debris proximity analysis in powered and orbital phase at the time of a satellite launch. The details of the SPADEPRO analysis package, developed for this purpose, are presented. It consists of modules which provide the functions related to ephemeris generation and reconstruction of primary object (launch vehicle or its payload upon insertion), determination of close approaches with resident space objects, computation of the state vector variance of the primary and the secondary objects to represent the knowledge uncertainty, and computation of the collision risk given the variance. This has been successfully applied during the recent launches of the Indian Space Research Organization. (C) 2004 COSPAR. Published by Elsevier Ltd. All rights reserved.
+C1 Vikram Sarabhai Space Ctr, Trivandrum 695022, Kerala, India.
+RP Adimurthy, V (reprint author), Vikram Sarabhai Space Ctr, Trivandrum 695022, Kerala, India.
+EM v_adimurthy@vssc.org
+CR BOLLENBACHER G, 1999, NASATP1999208852
+   BREDVIK GD, 1991, ADV ASTRONAUTICAL SC, V76, P345
+   Chobotov Vladimir, 1996, ORBITAL MECH
+   HOOTS FR, 1984, CELESTIAL MECH, V33, P143, DOI 10.1007/BF01234152
+   Woodburn J, 1998, ADV ASTRONAUT SCI, V99, P523
+NR 5
+TC 4
+Z9 4
+U1 0
+U2 2
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI KIDLINGTON
+PA THE BOULEVARD, LANGFORD LANE,, KIDLINGTON OX5 1GB, OXFORD, ENGLAND
+SN 0273-1177
+J9 ADV SPACE RES
+PY 2004
+VL 34
+IS 5
+SI 2004
+BP 1125
+EP 1129
+DI 10.1016/j.asr.2003.10.043
+PG 5
+WC Engineering, Aerospace; Astronomy & Astrophysics; Geosciences,
+   Multidisciplinary; Meteorology & Atmospheric Sciences
+SC Engineering; Astronomy & Astrophysics; Geology; Meteorology &
+   Atmospheric Sciences
+GA BAU50
+UT WOS:000223619400040
+OA No
+DA 2017-09-27
+ER
+
+
+PT S
+AU Bandyopadhyay, P
+   Sharma, RK
+   Adimurthy, V
+AF Bandyopadhyay, P
+   Sharma, RK
+   Adimurthy, V
+BE Flury, W
+   Klinkrad, H
+TI A method of calculating fragment velocity additions for the analysis of
+   the breakup of a launch vehicle upper stage
+SO SPACE DEBRIS
+SE ADVANCES IN SPACE RESEARCH
+LA English
+DT Article; Proceedings Paper
+CT 2nd World Space Congress/34th COSPAR Scientific Assembly
+CY OCT 10-19, 2002
+CL HOUSTON, TX
+SP Comm Space Res
+DE space debris; orbital breakup event; fragment velocity additions
+AB The estimation of velocity changes in an orbital breakup event of any space object is an important activity in the field of space debris. There are various methods described in the literature to estimate velocity additions. In one method, the normal, radial and tangential components of fragment velocity additions are estimated from the differences in semi-major axis, eccentricity and inclination with respect to those of parent object. Unfortunately, when the parent orbit has small eccentricity or the breakup occurs either near apogee or near perigee, the computation of radial component of velocity increment encounters a singularity and hence is prone to errors because of imperfect orbital element data. In another method, velocity increments are estimated from semi-major axis, eccentricity, inclination, right ascension of the ascending node and true anomaly of fragments as well as parent at the time of breakup. It is very difficult to obtain the true anomaly of the fragments at the time of breakup by propagating the element sets of debris pieces backward in time owing to uncertainties in orbital elements and drag parameters. Moreover, whenever the apogee of the fragment orbit becomes less than the perigee of the parent orbit due to various perturbations or errors, this method does not yield any solution for the radial component of the velocity increment. In this paper, first, a linear method is described to estimate the components of velocity addition, utilizing relations involving the differences in semi-major axis, eccentricity, inclination and argument of perigee in a particular combination and sequence, which avoids the singularity in the computation. Later, a fully nonlinear method to obtain velocity additions without any assumption is presented, which is found to be superior to any of the methods described in the literature so far. (C) 2004 COSPAR. Published by Elsevier Ltd. All rights reserved.
+C1 Vikram Sarabhai Space Ctr, Trivandrum 695022, Kerala, India.
+RP Adimurthy, V (reprint author), Vikram Sarabhai Space Ctr, Trivandrum 695022, Kerala, India.
+EM v_adimurthy@vssc.org
+CR JOHNSON NL, 1987, ARTIFICIAL SPACE DEB, P53
+   MEIROVITCH L, 1970, METHODS ANAL DYNAMIC, P456
+   MILLER JG, 1999, ADV ASTRONAUTICAL SC, V103, P2257
+NR 3
+TC 1
+Z9 2
+U1 0
+U2 2
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI KIDLINGTON
+PA THE BOULEVARD, LANGFORD LANE,, KIDLINGTON OX5 1GB, OXFORD, ENGLAND
+SN 0273-1177
+J9 ADV SPACE RES
+PY 2004
+VL 34
+IS 5
+SI 2004
+BP 1246
+EP 1250
+DI 10.1016/j.asr.2003.10.042
+PG 5
+WC Engineering, Aerospace; Astronomy & Astrophysics; Geosciences,
+   Multidisciplinary; Meteorology & Atmospheric Sciences
+SC Engineering; Astronomy & Astrophysics; Geology; Meteorology &
+   Atmospheric Sciences
+GA BAU50
+UT WOS:000223619400061
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Sherali, HD
+   Staats, RW
+   Trani, AA
+AF Sherali, HD
+   Staats, RW
+   Trani, AA
+TI An airspace planning and collaborative decision-making model: Part I -
+   Probabilistic conflicts, workload, and equity considerations
+SO TRANSPORTATION SCIENCE
+LA English
+DT Article
+ID FREE-FLIGHT
+AB We present a large-scale, airspace planning and collaborative decision-making model (APCDM) to enhance the management of the U.S. National Airspace System (NAS). Given a set of flights that must be scheduled during some planning horizon, along with alternative surrogate trajectories for each flight as prompted by various airspace restriction scenarios imposed by dynamic severe weather systems or space launch special use airspaces (SUA), we develop a mixed-integer programming model to select a set of flight plans from among these alternatives, subject to flight safety, air traffic control workload, and airline equity constraints. The model includes a three-dimensional probabilistic conflict analysis, the derivation of valid inequalities, the development of air traffic control workload metrics, and the consideration of equity among airline carriers in absorbing costs related to rerouting, delays, and possible cancellations. The resulting APCDM model has potential use for both tactical and strategic applications, such as air traffic control in response to severe weather phenomena or spacecraft launches, FAA policy evaluation (separation standards, workload restrictions, sectorization. strategies), Homeland Defense contingency planning, and military air campaign planning. The model can also serve a useful role in augmenting the FANS National Playbook of standardized flight profiles in different disruption-prone regions of the national airspace. The present paper focuses on the theory and model development; Part II of this paper will address model parameter estimations and implementation test results.
+C1 Virginia Polytech Inst & State Univ, Grado Dept Ind & Syst Engn 0118, Blacksburg, VA 24061 USA.
+   Virginia Polytech Inst & State Univ, Jr Dept Civil & Environm Engn 0105, Blacksburg, VA 24061 USA.
+   USAF, Dept Operat Sci, Wright Patterson AFB, OH 45433 USA.
+RP Sherali, HD (reprint author), Virginia Polytech Inst & State Univ, Grado Dept Ind & Syst Engn 0118, Blacksburg, VA 24061 USA.
+CR Bakker G., 2000, P 3 US EUR AIR TRAFF
+   Ball M., 2000, P 3 US EUR AIR TRAFF
+   BALL M, 1998, RR993 NEXTOR U MAR
+   Bertsimas D, 1998, OPER RES, V46, P406, DOI 10.1287/opre.46.3.406
+   Carlson PM, 2000, TRANSPORT SCI, V34, P381, DOI 10.1287/trsc.34.4.381.12323
+   Chang K, 2001, INTERFACES, V31, P57, DOI 10.1287/inte.31.1.57.9689
+   CRAWLEY J, 2001, REUTERS NEWS SE 0616
+   DOWNER R, 2001, COMMUNICATION
+   Erzberger H, 1997, P 1 US EUR AIR TRAFF
+   *FED AV ADM, 2003, NAT SEV WEATH PLAYB
+   HANSEN M, 2002, DYNAMIC ROUTING AIRC
+   KEAGAN C, 2003, NEXTOR C AIR TRAFF M
+   Kirkwood C. W., 1997, NOTES ATTITUDE RISK
+   LUSS H, 1999, OPER RES, V47, P461
+   PAIELLI R, 1999, AIR TRAFFIC CONTROL, P7
+   Paielli RA, 1997, J GUID CONTROL DYNAM, V20, P588, DOI 10.2514/2.4081
+   Reich P. G., 1966, J NAVIGATION, V19, P88
+   Sherali HD, 2000, TRANSPORT SCI, V34, P321, DOI 10.1287/trsc.34.4.321.12326
+   Sherali HD, 2002, TRANSPORT SCI, V36, P378, DOI 10.1287/trsc.36.4.378.546
+   SHERALI HD, 2003, IN PRESS MATH PROGRA
+   SHERALI HD, 1994, DIMACS SERIES DISCRE, V16, P343
+   Turner W.-C., 1993, INTRO IND SYSTEMS EN
+   VOSSEN T, 2001, OPTIMIZATION MEDIATE
+   Wambsganss M. C., 1996, AIR TRAFFIC CONTROL, V4, P107
+   Young H. P., 1994, EQUITY THEORY PRACTI
+NR 25
+TC 21
+Z9 23
+U1 1
+U2 15
+PU INST OPERATIONS RESEARCH  MANAGEMENT SCIENCES
+PI LINTHICUM HTS
+PA 901 ELKRIDGE LANDING RD, STE 400, LINTHICUM HTS, MD 21090-2909 USA
+SN 0041-1655
+J9 TRANSPORT SCI
+JI Transp. Sci.
+PD NOV
+PY 2003
+VL 37
+IS 4
+BP 434
+EP 456
+DI 10.1287/trsc.37.4.434.23272
+PG 23
+WC Operations Research & Management Science; Transportation; Transportation
+   Science & Technology
+SC Operations Research & Management Science; Transportation
+GA 751ZX
+UT WOS:000187122400007
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Psiaki, ML
+   Oshman, Y
+AF Psiaki, ML
+   Oshman, Y
+TI Spacecraft attitude rate estimation from geomagnetic field measurements
+SO JOURNAL OF GUIDANCE CONTROL AND DYNAMICS
+LA English
+DT Article
+ID ANGULAR-RATE ESTIMATION
+AB Methods are developed for estimating the rotation rate of a spacecraft using only measured magnetic field data. The goal is to provide rate information for use in applications such as detumbling, nutation damping, and momentum management without using gyroscopes. Two algorithms are developed, a deterministic algorithm and an extended Kalman filter. Both algorithms employ the magnetic field direction kinematics equation and Euler's equation for attitude motion of a rigid body with momentum wheels. Neither algorithm requires a model of the Earth's magnetic field. The deterministic algorithm solves a nonlinear least-squares problem for the unknown angular momentum component along the magnetic field direction. The extended Kalman filter estimates the attitude rate vector, corrections to five of the six inertia matrix elements, and two error states of the measured magnetic field direction. It uses an initial rate estimate from the deterministic algorithm to avoid divergence. The algorithms have been tested using data from a spinning sounding rocket. They achieve initial accuracies in the range 2-7 deg/s when the rocket spins at about 80 deg/s, and their accuracies improve to 1-2 deg/s after the spin rate decays to 20 deg/s. These results indicate a lower bound on the ratio of the error to the nominal spin rate, which suggests that dynamic modeling error is the dominant source of uncertainty.
+C1 Cornell Univ, Sibley Sch Mech & Aerosp Engn, Ithaca, NY 14853 USA.
+   Technion Israel Inst Technol, Dept Aerosp Engn, IL-32000 Haifa, Israel.
+RP Psiaki, ML (reprint author), Cornell Univ, Sibley Sch Mech & Aerosp Engn, Ithaca, NY 14853 USA.
+RI Psiaki, Mark/A-6009-2011
+CR Azor R, 2001, J GUID CONTROL DYNAM, V24, P436, DOI 10.2514/2.4759
+   Azor R, 1998, J GUID CONTROL DYNAM, V21, P450, DOI 10.2514/2.4257
+   Bar-Itzhack IY, 2001, J GUID CONTROL DYNAM, V24, P214, DOI 10.2514/2.4731
+   Bierman G., 1977, FACTORIZATION METHOD, P69
+   Challa M., 2000, P AIAA AAS ASTR SPEC, P311, DOI 10.2514/6.2000-4241
+   Challa M., 1997, P AIAA GUID NAV CONT, V2, P830
+   Harman RR, 1999, J GUID CONTROL DYNAM, V22, P723, DOI 10.2514/2.4442
+   LEFFERTS EJ, 1982, J GUID CONTROL DYNAM, V5, P417, DOI 10.2514/3.56190
+   OSHMAN Y, 2000, P AIAA AAS ASTR SPEC, P322
+   Psiaki ML, 1997, J GUID CONTROL DYNAM, V20, P1033, DOI 10.2514/2.4151
+   PSIAKI ML, 1990, J GUID CONTROL DYNAM, V13, P506, DOI 10.2514/3.25364
+   Psiaki ML, 2002, J GUID CONTROL DYNAM, V25, P88, DOI 10.2514/2.4853
+   Wertz J.R., 1978, SPACECRAFT ATTITUDE, p[414, 426]
+NR 13
+TC 17
+Z9 20
+U1 5
+U2 6
+PU AMER INST AERONAUT ASTRONAUT
+PI RESTON
+PA 1801 ALEXANDER BELL DRIVE, STE 500, RESTON, VA 22091 USA
+SN 0731-5090
+J9 J GUID CONTROL DYNAM
+JI J. Guid. Control Dyn.
+PD MAR-APR
+PY 2003
+VL 26
+IS 2
+BP 244
+EP 252
+DI 10.2514/2.5065
+PG 9
+WC Engineering, Aerospace; Instruments & Instrumentation
+SC Engineering; Instruments & Instrumentation
+GA 653QN
+UT WOS:000181448500006
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Bendisch, J
+   Krag, H
+   Rex, D
+   Wegener, P
+   Wiedemann, C
+   Klinkrad, H
+   Sdunnus, H
+AF Bendisch, J
+   Krag, H
+   Rex, D
+   Wegener, P
+   Wiedemann, C
+   Klinkrad, H
+   Sdunnus, H
+TI The consideration of non fragmentation debris in the master model
+SO ACTA ASTRONAUTICA
+LA English
+DT Article; Proceedings Paper
+CT 49th International Astronautical Congress
+CY SEP 28-OCT 02, 1998
+CL MELBOURNE, AUSTRALIA
+ID ENVIRONMENT; STREAMS
+AB The 1997 MASTER model (ESA's meteoroid and space debris terrestrial reference) considers man made objects due to historical launches and fragmentation debris larger than 100 mum. This paper addresses the improvements of the MASTER model by consideration of also non-fragmentation debris down to 1 mum in diameter. For this purpose, debris generated by solid rocket motor firings, surface degradation particles, impact ejecta, and NaK droplets released by nuclear reactors in space are currently being implemented in the model. All debris sources are considered from LEO up to the geosynchronous region. The new MASTER debris population is analysed in terms of the spatial distribution and resulting object flux, and it is compared with measurement data. Although the number of man-made objects represented in the model has been increased significantly, it is shown that the required resources to run the model are acceptable in terms of computer time and storage. The new model architecture, especially the parametric source term description, enables effective maintenance and model upgrade in response to ongoing debris measurements and source model improvements. The user branch of the MASTER model now provides a graphical interface for all platforms supported. (C) 2002 International Astronautical Federation. Published by Elsevier Science Ltd. All rights reserved.
+C1 Tech Univ Carolo Wilhelmina Braunschweig, Inst Flight Mech & Space Flight Technol, D-38106 Braunschweig, Germany.
+RP Bendisch, J (reprint author), Aerodata, Jorg Bendisch, Hermann Blenk Str 36, D-38108 Braunschweig, Germany.
+CR AKIBA R, 1990, BEHAV ALUMINA PARTIC, P90
+   Cour-Palais B.G., 1969, NASA
+   DIVINE N, 1993, J GEOPHYS RES-PLANET, V98, P17029, DOI 10.1029/93JE01203
+   GRINBERG EI, 1997, ESA, P273
+   JACKSON A, 1997, ESA, P279
+   JENNISKENS P, 1994, ASTRON ASTROPHYS, V287, P990
+   Kessler D, 1999, ADV SPACE RES, V23, P149, DOI 10.1016/S0273-1177(98)00241-5
+   MANDEVILLE JC, 1996, 45220001 ONERACERT
+   McBride N, 1997, ADV SPACE RES, V20, P1513, DOI 10.1016/S0273-1177(97)00428-6
+   MORTON TL, 107427 NASA
+   Mueller A.C., 1985, ADV SPACE RES, V5, P77, DOI 10.1016/0273-1177(85)90389-8
+   OJAKANGAS GW, 1996, J SPACECRAFT ROCKETS, V33
+   Settecerri TJ, 1999, ADV SPACE RES, V23, P13, DOI 10.1016/S0273-1177(98)00225-7
+   SHEEKS BJ, 1997, P SPAC CONTR C 27 MA
+   SIEBOLD K, 1993, P 1 EUR C SPAC DEBR, P349
+   Stansberry G, 1997, ACTA ASTRONAUT, V41, P53, DOI 10.1016/S0094-5765(97)00193-8
+   Staubach P., 1996, THESIS U HEIDELBERG
+   WIEDEMANN C, 2000, SPACE SAFETY RESCUE, V99
+NR 18
+TC 1
+Z9 1
+U1 1
+U2 4
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0094-5765
+J9 ACTA ASTRONAUT
+JI Acta Astronaut.
+PD MAY
+PY 2002
+VL 50
+IS 10
+BP 615
+EP 628
+AR PII S0094-5765(01)00217-X
+DI 10.1016/S0094-5765(01)00217-X
+PG 14
+WC Engineering, Aerospace
+SC Engineering
+GA 562LT
+UT WOS:000176198800004
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Valsecchi, GB
+   Rossi, A
+AF Valsecchi, GB
+   Rossi, A
+TI Analysis of the space debris impacts risk on the International Space
+   Station
+SO CELESTIAL MECHANICS & DYNAMICAL ASTRONOMY
+LA English
+DT Article
+DE space debris; impact risk; Opik's theory
+ID COLLISION
+AB Opik's analytical expressions relate in a simple way the semimajor axis, eccentricity and inclination of the projectile orbit to the magnitude and direction of the relative velocity vector at impact on a given target on circular orbit. These interesting quantities, along with the impact probability of any given projectile, can be all represented on a suitable projection giving a comprehensive picture of the impact risk on the selected target. By means of this theory a complete analysis of the impact risk on the International Space Station (ISS) is performed. It is found that the large majority of the debris population is on orbits such that a correlation exists between their impact velocity on the ISS and the angle between the velocity vector of the impactor and that of the ISS. The impactor population also is separated in terms of nature of the projectiles, with most of the low-medium velocity ones being particles related to solid rocket motor slag condensates. On the other hand, the highest velocity projectiles are composed mainly by fragments of past in-orbit explosions.
+   The flux of projectiles on the ISS has been calculated for the planned operative lifetime of the Station, by assuming a realistic scenario of the future debris environment evolution and the actual planned altitude profile for the ISS mission. There is a factor 2-3 variation of the flux due to the changing ISS altitude. The most dangerous part of the mission appears to be the central one, when the ISS will orbit at about 450 km above the Earth.
+C1 IASF, CNR, Area Ric Roma Tor Vergata, I-00133 Rome, Italy.
+RP Valsecchi, GB (reprint author), IASF, CNR, Area Ric Roma Tor Vergata, Via Fosso del Cavaliere, I-00133 Rome, Italy.
+RI Rossi, Alessandro/D-4408-2016
+OI Rossi, Alessandro/0000-0001-9311-2869; Valsecchi,
+   Giovanni/0000-0002-2915-1465
+CR KESSLER DJ, 1978, J GEOPHYS RES-SPACE, V83, P2637, DOI 10.1029/JA083iA06p02637
+   Klinkrad H, 2001, ADV SPACE RES, V28, P1355, DOI 10.1016/S0273-1177(01)00416-1
+   LIOU J, 2001, ESA, P309
+   Opik E.J., 1976, INTERPLANETARY ENCOU
+   Pardini C, 1996, ADV ASTRONAUT SCI, V90, P809
+   ROSSI A, 1992, ESA J-EUR SPACE AGEN, V16, P339
+   ROSSI A, 2002, IN PRESS J SPACECRAF
+   Southworth R., 1963, SMITHSON CONTRIB AST, V7, P261
+   THEALL J, 2001, COMMUNICATION
+   THEALL J, 2001, ESA, P429
+   Valsecchi G. B, 1999, SPACE DEBRIS, V1, P143, DOI 10.1023/a:1026568809585
+NR 11
+TC 4
+Z9 4
+U1 1
+U2 6
+PU KLUWER ACADEMIC PUBL
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0923-2958
+J9 CELEST MECH DYN ASTR
+JI Celest. Mech. Dyn. Astron.
+PD MAY
+PY 2002
+VL 83
+IS 1-4
+SI SI
+BP 63
+EP 76
+DI 10.1023/A:1020174528386
+PG 14
+WC Astronomy & Astrophysics; Mathematics, Interdisciplinary Applications
+SC Astronomy & Astrophysics; Mathematics
+GA 592PV
+UT WOS:000177946800005
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Laurant, F
+   Childs, DW
+AF Laurant, F
+   Childs, DW
+TI Measurements of rotordynamic coefficients of hybrid bearings with (a) a
+   plugged orifice, (b) a worn land surface
+SO JOURNAL OF ENGINEERING FOR GAS TURBINES AND POWER-TRANSACTIONS OF THE
+   ASME
+LA English
+DT Article; Proceedings Paper
+CT 45th International Gas Turbine and Aeroengine Congress and Exhibition
+CY MAY 08-11, 2000
+CL MUNICH, GERMANY
+ID HYDROSTATIC BEARINGS
+AB Test results are presented for the rotordynamic coefficients of a hybrid bearing that is representative of bearings for liquid-rocket-engine turbopump applications. The bearing is tested in the following two degraded conditions: (a) one of five orifices plugged, and (b) a locally enlarged clearance to simulate a worn condition. Test data are presented at 24,600 rpm, with supply pressures of 4.0, 5.5, and 7.0 MPa, and eccentricity ratios from 0.1 to 0.5 in 0.1 increments. Overall, the results suggest that neither a single plugged orifice nor significant wear on the bearing land will "disable" a well-designed hybrid bearing. These results do not speak to multiple plugged orifices and are not an endorsement for operations without filters to prevent plugging orifices.
+C1 Texas A&M Univ, Turbomachinery Lab, College Stn, TX 77843 USA.
+RP Laurant, F (reprint author), Texas A&M Univ, Turbomachinery Lab, College Stn, TX 77843 USA.
+CR CHILDS D, 1994, J TRIBOL-T ASME, V116, P337, DOI 10.1115/1.2927226
+   KURTIN KA, 1991, ASME J TRIBOL, V115, P160
+   LUND JW, 1966, ASME J APPL MECH, V27, P911
+   San Andres L, 1990, ASME, V112, P699
+   SANANDRES LA, 1992, J TRIBOL-T ASME, V114, P755, DOI 10.1115/1.2920945
+   Scharrer J.K., 1991, ASME J TRIBOL, V113, P210
+NR 6
+TC 22
+Z9 22
+U1 0
+U2 5
+PU ASME-AMER SOC MECHANICAL ENG
+PI NEW YORK
+PA THREE PARK AVE, NEW YORK, NY 10016-5990 USA
+SN 0742-4795
+J9 J ENG GAS TURB POWER
+JI J. Eng. Gas. Turbines Power-Trans. ASME
+PD APR
+PY 2002
+VL 124
+IS 2
+BP 363
+EP 368
+DI 10.1115/1.1403461
+PG 6
+WC Engineering, Mechanical
+SC Engineering
+GA 547MM
+UT WOS:000175336200018
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Ha, TW
+   Lee, YB
+   Kim, CH
+AF Ha, TW
+   Lee, YB
+   Kim, CH
+TI Leakage and rotordynamic analysis of a high pressure floating ring seal
+   in the turbo pump unit of a liquid rocket engine
+SO TRIBOLOGY INTERNATIONAL
+LA English
+DT Article
+DE floating ring seal; leakage; rotordynamic coefficients; eccentricity
+   ratio; turbo pump
+AB The floating ring seal is often used in an oxidizer and a fuel pump of the turbo pump unit in the liquid rocket engine because the floating ring seal has the ability to minimize clearance without rubbing phenomenon, For the analysis of performance and vibration characteristics of the turbo pump unit with floating ring seals, the exact prediction of the lock-up position of the floating ring is essential to evaluate the leakage and rotordynamic coefficients from the floating ring seal. The governing equations, which are based on the 'bulk-flow model', are derived from extending the eccentric annular plain seal analysis. The solution procedure is developed by using the Fast Fourier Transform Method of Nelson and Nguyen. The results of lock-up position, attitude angle of the floating ring, leakage flow rate, and rotordynamic coefficients are presented with operating conditions and geometric parameters of the floating ring seal for an example case. (C) 2002 Elsevier Science Ltd. All rights reserved.
+C1 Korea Inst Sci & Technol, Tribol Res Ctr, Songbuk Ku, Seoul 130650, South Korea.
+   Kyung Won Univ, Dept Mech Engn, Sujung Gu, Songnam 461701, Kyunggi Do, South Korea.
+RP Lee, YB (reprint author), Korea Inst Sci & Technol, Tribol Res Ctr, Songbuk Ku, 39-1 Hwawolkok Dong, Seoul 130650, South Korea.
+CR HA TW, 1988, KSME INT J, V12, P441
+   KIRK G, 1988, J TRIBOLOGY, V110, P572
+   KIRK G, 1986, P 15 TEX A M TURB S, P10
+   KIRK RG, 1979, ASLE TRANS, V22, P14
+   NELSON C, 1987, T ASME, V52, P1
+   NELSON CC, 1988, J TRIBOL-T ASME, V110, P361
+NR 6
+TC 14
+Z9 17
+U1 1
+U2 10
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0301-679X
+J9 TRIBOL INT
+JI Tribol. Int.
+PD MAR
+PY 2002
+VL 35
+IS 3
+BP 153
+EP 161
+AR PII S0301-679X(01)00110-4
+DI 10.1016/S0301-679X(01)00110-4
+PG 9
+WC Engineering, Mechanical
+SC Engineering
+GA 540EY
+UT WOS:000174917600004
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Brunton, D
+   Burnett, R
+   Lander, P
+   Bickers, R
+AF Brunton, D
+   Burnett, R
+   Lander, P
+   Bickers, R
+TI National Space Centre, Leicester - from storm tank to star dome
+SO PROCEEDINGS OF THE INSTITUTION OF CIVIL ENGINEERS-CIVIL ENGINEERING
+LA English
+DT Article
+DE land reclamation; site investigation; urban regeneration
+AB A 100 m long, disused urban storm tank built in the 1920s is now serving as the foundation for the UK's exciting new National Space Centre on the banks of the River Soar in Leicester. The Millennium Commission funded project has set a new benchmark for urban regeneration, not only for its skillful reuse of redundant infrastructure but also for its innovative approaches to structural design, internal climate control and contamination management. It features a 40 m high 'bubble-wrapped' rocket tower, a complex combination of naturally vented and air-conditioned internal spaces and a large, unden-vented car-parking area to cover the most contaminated parts of the site.
+C1 Natl Space Ctr, Leicester, Leics, England.
+   Arup, Salt Lake City, UT USA.
+RP Brunton, D (reprint author), Natl Space Ctr, Leicester, Leics, England.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU THOMAS TELFORD SERVICES LTD
+PI LONDON
+PA THOMAS TELFORD HOUSE, 1 HERON QUAY, LONDON E14 4JD, ENGLAND
+SN 0965-089X
+J9 P I CIVIL ENG-CIV EN
+JI Proc. Inst. Civil Eng.-Civil Eng.
+PD FEB
+PY 2002
+VL 150
+IS 1
+BP 15
+EP 21
+PG 7
+WC Engineering, Civil
+SC Engineering
+GA 534PE
+UT WOS:000174594100011
+OA No
+DA 2017-09-27
+ER
+
+
+PT S
+AU Newman, JS
+   Wander, SM
+AF Newman, JS
+   Wander, SM
+GP IEEE
+TI The knowledge path to mission success: Overview of the NASA PBMA-KMS
+SO ANNUAL RELIABILITY AND MAINTAINABILITY SYMPOSIUM, 2002 PROCEEDINGS
+SE PROCEEDINGS : ANNUAL RELIABILITY AND MAINTAINABILITY SYMPOSIUM
+LA English
+DT Article; Proceedings Paper
+CT Annual Reliability and Maintainability Symposium
+CY JAN 28-31, 2001
+CL SEATTLE, WASHINGTON
+SP IEEESAE, IIE, Soc Reliabil Engineers, IEST, SLE, RAMS
+DE knowledge management; risk management; systems engineering; safety;
+   mission success
+AB Mission success depends on proper integration of safety, risk management, and assurance processes throughout the project life-cycle. In the current government acquisition environment great emphasis is being placed on innovative contracting approaches that involve cooperative agreements, performance-based contracting, and contractor use of best practices. Thus, far fewer prescribed standards and specifications are involved in government acquisition today as compared to the early 1990's. Additionally, the shift from rule-based assurance management to knowledge-based approaches poses a separate set of challenges as clearly underscored in government and industry accident assessments and mishap investigations that followed a costly streak of launch vehicle and spacecraft failures in the late 1990 time frame. In response to these challenges the NASA Off-ice of Safety & Mission Assurance began development of the Process Based Mission Assurance Knowledge Management System (PBMA-K-MS) in mid 1999. The PBMA-KMS is a user-friendly, web-based system designed to support life-cycle safety and mission success management, This paper describes the PBMA-KMS functionality, operation, and plans for future growth. Aerospace professionals are encouraged to use the PBMA-KMS by participating in discipline oriented work groups, and contributing best practices, lessons teamed, and ideas for future functional enhancements.
+C1 NASA Headquarters, Off Safety & Mission Assurance, Washington, DC 20546 USA.
+RP Newman, JS (reprint author), NASA Headquarters, Off Safety & Mission Assurance, Washington, DC 20546 USA.
+CR Baldanza C., 2000, KNOWLEDGE MANAGEMENT
+   CALABRESE F, SUGGESTED FRAMEWORK
+   Prusak L., 1997, WORKING KNOWLEDGE
+   *DEF SYST MAN COLL, 1999, SYST ENG FUND DEC FO
+   Defense Systems Management College, 1999, SYST ENG FUND
+   DENNING S, 7 BASICS KNOWLEDGE M
+   NEWMAN JS, 50 INT ASTR C 4 8 OC
+   NEWMAN JS, 1997, LIFE CYCLE RISK MANA
+NR 8
+TC 0
+Z9 0
+U1 0
+U2 2
+PU I E E E
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN 0149-144X
+BN 0-7803-7348-0
+J9 P A REL MAI
+PY 2002
+BP 601
+EP 606
+DI 10.1109/RAMS.2002.981708
+PG 6
+WC Computer Science, Software Engineering; Engineering, Multidisciplinary;
+   Engineering, Electrical & Electronic
+SC Computer Science; Engineering
+GA BU19P
+UT WOS:000175295600099
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Graham, GA
+   McBride, N
+   Kearsley, AT
+   Drolshagen, G
+   Green, SF
+   McDonnell, JAM
+   Grady, MM
+   Wright, IP
+AF Graham, GA
+   McBride, N
+   Kearsley, AT
+   Drolshagen, G
+   Green, SF
+   McDonnell, JAM
+   Grady, MM
+   Wright, IP
+TI The chemistry of micrometeoroid and space debris remnants captured on
+   Hubble Space Telescope solar cells
+SO INTERNATIONAL JOURNAL OF IMPACT ENGINEERING
+LA English
+DT Article; Proceedings Paper
+CT Symposium on Hypervelocity Impact
+CY NOV 06-10, 2000
+CL GALVESTON, TEXAS
+DE space debris; micrometeoroid; hypervelocity impacts
+ID LOW-EARTH-ORBIT; IMPACTS
+AB Prior to the retrieval in 1993 from low Earth orbit (LEO), the " -V2" Solar Array wing of the Hubble Space Telescope was exposed to hypervelocity impacts (micrometre to millimetre scale) from both micrometeoroids and space debris. The initial survey of the damage (100-3500mum diameter sized craters) identified that micrometeoroid remnants dominated the flux in the 100-1000mum size regime, with debris dominating >1000mum. These residues were composed of remnants of silicate minerals, calcite, metal sulfides and metals that often appeared as complex poly-mineralic melts within melt pits. A further survey of 10-100mum diameter craters identified that the most common chemistry was space debris with the crossover from meteoroids to debris being at around 30mum D-CO. Residues include remnants of specialised steels and paint fragments but the dominant type is aluminium and aluminium oxide, which are almost certainly remnants of solid rocket motor operations. It is found that the relative contribution of debris as a function of size, agrees remarkably with a prediction derived using flux data from Long Duration Exposure Facility and a meteoroid model. (C) 2001 Elsevier Science Ltd. All rights reserved.
+C1 Open Univ, Planetary Sci Res Inst, Milton Keynes MK7 6AA, Bucks, England.
+   Oxford Brookes Univ, Sch Biol & Mol Sci, Space Sci Res Unit, Oxford OX3 0BP, England.
+   ESA, ESTEC, TOS EMA, NL-2201 AZ Noordwijk, Netherlands.
+   Nat Hist Museum, Dept Mineral, London SW7 5BD, England.
+RP Graham, GA (reprint author), Open Univ, Planetary Sci Res Inst, Walton Hall, Milton Keynes MK7 6AA, Bucks, England.
+RI Green, Simon/C-7408-2009
+OI Grady, Monica/0000-0002-4055-533X
+CR BARBER DJ, 1981, GEOCHIM COSMOCHIM AC, V45, P945, DOI 10.1016/0016-7037(81)90120-4
+   BERNHARD RP, 1993, LDEF 69 MONTHS SPACE, P541
+   BRADLEY JP, 1994, AM I PHYS C P, V310, P89
+   CASWELL RD, 1995, INT J IMPACT ENG, V17, P149
+   CRUTCHER ER, 1991, LDEF 69 MONTHS SPA 1, P141
+   DROLSHAGEN G, 1995, P HUBBL SPAC TEL ARR, P295
+   Gibson EK, 1998, METEORIT PLANET SCI, V33, pA57
+   Graham GA, 1999, METEORIT PLANET SCI, V34, pA47
+   Graham GA, 2000, ADV SPACE RES-SERIES, V25, P303, DOI 10.1016/S0273-1177(99)00948-5
+   Graham GA, 1999, INT J IMPACT ENG, V23, P319, DOI 10.1016/S0734-743X(99)00083-4
+   GRAHAM GA, 1997, ESA, P183
+   GRAHAM GA, 1997, THESIS OPEN U
+   GRUN E, 1985, ICARUS, V62, P244, DOI 10.1016/0019-1035(85)90121-6
+   Herbert M.K., 1997, ESA, P169
+   HIESS C, 1995, CHEM ANAL HYPERVELOC
+   HORZ F, 1998, LUNAR PLANET SCI, V29
+   Horz F., 1999, NASATM1999209372
+   KESSLER DJ, 1989, 100471 NASA TM
+   McBride N, 1999, ADV SPACE RES, V23, P73, DOI 10.1016/S0273-1177(98)00232-4
+   McBride N, 1999, PLANET SPACE SCI, V47, P1005, DOI 10.1016/S0032-0633(99)00023-9
+   MCDONNELL JAM, 2000, IN PRESS INT J IMPAC
+   Taylor EA, 1999, ADV SPACE RES, V23, P83, DOI 10.1016/S0273-1177(98)00233-6
+   *UN KENT, 1998, MET DEBR FLUX EJ MOD
+   Warren J. L., 1989, P 19 LUN PLAN SCI C, P641
+   WENTHWORTH SJ, 1988, LUNAR PLANET SCI, P1261
+   WRIGHT IP, 1995, IMPACTS HST SOLAR AR
+   ZOLENSKY ME, 1994, AIP C P, V310, P291
+   ZOLENSKY ME, 1993, LDEF 69 MONTHS SPAC, P277
+NR 28
+TC 27
+Z9 27
+U1 0
+U2 3
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0734-743X
+J9 INT J IMPACT ENG
+JI Int. J. Impact Eng.
+PD DEC
+PY 2001
+VL 26
+IS 1-10
+BP 263
+EP 274
+DI 10.1016/S0734-743X(01)00087-2
+PG 12
+WC Engineering, Mechanical; Mechanics
+SC Engineering; Mechanics
+GA 510ZN
+UT WOS:000173237600026
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Park, C
+   Mehta, UB
+   Bogdanoff, DW
+AF Park, C
+   Mehta, UB
+   Bogdanoff, DW
+TI Magnetohydrodynamics energy bypass scramjet performance with real gas
+   effects
+SO JOURNAL OF PROPULSION AND POWER
+LA English
+DT Article
+AB The theoretical performance of a scramjet propulsion system incorporating a magnetohydrodynamic (MHD) energy bypass scheme is calculated. The one-dimensional analysis developed earlier, in which the theoretical performance is calculated neglecting skin friction and using a sudden-freezing approximation for the nozzle flow, is modified to incorporate the method of Van Driest for turbulent skin friction and a finite-rate chemistry calculation in the nozzle. Unlike in the earlier design, in which four ramp compressions occurred in the pitch plane, in the present design the first two ramp compressions occur in the pitch plane, and the next two compressions occur in the yaw plane. The results for the simplified design of a spaceliner show that 1) skin friction substantially reduces thrust and specific impulse and 2) the specific impulse of the MHD-bypass system is still better than the non-MHD system and typical rocket over a range of flight speeds and design parameters. Results suggest that the energy management with MHD principles offers the possibility of improving the performance of the scramjet for the spaceliner application and for the globecruiser application. The technical issues needing further studies are identified.
+C1 NASA, Ames Res Ctr, Space Technol Div, Moffett Field, CA 94035 USA.
+   Eloret Corp, Sunnyvale, CA 94087 USA.
+   NASA, Ames Res Ctr, Reacting Flow Environm Branch, Moffett Field, CA 94035 USA.
+RP Park, C (reprint author), NASA, Ames Res Ctr, Space Technol Div, Mail Stop 229-1, Moffett Field, CA 94035 USA.
+CR Baulch D., 1972, EVALUATED KINETIC DA
+   BITYURIN VA, 1997, 972393 AIAA
+   Bose D, 1996, J CHEM PHYS, V104, P2825, DOI 10.1063/1.471106
+   CHASE RL, 1999, 994965 AIAA
+   Gurijanov E. P., 1996, 964609 AIAA
+   Hopkins E. J., 1972, D6945 NASA TN
+   *NASP HIGH SPEED P, 1989, HYP COMB KIN STAT RE
+   NOVICHOV N, 1992, EKHO PLANETARY, V42, P4
+   Park C, 2001, J PROPUL POWER, V17, P591, DOI 10.2514/2.5782
+   PARK C, 1990, NONEQUILIBRIUM HYPER, P267
+   VANDRIEST ER, 1951, J AERONAUT SCI, V18, P145
+NR 11
+TC 10
+Z9 13
+U1 1
+U2 3
+PU AMER INST AERONAUT ASTRONAUT
+PI RESTON
+PA 1801 ALEXANDER BELL DRIVE, STE 500, RESTON, VA 22091 USA
+SN 0748-4658
+J9 J PROPUL POWER
+JI J. Propul. Power
+PD SEP-OCT
+PY 2001
+VL 17
+IS 5
+BP 1049
+EP 1057
+DI 10.2514/2.5843
+PG 9
+WC Engineering, Aerospace
+SC Engineering
+GA 472VM
+UT WOS:000171005700014
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Schiodt, FV
+   Clemmesen, JO
+   Bondesen, S
+   Dahl, B
+   Ott, P
+AF Schiodt, FV
+   Clemmesen, JO
+   Bondesen, S
+   Dahl, B
+   Ott, P
+TI Increased turnover of Gc-globulin in patients with hepatic
+   encephalopathy
+SO SCANDINAVIAN JOURNAL OF GASTROENTEROLOGY
+LA English
+DT Article
+DE cirrhosis; fulminant hepatic failure; Gc-globulin; hepatic
+   encephalopathy; metabolism
+ID D-BINDING-PROTEIN; HIGH-VOLUME PLASMAPHERESIS; GROUP-SPECIFIC COMPONENT;
+   ACTIN-SCAVENGER SYSTEM; VITAMIN-D METABOLITES; ROCKET
+   IMMUNOELECTROPHORESIS; LIVER-CIRRHOSIS; FAILURE; PLASMA; SERUM
+AB Background: A low serum level (< 100 mg/L) of the actin-scavenger Gc-globulin is a prognostic marker of non-survival in fulminant hepatic failure (FHF). It is unknown whether decreased production or increased consumption (or both) is responsible for the low Gc-globulin levels. Methods: Ten patients with FHF and four patients with acute or chronic liver disease (AOCLD) with hepatic encephalopathy (HE) grades II-IV were included. Eight patients with cirrhosis (chronic liver disease. CLD) without HE served as controls. Total, free, and actin-bound Gc-globulin were measured in samples from an artery, a central vein, and a hepatic vein. In 12 patients (9 FHF, 3 AOCLD), concentrations were measured before and after high volume plasmapheresis (HVP). Results: Total Gc-globulin was reduced to 21%, 40%, and 43% of the normal level in the FHF, AOCLD, and CLD groups, respectively, whereas bound Gc-globulin was within normal range in all patients. The Gc:actin complex ratio was increased 3.8. 2.5, and 1.9-fold compared with normal levels. Total, free, and bound serum Gc-globulin levels did not differ among arterial, systemic venous, or hepatic venous blood. Total Ge-globulin rose to >100 mg/L in all patients after HVP, whereas bound Gc-globulin remained unchanged. The Gc-globulin production rate in FHF and AOCLD patients was increased to 4.1 +/- 1.3 mg/min compared to literature values of 0.6 mg/min in healthy individuals. The estimated half-life of total Gc-globulin was shorter in the patients compared to healthy individuals (127 +/- 56 min and 870 min, respectively). Conclusions: Gc-globulin levels were reduced in patients with FHF and AOCLD because a 7-fold increase of Gc-globulin production rate could not compensate for the accelerated clearance. Bound Gc-globulin was maintained within normal levels in all circumstances studied, indicating a possible regulatory role of this parameter in the clearance of actin.
+C1 Rigshosp, Div Hepatol, Med Dept A2121, DK-2100 Copenhagen, Denmark.
+RP Schiodt, FV (reprint author), Frederiksberg Hosp, Clin Internal Med B, Nordre Fasanvej 57, DK-2000 Frederiksberg, Denmark.
+CR BARRAGRY JM, 1978, CLIN CHIM ACTA, V87, P359, DOI 10.1016/0009-8981(78)90179-1
+   BERGER D, 1987, CLIN CHIM ACTA, V163, P289, DOI 10.1016/0009-8981(87)90247-6
+   BOUILLON R, 1984, J CLIN ENDOCR METAB, V59, P86
+   CHUJO T, 1989, CLIN EXP IMMUNOL, V76, P154
+   Clemmensen JO, 1997, EUR J GASTROEN HEPAT, V9, P55
+   Clemmesen JO, 1998, HEPATOLOGY, V27, P666, DOI 10.1002/hep.510270305
+   Clemmesen JO, 1999, HEPATOLOGY, V29, P347, DOI 10.1002/hep.510290206
+   DUELAND S, 1991, BIOCHEM J, V274, P237
+   DUELAND S, 1990, BIOCHEM J, V267, P721
+   GOLDSCHMIDTCLERMONT PJ, 1985, CLIN CHIM ACTA, V148, P173, DOI 10.1016/0009-8981(85)90144-5
+   GOLDSCHMIDTCLERMONT PJ, 1985, ELECTROPHORESIS, V6, P155, DOI 10.1002/elps.1150060403
+   GUHA C, 1995, HEPATOLOGY, V21, P1675
+   HADDAD JG, 1990, P NATL ACAD SCI USA, V87, P1381, DOI 10.1073/pnas.87.4.1381
+   HADDAD JG, 1995, J STEROID BIOCHEM, V53, P579, DOI 10.1016/0960-0760(95)00104-8
+   HANAU C, 1995, HEPATOLOGY, V21, P345, DOI 10.1016/0270-9139(95)90091-8
+   HARRISON PM, 1991, NEW ENGL J MED, V324, P1852, DOI 10.1056/NEJM199106273242604
+   HERRMANNSDOERFER AJ, 1993, AM J PHYSIOL, V265, pG1071
+   HOMMA S, 1993, IMMUNOL CELL BIOL, V71, P249, DOI 10.1038/icb.1993.29
+   KAWAKAMI M, 1981, J CLIN ENDOCR METAB, V53, P1110
+   Lee W. M., 1995, Hepatology, V22, p148A
+   LEE WM, 1992, NEW ENGL J MED, V326, P1335
+   LEE WM, 1995, HEPATOLOGY, V21, P101, DOI 10.1016/0270-9139(95)90415-8
+   Lee WM, 1999, SCHIFFS DIS LIVER, P879
+   MASUDA S, 1989, J NUTR SCI VITAMINOL, V35, P225
+   MCLEOD JF, 1989, J BIOL CHEM, V264, P21760
+   PELTEKIAN KM, 1997, ACUTE LIVER FAILURE, P67
+   Schiodt FV, 1997, CRIT CARE MED, V25, P1366, DOI 10.1097/00003246-199708000-00025
+   Schiodt FV, 1998, HEPATOLOGY, V28, p333A
+   Schiodt FV, 1999, LIVER TRANSPLANT SUR, V5, P310, DOI 10.1002/lt.500050420
+   Schiodt FV, 1996, HEPATOLOGY, V23, P713, DOI 10.1002/hep.510230409
+   Tygstrup N, 1997, ACUTE LIVER FAILURE, P267
+   Wians F H Jr, 1997, Liver Transpl Surg, V3, P28
+NR 32
+TC 9
+Z9 10
+U1 1
+U2 2
+PU TAYLOR & FRANCIS AS
+PI OSLO
+PA CORT ADELERSGT 17, PO BOX 2562, SOLLI, 0202 OSLO, NORWAY
+SN 0036-5521
+J9 SCAND J GASTROENTERO
+JI Scand. J. Gastroenterol.
+PD SEP
+PY 2001
+VL 36
+IS 9
+BP 998
+EP 1003
+DI 10.1080/003655201750305558
+PG 6
+WC Gastroenterology & Hepatology
+SC Gastroenterology & Hepatology
+GA 456PL
+UT WOS:000170091300018
+PM 11521994
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU van der Heide, EJ
+   Kruijff, M
+AF van der Heide, EJ
+   Kruijff, M
+TI Tethers and debris mitigation
+SO ACTA ASTRONAUTICA
+LA English
+DT Article; Proceedings Paper
+CT 51st International Astronautical Federation Congress
+CY OCT 02-06, 2000
+CL RIO JANEIRO, BRAZIL
+AB In recent years, the use of tethers has been proposed for reduction of space debris either through momentum transfer or use of electrodynamic effects. Tethers have been shown to at least theoretically allow for quick, elegant and cost-effective deorbit of defunct satellites or spent stages. On the other hand, the large risk that tethers themselves may pose to other satellites in orbit has been recognized as well. The large collision area of tethers, combined with operational hazards and meteoroid risk may result in a large orbital exposure. For example, in 1997, the ESA/Dutch 35-km tether deployment of YES from TEAMSAT was inhibited after an analysis of the collision risk for the case the tether operation would fail. The question rises how these two points of view compare to eachother. This paper intends to highlight a representative selection of the proposed tether applications while taking into account the added risks caused by the tethers themselves.
+   Typical applications from recent literature will be briefly described, such as an Ariane 502 spent stage re-entry from GTO and the concept of deboost of defunct satellites by interaction of a conductive tether with the Earth magnetic field.
+   Mass savings of the tethered systems versus conventional equivalents will be evaluated.
+   Based on a crude risk analysis, involving elements such as mission complexity, dynamic stability, meteoroid risk and orbital life time, a general outline of limiting factors can be given for the various applications. Special attention is reserved for implementation of mechanisms that help reduce this tether risk, such as the DUtether (Tether Degradable by Ultraviolet), utilization of airdrag and solar pressure, the effect of residual current in bare tethers, tether retrieval etc.
+   It is proposed how a net tether-induced mitigation can be compared to that of conventional alternatives, i.e. deboost by rocket engine or a completely passive approach.
+   This comparison is put in the perspective of an ever-increasing occupation of the space environment.
+   It is concluded that tethers can in fact help mitigate the debris risk and that for each application a useful niche can be defined. It is argued that eliminating pollution directly after use of the precious resource of space is not only good custom, but also an important way to make the risk of debris controllable and independent of future trends. Although tethers may have large exposure in terms of area-time product, they deliver a quick cleaning service that may be appreciated by the future users of space. (C) 2001 Delta-Utec SRC. Published by Elsevier Science Ltd.
+C1 Delta Utec SRC, Leiden, Netherlands.
+RP van der Heide, EJ (reprint author), Delta Utec SRC, Leiden, Netherlands.
+CR Anselmo L, 1999, ADV SPACE RES, V23, P201, DOI 10.1016/S0273-1177(99)00005-8
+   ANSELMO L, 1999, ASSESSING IMPACT ORB
+   BADE A, 1993, P 1 EUR C SPAC DEBR
+   BADE A, 1993, ESA
+   BARNDS J, P TTIM 1997
+   Beletsky V. V., 1993, DYNAMICS SPACE TETHE
+   Carroll J., 1995, AIAA USU SMALL SAT C
+   Carroll J. A., 1985, GUIDEBOOK ANAL TETHE
+   CARROLL JA, 1995, P 4 INT C TETH SPAC, P1079
+   CHOBOTOV VA, 1998, IAA98IAA6502
+   DOBROWOLNY M, 1976, ELECTRODYNAMICS LONG
+   *ESA ESTEC, 1999, TETH SYST EXP PHAS A
+   FORWARD RL, 1998, AIAA983491
+   FORWARD RL, 1995, AIAA952890
+   GAVIRA J, 2000, ESA B, V102
+   HEIDE EJ, 2000, TN00201 DELT UT
+   HOYT RP, 1999, AIAA992839
+   JOHNSON L, 980983 AIAA
+   KRUIJFF M, 2000, TETHER SYSTEM EXPT T
+   KRUIJFF M, P TIIM 1997
+   KRUIJFF M, IAF99P104
+   KRUIJFF M, IAF99I305
+   MCBRIDE N, 1997, 2 EUR SPAC DEBR C
+   *NASA, 174014 NASA
+   OCKELS WJ, IAF96A201
+   OCKELS WJ, IAF95T410
+   Pelaez J., 2000, 00190 AAS
+   SABATH D, 1996, HYPERVELOCITY IMPACT
+   SANMARTIN JR, 1993, J PROPUL POWER, V9, P353, DOI 10.2514/3.23629
+   SCHONENBERG RAC, 2000, SOLID PROPELLANT DEO
+   SPAZIO A, 1995, RSC ENERGYA
+   VANNARONI G, 1999, ELECTRODYNAMIC TETHE
+   WILEY JL, 1993, SPACE MISSION ANAL D
+   YAMAGIWA Y, IAF99V205
+   1999, ESA SPACE DEBRIS MIT
+NR 35
+TC 15
+Z9 15
+U1 1
+U2 17
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0094-5765
+J9 ACTA ASTRONAUT
+JI Acta Astronaut.
+PD MAR-JUN
+PY 2001
+VL 48
+IS 5-12
+SI SI
+BP 503
+EP 516
+DI 10.1016/S0094-5765(01)00074-1
+PG 14
+WC Engineering, Aerospace
+SC Engineering
+GA 446TV
+UT WOS:000169531000026
+OA No
+DA 2017-09-27
+ER
+
+
+PT S
+AU Drolshagen, G
+   Svedhem, H
+   Grun, E
+   Bunte, KD
+AF Drolshagen, G
+   Svedhem, H
+   Grun, E
+   Bunte, KD
+BE Flury, W
+   Klinkrad, H
+TI Measurements of cosmic dust and micro-debris in GEO
+SO SPACE DEBRIS
+SE ADVANCES IN SPACE RESEARCH-SERIES
+LA English
+DT Article; Proceedings Paper
+CT B0 1/PEDAS1 Symposium of COSPAR Scientific Commission B held at the 33rd
+   COSPAR Scientific Assembly
+CY JUL, 2000
+CL WARSAW, POLAND
+SP European Space Agcy, Int Acad Astronaut, Int Astronaut Federat, Int Astronaut Union, UN Off Outer Space Affairs, Comm Space Res
+AB The Cosmic Dust/Space Debris impact detector GORID has now collected data for more than 3 years from its geostationary location at 80degrees East. The aperture size is 0.1 m(2) and the instrument is capable of detecting particles with a mass down to about 10-14 g (velocity dependent). The registered number of likely impact events per day ranged from 0 to more than 40 with an average around 2 per day. Many impacts occurred clustered in time and these clustered events sometimes reappeared for one or more days. It is suggested that these clustered events result from impacts of clouds of exhaust particles from the firing of solid rocket motors (SRM). For the specific case of an insertion burn into geostationary orbit on 10th June 1998 a detailed simulation of the SRM cloud evolution and expected impacts on GORED is performed. The results of this analysis are consistent with GORED measurements 11 days after the thruster firing. (C) 2001 COSPAR. Published by Elsevier Science Ltd. All rights reserved.
+C1 ESA, ESTEC, NL-2200 AG Noordwijk, Netherlands.
+   Max Planck Inst Kernphys, D-69029 Heidelberg 1, Germany.
+   Eta Max Space GmbH, D-38106 Braunschweig, Germany.
+RP Drolshagen, G (reprint author), ESA, ESTEC, NL-2200 AG Noordwijk, Netherlands.
+CR BUNTE KD, 2000, 6 ESA
+   DIVINE N, 1993, J GEOPHYS RES-PLANET, V98, P17029, DOI 10.1029/93JE01203
+   Drolshagen G, 1999, ADV SPACE RES, V23, P123, DOI 10.1016/S0273-1177(98)00239-7
+   DROLSHAGEN G, 1999, 50 IAF 4 8 OCT
+   GRUN E, 1992, ASTRON ASTROPHYS SUP, V92, P411
+   GRUN E, 1994, REDUCTION GALILEO UL
+   Svedhem H, 2000, ADV SPACE RES-SERIES, V25, P309, DOI 10.1016/S0273-1177(99)00951-5
+   SVEDHEM H, 2000, COSPAR 2000 WARS
+   WAGENER P, 2000, UPGRADE ESA MASTER M
+   WALKER R, 2000, 3 ESA
+NR 10
+TC 3
+Z9 4
+U1 1
+U2 1
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA SARA BURGERHARTSTRAAT 25, PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0273-1177
+J9 ADV SPACE RES-SERIES
+PY 2001
+VL 28
+IS 9
+BP 1325
+EP 1333
+DI 10.1016/S0273-1177(01)00405-7
+PG 9
+WC Engineering, Aerospace; Astronomy & Astrophysics; Geosciences,
+   Multidisciplinary; Meteorology & Atmospheric Sciences
+SC Engineering; Astronomy & Astrophysics; Geology; Meteorology &
+   Atmospheric Sciences
+GA BT60M
+UT WOS:000173496200009
+OA No
+DA 2017-09-27
+ER
+
+
+PT S
+AU Graham, GA
+   Kearsley, AT
+   Drolshagen, G
+   McBride, N
+   Green, SF
+   Wright, IP
+AF Graham, GA
+   Kearsley, AT
+   Drolshagen, G
+   McBride, N
+   Green, SF
+   Wright, IP
+BE Flury, W
+   Klinkrad, H
+TI Microparticle impacts upon HST solar cells
+SO SPACE DEBRIS
+SE ADVANCES IN SPACE RESEARCH
+LA English
+DT Article; Proceedings Paper
+CT B0 1/PEDAS1 Symposium of COSPAR Scientific Commission B held at the 33rd
+   COSPAR Scientific Assembly
+CY JUL, 2000
+CL WARSAW, POLAND
+SP European Space Agcy, Int Acad Astronaut, Int Astronaut Federat, Int Astronaut Union, UN Off Outer Space Affair, Comm Space Res
+ID LOW-EARTH-ORBIT; DEBRIS
+AB Analysis of individual solar cells removed from the returned array from the Hubble Space Telescope have yielded results on the residue chemistry of material preserved in impact features within the 1-3500mum. size range. The initial survey of impact craters in the 100-3500mum size range identified that micrometeoroids were the dominant precursor chemistry. The second survey of impact features between 1-100 mum identified space debris as the prevailing precursor chemistry. The categories of space debris remnants observed in this size range were dominated by aluminium and aluminium oxide chemistries indicative of solid rocket motor fuel debris. The results from the residue chemistry surveys have now been compared with a prediction derived from LDEF data and meteoroid modelling, and there is general agreement between the modelling and actual observations. (C) 2001 COSPAR. Published by Elsevier Science Ltd. All rights reserved.
+C1 Open Univ, Planetary & Space Sci Res Inst, Milton Keynes MK7 6AA, Bucks, England.
+   Oxford Brookes Univ, Sch BMS, Space Sci Res Unit, Oxford OX3 0BP, England.
+   ESA, ESTEC, EMA, TOS, NL-2201 AZ Noordwijk, Netherlands.
+   Univ Kent, Unit Space Sci & Astrophys, Canterbury CT2 7NR, Kent, England.
+RP Graham, GA (reprint author), Open Univ, Planetary & Space Sci Res Inst, Milton Keynes MK7 6AA, Bucks, England.
+RI Green, Simon/C-7408-2009
+CR BERNHARD RP, 1993, NASA, P551
+   CAREY WC, 1998, ANAL IMPACT RESIDUE
+   CASWELL RD, 1995, INT J IMPACT ENG, V17, P149
+   DROLSHAGEN G, 1995, P HUBBL SPAC TEL ARR, P295
+   Graham GA, 2000, ADV SPACE RES-SERIES, V25, P303, DOI 10.1016/S0273-1177(99)00948-5
+   Graham GA, 1999, ADV SPACE RES-SERIES, V23, P95, DOI 10.1016/S0273-1177(98)00235-X
+   Graham GA, 1997, ADV SPACE RES, V20, P1461, DOI 10.1016/S0273-1177(97)00417-1
+   GRAHAM GA, 1997, ESA, P183
+   GRAHAM GA, 2000, IN PRESS IN J IMPACT
+   GRUN E, 1985, ICARUS, V62, P244, DOI 10.1016/0019-1035(85)90121-6
+   Horz F., 1999, NASATM1999209372
+   KESSLER DJ, 1989, 100471 NASA TM
+   LOVE SG, 1993, SCIENCE, V262, P550, DOI 10.1126/science.262.5133.550
+   McBride N, 1999, ADV SPACE RES, V23, P73, DOI 10.1016/S0273-1177(98)00232-4
+   McBride N, 1999, PLANET SPACE SCI, V47, P1005, DOI 10.1016/S0032-0633(99)00023-9
+   National Research Council, 1995, ORB DEBR TECHN ASS
+   Stevenson T. J., 1988, Journal of the British Interplanetary Society, V41
+   Taylor EA, 1999, ADV SPACE RES, V23, P83, DOI 10.1016/S0273-1177(98)00233-6
+   *UN KENT, 1998, FIN REP MICR DEBR FL
+   Warren J. L., 1989, P 19 LUN PLAN SCI C, P641
+   Yano H, 2000, ADV SPACE RES-SERIES, V25, P293, DOI 10.1016/S0273-1177(99)00947-3
+   ZOLENSKY ME, 1993, NASA, P277
+   ZOLENSKY ME, 1994, AIP C P, V310, P291
+NR 23
+TC 11
+Z9 12
+U1 0
+U2 0
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA SARA BURGERHARTSTRAAT 25, PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0273-1177
+J9 ADV SPACE RES
+PY 2001
+VL 28
+IS 9
+BP 1341
+EP 1346
+DI 10.1016/S0273-1177(01)00408-2
+PG 6
+WC Engineering, Aerospace; Astronomy & Astrophysics; Geosciences,
+   Multidisciplinary; Meteorology & Atmospheric Sciences
+SC Engineering; Astronomy & Astrophysics; Geology; Meteorology &
+   Atmospheric Sciences
+GA BT60M
+UT WOS:000173496200011
+OA No
+DA 2017-09-27
+ER
+
+
+PT S
+AU Klinkrad, H
+   Bendisch, J
+   Bunte, KD
+   Krag, H
+   Sdunnus, H
+   Wegener, P
+AF Klinkrad, H
+   Bendisch, J
+   Bunte, KD
+   Krag, H
+   Sdunnus, H
+   Wegener, P
+BE Flury, W
+   Klinkrad, H
+TI The MASTER-99 space debris and meteoroid environment model
+SO SPACE DEBRIS
+SE ADVANCES IN SPACE RESEARCH
+LA English
+DT Article; Proceedings Paper
+CT B0 1/PEDAS1 Symposium of COSPAR Scientific Commission B held at the 33rd
+   COSPAR Scientific Assembly
+CY JUL, 2000
+CL WARSAW, POLAND
+SP European Space Agcy, Int Acad Astronaut, Int Astronaut Federat, Int Astronaut Union, UN Off Outer Space Affair, Comm Space Res
+ID STREAMS
+AB MASTER-99 is a space debris and meteoroid environment model produced by TU Braunschweig (D), eta_max space (D), and DERA (U-K) under an ESA contract. The model allows to compute particulate impact fluxes on any terrestrial target orbit up to geostationary altitudes. Flux contributions can be discriminated with respect to debris source types (catalog objects, explosion and collision fragments, NaK droplets, solid rocket motor dust and slag, impact ejecta, and surface degradation products), meteoroid source types (Divine-Staubach populations, and annual stream events), and with respect to origin and impact direction of each flux contributing particulate. Impact fluxes of meteoroids and debris down to 1 gm sizes can be determined for spherical targets, for tumbling plates, or for oriented, planar surfaces which are controlled according to standard attitude steering laws. MASTER-99 is distributed by ESA/ESOC on a CD ROM which includes user documentation, and the necessary data files, executables, and GUI driven installation scripts for the most common operating systems and computer platforms. MASTER-99 is delivered together with PROOF-99, a program for radar and optical observation forecasting. Based on the MASTER-99 population larger than 1 mm, it predicts debris detections from ground-based or space-based sensors (radars or telescopes) of user-defined system performances. (C) 2001 COSPAR. Published by Elsevier Science Ltd. All rights reserved.
+C1 ESA, ESOC, D-64293 Darmstadt, Germany.
+   TUBS, IFR, D-38106 Braunschweig, Germany.
+   Eta Max Space, D-38106 Braunschweig, Germany.
+RP Klinkrad, H (reprint author), ESA, ESOC, Robert Bosch Str 5, D-64293 Darmstadt, Germany.
+CR BENDISCH J, 2000, EXTENSION ESAS MASTE
+   BENDISCH J, 2000, UPGRADE ESAS MASTER
+   Cour-Palais B.G., 1969, NASA
+   DIVINE N, 1993, P 1 EUR C SPAC DEBR, P245
+   JACKSON A, 1997, P ESA, P279
+   JENNISKENS P, 1994, ASTRON ASTROPHYS, V287, P990
+   KESSLER DJ, 1996, 104825 NASA NASAJSC
+   KLINKRAD H, 1993, ADV SPACE RES, V13, P177, DOI 10.1016/0273-1177(93)90588-3
+   Klinkrad H., 1997, P 2 EUR C SPAC DEBR, P217
+   Mandeville JC, 1999, ADV SPACE RES, V23, P89, DOI 10.1016/S0273-1177(98)00234-8
+   MATNEY M, 1996, SPACE FORUM, V1, P109
+   McBride N, 1997, ADV SPACE RES, V20, P1513, DOI 10.1016/S0273-1177(97)00428-6
+   STARK J, 1997, P ESA, P217
+NR 13
+TC 11
+Z9 12
+U1 1
+U2 5
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA SARA BURGERHARTSTRAAT 25, PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0273-1177
+J9 ADV SPACE RES
+PY 2001
+VL 28
+IS 9
+BP 1355
+EP 1366
+DI 10.1016/S0273-1177(01)00416-1
+PG 12
+WC Engineering, Aerospace; Astronomy & Astrophysics; Geosciences,
+   Multidisciplinary; Meteorology & Atmospheric Sciences
+SC Engineering; Astronomy & Astrophysics; Geology; Meteorology &
+   Atmospheric Sciences
+GA BT60M
+UT WOS:000173496200013
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Wiedemann, C
+   Homeister, M
+   Oswald, M
+   Stabroth, S
+   Klinkrad, H
+   Vorsmann, P
+AF Wiedemann, Carsten
+   Homeister, Maren
+   Oswald, Michael
+   Stabroth, Sebastian
+   Klinkrad, Heiner
+   Voersmann, Peter
+TI Additional historical solid rocket motor burns
+SO ACTA ASTRONAUTICA
+LA English
+DT Article
+AB The use of orbital solid rocket motors (SRM) is responsible for the release of a high number of slag and Al(2)O(3) dust particles which contribute to the space debris environment. This contribution has been modeled for the ESA space debris model MASTER (Meteoroid and Space Debris Terrestrial Environment Reference). The current model version, MASTER-2005, is based on the simulation of 1076 orbital SRM firings which mainly contributed to the long-term debris environment. SRM firings on very low earth orbits which produce only short living particles are not considered. A comparison of the modeled flux with impact data from returned surfaces shows that the shape and quantity of the modeled SRM dust distribution matches that of recent Hubble Space Telescope (HST) solar array measurements very well. However, the absolute flux level for dust is under-predicted for some of the analyzed Long Duration Exposure Facility (LDEF) surfaces. This indicates that some past SRM firings are not included in the current event database. Thus it is necessary to investigate, if additional historical SRM burns, like the retro-bum of low orbiting re-entry capsules, may be responsible for these dust impacts. The most suitable candidates for these firings are the large number of SRM retro-bums of return capsules. This paper focuses on the SRM retro-bums of Russian photoreconnaissance satellites, which were used in high numbers during the time of the LDEF mission. It is discussed which types of satellites and motors may have been responsible for this historical contribution. Altogether, 870 additional SRM retro-bums have been identified. An important task is the identification of such missions to complete the current event data base. Different types of motors have been used to de-orbit both large satellites and small film return capsules. The results of simulation runs are presented. (C) 2009 Elsevier Ltd. All rights reserved.
+C1 [Wiedemann, Carsten; Homeister, Maren; Oswald, Michael; Stabroth, Sebastian; Voersmann, Peter] Tech Univ Carolo Wilhelmina Braunschweig, Inst Aerosp Syst, D-38108 Braunschweig, Germany.
+   [Klinkrad, Heiner] ESOC Darmstadt, Space Debris Off, D-64293 Darmstadt, Germany.
+RP Wiedemann, C (reprint author), Tech Univ Carolo Wilhelmina Braunschweig, Inst Aerosp Syst, Hermann Blenk Str 23, D-38108 Braunschweig, Germany.
+EM c.wiedermann@tu-bs.de; m.homeister@tu-bs.de; m.oswald@tu-bs.de;
+   s.stabroth@tu-bs.de; heiner.klinkrad@esa.int; p.voersmann@tu-bs.de
+CR Anshakov GP, 2000, ACTA ASTRONAUT, V47, P347, DOI 10.1016/S0094-5765(00)00076-X
+   *AVI WEEK SPAC TEC, 1995, CIS SAT DISPL, P51
+   BALAKIN V, 1993, P 1 EUR C SPAC DEBR, P239
+   CLAKR P, 1999, JBIS-J BRIT INTERPLA, V52, P133
+   CLARK J, 1991, MAR FISH REV, V53, P1
+   CLARK P, 1994, JBIS-J BRIT INTERPLA, V47, P379
+   CLARK P, 1997, J BRIT INTERPLANTEAR, V50, P13
+   CLARK P, 1989, SPACE MARKETS, V5, P308
+   CLARK P, 1991, JBIS-J BRIT INTERPLA, V44, P537
+   CLARK P, 2001, BRIT INTERPLANETARY, V54, P371
+   CLARK P, 1983, JBIS-J BRIT INTERPLA, V36, P169
+   Clark PS, 2002, JBIS-J BRIT INTERPLA, V55, P21
+   CLARK PS, 2001, JBIS, V54, P344
+   Duret F, 1997, ACTA ASTRONAUT, V40, P171, DOI 10.1016/S0094-5765(97)00139-2
+   EDWARDS K, 1999, QUEST, V7, P20
+   FURNISS T, 1990, FLIGHT INT 20 26  JU, P36
+   GORIN P, 1997, JBIS-J BRIT INTERPLA, V50, P441
+   GORIN PA, 1998, JBIS-J BRIT INTERPLA, V51, P309
+   HARVEY B, 1993, J BRIT INTERPLANETEA, V46, P381
+   HORZ F, 2002, SPACE DEBRIS, V2, P51
+   JANCZIKOWSKI H, 1999, SPACE TECHNOLOGY, V12, P31
+   JASANI BM, 1978, OUTER SPACE BATTLEFI
+   KAZAKOVA A, 1992, ESA, P1099
+   Kislitsky M, 2003, ACTA ASTRONAUT, V52, P947, DOI 10.1016/S0094-5765(03)00076-6
+   KOWALSKI G, 1999, RUSSLANDS MILITARSAT, P44
+   KOZLOV DI, 1996, KONSTRUIROVANIE AVTO, P418
+   LAURENT D, 1984, AERONAUT ASTRONAUT, V108, P16
+   LAURENT D, 1989, AERONAUT ASTRONAUT, V138, P77
+   LAURENT D, 1986, AERONAUT ASTRONAUT, V118, P29
+   LAURENT D, 1987, AERONAUT ASTRONAUT, V125, P48
+   LUKASHEVICH EL, 1994, SPACE B, V1, P2
+   MALCOVSKI W, 1998, RESURS DK NEW VIES S, P56
+   MCDONNELL JAM, 1992, HYPERVELOCITY IMPACT, P39
+   OSWALD M, 2006, UPGRADE MASTER MODEL, P54
+   *SAM SPAC CTR, RES DKI SPAC SYST
+   *SAM SPAC CTR, SAM SPAC CTR CO BOOK
+   SOROKIN V, 1997, YANTARNAYA ISTORIYA, P57
+   *SP KOR SPAC CORP, 1994, 1 SAT EN BUR MIR RKK
+   *SPACE TRACK, 2006, SOURC SPAC SURV DAT
+   STABROTH S, 2006, PEDASI001506
+   *UN KENT, 1999, MET DEBR FLUX EJ MOD
+   *UNISP KENT, 2005, POST FLIGHT IMAPCT A
+   Wade M, ENCY ASTRONAUTICA
+   Wegener P, 1999, ADV SPACE RES, V23, P161, DOI 10.1016/S0273-1177(98)00242-7
+   WIEDEMANN C, 1998, SPACEFLIGHT, V40, P447
+   WOTZLAW S, 2006, FLIEGERREVUE, V3, P41
+   WOTZLAW S, 2002, RAUMFAHRT CONCRET, V1, P26
+NR 47
+TC 0
+Z9 0
+U1 0
+U2 2
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0094-5765
+J9 ACTA ASTRONAUT
+JI Acta Astronaut.
+PD JUN-JUL
+PY 2009
+VL 64
+IS 11-12
+BP 1276
+EP 1285
+DI 10.1016/j.actaastro.2009.01.011
+PG 10
+WC Engineering, Aerospace
+SC Engineering
+GA 440XB
+UT WOS:000265731900020
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Cumming, AS
+AF Cumming, Adam S.
+TI Results from Research Collaboration - A Review over 20 Years
+SO PROPELLANTS EXPLOSIVES PYROTECHNICS
+LA English
+DT Article
+DE International Collaboration; Energetic Materials; Explosives;
+   Propellants
+AB Over the last twenty years, the level of international research collaboration on military energetic materials has increased significantly and has been reported in the literature. It is time to look at what has been done and to critically examine that benefits that it has produced. The range of programmes has covered the whole range of energetic materials and in addition to the study of ne,x materials and new forms of materials, it has covered modelling as well as standards and protocols. Programmes have ranged from pressed explosives to rocket propellants and from IM technology to environmental and life management. It can be argued that these programmes have provided the participating nations with materials as well as the understanding to better manage their behaviour and use. Without this range of activity significantly less Would have been achieved. This will be discussed in the light of a selection of published papers and reports.
+EM ascumming@compuserve.com
+CR ARCHAMBAULT P, 2007, 38 INT ANN C ICT KAR, P151
+   BLUE D, 1992, ADPA IM TECHN S WILL, P455
+   Cumming AS, 1999, PROPELL EXPLOS PYROT, V24, P46, DOI 10.1002/(SICI)1521-4087(199902)24:1<46::AID-PREP46>3.3.CO;2-4
+   CUMMING AS, 2007, NDIA IMEM S SESS 10B
+   DESCHAMBAULT EJ, 2006, 37 INT ANN C ICT KAR, P66
+   Doherty RM, 2008, PROPELL EXPLOS PYROT, V33, P4, DOI 10.1002/prep.200800201
+   HERRMANN M, 2007, 38 INT ANN C ICT KAR, P42
+   HERRMANN M, 2008, 39 INT ANN C ICT KAR, P57
+   HOLLANDS RE, 1998, 29 INT ANN C ICT KAR, P39
+   HOLLANDS RE, 2002, 33 INT ANN C ICT KAR, P77
+   KEIZERS HLJ, 2006, 37 INT ANN C ICT KAR, P18
+   Lamy P., 1996, 27 INT ANN C ICT KAR, P1
+   LONGEVIALLE Y, 2001, CLEAN ROCKET PROPELL, P891
+   MENKE K, 2006, 37 INT ANN C ICT KAR, P14
+   *MSIAC COR PROD SE, 2006, 37 INT ANN C ICT KAR, P67
+   TOUZE P, 1997, 28 INT ANN C ICT KAR, P37
+NR 16
+TC 1
+Z9 1
+U1 1
+U2 1
+PU WILEY-V C H VERLAG GMBH
+PI WEINHEIM
+PA PO BOX 10 11 61, D-69451 WEINHEIM, GERMANY
+SN 0721-3115
+J9 PROPELL EXPLOS PYROT
+JI Propellants Explos. Pyrotech.
+PD JUN
+PY 2009
+VL 34
+IS 3
+BP 187
+EP 193
+DI 10.1002/prep.200900027
+PG 7
+WC Chemistry, Applied; Engineering, Chemical
+SC Chemistry; Engineering
+GA 467GX
+UT WOS:000267727700002
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Fisher, M
+AF Fisher, Marshall
+TI Rocket Science Retailing: The 2006 Philip McCord Morse Lecture
+SO OPERATIONS RESEARCH
+LA English
+DT Article
+ID DEMAND; SALES; PRICE; EXECUTION; CHOICE; MODELS
+AB Retailing is a huge industry. In the United States, retail business represents about 40% of the economy and is the largest employer. Retail supply chain management is still more art than science, but this is changing rapidly as retailers begin to apply analytic models to the huge volume of data they are collecting on consumer purchases and preferences. This industry-wide movement resembles the transformation of Wall Street that occurred in the 1970s when physicists and other "rocket scientists" applied their analytic skills to investment decisions.
+   The Consortium for Operational Excellence in Retailing (COER) (codirected by Ananth Raman, Harvard Business School, and myself) is a group of academics working with about 50 leading retailers to assess their progress towards rocket science retailing and to accelerate that progress through selected research projects.
+   After some brief comments on the current state of industry practice in retail supply chain management, this paper will describe examples of COER research in four areas: assortment planning, pricing, inventory optimization, and store execution.
+C1 Univ Penn, Wharton Sch, Philadelphia, PA 19104 USA.
+RP Fisher, M (reprint author), Univ Penn, Wharton Sch, Philadelphia, PA 19104 USA.
+EM sher@wharton.upenn.edu
+FU Procter Gamble; The Wharton School
+FX I am indebted to Newt Garber, Gary Lilien, John Little, and Randy
+   Robinson of the Morse Lectureship Selection Committee for the
+   opportunity to give the Morse Lectures and to publish this paper, and to
+   Michael Trick, area editor for the paper, and three anonymous reviewers
+   who provided many comments that have improved the paper. I am especially
+   appreciative for the opportunity to work with my coauthors in this
+   research: Ananth Raman ( who has been a highly valued partner in this
+   research over many years), Nicole DeHoratius, Vishal Gaur, Jayanth
+   Krishnan, Anna McClelland, Serguei Netessine, Kumar Rajaram, and
+   Ramnanth Vaidyanathan. They have all been a joy to work with. Vishal
+   Gaur also kindly provided the data in Table 1. Kevin Freeland provided
+   extensive advice on assortment planning and store execution, Abba
+   Kreiger on the estimation component of our assortment-planning research,
+   and David Bell on marketing issues of assortment planning. The research
+   on store execution was partially supported by a generous gift from
+   Procter & Gamble and the International Commerce Institute to the
+   Fishman-Davidson Center for Service and Operations Management of The
+   Wharton School.
+CR Bell DR, 2005, J MARKETING RES, V42, P169, DOI 10.1509/jmkr.42.2.169.62294
+   Chong JK, 2001, MANUFACTURING SERVIC, V3, P191, DOI 10.1287/msom.3.3.191.9891
+   Corsten D., 2003, INT J RETAIL DISTRIB, V31, P605, DOI 10.1108/09590550310507731
+   DEHORATIUS N, 2003, ECR J, V3, P62
+   DeHoratius N, 2008, MANAGE SCI, V54, P627, DOI 10.1287/mnsc.1070.0789
+   Fader PS, 1996, J MARKETING RES, V33, P442, DOI 10.2307/3152215
+   Fisher M, 2000, MARKET SCI, V19, P266, DOI 10.1287/mksc.19.3.266.11800
+   Fisher M, 1996, OPER RES, V44, P87, DOI 10.1287/opre.44.1.87
+   Fisher M., 2001, Manufacturing & Service Operations Management, V3, P230, DOI 10.1287/msom.3.3.230.9889
+   Fisher M, 2009, ALGORITHM DEMAND EST
+   Fisher ML, 2000, HARVARD BUS REV, V78, P115
+   Fisher M.L., 2006, RETAIL STORE EXECUTI
+   FISHER ML, 2009, ROCKET SCI RETAILING
+   FISHER ML, 1999, ACHIEVING SUPPLY CHA, P36
+   Gaur V, 2005, PROD OPER MANAG, V14, P377
+   Green P. E., 1985, MARKET SCI, V4, P1, DOI 10.1287/mksc.4.1.1
+   Kok G, 2007, OPER RES, V55, P1001
+   *KURT SALM ASS, 1998, CONS OUTL 98 KSAS AN
+   Leibenstein H, 1950, Q J ECON, V64, P183, DOI 10.2307/1882692
+   LICHTENSTEIN DR, 1989, J MARKETING RES, V26, P429, DOI 10.2307/3172763
+   Raman A, 2001, CALIF MANAGE REV, V43, P136
+   Raman A., 2001, HARVARD BUS REV, P136
+   SALMON WJ, 1989, J RETAILING, V65, P368
+   SIMONSON I, 1992, J MARKETING RES, V29, P281, DOI 10.2307/3172740
+   Agrawal N, 2009, INT SER OPER RES MAN, V122, P1, DOI 10.1007/978-0-387-78902-6
+   Smith SA, 2000, OPER RES, V48, P50, DOI 10.1287/opre.48.1.50.12443
+   TELLIS GJ, 1988, J MARKETING RES, V25, P331, DOI 10.2307/3172944
+   TON Z, 2004, EFFECT PRODUCT VARIE
+NR 28
+TC 9
+Z9 9
+U1 1
+U2 14
+PU INFORMS
+PI CATONSVILLE
+PA 5521 RESEARCH PARK DR, SUITE 200, CATONSVILLE, MD 21228 USA
+SN 0030-364X
+J9 OPER RES
+JI Oper. Res.
+PD MAY-JUN
+PY 2009
+VL 57
+IS 3
+BP 527
+EP 540
+DI 10.1287/opre.1090.0704
+PG 14
+WC Management; Operations Research & Management Science
+SC Business & Economics; Operations Research & Management Science
+GA 463BK
+UT WOS:000267403200001
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Opiela, JN
+AF Opiela, John N.
+TI A study of the material density distribution of space debris
+SO ADVANCES IN SPACE RESEARCH
+LA English
+DT Article
+DE Orbital debris; Debris; Composition; Materials; Breakup; Modeling
+AB Material density is ail important, yet often overlooked, property of orbital debris particles. Many models simply use a typical density to represent all breakup fragments. While adequate for modeling average characteristics in some applications, a single value material density may not be sufficient for reliable impact damage assessments. In an attempt to improve the next-generation NASA Orbital Debris Engineering Model, a study oil the material density distribution of the breakup fragments has been conducted and summarized in this paper.
+   The material density distribution of the on-orbit breakup debris population may be estimated by combining three sources of data: available pre-launch information on satellite materials, ground-based satellite breakup experiments, and chemical compositions of residuals collected from returned surfaces. Analysis of these data provides a basis to compile a simple mass density distribution. For example, about 75% of on-orbit breakup debris fragments come from upper stages, which are simpler and more standardized than payloads in construction and composition. Available material information from manufacturers can be used to develop a reasonable distribution function for this component. For spacecraft breakup debris, it has been found that the range of material densities may be simplified into three representative Values: high (e.g. steel), medium (e.g. aluminum), and low (,e.g. plastic). The current study develops preliminary distributions for breakup debris: rocket body debris is 90% medium-density and 10% high-density (by number); payload debris is 70% low-density, 27% medium, and 3% high-density. Although the three data sources mentioned above are not comprehensive, and some interpretation and extrapolation arc needed. the resulting density distributions still represent a step forward in providing more reliable damage assessments for future debris models. Future work will refine the data and provide distributions as functions of particle size and orbital altitude. (C) 2008 COSPAR. Published by Elsevier Ltd. All rights reserved.
+C1 ESCG Jacobs, Houston, TX 77058 USA.
+RP Opiela, JN (reprint author), ESCG Jacobs, Mail Code JE-104,2224 Bay Area Blvd, Houston, TX 77058 USA.
+EM john.n.opiela@nasa.gov
+CR BAKER D, 2004, TRANSIT NNSS US NAVY
+   GEHAN J, 1991, TMB91MS031019 NASA J
+   HYDE JL, 2000, JSC29070 NASA JOHNS
+   HYDE JL, 2000, JSC28768 NASA JOHNS
+   Isakowitz SJ, 1999, INT REFERENCE GUIDE
+   JOHNSON NL, 2004, JSC62530 NASA JOHNS
+   LOZOVINA D, 2006, DAMIRS SPACE PAGES
+   MCKNIGHT DS, 1995, NAS919215 KAM SCI CO
+NR 8
+TC 7
+Z9 10
+U1 1
+U2 7
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0273-1177
+J9 ADV SPACE RES
+JI Adv. Space Res.
+PD APR 1
+PY 2009
+VL 43
+IS 7
+BP 1058
+EP 1064
+DI 10.1016/j.asr.2008.12.013
+PG 7
+WC Astronomy & Astrophysics; Geosciences, Multidisciplinary; Meteorology &
+   Atmospheric Sciences
+SC Astronomy & Astrophysics; Geology; Meteorology & Atmospheric Sciences
+GA 430OW
+UT WOS:000264999400007
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Pardini, C
+   Hanada, T
+   Krisko, PH
+AF Pardini, Carmen
+   Hanada, Toshiya
+   Krisko, Paula H.
+TI Benefits and risks of using electrodynamic tethers to de-orbit
+   spacecraft
+SO ACTA ASTRONAUTICA
+LA English
+DT Article
+CT 57th International Astronautical Congress
+CY OCT 02-06, 2006
+CL Valencia, SPAIN
+DE Orbital debris mitigation; Spacecraft de-orbiting; Electrodynamic
+   tethers; Tether survivability concerns
+ID DEBRIS REMOVAL SYSTEM; SATELLITE; SURVIVABILITY; MODEL
+AB By using electrodynamic drag to greatly increase the orbital decay rate, an electrodynamic space tether can remove spent or dysfunctional spacecraft from low Earth orbit (LEO) rapidly and safely, Moreover, the low mass requirements of such tether devices make them highly advantageous compared to conventional rocket-based de-orbit systems. However, a tether system is much more vulnerable to space debris impacts than a typical spacecraft and its design must be proved to be safe up to a certain confidence level before being adopted for potential applications. To assess space debris related concerns, in March 2001 a new task (Action Item 19.1) on the "Potential Benefits and Risks of Using Electrodynamic Tethers for End-of-life De-orbit of LEO Spacecraft" was defined by the Inter-Agency Space Debris Coordination Committee (IADC). Two tests were proposed to compute the fatal impact rite of meteoroids and orbital debris on space tethers in circular orbits, at different altitudes and inclinations, as it function of the tether diameter to assess the survival probability of an electrodynamic tether system during typical de-orbiting missions. IADC members from three agencies, the Italian Space Agency (ASI), the Japan Aerospace Exploration Agency (JAXA) and the US National Aeronautics and Space Administration (NASA), participated in the study and different computational approaches were specifically developed within the framework of the IADC task. This paper summarizes the content of the IADC AI 19.1 Final Report. In particular, it introduces the potential benefits and risks of using tethers in space, it describes the assumptions Made in the study plan, it compares and discusses the results obtained by ASI, JAXA and NASA for the two tests proposed, Some general conclusions and recommendations are finally extrapolated from this massive and intensive piece of research. (c) 2008 Elsevier Ltd. All rights reserved.
+C1 [Pardini, Carmen] ISTI CNR, Space Flight Dynam Lab, I-56124 Pisa, Italy.
+   [Hanada, Toshiya] Kyushu Univ, Nishi Ku, Fukuoka 8190395, Japan.
+   [Krisko, Paula H.] ESCG JS, Houston, TX 77058 USA.
+RP Pardini, C (reprint author), ISTI CNR, Space Flight Dynam Lab, Via G Moruzzi 1, I-56124 Pisa, Italy.
+EM Carmen.Pardini@isti.cnr.it
+RI Pardini, Carmen/C-7170-2015
+OI Pardini, Carmen/0000-0001-6060-2335
+CR Anselmo L, 2005, ACTA ASTRONAUT, V56, P391, DOI 10.1016/j.actaastro.2004.05.067
+   Anselmo L, 2001, SCI TECH, V103, P137
+   Pardini C., 2000, SPACE DEBRIS, V1, P87
+   Anz-Meador P. D., 2001, P AM I PHYS C, V552, P525, DOI 10.1063/1.1357972
+   Bade A., 1996, 27362 NASAJSC
+   Beltrami P., 2005, IADC0503
+   Bendisch J, 2004, ADV SPACE RES, V34, P959, DOI 10.1016/j.asr.2003.02.026
+   BRUNO C, 2001, ESA, P707
+   CHOBOTOV VA, 1999, SPACE DEBRIS, V1, P99, DOI 10.1023/A:1026562617765
+   Cooke W. J., 2001, TETHER SURVIVABILITY
+   Cosmo M., 1997, TETHERS SPACE HDB
+   Forward RL, 2000, J SPACECRAFT ROCKETS, V37, P187, DOI 10.2514/2.3565
+   Forward R.L., 1998, P TETH TECHN INT M, P109
+   Forward R L, 1995, P 1 AIAA SAE ASME AS
+   Gilchrist B. E., 2002, 38 AIAA ASME SAE ASE
+   GRUN E, 1985, ICARUS, V62, P244, DOI 10.1016/0019-1035(85)90121-6
+   HOYT R, 2005, ANAL INTERACTION SPA
+   Hoyt R.P., 1999, 35 AIAA ASME SAE ASE
+   HOYT RP, 2003, COMMUNICATION    MAR
+   Iess L, 2002, ACTA ASTRONAUT, V50, P399, DOI 10.1016/S0094-5765(01)00180-1
+   Iess L, 2002, ACTA ASTRONAUT, V50, P407, DOI 10.1016/S0094-5765(01)00181-3
+   Ishige Y, 2004, ACTA ASTRONAUT, V55, P917, DOI 10.1016/j.actaastro.2004.04.015
+   Kawamoto S, 2006, ACTA ASTRONAUT, V59, P139, DOI 10.1016/j.actaastro.2006.02.035
+   LIOU JC, 2002, NASATP2002210780 JO
+   Nishida SI, 2006, SCI TECH, V112, P233
+   Nishimine A., 2002, 23 INT S SPAC TECHN
+   Pardini C, 2005, ESA SP PUBL, V587, P353
+   Pardini C, 1998, J ASTRON

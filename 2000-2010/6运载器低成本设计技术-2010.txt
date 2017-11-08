@@ -1,0 +1,3642 @@
+PT J
+AU Lee, KO
+   Bae, KH
+   Lee, SB
+AF Lee, Keum-Oh
+   Bae, Keun-Ho
+   Lee, Soon-Bok
+TI Comparison of prediction methods for low-cycle fatigue life of HIP
+   superalloys at elevated temperatures for turbopump reliability
+SO MATERIALS SCIENCE AND ENGINEERING A-STRUCTURAL MATERIALS PROPERTIES
+   MICROSTRUCTURE AND PROCESSING
+LA English
+DT Article
+DE Low-cycle fatigue; Life prediction; Superalloy; Hot isostatic press;
+   High temperature
+ID NICKEL-BASE SUPERALLOY; PARTICLE BOUNDARY PRECIPITATION; ISOTHERMAL
+   FORGING CONDITIONS; MECHANICAL-PROPERTIES; IN-100 SUPERALLOY; BEHAVIOR;
+   STRAIN; ALLOY; DEFORMATION; FREQUENCY
+AB Turbopumps which pressurize fuels and oxidizers are generally used to operate liquid rocket engine for space launch vehicles. It is considered very important to predict fatigue properties at elevated temperatures for the design and manufacturing of reliable turbopump systems. Hot isostatic pressing (HIP) is one of the most promising manufacturing methods for gas turbine rotors. In this research, five kinds of Ni-based superalloys (Inconel 718 HIP, Inconel 718 HIP and heat treated, MAR-M-247 HIP. MAR-M-247 HIP and heat treated and Rene 95 HIP) were investigated at elevated temperatures. Original universal slopes method, modified universal slopes method, Mitchell's method, Baumel and Seeger's method, and Ong's method have been used for predicting the high temperature low-cycle fatigue performance. Among these methods, Mitchell's method showed the best adaptation results for the life prediction of Ni-based HIP superalloys. A novel equation was suggested by modification of Mitchell's method to predict Ni-based HIP superalloys at elevated temperature more accurately. The equation predicted well the low-cycle fatigue of HIP superalloys as well as of cast Rene 80 at elevated temperatures. (C) 2009 Elsevier B.V. All rights reserved.
+C1 [Lee, Keum-Oh] Korea Aerosp Res Inst, Dept Space Prop Div, Taejon 305333, South Korea.
+   [Bae, Keun-Ho; Lee, Soon-Bok] Korea Adv Inst Sci & Technol, Dept Mech Engn, Taejon 305701, South Korea.
+RP Lee, KO (reprint author), Korea Aerosp Res Inst, Dept Space Prop Div, 115 Gwahangno, Taejon 305333, South Korea.
+EM kol@kari.re.kr
+RI Lee, Soon-Bok/C-1977-2011
+FU Korea Aerospace Research Institute in Korea
+FX This research was supported by Korea Aerospace Research Institute in
+   Korea through "Research and Development of Korea Space Launch Vehicle
+   (V)".
+CR AGHION E, 1991, MAT SCI ENG A-STRUCT, V143, P181
+   Alniak AO, 2006, MAT SCI ENG B-SOLID, V130, P254, DOI 10.1016/j.mseb.2006.03.011
+   Alniak MO, 2006, MAT SCI ENG A-STRUCT, V429, P295, DOI 10.1016/j.msea.2006.05.030
+   BAUMEL A, 1990, MAT DATA CYCLIC LO S, V1
+   Bhaumik SK, 2002, ENG FAIL ANAL, V9, P287, DOI 10.1016/S1350-6307(01)00017-6
+   BRICKNELL RH, 1985, 85CRD043 GEN EL CORP
+   Chen LJ, 1998, INT J FATIGUE, V20, P543, DOI 10.1016/S0142-1123(98)00022-X
+   Chen LJ, 2001, SCRIPTA MATER, V44, P859, DOI 10.1016/S1359-6462(00)00702-8
+   Chen LJ, 1999, INT J FATIGUE, V21, P791, DOI 10.1016/S0142-1123(99)00041-9
+   Dieter GE, 1981, MECH METALLURGY
+   DOLLAR M, 1991, METALL TRANS A, V22, P2597, DOI 10.1007/BF02851353
+   He LZ, 2005, MAT SCI ENG A-STRUCT, V402, P33, DOI 10.1016/j.msea.2005.03.105
+   He YH, 2002, INT J FATIGUE, V24, P931, DOI 10.1016/S0142-1123(02)00009-9
+   Isobe N, 2003, MATER SCI RES INT, V9, P29
+   Jiao F, 1996, ACTA MATER, V44, P3933, DOI 10.1016/S1359-6454(96)00050-X
+   Kakehi K, 1998, J JPN I MET, V62, P653
+   LEE KO, 2007, 2 EUR C AER SCI EUCA
+   Manson S. S., 1965, EXPT MECH, V5, P193, DOI DOI 10.1007/BF02321056
+   MARQUEZ C, 1989, INT J POWDER METALL, V25, P301
+   Mitchell M.R., 1979, FATIGUE MICROSTRUCTU, P385
+   MURALIDHARAN U, 1988, J ENG MATER-T ASME, V110, P55
+   ONG JH, 1993, INT J FATIGUE, V15, P213, DOI 10.1016/0142-1123(93)90179-T
+   PARK JH, 1995, INT J FATIGUE, V17, P365, DOI 10.1016/0142-1123(95)99737-U
+   Pineau A, 2009, ENG FAIL ANAL, V16, P2668, DOI 10.1016/j.engfailanal.2009.01.010
+   PRAKASH TL, 1983, METALL TRANS A, V14, P733, DOI 10.1007/BF02643790
+   Rahmani K, 2008, MAT SCI ENG A-STRUCT, V494, P385, DOI 10.1016/j.msea.2008.04.067
+   Rao GA, 2006, MAT SCI ENG A-STRUCT, V435, P84, DOI 10.1016/j.msea.2006.07.053
+   Rao KBS, 1997, METALL MATER TRANS A, V28, P347
+   REGER M, 1988, MAT SCI ENG A-STRUCT, V101, P55, DOI 10.1016/0025-5416(88)90792-6
+   REGER M, 1988, MAT SCI ENG A-STRUCT, V101, P47, DOI 10.1016/0025-5416(88)90791-4
+   Rho BS, 2002, J MATER SCI, V37, P203, DOI 10.1023/A:1013147319646
+   Shyam A, 2004, ACTA MATER, V52, P1503, DOI 10.1016/j.actamat.2003.11.032
+   THAMBURAJ R, 1984, POWDER METALL, V27, P169
+   Thamburaj R., 1985, MODERN DEV POWDER ME, V16, P635
+   VALSAN M, 1994, METALL MATER TRANS A, V25, P159, DOI 10.1007/BF02646684
+   VASSEUR E, 1994, MAT SCI ENG A-STRUCT, V185, P1
+   Wang YL, 1997, INT J FATIGUE, V19, P345
+NR 37
+TC 10
+Z9 13
+U1 2
+U2 15
+PU ELSEVIER SCIENCE SA
+PI LAUSANNE
+PA PO BOX 564, 1001 LAUSANNE, SWITZERLAND
+SN 0921-5093
+J9 MAT SCI ENG A-STRUCT
+JI Mater. Sci. Eng. A-Struct. Mater. Prop. Microstruct. Process.
+PD AUG 30
+PY 2009
+VL 519
+IS 1-2
+BP 112
+EP 120
+DI 10.1016/j.msea.2009.04.044
+PG 9
+WC Nanoscience & Nanotechnology; Materials Science, Multidisciplinary;
+   Metallurgy & Metallurgical Engineering
+SC Science & Technology - Other Topics; Materials Science; Metallurgy &
+   Metallurgical Engineering
+GA 483EC
+UT WOS:000268944100015
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Vignoles, GL
+   Lachaud, J
+   Aspa, Y
+   Goyheneche, JM
+AF Vignoles, Gerard L.
+   Lachaud, Jean
+   Aspa, Yvan
+   Goyheneche, Jean-Marc
+TI Ablation of carbon-based materials: Multiscale roughness modelling
+SO COMPOSITES SCIENCE AND TECHNOLOGY
+LA English
+DT Article; Proceedings Paper
+CT 12th European Conference on Composite Materials (ECCM-12)
+CY AUG 28-SEP 01, 2006
+CL European Soc Composite Mat, Biarritz, FRANCE
+HO European Soc Composite Mat
+DE Ceramic-matrix composites; High-temperature properties; Environmental
+   degradation; Multiscale modelling; Scanning electron microscopy (SEM)
+ID COMPOSITES; OXIDATION
+AB Because of their unique ablative properties, many carbon-based heterogeneous materials are used as components for thermal protection of systems used at extreme temperatures. such as atmospheric re-entry shields and rocket nozzles. Among other issues, the design of such systems relies critically on the knowledge of surface roughness evolution. This paper gives a synthetic view of an approach of ablation, either by oxidation or by sublimation, which is started from the material point of view. First, the morphology is studied: various features and scales of roughness are presented, and a classification is proposed. Second, a modelling strategy is built. It is based on the competition between bulk and heterogeneous transfer, with possible reactivity contrasts between the material constituents. Numerical results at various scales are given. Some predicted morphologies are in correct agreement with the experimental observations. A parameter variation study shows that the morphological features are dictated by the reactivity contrast of the material components, and by diffusion/reaction competitions. This allows to identify physico-chemical parameters from the roughness geometry, as in an inverse method. The approach is validated quantitatively in the case of the oxidation of a 3D C/C composite. (c) 2008 Elsevier Ltd. All rights reserved.
+C1 [Vignoles, Gerard L.; Lachaud, Jean; Aspa, Yvan; Goyheneche, Jean-Marc] Univ Bordeaux 1, LCTS, UMR 5801, CNRS SNECMA CEA, F-33600 Pessac, France.
+   [Aspa, Yvan] CNRS, INPT, UMR 5502, IMFT, F-31000 Toulouse, France.
+RP Vignoles, GL (reprint author), Univ Bordeaux 1, LCTS, UMR 5801, CNRS SNECMA CEA, 3 Allee Boetie,Domaine Univ, F-33600 Pessac, France.
+EM vinhola@lcts.u-bordeaux1.fr
+RI VIGNOLES, Gerard/A-2406-2013
+OI VIGNOLES, Gerard/0000-0003-1606-6867; Lachaud, Jean/0000-0001-7397-1025
+CR ASPA Y, 2006, ECCM12 P ESCM
+   Aspa Y, 2005, CERAM ENG SCI PROC, V26, P99
+   BATT RG, 1983, AIAA J, V21, P7, DOI 10.2514/3.60102
+   Borie V., 1990, 13 ONERA
+   Cho D, 2001, COMPOS SCI TECHNOL, V61, P271, DOI 10.1016/S0266-3538(00)00212-8
+   CHO DW, 1993, J MATER SCI LETT, V12, P1894, DOI 10.1007/BF00882533
+   Couzi J., 1998, P 3 EUR S AER SPAC V, P493
+   Duffa G, 2005, INT J HEAT MASS TRAN, V48, P3387, DOI 10.1016/j.ijheatmasstransfer.2005.02.036
+   DUFFA G, 1996, BARP
+   DUMONT JP, 1987, COMPOS STRUCT, V8, P119, DOI 10.1016/0263-8223(87)90008-0
+   DUVIVIER E, 1997, THESIS U BORDEAUX 1
+   GLIME WH, 1995, CARBON, V33, P1053, DOI 10.1016/0008-6223(95)00034-B
+   HAN JC, 1995, CARBON, V33, P473, DOI 10.1016/0008-6223(94)00172-V
+   JACKSON MD, 1974, SAMSOTR7486 PASS NOS
+   Lachaud J, 2007, CARBON, V45, P2768, DOI 10.1016/j.carbon.2007.09.034
+   LACHAUD J, 2006, ECCM12 P ESCM
+   LACHAUD J, 2008, COMPUT MAT IN PRESS
+   LACHAUD J, 2006, P 10 ESA INT S MAT S
+   Lachaud J, 2005, CERAM T, V191, P149
+   Lachaud J, 2008, INT J HEAT MASS TRAN, V51, P2614, DOI 10.1016/j.ijheatmasstransfer.2008.01.008
+   LARSON HK, 196868670 AIAA
+   Lee YJ, 2004, COMPOS PART A-APPL S, V35, P1285, DOI 10.1016/j.compositesa.2004.03.024
+   Manocha L. M., 1998, CARBON REINFORCEMENT
+   Reda D. C., 1979, 790649 SAND
+   Savage G., 1993, CARBON CARBON COMPOS
+   Vignoles GL, 2005, CERAM ENG SCI PROC, V26, P245
+   VIGNOLES GL, 2006, P 5 EUR WORKSH THERM
+   VIGNOLES GL, 2005, J PHYS 4, V5
+   WILLIAMS EP, 1971, AIAA J, V9, P1315, DOI 10.2514/3.49941
+   WOOL MR, 1975, SAMSOTR7486 PASS NOS
+NR 30
+TC 29
+Z9 35
+U1 3
+U2 15
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0266-3538
+J9 COMPOS SCI TECHNOL
+JI Compos. Sci. Technol.
+PD JUL
+PY 2009
+VL 69
+IS 9
+BP 1470
+EP 1477
+DI 10.1016/j.compscitech.2008.09.019
+PG 8
+WC Materials Science, Composites
+SC Materials Science
+GA 459KK
+UT WOS:000267100600025
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Alam, MMA
+   Matsuo, S
+   Setoguchi, T
+   Kim, HD
+   Yu, S
+AF Alam, Miah Md Ashraful
+   Matsuo, Shigeru
+   Setoguchi, Toshiaki
+   Kim, Heuy Dong
+   Yu, Shen
+TI Characteristics of Supersonic Impinging Moist Air Jets
+SO INTERNATIONAL JOURNAL OF TURBO & JET-ENGINES
+LA English
+DT Article
+ID TURBULENCE MODEL; IMPINGEMENT; PLATES; FLOWS
+AB Supersonic impinging Jets, such as those occurring in the space launch vehicle systems, multi-stage rocket separation, jet-engine exhaust impingement, terrestrial rocket launch, and in the next generation short take off and vertical landing (STOL) aircraft, generate a highly oscillatory flow with very high unsteady loads on the near by structures and the landing surfaces. These high-pressure and acoustic loads are also accompanied by a dramatic loss in lift during aircraft hover. Previous studies of supersonic impinging jets suggest that the highly unsteady behavior of the impinging jets is due to a feedback loop between the fluid And acoustic fields, which leads to these adverse effects, In actual supersonic jet flow, usually the working gas nu be condensable gas such as steam or moist air. In these cases, the non-equilibrium condensation may occur in the region between nozzle exit and an object. The jet flow with non-equilibrium condensation may be quite different from that without condensation, In the present study, characteristics of under-expanded axisymmetric supersonic impinging moist air jets on a vertical flat plate were investigated numerically.
+C1 [Matsuo, Shigeru; Setoguchi, Toshiaki] Saga Univ, Dept Engn Mech, Saga 8408502, Japan.
+   [Alam, Miah Md Ashraful] Saga Univ, Grad Sch Sci & Engn, Saga 8408502, Japan.
+   [Kim, Heuy Dong] Andong Natl Univ, Sch Mech Engn, Andong 760749, South Korea.
+   [Yu, Shen] Chinese Acad Sci, Inst Engn Thermophys, Beijing 100080, Peoples R China.
+RP Matsuo, S (reprint author), Saga Univ, Dept Engn Mech, 1 Honjo Machi, Saga 8408502, Japan.
+EM matsuo@me.saga-u.ac.jp
+CR Adam S., 1996, THESIS U KARLSRUHE T
+   ADDY AL, 1981, AIAA J, V19, P121, DOI 10.2514/3.7751
+   GOLDBERG UC, 1994, J FLUID ENG-T ASME, V116, P72, DOI 10.1115/1.2910245
+   Goldberg UC, 1996, J FLUID ENG-T ASME, V118, P795, DOI 10.1115/1.2835511
+   Heiler M., 1999, THESIS U KARLSRUHE T
+   HILLER WJ, 1971, J SOUND VIB, V17, P423, DOI 10.1016/0022-460X(71)90653-5
+   Kim SI, 2005, SHOCK WAVES, V14, P259, DOI 10.1007/S00193-005-0270-9
+   KROTHAPALLI A, 1985, AIAA J, V23, P1910, DOI 10.2514/3.9195
+   LAMONT PJ, 1980, J FLUID MECH, V100, P471, DOI 10.1017/S0022112080001255
+   Matsuo K, 1985, B JSME, V28, P2577
+   Matsuo S., 2003, T JPN SOC MECH ENG, V69, P1163
+   PETRIE AM, 1980, APPL SCI RES, V36, P93, DOI 10.1007/BF00420335
+   POWELL A, 1988, J ACOUST SOC AM, V83, P515, DOI 10.1121/1.396146
+   Sislian J.P., 1975, 201 UTIAS
+   TAM CKW, 1990, J FLUID MECH, V214, P67, DOI 10.1017/S0022112090000052
+   Wegener P. P., 1958, ADV APPL MECH, V5
+   Yamamoto S., 1990, ASME FED, V120, P73
+   Yee H., 1989, TM89464 NASA
+NR 18
+TC 5
+Z9 5
+U1 0
+U2 1
+PU FREUND PUBLISHING HOUSE LTD
+PI TEL AVIV
+PA PO BOX 35010, TEL AVIV 61350, ISRAEL
+SN 0334-0082
+J9 INT J TURBO JET ENG
+JI Int. J. Turbo. Jet-Engines
+PY 2008
+VL 25
+IS 3
+BP 221
+EP 231
+PG 11
+WC Engineering, Aerospace
+SC Engineering
+GA 391YM
+UT WOS:000262270100008
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Gupta, SC
+   Suresh, BN
+   Sivan, K
+AF Gupta, S. C.
+   Suresh, B. N.
+   Sivan, K.
+TI Evolution of Indian launch vehicle technologies
+SO CURRENT SCIENCE
+LA English
+DT Article
+DE evolution; infrastructure; launch vehicle; multidisciplinary; rockets
+AB A multitude of inter-disciplinary technologies have been mastered indigenously for realizing a series of operational space launch vehicles. The vehicles range from relatively tiny Rohini sounding rockets to gigantic satellite launch vehicles, PSLV and GSLV. These vehicles now launch on demand, the entire IRS range of remote sensing satellites and communication satellites up to 2.5 tonnes, providing precise orbital injection. This article presents the evolution of the technologies, various major subsystems and their validation methodologies for these satellite launch vehicles of ISRO. An attempt has been made to present the conceptual foundations of the entire range of the accomplishments. The paper also includes a brief description of the facilities at the launch complex of ISRO. It delineates briefly the plans for developments in the near future in respect of reusable launch vehicles, and advanced facilities.
+C1 [Gupta, S. C.; Suresh, B. N.; Sivan, K.] ISRO, Vikram Sarabhai Space Ctr, Trivandrum 695022, Kerala, India.
+RP Sivan, K (reprint author), ISRO, Vikram Sarabhai Space Ctr, Trivandrum 695022, Kerala, India.
+EM k_sivan@vssc.gov.in
+CR GUPTA SC, 1995, CURR SCI INDIA, V68, P687
+   GUPTA SC, 1988, DEV NAVIGATION GUIDA
+   GUPTA SC, 2006, GROWING ROCKET SYSTE
+   MOORTHI DN, 2005, SPACE FORUM, V5, P3
+   NAIR GM, 2004, J AEROSPACE SCI TECH, V56, P85
+   RAO UR, 1993, CURR SCI INDIA, V65, P522
+NR 6
+TC 1
+Z9 1
+U1 0
+U2 2
+PU CURRENT SCIENCE ASSOC
+PI BANGALORE
+PA C V RAMAN AVENUE, PO BOX 8005, BANGALORE 560 080, INDIA
+SN 0011-3891
+J9 CURR SCI INDIA
+JI Curr. Sci.
+PD DEC 25
+PY 2007
+VL 93
+IS 12
+BP 1697
+EP 1714
+PG 18
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 249SJ
+UT WOS:000252249700020
+OA gold
+DA 2017-09-27
+ER
+
+
+PT J
+AU Sumin, Y
+   Bonnal, C
+   Kostromin, S
+   Panichkin, N
+AF Sumin, Yu.
+   Bonnal, Ch.
+   Kostromin, S.
+   Panichkin, N.
+TI Project of Ariane 5LV family advancement by use of reusable fly-back
+   boosters (named "Bargouzine")
+SO ACTA ASTRONAUTICA
+LA English
+DT Article
+AB The paper concerns possible concept variants of a partially reusable Heavy-Lift Launch Vehicle derived from the advanced basic launcher (Ariane-2010) by means of substitution of the EAP Solid Rocket Boosters for a Reusable Starting Stage consisting two Liquid-propellant Reusable Fly-Back Boosters called "Bargouzin". This paper describes the status of the presently studied RFBB concepts during its three phases. The first project phase was dedicated to feasibility expertise of liquid-rocket reusable fly-back boosters ("Baikal" type) utilization for heavy-lift space launch vehicle. The design features and main conclusions are presented. The second phase has been performed with the purpose of selection of preferable concept among the alternative ones for the future Ariane LV modernization by using RFBB instead of EAP Boosters. The main requirements, logic of work, possible configuration and conclusion are presented. Initial aerodynamic, ballistic, thermoloading, dynamic loading, trade-off and comparison analysis have been performed on these concepts. The third phase consists in performing a more detailed expertise of the chosen LV concept. This part summarizes some of the more detailed results related to flight performance, system mass, thermoprotection system, aspects of technologies, ground complex modification, comparison analyses and conclusion. (c) 2007 Published by Elsevier Ltd.
+C1 TSNIIMASH, Korolev, Russia.
+   CNES, Evry, France.
+RP Sumin, Y (reprint author), TSNIIMASH, Korolev, Russia.
+EM yuri.sumin@tsniimash.ru; christophe.bonnal@cnes.fr; icic@tsniimash.ru;
+   center5@tsniimash.ru
+CR ANFIMOV NA, IAA94
+   MEDVEDEV A, 2001, 01V409 IAF
+   SIPPEL M, IAC03V402
+   STANISZEWSKI E, 1999, AIAA994826
+NR 4
+TC 1
+Z9 1
+U1 1
+U2 2
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0094-5765
+J9 ACTA ASTRONAUT
+JI Acta Astronaut.
+PD DEC
+PY 2007
+VL 61
+IS 11-12
+BP 1043
+EP 1052
+DI 10.1016/j.actaastro.2006.12.044
+PG 10
+WC Engineering, Aerospace
+SC Engineering
+GA 238RW
+UT WOS:000251466300009
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Canan, JW
+AF Canan, James W.
+TI Breathing new hope into hypersonics
+SO AEROSPACE AMERICA
+LA English
+DT Article
+AB Hypersonics technology development has faced many obstacles, not all of them technical. But interest in the field has increased following successful ground tests of the new NASA/DARPA/Air Force X-51A engine. Officials say the program's short-term purpose is only to prove the practically of hypersonic scramjet propulsion. But they also note that this is an essential first step toward development of a high-speed, long-range missile and, ultimately, of an operationally responsive hypersonic space launch vehicle.
+NR 0
+TC 3
+Z9 4
+U1 2
+U2 4
+PU AMER INST AERONAUT ASTRONAUT
+PI RESTON
+PA 1801 ALEXANDER BELL DRIVE, STE 500, RESTON, VA 22091-4344 USA
+SN 0740-722X
+J9 AEROSPACE AM
+JI Aerosp. Am.
+PD NOV
+PY 2007
+VL 45
+IS 11
+BP 26
+EP 31
+PG 6
+WC Engineering, Aerospace
+SC Engineering
+GA 234YO
+UT WOS:000251200800017
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Qazi, MUD
+   He, LS
+   Mateen, P
+AF Qazi, Mateen-ud-Din
+   He, Linshu
+   Mateen, Permoon
+TI Hammersley sampling and support-vector-regression-driven launch vehicle
+   design
+SO JOURNAL OF SPACECRAFT AND ROCKETS
+LA English
+DT Article
+ID OPTIMIZATION
+AB Multidisciplinary design optimization of solid-fueled multistage space launch vehicles requires complex high-dimensional simulation models. To improve on the ability to efficiently explore and approximate large subspaces of these models, this research develops a new set of experimental designs for metamodeling with support vector regression. We propose to Latinize and improve the orthogonality of Hammersley sequence sampling for creating nearly orthogonal and excellent space-filling designs. Multiple measures are used to assess the quality of designed experiments. The designs are used to create metamodels of trajectory simulation of space launch vehicles using support vector regression. A hybrid genetic algorithm uses metamodels to identify minimum-launch-weight space launch vehicles. This approach resulted in an overall rapid and efficient design optimization scheme.
+C1 Beijing Univ Aeronaut & Astronaut, Sch Aeronaut, Beijing 100083, Peoples R China.
+   Univ Punjab, Dept Math, Lahore 54590, Pakistan.
+RP Qazi, MUD (reprint author), Beijing Univ Aeronaut & Astronaut, Sch Aeronaut, Beijing 100083, Peoples R China.
+CR Cioppa T., 2002, THESIS NAVAL POSTGRA
+   Clarke SM, 2005, J MECH DESIGN, V127, P1077, DOI 10.1115/1.1897403
+   CRESP LG, 2005, TP213531 NASA
+   Fang KT, 2002, MATH COMPUT, V71, P275
+   Giunta AA, 2003, 2003649 AIAA
+   HAMMOND WE, 2001, AIAA ED SERIES, pCH10
+   Haykin S., 1999, NEURAL NETWORKS COMP
+   He L., 2004, SOLID BALLISTIC MISS
+   Johnson D. B., 2006, Reliable Computing, V12, DOI 10.1007/s11155-006-9012-7
+   Kalagnanam JR, 1997, TECHNOMETRICS, V39, P308, DOI 10.2307/1271135
+   Ponce-Ortega JM, 2004, COMPUT CHEM ENG, V28, P767, DOI 10.1016/j.compchemeng.2004.02.015
+   QAZI M, 2004, P 16 INT C COMP COMM, P1718
+   QAZI M, 2005, 12 SAINT PET INT C I, P60
+   QAZI M, 2005, 20056062 AIAA
+   RAHN M, 1996, 964130 AIAA
+   ROMERO V, 2003, 20032008 AIAA
+   Simpson T.W., 2001, INT J RELIABILITY AP, V2, P209
+   Simpson T. W., 1998, THESIS GEORGIA I TEC
+   Smola A. J., 1998, NC2TR1998030 U LOND
+   SobieszczanskiSobieski J, 1997, STRUCT OPTIMIZATION, V14, P1, DOI 10.1007/BF01197554
+   Tsuchiya T, 2004, J SPACECRAFT ROCKETS, V41, P770, DOI 10.2514/1.1082
+   TSUCHIYA T, 1998, AUTOMATIC CONTROL AE, P444
+   WOLF DM, 1994, J SPACECRAFT ROCKETS, V31, P1067, DOI 10.2514/3.26560
+   Ye QK, 1998, J AM STAT ASSOC, V93, P1430
+   ZIPFEL PH, 2000, MODELING SIMULATION, pCH8
+NR 25
+TC 2
+Z9 2
+U1 0
+U2 0
+PU AMER INST AERONAUT ASTRONAUT
+PI RESTON
+PA 1801 ALEXANDER BELL DRIVE, STE 500, RESTON, VA 22091-4344 USA
+SN 0022-4650
+J9 J SPACECRAFT ROCKETS
+JI J. Spacecr. Rockets
+PD SEP-OCT
+PY 2007
+VL 44
+IS 5
+BP 1094
+EP 1106
+DI 10.2514/1.22200
+PG 13
+WC Engineering, Aerospace
+SC Engineering
+GA 223YF
+UT WOS:000250411400011
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Suresh, MR
+   Sinha, PP
+   Sarma, DS
+   Ballal, NB
+   Rao, PK
+AF Suresh, M. R.
+   Sinha, P. P.
+   Sarma, D. S.
+   Ballal, N. B.
+   Rao, P. Krishna
+TI Study of welding characteristics of 0.3C-CrMoV(ESR) ultrahigh strength
+   steel
+SO JOURNAL OF MATERIALS SCIENCE
+LA English
+DT Article
+AB A new ultrahigh strength low alloy steel 0.3C-CrMoV(ESR), having an ultimate tensile strength and 0.2% proof strength of above 1,700 and 1,500 MPa, respectively, in quenched and tempered condition, was developed primarily as a cost effective material for space launch vehicle applications. Welding is a major step in the fabrication of most of the pressure vessels, structures and equipments. Steels with carbon equivalent in excess of 0.40 wt% show a tendency to form martensite on welding, and therefore are considered difficult to weld. 0.3C-CrMoV(ESR) steel has a carbon equivalent value of nearly 1.0 that classifies it as a 'very difficult to weld' steel. In addition it has a niobium content of about 0.10% and a vanadium content of 0.25%. It is known that niobium content of more than 0.02 wt% has a deleterious effect on the toughness properties of low carbon welds. It has also been reported that the effect of niobium on weld metal toughness is more deleterious in the presence of vanadium. Hence, in the present study, the properties of the weldment of this new steel under different heat treatment conditions (HT-1 and HT-2) have been studied. In HT-1 condition, the plates were welded in hardened and tempered condition and no further heat treatment was given after welding, while in HT-2 condition, the annealed plates were subjected to welding followed by hardening and tempering heat treatments. For HT-1 condition, only tensile properties were evaluated. The welded plates under HT-2 condition were evaluated for tensile properties, fracture toughness, residual strength and microstructure features.
+C1 Indian Space Res Org, Vikram Sarabhai Space Ctr, Trivandrum 695022, Kerala, India.
+   Banaras Hindu Univ, Varanasi 221005, Uttar Pradesh, India.
+   Indian Inst Technol, Bombay 400076, Maharashtra, India.
+RP Suresh, MR (reprint author), Indian Space Res Org, Vikram Sarabhai Space Ctr, Trivandrum 695022, Kerala, India.
+EM mrsuresh61@rediffmail.com; dssarma1@rediffmail.com; nbb@iitb.ac.in;
+   pkr@iitb.ac.in
+CR CHATTERJEE M, 1994, IRONMAK STEELMAK, V21, P399
+   EASTERLING KE, 1983, INTRO PHYS METALLURG, P92
+   HALL LR, 1971, ASTM STP, V496, P40
+   Honeycombe R.W.K.H., 1995, STEELS MICROSTRUCTUR, P171
+   LEVINE E, 1977, METALL TRANS A, V8, P1453, DOI 10.1007/BF02642859
+   MESSLER RW, 1999, PRINCIPLES WELDIN PR
+   Nagarajan KV, 1998, P C STEELS ENG IND T, P43
+   Suresh MR, 2005, MATER SCI TECH-LOND, V21, P357, DOI 10.1179/174328405X27106
+   Suresh MR, 2003, IRONMAK STEELMAK, V30, P379, DOI 10.1179/030192303225004097
+   SURESHKUMAR R, 1994, THESIS IIT MADRAS
+   *WELD RES I, 1987, REP WELD STUD AFNOR
+   [Anonymous], 1992, METALS HDB
+NR 12
+TC 2
+Z9 2
+U1 3
+U2 5
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING STREET, NEW YORK, NY 10013 USA
+SN 0022-2461
+J9 J MATER SCI
+JI J. Mater. Sci.
+PD JUL
+PY 2007
+VL 42
+IS 14
+BP 5602
+EP 5612
+DI 10.1007/s10853-006-1115-3
+PG 11
+WC Materials Science, Multidisciplinary
+SC Materials Science
+GA 188UA
+UT WOS:000247943600045
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Sarou-Kanian, V
+   Rifflet, JC
+   Millot, F
+   Gokalp, I
+AF Sarou-Kanian, V.
+   Rifflet, J. C.
+   Millot, F.
+   Gokalp, I.
+TI Dissolution kinetics of carbon in aluminum droplet combustion:
+   Implications for aluminized solid propellants
+SO COMBUSTION AND FLAME
+LA English
+DT Article
+DE aluminum; combustion; carbon; dissolution; kinetics; solid propellant
+ID PARTICLE COMBUSTION; TEMPERATURE-MEASUREMENTS; DIOXIDE; METALS; AIR
+AB An analytical model describing the kinetics of carbon dissolution in burning aluminum droplets has been developed in order to simulate its effects under solid rocket motor conditions. A carbon dissolution rate (k) was introduced in different droplet regression laws and depending on the heterogeneous kinetics between the At surface and the surrounding gases. The model was validated using previous experiments performed by the authors on milli meter-sized A1 droplets burning in several CO2-containing atmospheres at atmospheric pressure (P = 1 atm). It has been shown that the carbon dissolution is affected by the presence of hydrogen due to competition between CO and H-2 chemisorption. The model was then applied to aluminized propellants (AP/HTPB) at high pressures (P = 60 atm) and high temperatures (T = 3000 and 3500 K), as well as at various burning rates and adsorption conditions. Though the accuracy of the extrapolation results needs further improvement, it has been shown that the carbon dissolution process should not be neglected in order to achieve global understanding of the combustion of At particles, particularly agglomerates. (C) 2007 The Combustion Institute. Published by Elsevier Inc. All rights reserved.
+C1 CNRS, ICARE, F-45071 Orleans 2, France.
+   CNRS, CRMHT, F-45071 Orleans, France.
+RP Sarou-Kanian, V (reprint author), CNRS, ICARE, 1C Ave Rech Sci, F-45071 Orleans 2, France.
+EM sarou@cnrs-orleans.fr
+RI SAROU-KANIAN, Vincent/C-2165-2008; Millot, Francis/C-2262-2008
+OI SAROU-KANIAN, Vincent/0000-0001-9611-8377; 
+CR Bandyopadhyay D, 2003, CHEM ENG J, V94, P79, DOI 10.1016/S1385-8947(02)00030-X
+   BUCHER P, 1997, P COMBUST INST, V26, P1899
+   CLARK A, 1970, THEORY ADORPTION CAT
+   DAVIS A, 1963, COMBUST FLAME, V7, P359
+   Dreizin EL, 1996, COMBUST FLAME, V105, P541, DOI 10.1016/0010-2180(95)00224-3
+   Dreizin EL, 1999, COMBUST FLAME, V117, P841, DOI 10.1016/S0010-2180(98)00125-4
+   FABIGNON Y, 2003, 90039731 AIAA
+   Gladstone S, 1941, THEORY RATE PROCESSE
+   Glumac N, 2005, COMBUST SCI TECHNOL, V177, P485, DOI 10.1080/00102200590909030
+   Glumac NG, 2001, COMBUST SCI TECHNOL, V172, P97, DOI 10.1080/00102200108935840
+   GOETHALS P, 1979, ANAL CHIM ACTA, V108, P367, DOI 10.1016/S0003-2670(01)93078-8
+   Gokcen NA, 1998, BER BUNSEN PHYS CHEM, V102, P1178
+   KING MK, 1978, P COMBUST INST, V17, P1317
+   Legrand B, 2001, COMBUST SCI TECHNOL, V165, P151, DOI 10.1080/00102200108935830
+   MARION M, 1996, THESIS ORLEANS U FRA
+   Melcher JC, 2002, J PROPUL POWER, V18, P631, DOI 10.2514/2.5977
+   MELCHER JC, 2000, 20003333 AIAA
+   QIU C, 1994, J ALLOY COMPD, V216, P55, DOI 10.1016/0925-8388(94)91042-1
+   Romanowski Z, 2001, J CHEM PHYS, V114, P6353, DOI 10.1063/1.1355984
+   Rossi S, 2001, COMBUST SCI TECHNOL, V164, P209, DOI 10.1080/00102200108952170
+   Sarou-Kanian V, 2006, COMBUST FLAME, V145, P220, DOI 10.1016/j.combustflame.2005.10.014
+   Sarou-Kanian V, 2005, COMBUST SCI TECHNOL, V177, P2299, DOI 10.1080/00102200500241107
+   Shoshin Y, 2003, COMBUST FLAME, V133, P275, DOI 10.1016/S0010-2180(02)00571-0
+   Smith RW, 2002, ANN NY ACAD SCI, V974, P57
+NR 24
+TC 2
+Z9 2
+U1 0
+U2 3
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 0010-2180
+J9 COMBUST FLAME
+JI Combust. Flame
+PD JUN
+PY 2007
+VL 149
+IS 4
+BP 329
+EP 339
+DI 10.1016/j.combustflame.2007.03.006
+PG 11
+WC Thermodynamics; Energy & Fuels; Engineering, Multidisciplinary;
+   Engineering, Chemical; Engineering, Mechanical
+SC Thermodynamics; Energy & Fuels; Engineering
+GA 173MP
+UT WOS:000246877500001
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Ghaffari, A
+   Roshanian, J
+   Tayefi, M
+AF Ghaffari, Ali
+   Roshanian, Jafar
+   Tayefi, Morteza
+TI Time-varying transfer function extraction of an unstable launch vehicle
+   via closed-loop identification
+SO AEROSPACE SCIENCE AND TECHNOLOGY
+LA English
+DT Article
+DE aerospace launch vehicle; closed-loop identification; time-variant
+   parameters; Kalman filter
+AB The aerospace launch vehicle, developed today by manufacturers, is characterized by high nonlinearity, open loop instability and time-varying behaviors. The transfer functions of the vehicle can be extracted using well-known linearization methodology. This paper presents an alternative to obtain the transfer functions via closed-loop identification using six degrees of freedom nonlinear simulation software. The pitch program is taken into account as the external excitation. Control and stability of the process are performed using robust PID controller. The model structure with some unknown parameters is obtained after mathematical modeling, thus the case of our problem is a parameter identification one. Time-variant parameters are estimated by Kalman filter approach with the aid of ARX model structure. (c) 2007 Elsevier Masson SAS. All rights reserved.
+C1 KN Toosi Univ Technol, Dept Aerosp Engn, Tehran, Iran.
+   KN Toosi Univ Technol, Dept Mech Engn, Tehran, Iran.
+RP Roshanian, J (reprint author), KN Toosi Univ Technol, Dept Aerosp Engn, POB 16765-3381, Tehran, Iran.
+EM ghaffari@kntu.ac.ir; roshanian@kntu.ac.ir; mortezatayefi@gmail.com
+CR Ananth I, 1999, J FRANKLIN I, V336, P1055, DOI 10.1016/S0016-0032(99)00031-9
+   BENOIT B, 2002, AUTOMATICA, V38, P2127
+   Blakelock JH, 1991, AUTOMATIC CONTROL AI
+   CHERES E, 2005, J FRANKLIN I
+   Esmaili A, 2000, J PROCESS CONTR, V10, P525, DOI 10.1016/S0959-1524(99)00058-X
+   Etkin B., 1972, DYNAMICS ATMOSPHERIC
+   Forssell U, 1999, AUTOMATICA, V35, P1215, DOI 10.1016/S0005-1098(99)00022-9
+   HUANG JK, 1996, J GUIDANCE CONTROL D, V19
+   Ljung L., 1999, SYSTEM IDENTIFICATIO
+   MALYSHEV VV, 1996, AEROSPACE VEHICLE NA
+   MEHRABIAN AR, 2006, J AEROSPACE SCI TECH
+   Nelles O., 2001, NONLINEAR SYSTEM IDE
+   Tugnait JK, 2000, AUTOMATICA, V36, P1795, DOI 10.1016/S0005-1098(00)00104-7
+   XU JX, 2003, AUTOMATICA, V39, P724
+   Zipfel P. H., 2000, MODELING SIMULATION
+NR 15
+TC 6
+Z9 6
+U1 0
+U2 0
+PU ELSEVIER FRANCE-EDITIONS SCIENTIFIQUES MEDICALES ELSEVIER
+PI PARIS
+PA 23 RUE LINOIS, 75724 PARIS, FRANCE
+SN 1270-9638
+J9 AEROSP SCI TECHNOL
+JI Aerosp. Sci. Technol.
+PD MAR-APR
+PY 2007
+VL 11
+IS 2-3
+BP 238
+EP 244
+DI 10.1016/j.ast.2006.11.004
+PG 7
+WC Engineering, Aerospace
+SC Engineering
+GA 159TR
+UT WOS:000245890300017
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Yokozeki, T
+   Ogasawara, T
+   Ishikawa, T
+AF Yokozeki, Tomohiro
+   Ogasawara, Toshio
+   Ishikawa, Takashi
+TI Evaluation of gas leakage through composite laminates with multilayer
+   matrix cracks: Cracking angle effects
+SO COMPOSITES SCIENCE AND TECHNOLOGY
+LA English
+DT Article
+DE polymer-matrix composites; matrix cracking; laminates; gas leakage
+AB Gas leakage through a damaged network in composite laminates is experimentally evaluated to assess fuel leakage in relation to the applicability of high-performance composites to cryogenic propellant tanks of space launch vehicles. Using [0(2)/theta(2)](S) (theta = 45, 60, 75 and 90) laminates, matrix cracks in 0 degrees plies are induced by three-point flexural loading and subsequent uniaxial tensile tests of laminates in 0 degrees direction to produce matrix cracks in all constituent plies of the laminates. Helium gas leak rates through the damaged laminates subjected to uniaxial loadings are measured using a helium leak gas detector at room temperature. The effect of intersecting angles of matrix cracks on gas leakage is discussed using the simple leak model based on leak conductance at intersections of matrix cracks. (c) 2006 Elsevier Ltd. All rights reserved.
+C1 Japan Aerosp Explorat Agcy, Adv Composite Technol Ctr, Inst Aerosp Technol, Mitaka, Tokyo 1810015, Japan.
+RP Yokozeki, T (reprint author), Japan Aerosp Explorat Agcy, Adv Composite Technol Ctr, Inst Aerosp Technol, 6-13-1 Osawa, Mitaka, Tokyo 1810015, Japan.
+EM yokozeki@chofu.jaxa.jp
+RI Ogasawara, Toshio/O-1238-2014
+OI Ogasawara, Toshio/0000-0003-1074-0427
+CR AOKI T, 20001605 AIAA
+   BECHEL VR, 20052156 AIAA
+   Bechel VT, 2005, COMPOS PART B-ENG, V36, P171, DOI 10.1016/j.compositesb.2004.03.001
+   Bechel VT, 2004, COMPOS SCI TECHNOL, V64, P1773, DOI [10.1016/j.compscitech.2003.12.007, 10.1016/j.compscitech.2003.12.0073]
+   Bechel VT, 2003, COMPOS PART A-APPL S, V34, P663, DOI [10.1016/S1359-835X(03)00054-X, 10.1016/S1359-835X(03)00054-4]
+   GATES TS, 20041859 AIAA
+   GATES TS, 20031600 AIAA
+   Kumazawa H, 2003, AIAA J, V41, P2037, DOI 10.2514/2.1895
+   KUMAZAWA H, 20011217 AIAA
+   McManus H.L., 2001, P 16 ANN M AM SOC CO
+   *NASA MARSH SPAC F, 2000, FIN REP X33 LIQ HYDR
+   NOH J, 20031602 AIAA
+   NOH J, 20041861 AIAA
+   NUISMER RJ, 1988, J COMPOS MATER, V22, P306, DOI 10.1177/002199838802200401
+   PEDDIRAJU P, 20041862 AIAA
+   ROBINSON MJ, 20041932 AIAA
+   Roy S, 2004, COMPOS SCI TECHNOL, V64, P2051, DOI 10.1016/j.compscitech.2004.02.014
+   ROY S, 20052088 AIAA
+   SOUTIS C, 20011638 AIAA
+   SUN CT, 1993, COMPOSITES, V24, P619, DOI 10.1016/0010-4361(93)90124-Q
+   WHITLEY KS, 20021416 AIAA
+   Yokozeki T, 2005, COMPOS PART A-APPL S, V36, P1229, DOI 10.1016/j.compositesa.2005.02.002
+   Yokozeki T, 2005, J SPACECRAFT ROCKETS, V42, P363, DOI 10.2514/1.13955
+   Yokozeki T, 2004, ADV COMPOS MATER, V13, P227, DOI 10.1163/1568551042580136
+   YOKOZEKI T, 20031604 AIAA
+NR 25
+TC 16
+Z9 17
+U1 0
+U2 7
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0266-3538
+J9 COMPOS SCI TECHNOL
+JI Compos. Sci. Technol.
+PD DEC
+PY 2006
+VL 66
+IS 15
+BP 2815
+EP 2824
+DI 10.1016/j.compscitech.2006.02.024
+PG 10
+WC Materials Science, Composites
+SC Materials Science
+GA 100FW
+UT WOS:000241654500023
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Sundaresan, M
+AF Sundaresan, M.
+TI Design aspects of launch vehicle sizing including air-breathing
+   propulsion
+SO PROCEEDINGS OF THE INSTITUTION OF MECHANICAL ENGINEERS PART G-JOURNAL OF
+   AEROSPACE ENGINEERING
+LA English
+DT Article
+DE launch vehicle design; air-breathing vehicle sizing; trajectory design
+   sizing program; launch vehicle performance
+AB The overall sizing of launch vehicles is of interest, especially when air-breathing is also included. The sizing of a launch vehicle is dictated by the State of Art technologies present and the need to match the challenging demands of high-payload fraction, low cost, and also ensure reliability. This paper presents some of the important design requirements. An ideal velocity approach, which assumes various velocity losses, is generally followed for initial vehicle sizing. However, as this approach is approximate and sometimes incorrect, a new concept of accounting the drag and thrust losses during the atmospheric phase for conventional rockets and air-breathing launch vehicles using scramjet propulsion is evolved complementing the ideal velocity sizing approach. A simplistic two-dimensional trajectory simulation program with graphics for quick interactive design was developed for this purpose. The air-breathing launch vehicle trajectory is split into three flight phases. The sizing of the vehicle considering, especially, the intermediate air-breathing regime is also dealt with. A method to determine the maximum-load envelope expressed in terms of the product of flight dynamic pressure and angle of attack, namely Q-alpha, for all weather launches useful for initial design purposes is also suggested. The design program meant for initial design sizing purposes gives a quick insight on the vehicle performance prior to detailed design with minimum basic vehicle data for conventional rockets and also for air-breathing scramjet vehicles. The various design factors, such as optimum velocity requirement for two stage to orbit vehicles and the sizing requirement of the orbital stage after end of air-breathing phase, are also discussed through representative typical values highlighting the design sensitivities.
+C1 Vikram Sarabhai Space Ctr, Engineer G gsLVM3 PROJECT, ISRO VSSC, Trivandrum 695022, Kerala, India.
+RP Sundaresan, M (reprint author), Vikram Sarabhai Space Ctr, Engineer G gsLVM3 PROJECT, ISRO VSSC, Trivandrum 695022, Kerala, India.
+EM aparsun@vsnl.com
+CR BATTS GW, 1996, AER SCI M EXH 5 18 J
+   OLDS JR, 1994, AER ATL C OH 18 22 A
+   RAHN M, 1998, 981554 AIAA
+   Ryan RS, 1997, J SPACECRAFT ROCKETS, V34, P192, DOI 10.2514/2.3209
+   SMITH OE, 1995, AIAA AER SCI M EXH 3
+   SUNDARESAN M, 1995, OVERVIEW AIR BREATHI
+   SUNDARESAN M, 1995, VSSCLVDGTM295
+NR 7
+TC 1
+Z9 1
+U1 0
+U2 5
+PU PROFESSIONAL ENGINEERING PUBLISHING LTD
+PI WESTMINISTER
+PA 1 BIRDCAGE WALK, WESTMINISTER SW1H 9JJ, ENGLAND
+SN 0954-4100
+J9 P I MECH ENG G-J AER
+JI Proc. Inst. Mech. Eng. Part G-J. Aerosp. Eng.
+PD OCT
+PY 2006
+VL 220
+IS G5
+BP 487
+EP 498
+DI 10.1243/09544100JAERO30
+PG 12
+WC Engineering, Aerospace; Engineering, Mechanical
+SC Engineering
+GA 108VI
+UT WOS:000242266900012
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Morgan, LO
+   Morton, AR
+   Daniels, RL
+AF Morgan, LO
+   Morton, AR
+   Daniels, RL
+TI Simultaneously determining the mix of space launch vehicles and the
+   assignment of satellites to rockets
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+LA English
+DT Article
+DE one-dimensional cutting stock problem; bin packing; algorithms;
+   heuristics
+ID CUTTING-STOCK PROBLEM; LINEAR-PROGRAMMING APPROACH; ALGORITHM
+AB The manifest problem is faced by aerospace firms that produce launch vehicles to shoot satellites into space. The demand for satellites has increased dramatically over the past decade, as both commercial and military applications have grown. Launch vehicles can be built in different sizes, and launch vehicles of a given type have known capacity, cost a known amount to launch, and may be limited in the number or mix of satellites that can be carried into space. Similarly, available satellites can be of different types, and satellites of a given type consume a known amount of a launch vehicle's payload capacity. Given a commitment to shoot a known number of each type of satellite into space over a finite horizon, the objective is to determine the mix of launch vehicles to produce, as well as the assignment of individual satellites to launch vehicles, such that the firm's total cost is minimized. We formulate the launch vehicle manifest problem, and develop and computationally test solution approaches for the problem. Possible applications of the problem and further extensions are discussed. (c) 2004 Elsevier B.V. All rights reserved.
+C1 Univ Georgia, Terry Coll Business, Athens, GA 30602 USA.
+   Westminster Coll, Gore Sch Business, Salt Lake City, UT 84105 USA.
+   Univ Utah, David Eccles Sch Business, Salt Lake City, UT 84112 USA.
+RP Daniels, RL (reprint author), Univ Georgia, Terry Coll Business, Athens, GA 30602 USA.
+EM rdaniels@terry.uga.edu
+CR CHENG CH, 1994, INT J PROD ECON, V36, P291, DOI 10.1016/0925-5273(94)00045-X
+   CHUENLUNG SC, 1996, EUR J OPER RES, V93, P522
+   DREAZEN J, 2002, WALL STREET J    FEB, P6
+   Dyckhoff H., 1992, CUTTING PACKING PROD
+   Garey M. R., 1979, COMPUTERS INTRACTABI
+   GILMORE PC, 1961, OPER RES, V9, P849, DOI 10.1287/opre.9.6.849
+   GILMORE PC, 1965, OPER RES, V13, P94, DOI 10.1287/opre.13.1.94
+   GILMORE PC, 1963, OPER RES, V11, P863, DOI 10.1287/opre.11.6.863
+   Gradisar M, 1999, EUR J OPER RES, V119, P719, DOI 10.1016/S0377-2217(98)00329-4
+   Gradisar M, 1999, EUR J OPER RES, V114, P557, DOI 10.1016/S0377-2217(98)00140-4
+   GROVER R, 2002, BUSINESS WEEK   0121
+   Martello S., 1990, KNAPSACK PROBLEMS AL
+   Vanderbeck F, 1999, MATH PROGRAM, V86, P565, DOI 10.1007/s101070050105
+   Vanderbeck F, 2000, OPER RES, V48, P915, DOI 10.1287/opre.48.6.915.12391
+   2002, WALL STREET J    FEB, P6
+NR 15
+TC 4
+Z9 4
+U1 2
+U2 5
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0377-2217
+J9 EUR J OPER RES
+JI Eur. J. Oper. Res.
+PD AUG 1
+PY 2006
+VL 172
+IS 3
+BP 747
+EP 760
+DI 10.1016/j.ejor.2004.10.026
+PG 14
+WC Management; Operations Research & Management Science
+SC Business & Economics; Operations Research & Management Science
+GA 034NE
+UT WOS:000236934900003
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Qazi, MUD
+   He, LS
+AF Qazi, Mateen-ud-Din
+   He Linshu
+TI Nearly-orthogonal sampling and neural network metamodel driven
+   conceptual design of multistage space launch vehicle
+SO COMPUTER-AIDED DESIGN
+LA English
+DT Article
+DE nearly-orthogonal sampling; metamodel; space launch vehicle; neural
+   network; genetic algorithm; star grain; trajectory; multidisciplinary
+   design optimization
+ID TRAJECTORY OPTIMIZATION
+AB This paper presents a new design methodology for efficient conceptual design of complex systems involving multidisciplinary and computationally intensive analysis with large number of design variables. A nearly-orthogonal sampling of design space is proposed with good space filling properties to extract maximum useful information about system behavior using much lower number of trial designs. This sampled data is then used as training data for artificial neural network, which will act as a metamodel to represent the time consuming disciplinary analyses. A stage-wise interconnection of separate neural networks is also proposed for trajectory metamodel to offset dimensionality curse of neural networks. Genetic Algorithm performs global optimization by utilizing this metamodel and subsequently sequential quadratic programming performs the local optimization utilizing exact analyses. The performance of proposed methodology is investigated in this paper for the conceptual design optimization of multistage solid fueled space launch vehicle. The results show excellent approximation of highly non-linear functions using proposed sampling and drastic reduction in overall design optimization time, due to greatly reduced number of exact disciplinary analyses. (c) 2006 Elsevier Ltd. All rights reserved.
+C1 BUAA, Sch Astronaut, Beijing 100083, Peoples R China.
+RP Qazi, MUD (reprint author), BUAA, Sch Astronaut, 37 Xueyuan Lu, Beijing 100083, Peoples R China.
+EM mateenqazi@gmail.com; helinshu@sina.com
+CR BALAKRISHNAN SN, 1997, 11728 NASA NAG
+   Betts JT, 1998, J GUID CONTROL DYNAM, V21, P193, DOI 10.2514/2.4231
+   BROMAN GW, 1987, SOLID MOTOR LAUNCH V
+   CIOPPA TM, 2002, THESIS CALIFORNIA NA
+   Duret F, 1999, ACTA ASTRONAUT, V44, P507, DOI 10.1016/S0094-5765(99)00090-9
+   ERIC NJ, 2001, 20014381 AIAA
+   Goldberg D. E., 1989, GENETIC ALGORITHM SE
+   Hammond WE, 2001, DESIGN METHODOLOGIES
+   He L., 2004, SOLID BALLISTIC MISS
+   JULES K, 2000, 20000688 AIAA
+   Lin C., 2000, P NAT SCI COUNC ROCA, V24, P15
+   MCKAY MD, 1979, TECHNOMETRICS, V21, P239, DOI 10.2307/1268522
+   *NATORTO AVT, 2002, INT SYST AER
+   RAHN M, 1996, 961430 AIAA
+   SOBIESZCZANSKI SJ, 1996, 960711 AIAA
+   Tsuchiya T, 2004, J SPACECRAFT ROCKETS, V41, P770, DOI 10.2514/1.1082
+   TSUCHIYA T, 1988, 14 IFAC S AUT CONTR, P444
+   UHRIG G, 1998, 983980 AIAA
+   WANG G, 1993, SOLID ROCKET MOTOR D
+   WOLF DM, 1994, J SPACECRAFT ROCKETS, V31, P1067, DOI 10.2514/3.26560
+   Ye KQ, 1998, J AM STAT ASSOC, V93, P1430, DOI 10.2307/2670057
+   Zipfel P. H., 2000, MODELING SIMULATION
+NR 22
+TC 8
+Z9 8
+U1 0
+U2 4
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0010-4485
+J9 COMPUT AIDED DESIGN
+JI Comput.-Aided Des.
+PD JUN
+PY 2006
+VL 38
+IS 6
+BP 595
+EP 607
+DI 10.1016/j.cad.2006.02.001
+PG 13
+WC Computer Science, Software Engineering
+SC Computer Science
+GA 082VP
+UT WOS:000240415600005
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Rao, BN
+   Jeyakumar, D
+   Biswas, KK
+   Swaminathan, S
+   Janardhana, E
+AF Rao, BN
+   Jeyakumar, D
+   Biswas, KK
+   Swaminathan, S
+   Janardhana, E
+TI Rigid body separation dynamics for space launch vehicles
+SO AERONAUTICAL JOURNAL
+LA English
+DT Article
+ID STRAP-ON BOOSTERS; SPIN-STABILIZED STAGES; STAGE SEPARATION; ROCKETS;
+   ATMOSPHERE
+AB This paper presents a systematic formulation for the simulation of rigid body dynamics, including the short period dynamics, inherent to stage separation and jettisoning parts of a satellite launcher. This also gives a review of various types of separations involved in a launch vehicle. The problem is sufficiently large and complex; the methodology involves iterations at successively lower levels of abstraction. The best choice to tackle such problems is to use state-of-the-art programming technique known as object oriented programming. The necessary classes have been identified to represent various entities in the launch vehicle separation process (e.g., gravity, aerodynamics, propulsion and separation mechanisms etc.). Simple linkages are modelled with suitable objects. This approach helps the designer to simulate a launch vehicle separation dynamics and also to analyse separation system performance. To examine the influence of the design variables on the separating bodies, statistical analyses have been performed on the upper stage separation process and pull out of ongoing stage nozzle from the spent stage of a multistage rocket carrier using retro rockets.
+C1 Aeronaut Ent Vikram Sarabhai Space Ctr, Struct Anal & Testing Grp, Trivandrum, Kerala, India.
+   Vikram Sarabhai Space Ctr, Launch Vehicle Design Ent, Trivandrum 695022, Kerala, India.
+RP Rao, BN (reprint author), Aeronaut Ent Vikram Sarabhai Space Ctr, Struct Anal & Testing Grp, Trivandrum, Kerala, India.
+CR Anderson J. D. J., 1991, FUNDAMENTALS AERODYN
+   BALAGURUSAMY E, 1995, OBJECT ORIENTED PROG
+   BALL KJ, 1967, SPACE VEHICLE DYNAMI, P59
+   BISWAS KK, 1996, P NAT SEM AER REL ME, P22
+   Biswas KK, 1986, SPACE DYNAMICS CELES, P369
+   Bowker A.H, 1972, ENG STAT
+   BRAUER GL, 1975, NASACR132689
+   Cheng SC, 1999, J SPACECRAFT ROCKETS, V36, P511
+   Choi S, 2002, J SPACECRAFT ROCKETS, V39, P439, DOI 10.2514/2.3827
+   Chubb W., 1961, NASATND598
+   Cornelisse J. W., 1979, ROCKET PROPULSION SP
+   DECKER JP, 1975, 7529 AIAA
+   DEKCER JP, 1968, NASATND4765
+   DWORK M, 1963, AIAA J, V1, P2639
+   Geissler ED, 1970, WIND EFFECTS LAUNCH
+   HURLEY MJ, 1972, J SPACECRAFT ROCKETS, V9, P764, DOI 10.2514/3.30393
+   Jeyakumar D, 2005, MATH COMPUT MODEL, V41, P849, DOI 10.1016/j.mcm.2005.02.001
+   JEYAKUMAR D., 2003, P INT C MOD SIM OPT
+   Jeyakumar D, 2001, P 25 NAT SYST C NEW, P26
+   JEYAKUMAR D., 2003, J AEROSPACE SCI TECH, V55, P211
+   JEYAKUMAR D, 2003, P 54 INT ASTR C INT
+   Lochan R, 1997, J GUID CONTROL DYNAM, V20, P633, DOI 10.2514/2.4110
+   LOCHAN R, 1992, J GUID CONTROL DYNAM, V15, P137, DOI 10.2514/3.20811
+   LOCHAN R, 1994, J GUID CONTROL DYNAM, V17, P426, DOI 10.2514/3.21217
+   LOCHAN R, 1993, THESIS INDIAN I TECH
+   LONGREN DR, 1970, J SPACECRAFT ROCKETS, V7, P434, DOI 10.2514/3.29959
+   MORAES P, 1999, 903098 AIAA
+   Regan F. J., 1984, REENTRY VEHICLE DYNA
+   RUKEMANN KJO, 1973, J SPACECRAFT ROCKETS, V10, P617
+   SUBRAMANYAM JDA, 1973, P INT S SPAC SCI TEC, P383
+   THEODORE T, 1975, INTRO AERODYNAMICS F
+   Thomson W.T., 1961, INTRO SPACE DYNAMICS
+   WASKO RA, 1961, NASATND868
+   WATERFALL AP, 1968, RAETR682016
+   WILKE RO, 1964, AIAA J, V2, P1358, DOI 10.2514/3.55072
+NR 35
+TC 8
+Z9 8
+U1 1
+U2 5
+PU ROYAL AERONAUTICAL SOC
+PI LONDON
+PA 4 HAMILTON PL, LONDON W1J 7BQ, ENGLAND
+SN 0001-9240
+J9 AERONAUT J
+JI Aeronaut. J.
+PD MAY
+PY 2006
+VL 110
+IS 1107
+BP 289
+EP 302
+PG 14
+WC Engineering, Aerospace
+SC Engineering
+GA 053UO
+UT WOS:000238331400002
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Chase, RL
+AF Chase, RL
+TI Designing a responsive space launch vehicle
+SO AEROSPACE AMERICA
+LA English
+DT Article
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER INST AERONAUT ASTRONAUT
+PI RESTON
+PA 1801 ALEXANDER BELL DRIVE, STE 500, RESTON, VA 22091-4344 USA
+SN 0740-722X
+J9 AEROSPACE AM
+JI Aerosp. Am.
+PD MAY
+PY 2006
+VL 44
+IS 5
+BP 26
+EP 27
+PG 2
+WC Engineering, Aerospace
+SC Engineering
+GA 044KT
+UT WOS:000237671900013
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Mehrabian, AR
+   Lucas, C
+   Roshanian, J
+AF Mehrabian, AR
+   Lucas, C
+   Roshanian, J
+TI Aerospace launch vehicle control: an intelligent adaptive approach
+SO AEROSPACE SCIENCE AND TECHNOLOGY
+LA English
+DT Article
+DE intelligent adaptive control; emotional decision making; launch vehicle
+   control; autopilot
+ID ORBITOFRONTAL CORTEX; SYSTEMS
+AB A theoretical analysis of on-line autonomous intelligent adaptive tracking controller based on emotional learning model in mammalians brain (BELBIC) for aerospace launch vehicle is presented. The control algorithm is provided with some sensory inputs and reward signal, subsequently it autonomously seeks the proper control signal to be executed by actuators, thus eliminating tracking error without pre-knowledge of the plant dynamics. The algorithm is very robust and fast in adaptation with dynamical change in the plant, due to its on-line learning ability. Development and application of this algorithm for an aerospace launch vehicle during atmospheric flight in an experimental setting is presented to illustrate the performance of the control algorithm. (c) 2005 Elsevier SAS. All rights reserved.
+C1 Univ Tehran, Dept Elect & Comp Engn, Control & Intelligent Proc Ctr Excellence, Tehran, Iran.
+   Univ Tehran, Dept Mech Engn, Control & Intelligent Proc Ctr Excellence, Tehran, Iran.
+   IPM, Sch Cognit Sci, Tehran, Iran.
+   KN Toosi Univ Technol, Dept Aerosp Engn, Tehran, Iran.
+RP Lucas, C (reprint author), Univ Tehran, Dept Elect & Comp Engn, Control & Intelligent Proc Ctr Excellence, POB 14395-515, Tehran, Iran.
+EM armehrabian@gmail.com; lucas@ipm.ir; roshanian@kntu.ac.ir
+CR Bechara A, 2000, CEREB CORTEX, V10, P295, DOI 10.1093/cercor/10.3.295
+   Blakelock JH, 1991, AUTOMATIC CONTROL AI
+   BLETSOS NA, 2004, CROSSLINK, V5, P30
+   Damasio A., 1994, DESCARTES ERROR EMOT
+   Farinwata S. S., 2000, FUZZY CONTROL SYNTHE
+   FATOORECHI M, 2001, 9 IR C EL ENG ICEE 2
+   FILHO WCL, 1986, IFAC ADAPTIVE SYSTEM
+   FILHO WCL, 1995, P INT C INT AUT CONT
+   Holland J. H., 1975, ADOPTION NATURAL ART
+   JAMSHIDI M, 2002, ROBUST CONTROL SYSTE
+   Kim BS, 1997, J GUID CONTROL DYNAM, V20, P26, DOI 10.2514/2.4029
+   Leu YG, 1999, IEEE T ROBOTIC AUTOM, V15, P805, DOI 10.1109/70.795786
+   Lucas C, 2004, TSI PRESS S, V16, P37
+   Lucas C, 2004, INTELL AUTOM SOFT CO, V10, P11
+   LUCAS C, 2004, SPECIAL SESSION EMOT
+   MALYSHEV VV, 1996, FAPESP PUBLICATION
+   Milasi R. M., 2004, P WAC, V16, P280
+   Moren J, 2000, ANIMALS ANIMALS
+   Pham D.T., 2000, INTELLIGENT OPTIMIZA
+   Picard R. W., 1997, AFFECTIVE COMPUTING
+   Rolls ET, 2000, CEREB CORTEX, V10, P284, DOI 10.1093/cercor/10.3.284
+   Rumelhart D. E., 1986, PARALLEL DISTRIBUTED
+   SALEH AR, 2004, 5 C IR AER SOC ESF I
+   YOUNG AW, 1981, CORTEX, V17, P459
+   ZADEH LA, 1973, IEEE T SYST MAN CYB, VSMC3, P28, DOI 10.1109/TSMC.1973.5408575
+NR 25
+TC 33
+Z9 35
+U1 0
+U2 3
+PU ELSEVIER FRANCE-EDITIONS SCIENTIFIQUES MEDICALES ELSEVIER
+PI PARIS
+PA 23 RUE LINOIS, 75724 PARIS, FRANCE
+SN 1270-9638
+J9 AEROSP SCI TECHNOL
+JI Aerosp. Sci. Technol.
+PD MAR
+PY 2006
+VL 10
+IS 2
+BP 149
+EP 155
+DI 10.1016/j.ast.2005.11.002
+PG 7
+WC Engineering, Aerospace
+SC Engineering
+GA 028CV
+UT WOS:000236465000009
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Fesmire, JE
+AF Fesmire, JE
+TI Aerogel insulation systems for space launch applications
+SO CRYOGENICS
+LA English
+DT Article; Proceedings Paper
+CT 22nd Space Cryogenics Workshop (SCW)
+CY AUG 25-26, 2005
+CL Colorado Springs, CO
+SP Gooddard Space Flight Ctr
+DE polymers; thermal conductivity; transport properties; cryostats; space
+   cryogenics
+AB New developments in materials science in the areas of solution gelation processes and nanotechnology have led to the recent commercial production of aerogels. Concurrent with these advancements has been the development of new approaches to cryogenic thermal insulation systems. For example, thermal and physical characterizations of aerogel beads under cryogenic-vacuum conditions have been performed at the Cryogenics Test Laboratory of the NASA Kennedy Space Center. Aerogel-based insulation system demonstrations have also been conducted to improve performance for space launch applications. Subscale cryopumping experiments show the thermal insulating ability of these fully breathable nanoporous materials. For a properly executed thermal insulation system, these breathable aerogel systems are shown to not cryopump beyond the initial cooldown and thermal stabilization phase. New applications are being developed to augment the thermal protection systems of space launch vehicles, including the Space Shuttle External Tank. These applications include a cold-boundary temperature of 90 K with an ambient air environment in which both weather and flight aerodynamics are important considerations. Another application is a nitrogen-purged environment with a cold-boundary temperature of 20 K where both initial cooldown and launch ascent profiles must be considered. Experimental results and considerations for these flight system applications are discussed. Published by Elsevier Ltd.
+C1 NASA, Kennedy Space Ctr, Cryogenics Test Lab, Kennedy Space Ctr, FL 32899 USA.
+RP Fesmire, JE (reprint author), NASA, Kennedy Space Ctr, Cryogenics Test Lab, Mail Code YA-C2-T, Kennedy Space Ctr, FL 32899 USA.
+EM James.E.Fesmire@nasa.gov
+CR Ackerman WC, 2001, J NON-CRYST SOLIDS, V285, P264, DOI 10.1016/S0022-3093(01)00465-3
+   FESMIRE JE, 2004, ADV CRYOGEN ENG, V47, P1525
+   FESMIRE JE, 2004, ADV CRYOGEN ENG, V49, P579
+   FESMIRE JE, 2004, ADV CRYOGEN ENG, V47, P1541
+   FESMIRE JE, 1999, NASA TECH BRIEFS JUN, P56
+   FESMIRE JE, 2004, ADV CRYOGEN ENG, V44, P219
+   Haefer R. A., 1989, CRYOPUMPING THEORY P, P54
+   Hrubesh LW, 1998, J NON-CRYST SOLIDS, V225, P335, DOI 10.1016/S0022-3093(98)00135-5
+   Kistler SS, 1935, J PHYS CHEM-US, V39, P79, DOI 10.1021/j150361a006
+   Smith DM, 1998, J NON-CRYST SOLIDS, V225, P254, DOI 10.1016/S0022-3093(98)00125-2
+   Woignier T, 1999, EUR PHYS J-APPL PHYS, V6, P267, DOI 10.1051/epjap:1999183
+   FESMIRE JE, 2004, Patent No. 6742926
+NR 12
+TC 81
+Z9 95
+U1 1
+U2 43
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0011-2275
+J9 CRYOGENICS
+JI Cryogenics
+PD FEB-MAR
+PY 2006
+VL 46
+IS 2-3
+BP 111
+EP 117
+DI 10.1016/j.cryogenics.2005.11.007
+PG 7
+WC Thermodynamics; Physics, Applied
+SC Thermodynamics; Physics
+GA 022YP
+UT WOS:000236092400007
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Murakami, M
+   Nagatomo, H
+AF Murakami, M
+   Nagatomo, H
+TI A new twist for inertial fusion energy: Impact ignition
+SO NUCLEAR INSTRUMENTS & METHODS IN PHYSICS RESEARCH SECTION A-ACCELERATORS
+   SPECTROMETERS DETECTORS AND ASSOCIATED EQUIPMENT
+LA English
+DT Article; Proceedings Paper
+CT 15th International Symposium on Heavy Ion Inertial Fusion
+CY JUN 07-11, 2004
+CL Princeton, NJ
+DE new concept; hyper implosion velocity; impact collision; high gain
+ID COMPRESSION; IMPLOSION; TARGETS; PLASMA; GAIN
+AB A totally new ignition scheme is proposed, in which the compressed DT main fuel is ignited by impact collision of another fraction of separately imploded DT fuel, which is accelerated in the hollow conical target to hyper-velocities in the order of 10(8) cm/s. Its kinetic energy is directly converted into thermal energy corresponding to temperatures > 5 keV on the collision with the main fuel, and this self-heated portion plays the role of ignitor. The ignitor shell is irradiated typically by nsec-pulses at intensities > 10(15) W/cm(2) and laser wavelength of 0.35 mu m to exert ablation pressures > 100 Mbar. A preliminary two-dimensional hydrodynamic simulation shows substantial heating of the compressed core. The impact-shell acceleration and consequent working windows for the beam and target parameters are addressed based on a rocket model. Simple physics, high-energy coupling efficiency, low cost, not needing a PW laser, and affordability of investigation in laboratories under rather well-established physical understanding and experimental know-how are considered to be the notable advantages of the present scheme. (c) 2005 Elsevier B.V. All rights reserved.
+C1 Osaka Univ, Inst Laser Engn, Suita, Osaka 5650871, Japan.
+RP Murakami, M (reprint author), Osaka Univ, Inst Laser Engn, 2-2 Yamadaoka, Suita, Osaka 5650871, Japan.
+EM mym@ile.osaka-u.ac.jp
+RI murakami, masakatsu/I-2309-2015
+OI murakami, masakatsu/0000-0003-2220-7638
+CR AZECHI H, 1991, LASER PART BEAMS, V9, P193
+   Basov N. G., 1992, Journal of Soviet Laser Research, V13, P396, DOI 10.1007/BF01124892
+   BODNER SE, 1974, PHYS REV LETT, V33, P761, DOI 10.1103/PhysRevLett.33.761
+   Fujioka S, 2004, PHYS REV LETT, V92, DOI 10.1103/PhysRevLett.92.195001
+   Gus'kov SY, 2001, QUANTUM ELECTRON+, V31, P885, DOI 10.1070/QE2001v031n10ABEH002070
+   Key MH, 1998, PHYS PLASMAS, V5, P1966, DOI 10.1063/1.872867
+   Kodama R, 2002, NATURE, V418, P933, DOI 10.1038/418933a
+   Kodama R, 2001, NATURE, V412, P798, DOI 10.1038/35090525
+   Lindl J. D., 1998, INERTIAL CONFINEMENT
+   MEYERTERVEHN J, 1982, NUCL FUSION, V22, P561, DOI 10.1088/0029-5515/22/4/010
+   MURAKAMI M, 1987, JPN J APPL PHYS 1, V26, P1132, DOI 10.1143/JJAP.26.1132
+   Nagatomo H, 2003, AIP CONF PROC, V669, P253
+   Norreys PA, 2000, PHYS PLASMAS, V7, P3721, DOI 10.1063/1.1287419
+   NUCKOLLS J, 1972, NATURE, V239, P139, DOI 10.1038/239139a0
+   Puhkov A., 1997, PHYS REV LETT, V79, P2686
+   Roth M, 2001, PHYS REV LETT, V86, P436, DOI 10.1103/PhysRevLett.86.436
+   TABAK M, 1994, PHYS PLASMAS, V1, P1626, DOI 10.1063/1.870664
+   Velarde P.M., 1997, AIP C P, V406, P182
+   WINTERBERG F, 1980, Z PHYS A-HADRON NUCL, V296, P3, DOI 10.1007/BF01415609
+   WINTERBERG F., 1997, AIP C P, V406, P198
+   YABE T, 1984, JPN J APPL PHYS, V22, pL261
+NR 21
+TC 45
+Z9 45
+U1 1
+U2 6
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0168-9002
+J9 NUCL INSTRUM METH A
+JI Nucl. Instrum. Methods Phys. Res. Sect. A-Accel. Spectrom. Dect. Assoc.
+   Equip.
+PD MAY 21
+PY 2005
+VL 544
+IS 1-2
+BP 67
+EP 75
+DI 10.1016/j.nima.2005.01.195
+PG 9
+WC Instruments & Instrumentation; Nuclear Science & Technology; Physics,
+   Nuclear; Physics, Particles & Fields
+SC Instruments & Instrumentation; Nuclear Science & Technology; Physics
+GA 933WJ
+UT WOS:000229663300011
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Clement, B
+   Duc, G
+   Mauffrey, S
+AF Clement, B
+   Duc, G
+   Mauffrey, S
+TI Aerospace launch vehicle control: a gain scheduling approach
+SO CONTROL ENGINEERING PRACTICE
+LA English
+DT Article; Proceedings Paper
+CT 15th IFAC World Congress
+CY JUL 22-26, 2002
+CL BARCELONA, SPAIN
+SP IFAC
+DE aerospace launch vehicle; gain scheduling; interpolation; discrete-time
+   systems; multi-objective control; linear matrix inequalities
+ID INTERPOLATION; OPTIMIZATION; STABILITY; PLANTS
+AB This paper presents a methodology for designing an aerospace launch vehicle autopilot. Linear controllers are first designed using a multi-objective method based on the Youla parameterization and the optimization under constraints described by linear matrix inequalities. These controllers are then interpolated in such a way that the stability of the closed-loop plant is guaranteed. Results obtained from a nonlinear simulator against wind disturbances and parameter uncertainties are then given. (C) 2004 Elsevier Ltd. All rights reserved.
+C1 Ecole Super Elect, Serv Automat, F-91192 Gif Sur Yvette, France.
+   CNES, Direct Lanceurs, F-91023 Evry, France.
+   EADS Space Transportat, F-78133 Les Mureaux, France.
+RP Ecole Super Elect, Serv Automat, 3 Rue Joliot Curie, F-91192 Gif Sur Yvette, France.
+EM gilles.duc@supelec.fr
+CR Alazard D, 1999, INT J ROBUST NONLIN, V9, P101, DOI 10.1002/(SICI)1099-1239(199902)9:2<101::AID-RNC400>3.0.CO;2-U
+   BENDER DJ, 1985, INT J CONTROL, V41, P1565, DOI 10.1080/0020718508961215
+   Boyd S., 1991, LINEAR CONTROLLER DE
+   BUSCHEK H, 1997, AIAA GUID NAV CONTR
+   CLEMENT B, 2001, 34 IEEE C DEC CONTR
+   CLEMENT B, 2001, THESIS SUPELEC U PAR
+   CLEMENT B, 2001, 15 IFAC S AUT CONTR
+   CLEMENT B, 2000, 3 IFAC S ROB CONTR D
+   DORATO P, 1991, CONTROL OF UNCERTAIN DYNAMIC SYSTEMS, P249
+   Fromion V, 1996, INT J ROBUST NONLIN, V6, P235, DOI 10.1002/(SICI)1099-1239(199604)6:3<235::AID-RNC150>3.3.CO;2-G
+   Hindi H. A., 1998, AM CONTR C JUN, P3244
+   HYDE AR, 1993, IEEE T AUTOMATIC CON, V38, P1023
+   KAMINER I, 1993, AUTOMATICA, V29, P57, DOI 10.1016/0005-1098(93)90174-R
+   KHARGONEKAR PP, 1991, IEEE T AUTOMAT CONTR, V36, P824, DOI 10.1109/9.85062
+   Maciejowski J., 1989, MULTIVARIABLE FEEDBA
+   MAUFFREY S, 1998, 14 IFAC S AUT CONTR
+   MAUFFREY S, 2001, 52 INT ASTR C TOUL
+   Nichols R. A., 1993, IEEE Transactions on Control Systems Technology, V1, P69, DOI 10.1109/87.238400
+   Reichert R. T., 1992, IEEE Control Systems Magazine, V12, P35, DOI 10.1109/37.158896
+   Rugh W. J., 1991, IEEE Control Systems Magazine, V11, P79, DOI 10.1109/37.103361
+   Rugh WJ, 2000, AUTOMATICA, V36, P1401, DOI 10.1016/S0005-1098(00)00058-3
+   Scherer C, 1997, IEEE T AUTOMAT CONTR, V42, P896, DOI 10.1109/9.599969
+   SCHERER CW, 1999, IEEE C SEC CONTR PHO
+   SHAMMA JS, 1990, IEEE T AUTOMAT CONTR, V35, P898, DOI 10.1109/9.58498
+   SHAMMA S, 1988, THESIS MASSACHUSSET
+   Stilwell DJ, 1999, IEEE T AUTOMAT CONTR, V44, P1225, DOI 10.1109/9.769379
+   Stilwell DJ, 2000, AUTOMATICA, V36, P665, DOI 10.1016/S0005-1098(99)00193-4
+   Voinot O., 2001, 15 IFAC S AUT CONTR
+NR 28
+TC 16
+Z9 16
+U1 0
+U2 3
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0967-0661
+EI 1873-6939
+J9 CONTROL ENG PRACT
+JI Control Eng. Practice
+PD MAR
+PY 2005
+VL 13
+IS 3
+BP 333
+EP 347
+DI 10.1016/j.conengprac.2003.12.013
+PG 15
+WC Automation & Control Systems; Engineering, Electrical & Electronic
+SC Automation & Control Systems; Engineering
+GA 891IW
+UT WOS:000226575500008
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Suresh, MR
+   Kumar, RS
+   Sreekumar, K
+   Sinha, PP
+   Ballal, NB
+   Rao, PK
+AF Suresh, MR
+   Kumar, RS
+   Sreekumar, K
+   Sinha, PP
+   Ballal, NB
+   Rao, PK
+TI Study of fracture properties of 0 center dot 3C-CrMoV(ESR) ultrahigh
+   strength steel
+SO MATERIALS SCIENCE AND TECHNOLOGY
+LA English
+DT Article
+DE fracture toughness; residual strength; 0 center dot 3C-CrMoV(ESR) steel;
+   ESR; inoculation; ultrahigh strength; low alloy steel; compact tension
+   specimen; surface cracked tension (SCT) specimen; optical metallography;
+   SEM; TEM; space launch vehicle
+AB The fracture properties of a new ultrahigh strength low alloy steel 0.3C-CrMoV(ESR), developed primarily as a cost effective material for space launch vehicle applications, have been evaluated through two different methods. The steel was processed through electroslag remelting (ESR) with inoculation using niobium to produce 4 tonne ingots, which were forged and rolled into plates. The fracture toughness of this steel has been evaluated by testing compact tension specimens and surface cracked tension specimens following the procedures in ASTM E-399 and ASTM E-740 respectively. The steel, after quenching and tempering, has a 0.2% proof strength of 1470 MPa, ultimate tensile strength of 1725 MPa and fracture toughness of 96 MPa root m. It has high residual strength also in the presence of surface cracks of 5 x 2 mm size. The microstructure consists of fine grains in the annealed condition and lath martensite in the hardened condition. After tempering, fine carbide precipitates distributed along the lath boundaries and within the laths were observed.
+C1 Vikram Sarabhai Space Ctr, Indian Space Res Org, Trivandrum 695022, Kerala, India.
+   Indian Inst Technol, Bombay 400076, Maharashtra, India.
+RP Suresh, MR (reprint author), Vikram Sarabhai Space Ctr, Indian Space Res Org, Trivandrum 695022, Kerala, India.
+EM mrsuresh61@rediffmail.com
+CR ASTM, 1992, ANN BOOK ASTM STAND
+   BOYER HE, 1992, METALS HDB DESK EDIT
+   CHATTERJEE M, 1994, IRONMAK STEELMAK, V21, P399
+   COLLIPRIEST JE, 1971, 71319 SD N AM ROCKW
+   Dieter GE, 1986, MECH METALLURGY, P350
+   DIWAKAR V, 1989, J MATER SCI, V24, P1268, DOI 10.1007/BF02397057
+   GREEN AE, 1950, P CAMB PHILOS SOC, V46, P159
+   Holt J. M., 1996, STRUCTURAL ALLOYS HD, VI
+   HORN RM, 1978, METALL TRANS A, V9, P1039, DOI 10.1007/BF02652208
+   Hrisafovic N, 1980, ACTA ASTRON, V7, P838
+   Irwin G. R., 1962, J APPL MECH, V29, P651
+   KING JE, 1980, J MECH PHYS SOLIDS, V28, P191, DOI 10.1016/0022-5096(80)90003-4
+   KING JE, 1977, P 4 INT C FRACT, V2, P279
+   Masters JN, 1969, NASACR72606
+   *NASA, 1970, NASA SPAC VEH DES CR
+   Newman J. C.  Jr., 1973, Engineering Fracture Mechanics, V5, P667, DOI 10.1016/0013-7944(73)90046-5
+   ORANGE TW, 1975, J TEST EVAL, V3, P335
+   RANDALL PN, 1966, AFMLTR66204
+   SINHA PP, 1996, MPDESR0296 VIKR SAR
+   Suresh MR, 2003, IRONMAK STEELMAK, V30, P379, DOI 10.1179/030192303225004097
+   SURESH MR, 1995, P NAT SEM EM TECHN I, P149
+   WILSHIRE B, 1980, INT J FRACTURE, V16, pR19
+NR 22
+TC 1
+Z9 1
+U1 0
+U2 4
+PU MANEY PUBLISHING
+PI LEEDS
+PA HUDSON RD, LEEDS LS9 7DL, ENGLAND
+SN 0267-0836
+J9 MATER SCI TECH-LOND
+JI Mater. Sci. Technol.
+PD MAR
+PY 2005
+VL 21
+IS 3
+BP 357
+EP 365
+DI 10.1179/174328405X27106
+PG 9
+WC Materials Science, Multidisciplinary; Metallurgy & Metallurgical
+   Engineering
+SC Materials Science; Metallurgy & Metallurgical Engineering
+GA 929US
+UT WOS:000229372700014
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Guikema, SD
+   Pate-Cornell, ME
+AF Guikema, SD
+   Pate-Cornell, ME
+TI Probability of infancy problems for space launch vehicles
+SO RELIABILITY ENGINEERING & SYSTEM SAFETY
+LA English
+DT Article
+DE reliability; Bayesian analysis; launch vehicles; rockets; failure
+   probability; infancy problems
+AB This paper addresses the treatment of `infancy problems' in the reliability analysis of space launch systems. To that effect. we analyze the probability of failure of launch vehicles in their first five launches. We present methods and results based on a combination of Bayesian probability and frequentist statistics designed to estimate the system's reliability before the realization of a large number of launches. We show that while both approaches are beneficial, the Bayesian method is particularly useful when the experience base is small (i.e. for a new rocket). We define reliability as the probability of success based on a binary failure/no failure event WC conclude that the mean failure rates appear to be higher in the first and second flights (approximate to 1/3 and 1/4, respectively) than in subsequent ones (third, fourth and fifth), and Bayesian methods do suggest that there is indeed some difference in launch risk over the first five launches. Yet based on a classical frequentist analysis, we find that for these first few flights, the differences in the mean failure rates over successive launches of over successive generations of vehicles, are not statistically significant (i.e. do not meet a 95% confidence level). This is true because the frequentist analysis is based on a fixed confidence level (here: 95%), whereas the Bayesian one allows more flexibility in the conclusions based on a full probability density distribution of the failure rate and therefore, permits better interpretation of the information contained in a small sample. The approach also gives more insight into the considerable uncertainty in failure rate estimates based on small sample sizes. (C) 2004 Elsevier Ltd. All rights reserved.
+C1 Cornell Univ, Dept Civil & Environm Engn, Ithaca, NY 14853 USA.
+   Stanford Univ, Dept Management Sci & Engn, Stanford, CA 94305 USA.
+RP Guikema, SD (reprint author), Cornell Univ, Dept Civil & Environm Engn, Hollister Hall, Ithaca, NY 14853 USA.
+EM sdg4@cornell.edu
+RI Guikema, Seth/A-8890-2009
+CR APOSTOLAKIS G, 1990, SCIENCE, V250, P1359, DOI 10.1126/science.2255906
+   BERGER JO, 1987, J AM STAT ASSOC, V82, P112, DOI 10.2307/2289131
+   Devore J.L., 1991, PROBABILITY STAT ENG
+   FRIES A, 1999, P AM STAT ASS SECT P, P132
+   GALLAGHER MA, 1997, MILITARY OPERATIONS, V3, P5
+   GELLMAN A, 1995, BAYESIAN DATA ANAL
+   GUARRO S, 2004, P PROBABILISTIC SAFE, P7
+   Guikema SD, 2004, J SPACECRAFT ROCKETS, V41, P93, DOI 10.2514/1.9268
+   Isakowitz SJ, 1999, INT REFERENCE GUIDE
+   Law A. M., 2000, SIMULATION MODELING
+   Martz H.F., 1991, BAYESIAN RELIABILITY
+   Zellner A., 1971, INTRO BAYESIAN INFER
+NR 12
+TC 13
+Z9 13
+U1 2
+U2 5
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0951-8320
+J9 RELIAB ENG SYST SAFE
+JI Reliab. Eng. Syst. Saf.
+PD MAR
+PY 2005
+VL 87
+IS 3
+BP 303
+EP 314
+DI 10.1016/j.ress.2004.06.001
+PG 12
+WC Engineering, Industrial; Operations Research & Management Science
+SC Engineering; Operations Research & Management Science
+GA 887MY
+UT WOS:000226311400002
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Guikema, SD
+AF Guikema, SD
+TI A comparison of reliability estimation methods for binary systems
+SO RELIABILITY ENGINEERING & SYSTEM SAFETY
+LA English
+DT Article
+DE Bayesian reliability estimation; strategic missile systems; simulation
+AB This paper uses a simulation-based approach to compare the predictive accuracy of five different methods for estimating the risk of failure for binary failure/no failure systems such as US strategic missiles, space launch vehicles. and security systems based on the results of a number of tests. This paper tests two Bayesian approaches, two classical (frequentist) approaches. and the method currently used the US Air Force Strategic Command (STRATCOM) to estimate the reliability of strategic nuclear missiles. First, test results are simulated based on an assumed underlying reliability profile. Then the system's reliability is estimated by each of the approaches using the simulated test results, and these estimates are compared with the assumed underlying reliability. Statistical procedures are used to compare the errors from the different methods. The results of this study show that the STRATCOM approach and a classical approach using only the test data from the current period are significantly less accurate than the other three methods and that the accuracy of the Bayesian methods depend on the prior density functions used. The results in this paper provide a quantitative assessment of the accuracy of the tested methods. (C) 2004 Elsevier Ltd. All rights reserved.
+C1 Cornell Univ, Dept Civil & Environm Engn, Ithaca, NY 14853 USA.
+RP Guikema, SD (reprint author), Cornell Univ, Dept Civil & Environm Engn, Hollister Hall, Ithaca, NY 14853 USA.
+EM sdg4@cornell.edu
+RI Guikema, Seth/A-8890-2009
+CR Chapra S. C., 1985, NUMERICAL METHODS EN
+   D'Agostino R.B., 1986, GOODNESS FIT TECHNIQ
+   Devore J.L., 1991, PROBABILITY STAT ENG
+   FRIES A, 1999, P AM STAT ASS SECT P, P132
+   GALLAGHER MA, 1997, MILITARY OPERATIONS, V3, P5
+   Guikema SD, 2004, J SPACECRAFT ROCKETS, V41, P93, DOI 10.2514/1.9268
+   GUIKEMA SD, 2004, IN PRESS RELIAB ENG
+   Jaynes E. T., 1984, P MAXIMUM ENTROPY BA, P1
+   KAPLAN S, 1990, RELIAB ENG SYST SAFE, V27, P103, DOI 10.1016/0951-8320(90)90034-K
+   LAUNER RL, 1986, RELIABILITY QUALITY, P245
+   Law A. M., 2000, SIMULATION MODELING
+   Martz H. F., 1982, BAYESIAN RELIABILITY
+   RYAN TA, 1990, NOTE TEST NORMALITY
+   SAVAGE L. J., 1972, FDN STAT
+   Zellner A., 1971, INTRO BAYESIAN INFER
+NR 15
+TC 9
+Z9 9
+U1 0
+U2 2
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0951-8320
+J9 RELIAB ENG SYST SAFE
+JI Reliab. Eng. Syst. Saf.
+PD MAR
+PY 2005
+VL 87
+IS 3
+BP 365
+EP 376
+DI 10.1016/j.ress.2004.06.007
+PG 12
+WC Engineering, Industrial; Operations Research & Management Science
+SC Engineering; Operations Research & Management Science
+GA 887MY
+UT WOS:000226311400007
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Neeck, SP
+   Magner, TJ
+   Paules, GE
+AF Neeck, SP
+   Magner, TJ
+   Paules, GE
+TI NASA's small satellite missions for Earth observation
+SO ACTA ASTRONAUTICA
+LA English
+DT Article; Proceedings Paper
+CT 4th IAA International Symposium n Small Satellites for Earth Observation
+CY APR 07-11, 2003
+CL Berlin, GERMANY
+SP Deutsch Zentrum Luft & Raumfahrt eV, Int Acad Astronaut
+AB The mission of NASA's Earth Science Enterprise (ESE) is to develop a scientific understanding of the Earth system and its response to natural and human-induced changes to enable improved prediction of climate. weather. and natural hazards for present and future generations. The ESE has an end-to-end strategy to assure that information. understanding. and capabilities derived from its research program achieve maximum usefulness to the scientific and decision-making communities. Small satellites (< 500 kg) have been crucial contributors to satisfying the research strategy since the inception of NASA's Earth observation program in the 1960s. In the last decade, NASA's ESE has placed a renewed emphasis on small satellites. This reemphasis reflects advancements in compact sensor, small satellite bus. and launch vehicle technologies in addition to management innovations. Near term and advanced planning suggest that this trend will continue. A number of related small satellite missions have been recently launched, are in development. or are planned. Multi-satellite constellations under study include small satellites as key architectural elements. Studies indicate that low cost. capable microspacecraft along with compact sensors and increased autonomy are technology enablers to the sensorwebs and associated distributed spacecraft infrastructure required to realize the long-term NASA Earth Science Vision (ESV). Published by Elsevier Ltd.
+C1 NASA, Off Earth Sci, Washington, DC 20546 USA.
+RP Neeck, SP (reprint author), NASA, Off Earth Sci, Washington, DC 20546 USA.
+CR Hooker S. B., 1992, 104566 NASA, V1
+   JOHNSON C, 2003, 4 IAA S SMALL SAT EA
+   KOBLINSKY CJ, 2001, 11 C SAT MET OC MAD
+   LEMMERMAN L, 2002, IEEE GEOSC REM SENS
+   LEMMERMAN L, 2003, 4 IAA S SMALL SAT EA
+   NASA, 2000, EXPL OUR HOM PLAN EA
+   STEINER M, 2003, 12 C SAT MET OC LONG
+   VONDERHAAR TH, 1982, NASA PUBLICATION, V2257
+   WINKER DM, 2002, 21 ILRC QUEB CIT CAN
+   Woods T., 2000, SPIE P, V4135, P192, DOI 10.1117/12.494229
+NR 10
+TC 27
+Z9 28
+U1 0
+U2 1
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0094-5765
+J9 ACTA ASTRONAUT
+JI Acta Astronaut.
+PD JAN
+PY 2005
+VL 56
+IS 1-2
+BP 187
+EP 192
+DI 10.1016/j.actaastro.2004.09.034
+PG 6
+WC Engineering, Aerospace
+SC Engineering
+GA 879VQ
+UT WOS:000225747600027
+OA No
+DA 2017-09-27
+ER
+
+
+PT S
+AU Akhtar, S
+   He, LS
+AF Akhtar, S
+   He, LS
+TI Support vector machine based trajectory metamodel for conceptual design
+   of multi-stage space launch vehicle
+SO COMPUTATIONAL INTELLIGENCE AND SECURITY, PT 1, PROCEEDINGS
+SE LECTURE NOTES IN ARTIFICIAL INTELLIGENCE
+LA English
+DT Article; Proceedings Paper
+CT International Conference on Computational Intelligence and Security
+CY DEC 15-19, 2005
+CL Xi'an, PEOPLES R CHINA
+SP IEEE Computat Intelligence, Hong Kong Chapter, Xidian Univ, Hong Kong Baptist Univ, Natl Nat Sci Fdn China, Guangdong Univ Technol
+AB The design of new Space Launch Vehicle (SLV) involves a full set of disciplines - propulsion, structural sizing, aerodynamics, mission analysis, flight control, stages layout - with strong interaction between each other. Since multidisciplinary design optimization of multistage launch vehicles is a complex and computationally expensive. An efficient Least Square Support Vector Regression (LS-SVR) technique is used for trajectory simulation of multistage space launch vehicle. This newly formulation problem-about 17 parameters, linked to both the architecture and the command (trajectory optimization), 8 constraints - is solved through hybrid optimization algorithm using Particle Swarm Optimization (PSO) as global optimizer and Sequential Quadratic Programming (SQP) as local optimizer starting from the solution given by (PSO). The objective is to find minimum gross launch weight (GLW) and optimal trajectory during launch maneuvering phase for liquid fueled space launch vehicle (SLV). The computational cost incurred is compared for two cases of conceptual design involving exact trajectory simulation and with Least Square Support Vector Regression based trajectory simulation.
+C1 Beihang Univ, Sch Astronaut, Beijing 100083, Peoples R China.
+RP Akhtar, S (reprint author), Beihang Univ, Sch Astronaut, 37 XueYuan Lu, Beijing 100083, Peoples R China.
+EM saqlainghumman@hotmail.com
+CR AKHTAR S, 2005, IFSA, P1353
+   Boggs P. T., 1995, ACTA NUMERICA
+   Johan A.K.S., 2002, LEAST SQUARES SUPPOR
+   MARTIN J, 2002, 9 AIAA ISSMO ATL GA
+   PARSOPOULOS KE, GR26110 U PATR AI RE
+   TSUCHIYA T, 2004, J SPACECRAFTS ROCKET, V41
+   VENTER G, 20025644 AIAA
+NR 7
+TC 0
+Z9 0
+U1 0
+U2 2
+PU SPRINGER-VERLAG BERLIN
+PI BERLIN
+PA HEIDELBERGER PLATZ 3, D-14197 BERLIN, GERMANY
+SN 0302-9743
+BN 3-540-30818-0
+J9 LECT NOTES ARTIF INT
+PY 2005
+VL 3801
+BP 528
+EP 535
+PG 8
+WC Computer Science, Artificial Intelligence; Computer Science, Information
+   Systems; Computer Science, Theory & Methods
+SC Computer Science
+GA BDQ19
+UT WOS:000234873700077
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Lappas, VJ
+   Coxhill, I
+   Baker, A
+AF Lappas, VJ
+   Coxhill, I
+   Baker, A
+TI Systems design for planetary ascent vehicles (PAV)
+SO JBIS-JOURNAL OF THE BRITISH INTERPLANETARY SOCIETY
+LA English
+DT Article
+DE planet ascent vehicle; systems; guidance; propulsion
+ID LAUNCH VEHICLE; MARS
+AB The European Agency under its Aurora programme is about to undertake bold and unprecedented steps towards exploring the outer planets of our solar system. A very important step in this programme is a Mars sample return mission lead by the European Space Agency. One main point in this mission is transporting samples from mars with and without humans back to Earth. Transporting these samples and humans from the hostile Mars environment to low Mars orbit and then back to Earth will require some means of transportation based on rockets. In this respect the Surrey Space Centre is exploring alternatives to design a low cost, modular Planetary Ascent Vehicle (PAV). This paper will briefly describe the following:
+   Sizing and systems design of a Mars Ascent Vehicle
+   Issues on the design of the Navigation, Guidance and Control System of a Mars Ascent Vehicle (MAV).
+C1 Univ Surrey, Surrey Space Ctr, Guildford GU2 7XH, Surrey, England.
+RP Lappas, VJ (reprint author), Univ Surrey, Surrey Space Ctr, Guildford GU2 7XH, Surrey, England.
+CR Burl J. B., 1999, LINEAR OPTIMAL CONTR
+   Carter PH, 1999, ACTA ASTRONAUT, V45, P311, DOI 10.1016/S0094-5765(99)00148-4
+   Colasurdo G, 1998, J SPACECRAFT ROCKETS, V35, P667, DOI 10.2514/2.3383
+   DESAI PN, 1998, 7 AIAA ASME JOINT TH
+   *ESA, 2003, ITT1433302NLJAG ESA
+   *ESTEC CONC DES FA, 2003, MAV SYST
+   HUMBLE RW, SPACE TECHNOLOGY SER, P15
+   JACQUERLAND C, 2002, ASCENT VEHICLE TECHN
+   LAPPAS V, 2002, STUDY GNC OPTIONS PA
+   Miele A, 2001, ACTA ASTRONAUT, V49, P563, DOI 10.1016/S0094-5765(01)00008-X
+   O'Neil WJ, 2000, ACTA ASTRONAUT, V47, P453, DOI 10.1016/S0094-5765(00)00085-0
+   SEIFF A, 1991, J SPACECRAFT ROCKETS, V28, P265, DOI 10.2514/3.26240
+   Whitehead JC, 1999, ACTA ASTRONAUT, V45, P319, DOI 10.1016/S0094-5765(99)00149-6
+   Wu CS, 2001, J GUID CONTROL DYNAM, V24, P755, DOI 10.2514/2.4776
+   Xing GQ, 1997, ACTA ASTRONAUT, V41, P121, DOI 10.1016/S0094-5765(97)00191-4
+   Yang CD, 2000, J GUID CONTROL DYNAM, V23, P278, DOI 10.2514/2.4520
+   2003, PRESENTATION ESTEC A
+NR 17
+TC 0
+Z9 0
+U1 1
+U2 2
+PU BRITISH INTERPLANETARY SOC
+PI LONDON
+PA 27-29 S LAMBETH RD, LONDON SW8 1SZ, ENGLAND
+SN 0007-084X
+J9 JBIS-J BRIT INTERPLA
+JI JBIS-J. Br. Interplanet. Soc.
+PD SEP-OCT
+PY 2004
+VL 57
+IS 9-10
+BP 290
+EP 297
+PG 8
+WC Engineering, Aerospace; Astronomy & Astrophysics; Geosciences,
+   Multidisciplinary
+SC Engineering; Astronomy & Astrophysics; Geology
+GA 844ER
+UT WOS:000223140800001
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Moses, PL
+   Rausch, VL
+   Nguyen, LT
+   Hill, JR
+AF Moses, PL
+   Rausch, VL
+   Nguyen, LT
+   Hill, JR
+TI NASA hypersonic flight demonstrators - overview, status, and future
+   plans
+SO ACTA ASTRONAUTICA
+LA English
+DT Article; Proceedings Paper
+CT 54th Congress of the Interantional-Astronautical-Federation (IAF)
+CY SEP 29-OCT 03, 2003
+CL Bremen, GERMANY
+SP Int Astronaut Federat
+AB NASA's Next Generation Launch Technology (NGLT) program is developing and maturing advanced propulsion and vehicle systems technologies and flight vehicle concepts to enable future development of safer and more economical launch systems. Within NGLT, NASA is developing advanced air breathing propulsion systems and demonstrating these systems in hypersonic flight vehicles. The flight demonstrations are necessary to fully validate these technologies for application to future space launch vehicles and other flight systems.
+   NASA's Hyper-X Program (X-43A) began the effort to flight demonstrate hypersonic air breathing propulsion systems to provide technologies that will enable development of safer and more economic space access vehicles in the future. Following X-43A, NASA, in collaboration with the United States (US) Department of Defense (DoD), is developing additional, progressively more complex hypersonic X-vehicles that will demonstrate new air breathing propulsion systems, propulsion-airframe integration, and other vehicle systems technologies required for high speed flight up to Mach 15. These technologies will contribute to safer, more reliable and more economic future launch systems and hypersonic aircraft/missiles.
+   This paper describes NASA's current hypersonic flight demonstration projects, status of the efforts, and plans for future vehicles. Published by Elsevier Ltd.
+C1 NASA, Langley Res Ctr, Hampton, VA 23665 USA.
+RP Moses, PL (reprint author), NASA, Langley Res Ctr, Hampton, VA 23665 USA.
+CR HUETER U, 2002, AIAA AAAF 11 INT C S
+   KUMAR A, 2001, 4 NASA
+   NASA, 2003, X43A NASA, V1
+NR 3
+TC 45
+Z9 60
+U1 6
+U2 44
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0094-5765
+J9 ACTA ASTRONAUT
+JI Acta Astronaut.
+PD AUG-NOV
+PY 2004
+VL 55
+IS 3-9
+BP 619
+EP 630
+DI 10.1016/j.actaastro.2004.05.045
+PG 12
+WC Engineering, Aerospace
+SC Engineering
+GA 849XG
+UT WOS:000223574300045
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Ashford, EW
+AF Ashford, EW
+TI Non-Geo systems - where have all the satellites gone?
+SO ACTA ASTRONAUTICA
+LA English
+DT Article; Proceedings Paper
+CT 54th Congress of the Interantional-Astronautical-Federation (IAF)
+CY SEP 29-OCT 03, 2003
+CL Bremen, GERMANY
+SP Int Astronaut Federat
+AB Non-GEO satellites were being hailed as the means that would bring connectivity to the masses. Anyone, it was said, would be able to buy a portable telephone that would allow them, no matter where they might be, to call or be called by anyone else in the world. In the early 1990s, there were predictions that, by now, literally many hundreds of new non-geostationary communications satellites would be in orbit. Furthermore, people all over the world would also be able to buy an inexpensive satellite terminal that would allow them to access the Internet with a broadband connection, at prices on par with or even far below what the terrestrial competition would be able to offer.
+   Many companies were set up to compete to establish this "Nirvana of Communications." To do so, however, the companies in question would have to attract sufficient financial backing from investors to actually begin such an undertaking. Surprisingly, at least in retrospect, a tremendous amount of investment capital was forthcoming, and a number of contracts were awarded to manufacturers to develop the requisite satellite systems.
+   Today, almost a decade later, satellite manufacturers and their suppliers have been subjected to a massive belt-tightening exercise as contracts were cancelled and expected future orders were not forthcoming. The launch vehicle industry, which had geared up to meet the bonanza of expected launch orders, is also going hungry. Where are all the proposed systems? This paper will attempt to answer this question, as well as to provide some insight into why the systems that are no longer with us fell by the wayside. Finally, it will look into the future and try to predict what the long-term prospects might be for non-GEO communication satellites in general. (C) 2004 Ed Ashford. Published by Elsevier Ltd. All rights reserved.
+C1 Ashford Aerosp Consulting, Raleigh, NC 27617 USA.
+RP Ashford, EW (reprint author), Ashford Aerosp Consulting, 9112 White Eagle Court, Raleigh, NC 27617 USA.
+EM ed.ashford@eashford.com
+CR CHIA M, 1997, 4 AN SEM SING 8 SEPT
+   FISHER D, 1999, FORBES MAGAZINE 0410
+   GIFFORD JM, 1998, SATELLITE BROAD 1001
+   Hobby Richard, 1998, INTRO IRIDIUM SYSTEM
+   *INT TECHN RES I, 1998, GLOB SAT COMM TECHN
+   KOHN D, 1996, 6 ANN C INT SOC INET
+   LONG M, 2001, COMMVERGE MAGAZ 0620
+   SHANKAR B, 1996, MICROWAVE J      OCT
+NR 8
+TC 0
+Z9 0
+U1 0
+U2 1
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0094-5765
+J9 ACTA ASTRONAUT
+JI Acta Astronaut.
+PD AUG-NOV
+PY 2004
+VL 55
+IS 3-9
+BP 649
+EP 657
+DI 10.1016/j.actaastro.2004.05.018
+PG 9
+WC Engineering, Aerospace
+SC Engineering
+GA 849XG
+UT WOS:000223574300049
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Luo, FS
+   Chen, MJ
+   Zhuang, HC
+   He, YH
+   Tian, GZ
+   Zhang, J
+AF Luo, FS
+   Chen, MJ
+   Zhuang, HC
+   He, YH
+   Tian, GZ
+   Zhang, J
+TI A portable sharing upper atmospheric sounding system used by both
+   balloon and micro-rocket
+SO CHINESE JOURNAL OF GEOPHYSICS-CHINESE EDITION
+LA Chinese
+DT Article
+DE atmospheric sounding in upper air; two sphere electric field instrument;
+   micro-rocket electric field instrument
+AB The requirements of upper atmospheric exploration systems are increasing, but usual receiving and tracking equipment are ponderous and with bad agility, and more and more unsuitable for multi-purpose situation which need more flexibility. A low cost portable upper atmospheric sounding system used by both balloon and micro-rocket is presented, which has much lower ratio of signal to noise and wider bandwidth. The system is composed of a frequency modulated transmitter, upper atmospheric sounding instruments, a wide beam parabolic receiving antenna on the ground, a receiver with low noise and data processing equipment. It is mainly used to receive and process the data from balloons and micro-rockets.
+C1 Chinese Acad Sci, Ctr Space Sci & Appl Res, Beijing 100080, Peoples R China.
+RP Luo, FS (reprint author), Chinese Acad Sci, Ctr Space Sci & Appl Res, Beijing 100080, Peoples R China.
+CR IUO FS, 2000, CHINESE J GEOPHYS, V43, P616
+   IUO FS, 1999, CHINESE J GEOPHYS, V42, P772
+   VAISALA, 1996, VAISALA RADIOTHEODOL
+NR 3
+TC 0
+Z9 2
+U1 0
+U2 1
+PU SCIENCE CHINA PRESS
+PI BEIJING
+PA 16 DONGHUANGCHENGGEN NORTH ST, BEIJING 100717, PEOPLES R CHINA
+SN 0001-5733
+J9 CHINESE J GEOPHYS-CH
+JI Chinese J. Geophys.-Chinese Ed.
+PD MAR
+PY 2004
+VL 47
+IS 2
+BP 212
+EP 215
+PG 4
+WC Geochemistry & Geophysics
+SC Geochemistry & Geophysics
+GA 808SY
+UT WOS:000220590000006
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Konyukhov, SN
+AF Konyukhov, SN
+TI Applied mechanics problems accompanying spacecraft launches from a
+   floating platform and their resolution by the Sea Launch Project
+SO INTERNATIONAL APPLIED MECHANICS
+LA English
+DT Article
+DE Sea Launch Project; launch vehicle; load; sea transportation; prelaunch
+   operations; rough sea; launch platform; launch safety
+AB The technologies applied by SDO Yuzhnoye to implement the Sea Launch Project are exemplified to describe the recent achievements in designing space launch vehicles. Consideration is given to the loads acting on launch vehicles during long-term sea transportation and prelaunch operations in rough sea. Experimental methods for determining those loads are described, and techniques for reducing them are proposed. Presentation is also given to methods of providing launch safety under conditions of limited space for launch-support equipment and reducing the thermal and vibroacoustic loads on the launcher. The efficiency of the methods described is confirmed by the success of the Sea Launch Project.
+C1 SDO Yuzhnoe, Dnepropetrovsk, Ukraine.
+RP Konyukhov, SN (reprint author), SDO Yuzhnoe, Dnepropetrovsk, Ukraine.
+CR Bolotin VV, 1979, RANDOM VIBRATIONS EL
+   BOLOTON VV, 1961, STAT METHODS STRUCTU
+   GLADKII VF, 1975, STRENGTH VIBRATION R
+   HAHN G. J., 1967, STAT MODELS ENG
+   Kolesnikov K. S., 1969, LIQUID PROPELLANT RO
+   KONYUKHOV SM, 1999, METHODS PREPARATION
+   LENK A, 1974, SCHWINGUNGSPRUFTECHN
+   MAKSIMADZH AI, 1988, CAPTAINS GUIDE HULL
+   SHIMANSKII YA, 1963, DYNAMIC ANAL SHIP ST
+   SMIRNOV GN, 1986, OCEANOLOGY
+   Yekimov V.V., 1966, PROBABILISTIC METHOD
+   1964, INT SHP STRUCT C
+   1986, RELIABILITY LIFE PRO
+NR 13
+TC 4
+Z9 4
+U1 0
+U2 2
+PU CONSULTANTS BUREAU
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 1063-7095
+J9 INT APPL MECH+
+JI Int. Appl. Mech.
+PD FEB
+PY 2004
+VL 40
+IS 2
+BP 115
+EP 139
+DI 10.1023/B:INAM.0000028591.66544.e4
+PG 25
+WC Mechanics
+SC Mechanics
+GA 844JS
+UT WOS:000223154900001
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Varvill, R
+   Bond, A
+AF Varvill, R
+   Bond, A
+TI The SKYLON spaceplane
+SO JBIS-JOURNAL OF THE BRITISH INTERPLANETARY SOCIETY
+LA English
+DT Article
+DE spaceplane design; SSTO; SKYLON; SABRE; airbreathing propulsion
+AB SKYLON is a single stage to orbit (SSTO) winged spaceplane designed to give routine low cost access to space. At a gross takeoff weight of 275 tonnes of which 220 tonnes is propellant the vehicle is capable of placing 12 tonnes into an equatorial low Earth orbit. The vehicle configuration consists of a slender fuselage containing the propellant tankage and payload bay with delta wings located midway along the fuselage carrying the SABRE engines in axisymmetric nacelles on the wingtips. The vehicle takes off and lands horizontally on it's own undercarriage. The fuselage is constructed as a multilayer structure consisting of aeroshell, insulation, structure and tankage. SKYLON employs extant or near term materials technology in order to minimise development cost and risk. The SABRE engines have a dual mode capability. In rocket mode the engine operates as a closed cycle liquid oxygen/liquid hydrogen high specific impulse rocket engine. In airbreathing mode (from takeoff to Mach 5) the liquid oxygen flow is replaced by atmospheric air, increasing the installed specific impulse 3-6 fold. The airflow is drawn into the engine via a 2 shock axisymmetric intake and cooled to cryogenic temperatures prior to compression. The hydrogen fuel flow acts as a heat sink for the closed cycle helium loop before entering the main combustion chamber.
+C1 React Engines Ltd, Culham Sci Ctr D5, Abingdon OX14 3DB, Oxon, England.
+RP Varvill, R (reprint author), React Engines Ltd, Culham Sci Ctr D5, Abingdon OX14 3DB, Oxon, England.
+NR 0
+TC 20
+Z9 22
+U1 3
+U2 21
+PU BRITISH INTERPLANETARY SOC
+PI LONDON
+PA 27-29 S LAMBETH RD, LONDON SW8 1SZ, ENGLAND
+SN 0007-084X
+J9 JBIS-J BRIT INTERPLA
+JI JBIS-J. Br. Interplanet. Soc.
+PD JAN-FEB
+PY 2004
+VL 57
+IS 1-2
+BP 22
+EP 32
+PG 11
+WC Engineering, Aerospace; Astronomy & Astrophysics; Geosciences,
+   Multidisciplinary
+SC Engineering; Astronomy & Astrophysics; Geology
+GA 763NG
+UT WOS:000188091800003
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU McInnes, CR
+   Hughes, G
+   McDonald, M
+AF McInnes, CR
+   Hughes, G
+   McDonald, M
+TI Low cost Mercury orbiter and-sample return missions using solar sail
+   propulsion
+SO AERONAUTICAL JOURNAL
+LA English
+DT Article
+AB The use of solar sail propulsion is investigated for both Mercury orbiter (MO) and Mercury sample return missions (MeSR). It will be demonstrated that solar sail propulsion can significantly reduce launch mass and enhance payload mass fractions for MO missions, while MeSR missions are enabled, again with a relatively low launch mass. Previous investigations of MeSR type missions using solar electric propulsion have identified a requirement for an Ariane V launcher to deliver a lander and sample return vehicle. The analysis presented in this paper demonstrates that, in principle, a MeSR mission can be enabled using a single Soyuz-Fregat launch vehicle, leading to significant reductions in launch mass and mission costs. Similarly, it will be demonstrated that the full payload of the ESA Bepi Colombo orbiter mission can be delivered to Mercury using a Soyuz-Fregat launch vehicle, rather than Ariane V, again leading to a reduction in mission costs.
+C1 Univ Glasgow, Dept Aerosp Engn, Glasgow G12 8QQ, Lanark, Scotland.
+RP McInnes, CR (reprint author), Univ Glasgow, Dept Aerosp Engn, Glasgow G12 8QQ, Lanark, Scotland.
+RI McInnes, Colin/H-7794-2012; Macdonald, Malcolm/H-1362-2012
+OI Macdonald, Malcolm/0000-0003-4499-4281
+CR GARNER CE, 2000, 36 AIAA ASME SAE ASE
+   HUGHES G, 2001, AAS AIAA ASTR SPEC C
+   LEIPOLD M, 1996, J GUIDANCE CONTROL D, V19, P137
+   MCADAMS JV, 2001, AAS AIAA ASTR SPEC C
+   MCDONALD M, 2001, AAS AIAA ASTR SPEC C
+   McInnes CR, 1999, ACTA ASTRONAUT, V45, P567, DOI 10.1016/S0094-5765(99)00177-0
+   McInnes CR, 2001, J SPACECRAFT ROCKETS, V38, P622, DOI 10.2514/2.3727
+   MCINNES CR, 2000, SOLAR SAIL MISSIONS
+   McInnes C. R., 1999, SOLAR SAILING TECHNO
+NR 9
+TC 6
+Z9 7
+U1 0
+U2 2
+PU ROYAL AERONAUTICAL SOC
+PI LONDON
+PA 4 HAMILTON PL, LONDON W1J 7BQ, ENGLAND
+SN 0001-9240
+J9 AERONAUT J
+JI Aeronaut. J.
+PD AUG
+PY 2003
+VL 107
+IS 1074
+BP 469
+EP 478
+PG 10
+WC Engineering, Aerospace
+SC Engineering
+GA 714EQ
+UT WOS:000184899700003
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Youngquist, RC
+   Immer, C
+   Lane, JE
+   Simpson, JC
+AF Youngquist, RC
+   Immer, C
+   Lane, JE
+   Simpson, JC
+TI Dynamics of a finite liquid oxygen column in a pulsed magnetic field
+SO IEEE TRANSACTIONS ON MAGNETICS
+LA English
+DT Article
+DE axially symmetric solenoid; liquid oxygen (LOX); magnetic force;
+   paramagnetic fluids
+AB Current technology for pumping liquid oxygen (LOX)-the corrosive, highly explosive, cryogenic fluid used as the oxidizing agent in many space launch vehicles-involves traditional mechanisms such as impellers and rotors. The moving parts that are in contact with the fluid, as well as the seals around the pump, are potential failure points. These parts require special attention to protect against a reaction with LOX. We have developed a method to use pulsed magnetic fields to pump finite quantities of LOX that requires no moving parts in contact with the fluid. The equipment for this pumping technology is potentially nonintrusive and may be lighter in weight than existing mechanical pumps. Here, we compute equations of motion using a finite-difference technique, predicting the movement of a finite-length column of LOX in response to a pulsed magnetic field. We compare the calculated dynamics to experiment for various configurations.
+C1 NASA, Kennedy Space Ctr, FL 32899 USA.
+   Dynacs Inc, Kennedy Space Ctr, FL 32899 USA.
+RP Youngquist, RC (reprint author), NASA, YA-C3, Kennedy Space Ctr, FL 32899 USA.
+OI Lane, John/0000-0003-2619-1864
+CR CHAHID A, 1992, EUROPHYS LETT, V20, P71, DOI 10.1209/0295-5075/20/1/013
+   GARRETT MW, 1963, J APPL PHYS, V34, P2567, DOI 10.1063/1.1729771
+   Jackson J.D., 1998, CLASSICAL ELECTRODYN, P181
+   MARTIN J, 2000, MAGNETICALLY ACTUATE
+   ROSENSWEIG RE, 1985, FERROHYDRODYNAMICS, P15
+   TAKAHASHI M, 1994, INT J MULTIPHAS FLOW, V20, P1095, DOI 10.1016/0301-9322(94)90057-4
+   *U ILL URB CHAMP C, 2000, MAGN LIQ OX
+   UENO S, 1993, IEEE T MAGN, V29, P3264, DOI 10.1109/20.281157
+   UYEDA C, 1987, J PHYS SOC JPN, V56, P3444, DOI 10.1143/JPSJ.56.3444
+   UYEDA C, 1989, PHYSICA B, V155, P421, DOI 10.1016/0921-4526(89)90544-9
+   WELSBY VG, 1960, THEORY DESIGN INDUCT, P44
+   WHITAKER JC, 1996, ELECT HDB, P149
+NR 12
+TC 8
+Z9 8
+U1 0
+U2 3
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855 USA
+SN 0018-9464
+J9 IEEE T MAGN
+JI IEEE Trans. Magn.
+PD JUL
+PY 2003
+VL 39
+IS 4
+BP 2068
+EP 2073
+DI 10.1109/TMAG.2003.812722
+PN 2
+PG 6
+WC Engineering, Electrical & Electronic; Physics, Applied
+SC Engineering; Physics
+GA 703YA
+UT WOS:000184309300015
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Roemer, S
+   Renner, U
+AF Roemer, S
+   Renner, U
+TI Flight experiences with DLR-TUBSAT
+SO ACTA ASTRONAUTICA
+LA English
+DT Article; Proceedings Paper
+CT 3rd IAA International Symposium on Small Satellites for Earth
+   Observation
+CY APR 02-06, 2001
+CL BERLIN, GERMANY
+SP IAA
+AB DLR-TUBSAT is a microsatellite joint project of the Institute of Aeronautics and Astronautics at the Technical University of Berlin (TUB) and the German Aerospace Centre (DLR). It was launched on 26 March 1999 with the Indian Polar Spacecraft Launch Vehicle (PSLV) as secondary payload. DLR-TUBSAT was designed for interactive earth observation where the target is not identified in advance, a search action is involved or a target has to be visually followed. Whereas classical earth observation uses nadir pointing satellites the design of DLR-TUBSAT was made for using interactive control strategies. Since the start of the operation many different strategies for different acquisition and operation modes are developed and tested. A result of this development are new software programs on satellite and ground segment and new ground control procedures. Possible applications of the produced earth observation data could be defined and were integrated in the new control strategies. DLR-TUBSAT showed that it can serve new market areas of earth observation and new customers, which can not use or do not want to use classical earth observation satellites. The main advantages are the interactive search abilities, very high repeat cycles (I day) and the low mass and low costs of the satellite system. Published by Elsevier Science Ltd.
+C1 Tech Univ Berlin, Inst Aeronaut & Astronaut, Off F6, D-10587 Berlin, Germany.
+RP Roemer, S (reprint author), Tech Univ Berlin, Inst Aeronaut & Astronaut, Off F6, Marchstr 12, D-10587 Berlin, Germany.
+CR SCHULZ S, 2000, DLR TUBSAT MICROSATE
+NR 1
+TC 3
+Z9 3
+U1 0
+U2 2
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0094-5765
+J9 ACTA ASTRONAUT
+JI Acta Astronaut.
+PD MAY-JUN
+PY 2003
+VL 52
+IS 9-12
+BP 733
+EP 737
+DI 10.1016/S0094-5765(03)00044-4
+PG 5
+WC Engineering, Aerospace
+SC Engineering
+GA 678GK
+UT WOS:000182858000010
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Sornette, D
+AF Sornette, D
+TI Critical market crashes
+SO PHYSICS REPORTS-REVIEW SECTION OF PHYSICS LETTERS
+LA English
+DT Review
+ID DISCRETE-SCALE-INVARIANCE; STOCK-MARKET; FINANCIAL-MARKETS; HERD
+   BEHAVIOR; SPECULATIVE BUBBLES; LOG-PERIODICITY; MIMETIC CONTAGION;
+   ADAPTIVE SYSTEMS; GREAT-DEPRESSION; BUSINESS-CYCLE
+AB This review presents a general theory of financial crashes and of stock market instabilities that his co-workers and the author have developed over the past seven years. We start by discussing the limitation of standard analyses for characterizing how crashes are special. The study of the frequency distribution of drawdowns, or runs of successive losses shows that large financial crashes are "outliers": they form a class of their own as can be seen from their statistical signatures. If large financial crashes are "outliers", they are special and thus require a special explanation, a specific model, a theory of their own. In addition, their special properties may perhaps be used for their prediction. The main mechanisms leading to positive feedbacks, i.e., self-reinforcement, such as imitative behavior and herding between investors are reviewed with many references provided to the relevant literature outside the narrow confine of Physics. Positive feedbacks provide the fuel for the development of speculative bubbles, preparing the instability for a major crash. We demonstrate several detailed mathematical models of speculative bubbles and crashes. A first model posits that the crash hazard drives the market price. The crash hazard may sky-rocket at some times due to the collective behavior of "noise traders", those who act on little information, even if they think they "know". A second-version inverses the logic and posits that prices drive the crash hazard. Prices may skyrocket at some times again due to the speculative or imitative behavior of investors. According the rational expectation model, this entails automatically a corresponding increase of the probability for a crash. We also review two other models including the competition between imitation and contrarian behavior and between value investors and technical analysts. The most important message is the discovery of robust and universal signatures of the approach to crashes. These precursory patterns have been documented for essentially all crashes on developed as well as emergent stock markets, on currency markets, on company stocks, and so on. We review this discovery at length and demonstrate how to use this insight and the detailed predictions obtained from these models to forecast crashes. For this, we review the major crashes of the past that occurred on the major stock markets of the planet and describe the empirical evidence of the universal nature of the critical log-periodic precursory signature of crashes. The concept of an "anti-bubble" is also summarized, with the Japanese collapse from the beginning of 1991 to present, taken as a prominent example. A prediction issued and advertised in January 1999 has been until recently born out with remarkable precision, predicting correctly several changes of trends, a feat notoriously difficult using standard techniques of economic forecasting. We also summarize a very recent analysis the behavior of the U.S. S&P500 index from 1996 to August 2002 and the forecast for the two following years. We conclude by presenting our view of the organization of financial markets. (C) 2003 Elsevier Science B.V. All rights reserved.
+C1 Univ Calif Los Angeles, Inst Geophys & Planetary Phys, Los Angeles, CA 90095 USA.
+   Univ Calif Los Angeles, Dept Earth & Space Sci, Los Angeles, CA 90095 USA.
+   CNRS, UMR6622, Phys Mat Condensee Lab, F-06108 Nice, France.
+   Univ Sci, F-06108 Nice 2, France.
+RP Sornette, D (reprint author), Univ Calif Los Angeles, Inst Geophys & Planetary Phys, Los Angeles, CA 90095 USA.
+EM sornette@cyclop.ess.ucla.edu
+CR ADAM MC, 1992, OXFORD ECON PAP, V44, P626
+   Andersen JV, 2000, EUR PHYS J B, V14, P579, DOI 10.1007/s100510051067
+   Anderson P. W., 1988, EC EVOLVING COMPLEX
+   ARAD I, 2001, PHYS REV LETT, V8716
+   Assoe K.G., 1998, MULTINATIONAL FINANC, V2, P101
+   Bak P., 1996, NATURE WORKS SCI SEL
+   Barber BM, 1997, J FINANC ECON, V43, P341, DOI 10.1016/S0304-405X(96)00890-2
+   BARRA F, 2002, PHYS REV E, V6504, DOI UNSP N4 PT2A:U486-U497
+   Barro R.J., 1989, BLACK MONDAY FUTURE
+   Basle Committee on Banking Supervision,, 1997, COR PRINC EFF BANK S
+   Bassi F, 1998, PRACTICAL GUIDE TO HEAVY TAILS, P111
+   BIKHCHANDANI S, 1992, J POLIT ECON, V100, P992, DOI 10.1086/261849
+   Blanchard O., 1982, CRISIS EC FINANCIAL
+   BLANCHARD OJ, 1979, ECON LETT, V3, P387, DOI 10.1016/0165-1765(79)90017-X
+   BOISSEVAIN Jeremy-MITCHELL, 1973, NETWORK ANAL STUDIES
+   Bouchaud JP, 1998, EUR PHYS J B, V6, P543, DOI 10.1007/s100510050582
+   CAI J, 1994, J BUS ECON STAT, V12, P309, DOI 10.2307/1392087
+   Callen H. E., 1974, PHYS TODAY       JUL, P23
+   Camerer C., 1989, J EC SURVEYS, V3, P3, DOI DOI 10.1111/J.1467-6419.1989.TB00056.X
+   Campbell J. Y., 1997, ECONOMETRICS FINANCI
+   CHAITIN GJ, 1987, ALGORITHMIC INFORMAT
+   Chauvet M, 1998, INT ECON REV, V39, P969, DOI 10.2307/2527348
+   CHECKI TJ, 2000, CURRENT ISSUES EC FI, V6, P1
+   CHEN NF, 1995, J FINANC, V50, P281
+   Chowdhury D, 1999, EUR PHYS J B, V8, P477, DOI 10.1007/s100510050714
+   Coe PJ, 2002, J MONEY CREDIT BANK, V34, P76, DOI 10.1353/mcb.2002.0026
+   *COMM PHYS SCI MAT, 1990, WORKSH SER HIGH PERF
+   Cont R, 2000, MACROECON DYN, V4, P170
+   Cootner P. H., 1967, RANDOM CHARACTER STO
+   Corcos A., 2002, Quantitative Finance, V2, P264, DOI 10.1088/1469-7688/2/4/303
+   CRUTCHFIELD JP, 1995, P NATL ACAD SCI USA, V92, P10742, DOI 10.1073/pnas.92.23.10742
+   DEBANDT O, 2000, DISCUSSION PAPER SER, V2634
+   de Oliveira S. M., 1999, EVOLUTION MONEY WAR
+   Devenow A, 1996, EUR ECON REV, V40, P603, DOI 10.1016/0014-2921(95)00073-9
+   DIEBOLD FX, 2001, PITFALLS OPPORTUNITI
+   Driffill J, 1998, J MONETARY ECON, V42, P357, DOI 10.1016/S0304-3932(98)00021-X
+   Drozdz S, 1999, EUR PHYS J B, V10, P589, DOI 10.1007/s100510050890
+   DUBRULLE B, 1997, SCALE INVARIANCE
+   Dunning T.J., 1860, TRADES UNIONS STRIKE
+   DUPUIS H, 1997, TENDANCES       0918, P26
+   Embrechts P., 1997, MODELLING EXTREMAL E
+   Falkovich G, 2001, REV MOD PHYS, V73, P913, DOI 10.1103/RevModPhys.73.913
+   FAMA EF, 1991, J FINANC, V46, P1575, DOI 10.2307/2328565
+   FARMER JD, 1998, ADAPORG9812005, P51906
+   Feigenbaum J. A., 2001, Quantitative Finance, V1, P346, DOI 10.1088/1469-7688/1/3/306
+   Feigenbaum JA, 1996, INT J MOD PHYS B, V10, P3737, DOI 10.1142/S021797929600204X
+   Feigenbaum JA, 1998, MOD PHYS LETT B, V12, P57, DOI 10.1142/S0217984998000093
+   FELDMAN RA, 1982, FEDERAL RESERVE BANK, V7, P1
+   FIELEKE NS, 1985, NEW ENGLAND ECON NOV, P49
+   Frankel J.A., 1988, GREEK EC REV, V10, P49
+   Galbraith John Kenneth, 1997, GREAT CRASH 1929
+   Gaunersdorfer A, 2000, J ECON DYN CONTROL, V24, P799, DOI 10.1016/S0165-1889(99)00026-3
+   Geller RJ, 1997, SCIENCE, V275, P1616, DOI 10.1126/science.275.5306.1616
+   Geller RJ, 1997, SCIENCE, V278, P488
+   Gluzman S, 1998, MOD PHYS LETT B, V12, P575, DOI 10.1142/S0217984998000688
+   Goldenfeld N., 1992, LECT PHASE TRANSITIO
+   GORTE RW, 1995, FOREST FIRES FOREST
+   GOULD SJ, 1993, NATURE, V366, P223, DOI 10.1038/366223a0
+   Graham JR, 1999, J FINANC, V54, P237, DOI 10.1111/0022-1082.00103
+   GRANT JL, 1987, J PORTFOLIO MANAGE, V16, P69
+   Grassia PS, 2000, EUR PHYS J B, V17, P347, DOI 10.1007/s100510070151
+   Gray S., 1996, ACCOUNT FINANC, V36, P65
+   Grinblatt M, 1995, AM ECON REV, V85, P1088
+   HAMILTON JD, 1989, ECONOMETRICA, V57, P357, DOI 10.2307/1912559
+   HARRIS L, 1997, ANN BROOKINGSWHARTON, V2
+   Helbing D, 2000, NATURE, V407, P487, DOI 10.1038/35035023
+   HOLLAND JH, 1992, DAEDALUS, V121, P17
+   Holldobler B., 1994, JOURNEY ANTS STORY S
+   HOLMES PA, 1985, NATIONS BUS, V73, P16
+   HSIEH DA, 1995, FINANCIAL ANAL J JUL, P55
+   Huberman G, 2001, J FINANC, V56, P387, DOI 10.1111/0022-1082.00330
+   Ide K, 2002, PHYSICA A, V307, P63, DOI 10.1016/S0378-4371(01)00585-4
+   Johansen A, 2000, INT J MOD PHYS C, V11, P359, DOI 10.1142/S012918310000033X
+   Johansen A, 2000, EUR PHYS J B, V17, P319, DOI 10.1007/s100510070147
+   Johansen A, 1999, INT J MOD PHYS C, V10, P563, DOI 10.1142/S0129183199000437
+   Johansen A, 1998, EUR PHYS J B, V1, P141, DOI 10.1007/s100510050163
+   Johansen A, 2001, PHYSICA A, V294, P465, DOI 10.1016/S0378-4371(01)00105-4
+   Johansen A, 2001, J RISK, V4, P69
+   Johansen A, 2001, INT J THEORET APPL F, V4, P853, DOI [10.1142/S0219024901001218, DOI 10.1142/S0219024901001218]
+   Johansen A, 1999, J RISK, V1, P5, DOI 10.21314/JOR.1999.014
+   Sornette D., 1999, RISK, V12, P91
+   Johansen A, 2000, INT J THEORET APPL F, V3, P219, DOI DOI 10.1142/S0219024900000115
+   Johansson A.-L., 1999, Wireless Personal Communications, V9, P1, DOI 10.1023/A:1018392628214
+   KADANOFF LP, 2002, PHYSICS TODAY    JUL, P55
+   KAMINSKY G, 1991, J INT MONEY FINANC, V10, P170, DOI 10.1016/0261-5606(91)90034-H
+   KARPLUS WJ, 1992, HEAVENS FALLING SCI
+   KEYNES JM, 1936, GEN THEORY EMPLOYMEN, pCH12
+   Kindleberger C, 2000, MANIAS PANICS CRASHE
+   Kirman A., 1991, MONEY FINANCIAL MARK
+   KNETTER MM, 1994, REV ECON STAT, V76, P192, DOI 10.2307/2109838
+   KNUTH DE, 1969, ART COMPUTER PROGRAM, V2, P1
+   KOLLER T, 2001, MCKINSEY Q NEWSLETTE, V4
+   Krawiecki A, 2002, PHYS REV LETT, V89, DOI 10.1103/PhysRevLett.89.158701
+   KRUGMAN P, 1998, FORTUNE          DEC
+   Laherrere J, 1998, EUR PHYS J B, V2, P525, DOI 10.1007/s100510050276
+   Lamont O, 1998, J FINANC, V53, P1563, DOI 10.1111/0022-1082.00065
+   LEVY M, 1995, J PHYS I, V5, P1087, DOI 10.1051/jp1:1995183
+   Levy M., 2000, MICROSCOPIC SIMULATI
+   Liggett T, 1985, INTERACTING PARTICLE
+   Liggett TM, 1997, ANN PROBAB, V25, P1
+   Lux T, 1998, J ECON BEHAV ORGAN, V33, P143, DOI 10.1016/S0167-2681(97)00088-7
+   LUX T, 1995, ECON J, V105, P881, DOI 10.2307/2235156
+   Lux T, 1999, NATURE, V397, P498, DOI 10.1038/17290
+   Lux T, 2000, INT J THEORETICAL AP, V3, P675, DOI DOI 10.1142/S0219024900000826
+   LVOV VS, 2001, PHYS REV E, V6305, pU158
+   MACDONALD R, 1988, OXFORD B ECON STAT, V50, P107
+   Malamud BD, 1998, SCIENCE, V281, P1840, DOI 10.1126/science.281.5384.1840
+   Malkiel Burton G., 1999, RANDOM WALK DOWN WAL
+   Mauboussin M, 1999, RATIONAL EXUBERANCE
+   MAUG E, 1995, HERDING DELEGATED PO
+   McNeil A. J., 1999, EXTREME VALUE THEORY
+   MEGGINSON WL, 2000, 3 FIBV GLOB EM MARK
+   MILTENBERGER P, 1993, PHYS REV LETT, V71, P3604, DOI 10.1103/PhysRevLett.71.3604
+   Minnich RA, 1997, INT J WILDLAND FIRE, V7, P221, DOI 10.1071/WF9970221
+   MONTROLL EW, 1974, INTRO QUANTITATIVE A
+   Mood AM, 1940, ANN MATH STAT, V11, P367, DOI 10.1214/aoms/1177731825
+   Moreno J.M., 1998, LARGE FOREST FIRES
+   MULLIGAN CV, 2000, J POL EC
+   Onsager L, 1944, PHYS REV, V65, P117, DOI 10.1103/PhysRev.65.117
+   ORLEAN A, 1991, RECHERCHE, V22, P668
+   Orlean A, 1995, J ECON BEHAV ORGAN, V28, P257, DOI 10.1016/0167-2681(95)00035-6
+   ORLEAN A, 1989, THEOR DECIS, V27, P63, DOI 10.1007/BF00133988
+   ORLEAN A, 1986, CAHIERS EC POLITIQUE, P14
+   ORLEAN A, 1989, ECONOMICA, P45
+   ORLEAN A, 1984, RECHERCHES EC LOUVAI, V52, P45
+   PANDEY RB, 2000, J THEORET APPL FINAN, V3, P479
+   Phoa W, 1999, J PORTFOLIO MANAGE, V25, P69, DOI 10.3905/jpm.1999.319715
+   Potters M, 1998, EUROPHYS LETT, V41, P239, DOI 10.1209/epl/i1998-00136-9
+   Roehner BM, 1998, EUR PHYS J B, V4, P387, DOI 10.1007/s100510050394
+   Roehner BM, 2000, EUR PHYS J B, V16, P729, DOI 10.1007/s100510070190
+   ROLL R, 1988, FINANCIAL ANAL, V4, P19
+   ROMER CD, 1990, Q J ECON, V105, P597, DOI 10.2307/2937892
+   Saleur H, 1996, J PHYS I, V6, P327, DOI 10.1051/jp1:1996160
+   Sato AH, 1998, PHYSICA A, V250, P231, DOI 10.1016/S0378-4371(97)00569-4
+   Schaller H., 1997, APPL FINANCIAL EC, V7, P177, DOI DOI 10.1080/096031097333745
+   SCHARFSTEIN DS, 1990, AM ECON REV, V80, P465
+   Schleifer A., 2000, INEFFICIENT MARKETS
+   Shiller R, 1989, MARKET VOLATILITY
+   Shiller Robert, 2000, IRRATIONAL EXUBERANC
+   SIRCAR P, 1998, APPL MATH FINANCE, V5, P45
+   Sornette D., 2000, Physics Reports, V335, P19, DOI 10.1016/S0370-1573(00)00004-1
+   Sornette D, 2000, PHYSICA A, V284, P355, DOI 10.1016/S0378-4371(00)00261-2
+   SORNETTE D, 1994, PURE APPL GEOPHYS, V142, P491, DOI 10.1007/BF00876052
+   Sornette D, 1996, J PHYS I, V6, P167, DOI 10.1051/jp1:1996135
+   Sornette D, 1998, PHYS REP, V297, P239, DOI 10.1016/S0370-1573(97)00076-8
+   Sornette D., 2002, Quantitative Finance, V2, P468, DOI 10.1088/1469-7688/2/6/306
+   Sornette D, 2003, PHYSICA A, V318, P577, DOI 10.1016/S0378-4371(02)01371-7
+   Sornette D, 2002, INT J MOD PHYS C, V13, P171, DOI 10.1142/S0129183102003085
+   Sornette D., 2001, Quantitative Finance, V1, P452, DOI 10.1088/1469-7688/1/4/305
+   Sornette D, 2002, P NATL ACAD SCI USA, V99, P2522, DOI 10.1073/pnas.022581999
+   Sornette D, 1999, PHYS WORLD, V12, P57
+   Sornette D, 1997, PHYSICA A, V245, P411, DOI 10.1016/S0378-4371(97)00318-X
+   Sornette D, 1998, PHYSICA A, V261, P581, DOI 10.1016/S0378-4371(98)00433-6
+   SORNETTE D, 2002, VOLATILITY FINGERPRI
+   Sornette D., 2000, INT J THEOR APPL FIN, V3, P523, DOI 10.1142/S0219024900000504
+   Sornette D., 2003, STOCK MARKETS CRASH
+   SORNETTE E, 2000, SPRINGER SERIES SYNE
+   Stauffer D, 1999, PHYSICA A, V271, P496, DOI 10.1016/S0378-4371(99)00290-3
+   Stauffer D., 1994, INTRO PERCOLATION TH
+   STAUFFER D, 1999, PHYS BLATTER, V55, P49
+   TAKAYASU H, 1992, PHYSICA A, V184, P127, DOI 10.1016/0378-4371(92)90161-I
+   Thaler R, 1993, ADV BEHAV FINANCE
+   TRUEMAN B, 1994, REV FINANC STUD, V7, P97, DOI 10.1093/rfs/7.1.97
+   Vandewalle N, 1998, PHYSICA A, V255, P201, DOI 10.1016/S0378-4371(98)00115-0
+   Vandewalle N, 1998, EUR PHYS J B, V4, P139, DOI 10.1007/s100510050361
+   VanNorden S, 1996, J APPL ECONOM, V11, P219, DOI 10.1002/(SICI)1099-1255(199605)11:3<219::AID-JAE394>3.3.CO;2-J
+   VANNORDEN S, 1993, REV ECON STAT, V75, P505, DOI 10.2307/2109465
+   Welch I, 2000, J FINANC ECON, V58, P369, DOI 10.1016/S0304-405X(00)00076-3
+   WELCH I, 1992, J FINANC, V47, P695, DOI 10.2307/2329120
+   WHITE EN, 1996, INT LIBR MACROECONOM, V13
+   WHITE EN, 1995, ANGLO AM FINANCIAL S, P299
+   Wilson EO, 1971, INSECT SOC
+   WILSON KG, 1979, SCI AM, V241, P158
+   Wolfram S., 2002, NEW KIND SCI
+   Youssefmir M., 1998, Computational Economics, V12, P97, DOI 10.1023/A:1008693507721
+   Zhou WX, 2002, INT J MOD PHYS C, V13, P137, DOI 10.1142/S0129183102003024
+   ZHOU WX, 2002, NONPARAMETRIC ANAL L
+   ZHOU WX, 2002, IN PRESS PHYS REV E
+   ZWIEBEL J, 1995, J POLIT ECON, V103, P1, DOI 10.1086/261973
+   1999, NATURE DEBATES RELIA
+NR 180
+TC 114
+Z9 122
+U1 1
+U2 37
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0370-1573
+J9 PHYS REP
+JI Phys. Rep.-Rev. Sec. Phys. Lett.
+PD APR
+PY 2003
+VL 378
+IS 1
+BP 1
+EP 98
+DI 10.1016/S0370-1573(02)00634-8
+PG 98
+WC Physics, Multidisciplinary
+SC Physics
+GA 666XF
+UT WOS:000182201200001
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Underwood, CI
+   Richardson, G
+   Savignol, J
+AF Underwood, CI
+   Richardson, G
+   Savignol, J
+TI In-orbit results from the SNAP-1 nanosatellite and its future potential
+SO PHILOSOPHICAL TRANSACTIONS OF THE ROYAL SOCIETY OF LONDON SERIES
+   A-MATHEMATICAL PHYSICAL AND ENGINEERING SCIENCES
+LA English
+DT Article; Proceedings Paper
+CT Meeting on Science and Applications of the Space Environment: New
+   Results and Interdisciplinary Connections
+CY OCT 16-18, 2001
+CL LONDON, ENGLAND
+DE nanosatellites; constellations; commercial off-the-shelf technologies
+AB It is now feasible to construct highly capable 'nanosatellites' (i.e. sub-10 kg satellites) to provide cost-effective and rapid-response orbiting test vehicles for advanced space missions and technologies. The UK's first nanosatellite, SNAP-1-designed and built by Surrey Space Centre (SSC) and Surrey Satellite Technology Ltd (SSTL) staff-is an example of such a test vehicle: in this case, built with the primary objective of demonstrating that a sophisticated, fully agile nanosatellite can be constructed rapidly, and at very low cost, using an extension of the modular-COTS-based design philosophy pioneered by SSC for its microsatellites.
+   SNAP-1 was successfully launched into orbit on 28 June 2000 from the Plesetsk Cosmodrome on board a Russian Cosmos rocket. It flew alongside a Russian Cospas-Sarsat satellite called Nadezhda, and an SSTL-built Chinese microsatellite, called Tsinghua-1.
+   The first year of operations has been highly successful, with SNAP-1 becoming the first nanosatellite to have demonstrated full attitude and orbit control, via its miniature momentum-wheel-based attitude control system and its butane-propellant-based propulsion system. This paper reviews the initial results of the SNAP-1 mission.
+C1 Univ Surrey, Surrey Space Ctr, Surrey GU2 7XH, England.
+RP Underwood, CI (reprint author), Univ Surrey, Surrey Space Ctr, Surrey GU2 7XH, England.
+CR GIBBON D, 2001, P 15 ANN AIAA UT STA
+   LANCASTER R, 2000, P 14 ANN AIAA UT STA
+   STEYN WH, 2001, P 15 ANN AIAA UT STA
+   UNDERWOOD CI, 1998, P 12 ANN AIAA UT STA
+NR 4
+TC 11
+Z9 12
+U1 1
+U2 7
+PU ROYAL SOC LONDON
+PI LONDON
+PA 6 CARLTON HOUSE TERRACE, LONDON SW1Y 5AG, ENGLAND
+SN 1364-503X
+J9 PHILOS T ROY SOC A
+JI Philos. Trans. R. Soc. Lond. Ser. A-Math. Phys. Eng. Sci.
+PD JAN 15
+PY 2003
+VL 361
+IS 1802
+BP 199
+EP 203
+DI 10.1098/rsta.2002.1123
+PG 5
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA 637VV
+UT WOS:000180535200024
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Mueller, JT
+   Guo, Y
+   von Mehlem, UI
+   Cheng, AF
+AF Mueller, JT
+   Guo, Y
+   von Mehlem, UI
+   Cheng, AF
+TI Aladdin mission concept
+SO ACTA ASTRONAUTICA
+LA English
+DT Article; Proceedings Paper
+CT 4th IAA International Conference on Low Cost Planetary Missions
+CY MAY 02-05, 2000
+CL JOHNS HOPKINS UNIV, APPL PHYS LAB, LAUREL, MARYLAND
+SP IAA
+HO JOHNS HOPKINS UNIV, APPL PHYS LAB
+AB Aladdin, one of five Concept Study winners for NASA's Discovery A098-OSS-04, was a mission to obtain samples from the two Martian moons using several unique mission design and sample collection techniques. The mission design enabled sample return from two bodies at the relatively low cost of a Discovery-class mission. It featured a phasing orbit, multiple flybys of the Martian moons, and a short overall mission duration. The phasing orbit greatly reduced the post-launch Deltav requirement, thus permitting the use of a Delta II launch vehicle. Multiple moon flybys provided ample opportunities for sample collection and science observations. The short overall mission duration reduced program costs. Aladdin's sample collection, unlike traditional sample collection methods, used a "launch-and-catch" technique to obtain samples. Projectiles would be launched to the moon's surface during a close flyby and the ejected particles gathered for Earth return and analysis. This innovative technique, the Aladdin mission, and the possible extension of the technique to other bodies are described. (C) 2002 Elsevier Science Ltd. All rights reserved.
+C1 Johns Hopkins Univ, Appl Phys Lab, Laurel, MD 20707 USA.
+RP Mueller, JT (reprint author), Johns Hopkins Univ, Appl Phys Lab, Johns Hopkins Rd, Laurel, MD 20707 USA.
+CR BARNOUINJHA OS, 1999, IEEE AER C ASP CO MA
+   DUNHAM DW, COMMUNICATION
+   GUO Y, 1999, 50 INT ASTR C AMST N
+   GUO Y, 1999, AAS AIAA ASTR SPEC C
+   NULL G, 1998, 312G98003 JPL
+NR 5
+TC 3
+Z9 3
+U1 0
+U2 2
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0094-5765
+J9 ACTA ASTRONAUT
+JI Acta Astronaut.
+PD JAN-MAR
+PY 2003
+VL 52
+IS 2-6
+BP 211
+EP 218
+AR PII S0094-5765(02)00159-5
+DI 10.1016/S0094-5765(02)00159-5
+PG 8
+WC Engineering, Aerospace
+SC Engineering
+GA 643RF
+UT WOS:000180873700019
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Deininger, WD
+   Epstein, KW
+   Eterno, JS
+   Andreozzi, L
+   Sieger, S
+   Leschly, K
+AF Deininger, WD
+   Epstein, KW
+   Eterno, JS
+   Andreozzi, L
+   Sieger, S
+   Leschly, K
+TI Low cost access to Mars - Mars micromissions spacecraft
+SO ACTA ASTRONAUTICA
+LA English
+DT Article; Proceedings Paper
+CT 4th IAA International Conference on Low Cost Planetary Missions
+CY MAY 02-05, 2000
+CL JOHNS HOPKINS UNIV, APPL PHYS LAB, LAUREL, MARYLAND
+SP IAA
+HO JOHNS HOPKINS UNIV, APPL PHYS LAB
+AB The Mars micromission (MM) spacecraft (MMSC) is a multi-purpose platform capable of orbiting Mars for communications/navigation and science payloads or for precision Mars flybys to drop up to six probes. An MMSC is launched as a secondary payload on an Ariane 5 rocket from Kourou, French Guiana, to GTO using the Ariane 5 structure for auxiliary payloads (ASAP5). The maximum launch wet mass is 222 kg and can include up to 45 kg of payload depending on DeltaV needs. The on-board propulsion system is used for maneuvering in the Earth-Moon system and injecting the spacecraft into Mars transfer orbit and, if needed, Mars orbit. The first MMSC to be launched in early 2003 will be a Communications/Navigation (Comm/Nav) Orbiter. JPL is responsible for the Comm/Nav payload. Ball Aerospace, working with JPL, provides the multi-purpose spacecraft bus, system integration and test, and assists in operations over the 3 year mission duration. This paper summarizes the baseline spacecraft concept for the first Mars Com/Nav mission as defined at the start of the program in February 2000 and describes the spacecraft bus implementation in more detail. (C) 2002 Elsevier Science Ltd. All rights reserved.
+C1 Ball Aerosp & Technol Corp, Boulder, CO 80306 USA.
+   Aerojet, Sacramento, CA 95813 USA.
+   CALTECH, Jet Prop Lab, Pasadena, CA 91109 USA.
+RP Deininger, WD (reprint author), Ball Aerosp & Technol Corp, POB 1062, Boulder, CO 80306 USA.
+CR Hastrup R. C., 1999, 13 AIAA USU C SMALL
+   JORDAN JF, 1999, IEEE 1999 AER C ASP
+   MATOUSEK S, 1999, 13 AIAA USU C SMALL
+   MATOUSEK S, 1999, SPAC TECHN C EXP ALB
+   1999, ARIANE STRUCTURE AUX
+NR 5
+TC 2
+Z9 2
+U1 0
+U2 3
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0094-5765
+J9 ACTA ASTRONAUT
+JI Acta Astronaut.
+PD JAN-MAR
+PY 2003
+VL 52
+IS 2-6
+BP 501
+EP 510
+AR PII S0094-5765(02)00193-5
+DI 10.1016/S0094-5765(02)00193-5
+PG 10
+WC Engineering, Aerospace
+SC Engineering
+GA 643RF
+UT WOS:000180873700053
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Huang, YH
+   Wang, ZG
+   Zhou, J
+AF Huang, YH
+   Wang, ZG
+   Zhou, J
+TI Nonlinear theory of combustion stability in liquid rocket engine based
+   on chemistry dynamics
+SO SCIENCE IN CHINA SERIES B-CHEMISTRY
+LA English
+DT Article
+DE liquid rocket engine; combustion instability; nonlinear; chemistry
+   dynamics
+AB Detailed models of combustion instability based on chemistry dynamics are developed. The results show that large activation energy goes against the combustion stability. The heat transfer coefficient between the wall and the combust gas is an important bifurcation parameter for the combustion instability. The acoustics modes of the chamber are in competition and cooperation with each other for limited vibration energy. Thermodynamics criterion of combustion stability can be deduced from the nonlinear thermodynamics. Correlations of the theoretical results and historical experiments indicate that chemical kinetics play a critical role in the combustion instability.
+C1 Natl Univ Def Technol, Sch Aerosp & Mat Technol, Changsha 410073, Peoples R China.
+RP Huang, YH (reprint author), Qinghe Bldg Mao 4, Beijing 100085, Peoples R China.
+CR AGARKOV AF, 1995, PROGR ASTRONAUTICS A, V169, P281
+   CAVANAGH J, 1990, COMBUST FLAME, V82, P15, DOI 10.1016/0010-2180(90)90075-3
+   CHARLES EM, 1995, PROGR ASTRONAUTICS A, V169, P403
+   CHEN Y, 1993, BIFURCATION CHAOS TH, P34
+   Culick F.E.C., 1995, PROGR ASTRONAUTICS A, V169, P3, DOI DOI 10.2514/5.9781600866371.0003.0037
+   DOULATOV R, 2000, 36 AIAA ASME SAE ASE, P3285
+   DOULATOV R, 1998, 34 JPC CLEV AIAA, P98
+   DOULATOV R, 1999, 35 JPC CLEV AIAA, P99
+   Harrje D. T., 1972, NASA, V194
+   HARRJE DT, 1972, NASA, P13
+   HURLBERT EA, 1995, PROGR ASTRONAUTICS A, V169, P113
+   JUNCU G, 1994, CHEM ENG SCI, V49, P123, DOI 10.1016/0009-2509(94)85039-9
+   LIGNOLA PG, 1990, COMBUST FLAME, V80, P256, DOI 10.1016/0010-2180(90)90103-X
+   MARBLE FE, 1953, J AM ROCKET SOC, V23, P63
+   MITCHELL CE, 1995, PROGR ASTRONAUTICS A, V169, P403
+   Muss J. A., 1995, PROGR ASTRONAUTICS A, V169, P73
+   NICOLIS G, 1986, SELF ORG NONEQUILIBR, P40
+   SIRSGNANO WA, 1995, PROGR ASTRONAUTICS A, V169, P307
+   SUN JS, 1995, THEORETICAL EXPLODE, P57
+   XIANG GB, 1990, NONLINEAR SYSTEM, P177
+   YANG V, 1995, PROGR ASTRONAUTICS A, V169
+   Zinn B. T., 1986, ADV COMBUSTION METHO
+NR 22
+TC 2
+Z9 2
+U1 0
+U2 5
+PU SCIENCE CHINA PRESS
+PI BEIJING
+PA 16 DONGHUANGCHENGGEN NORTH ST, BEIJING 100717, PEOPLES R CHINA
+SN 1006-9291
+J9 SCI CHINA SER B
+JI Sci. China Ser. B-Chem.
+PD AUG
+PY 2002
+VL 45
+IS 4
+BP 373
+EP 383
+DI 10.1007/BF02879348
+PG 11
+WC Chemistry, Multidisciplinary
+SC Chemistry
+GA 577FJ
+UT WOS:000177050600005
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Okayasu, A
+   Ohta, T
+   Kamijyo, A
+   Yamada, H
+AF Okayasu, A
+   Ohta, T
+   Kamijyo, A
+   Yamada, H
+TI Key technology for reusable rocket engine turbopump
+SO ACTA ASTRONAUTICA
+LA English
+DT Article
+AB Recently, there has been an increased need for evolved space transportation and the research of reusable rocket which enable low cost and high reliability and is generating a lot of interest all over the world. In the USA, the development of reusable launch vehicle "Venture Star" which will be used instead of space shuttle is planned and its half scale model "X-33" was developed for the first flight in 1999. In Japan, there has been agreement on the main points to develop the rocket type RLV based on the technology of H-IIA, HOPE-X before developing space plane type RLV. The planned reusable rocket engine was LOX/LH2 as propellant, has 100-200 ton thrust and has a throttling capability. In addition, long life and high reliability are required for the engine system including LOX/LH2 turbopump.
+   The paper introduces some key technologies for the reusable turbopump which IHI is promoting for research and development with NAL and Tohoku University. (C) 2002 Published by Elsevier Science Ltd.
+C1 Ishikawajima Harima Heavy Ind Co Ltd, Tokyo 135, Japan.
+RP Okayasu, A (reprint author), Ishikawajima Harima Heavy Ind Co Ltd, Tokyo 135, Japan.
+CR FULTON D, ROCKETDYNES REUSABLE
+   REDDECLIFF JM, 1969, J LUBRICATION TECHNO
+NR 2
+TC 0
+Z9 0
+U1 0
+U2 2
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0094-5765
+J9 ACTA ASTRONAUT
+JI Acta Astronaut.
+PD MAR
+PY 2002
+VL 50
+IS 6
+BP 351
+EP 355
+AR PII S0094-5765(01)00163-1
+DI 10.1016/S0094-5765(01)00163-1
+PG 5
+WC Engineering, Aerospace
+SC Engineering
+GA 543NQ
+UT WOS:000175108400003
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Vasiliev, VV
+   Barynin, VA
+   Rasin, AF
+AF Vasiliev, VV
+   Barynin, VA
+   Rasin, AF
+TI Anisogrid lattice structures - survey of development and application
+SO COMPOSITE STRUCTURES
+LA English
+DT Article; Proceedings Paper
+CT 3rd International Conference on Composite Science and Technology
+CY JAN 11-13, 2000
+CL DURBAN, SOUTH AFRICA
+DE composite lattice structures; composite interstage; coupled (micropolar)
+   elasticity theory; mode of buckling; geometric programming method;
+   winding
+ID DESIGN
+AB An integrated design, manufacturing and testing process is described in application to high performance lattice structures made by continuous filament winding from carbon and aramid epoxy composites and used as structural elements of airplane frames and space launch vehicles. The history of the Soviet project, basic design conceptions and industrial fabrication methods are presented and illustrated with actual experimental and serial structures developed in the Central Research Institute of Special Machine Building (CRISMB), the leading Russian Composite Center. (C) 2001 Elsevier Science Ltd. All rights reserved.
+C1 Cent Inst Special Machine Bldg, Khotkovo 141350, Moscow Region, Russia.
+RP Vasiliev, VV (reprint author), Podolskih Kursantov St 14-1-110, Moscow 113545, Russia.
+CR Bunakov VA, 1999, OPTIMAL DESIGN, P207
+   BUNAKOV VA, 1988, MECH TECHNICAL PROGR, V4, P273
+   BUNAKOV VA, 1994, MECH SOLIDS, P148
+   Chen HJ, 1996, J COMPOS MATER, V30, P503
+   FIGGER IE, 1971, SHELL AVIATION NEWS
+   HAYASHI T, 1991, JPN US C COMP MAT TO, P428
+   Hou A, 1998, J ADV MATER, V30, P16
+   Huybrechts SM, 1999, P 12 INT C COMP MAT
+   KIM TD, 1993, P 9 INT C COMP MAT I, V6, P101
+   Mackay R, 1986, WELLINGTON ACTION
+   NOSAKI Y, 1982, P 13 INT S SPAC TECH, P373
+   ONODA J, 1986, T JPN SOC AERONAUT S, V29, P46
+   POULSEN CM, 1940, AIRCRAFT PRODUCTIO 1, P43
+   POULSEN CM, 1940, AIRCRAFT PRODUCTION, P180
+   POWELL KD, 1961, SPORT AVIATION   AUG, P17
+   POWELL KD, 1961, SPORT AVIATION   SEP, P15
+   RENFIELD IE, 1980, FIBROUS COMPISITES S, P215
+   RUTAN B, 1966, SAMPE J, V32, P18
+   SLINCHENKO D, 1999, P 12 INT C COMP MAT
+   Vasiliev VV, 1984, MECH COMPOSITE STRUC, P31
+   VASILIEV VV, 1982, DESIGN ANAL TESTING, V9, P83
+   Vasiliev V. V., 1993, MECH COMPOSITE STRUC
+   WANG SS, 1995, P 10 INT C COMP MAT, V5, P59
+   ZENER G, 1971, ENG DESIGN GEOMETRIC
+   DUFT BL, 1967, Patent No. 3300354
+NR 25
+TC 79
+Z9 105
+U1 1
+U2 22
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0263-8223
+J9 COMPOS STRUCT
+JI Compos. Struct.
+PD NOV-DEC
+PY 2001
+VL 54
+IS 2-3
+BP 361
+EP 370
+DI 10.1016/S0263-8223(01)00111-8
+PG 10
+WC Materials Science, Composites
+SC Materials Science
+GA 483DX
+UT WOS:000171619400034
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Bonnal, C
+   Eymard, M
+   Soccodato, C
+AF Bonnal, C
+   Eymard, M
+   Soccodato, C
+TI Future launchers strategy: the Ariane 2010 initiative
+SO ACTA ASTRONAUTICA
+LA English
+DT Article; Proceedings Paper
+CT 51st International Astronautical Federation Congress
+CY OCT 02-06, 2000
+CL RIO JANEIRO, BRAZIL
+AB With the new cryogenic upper stage ESC, the European heavy launcher Ariane 5+ is perfectly suited to the space market envisioned for the coming decade: flexible to cope with any payload and commercially attractive despite a fierce competition.
+   Current Arianespace projections for the following years 2010-2020 indicate two major trends:
+   satellites may still become larger and may require very different final orbits; today's market largely dominated by CEO may well evolve, influenced by LEO operations such as those linked to ISS or by constellations,
+   to remain competitive, the launch cost has to be reduced.
+   The future generation of the European heavy launcher has therefore to focus on an ever increased flexibility with a drastic cost reduction.
+   Two strategies are possible to achieve this double goal:
+   reusable launchers, either partially or totally, may ease the access to space, limiting costly expendable stages; the assessment of their technical feasibility and financial viability is undergoing in Europe under the Future Launchers Technology Program (FLTP).
+   expendable launchers, derived from the future Ariane 5+.
+   This second way started by CNES at the end of year 1999 is called the "Ariane 2010 initiative".
+   The main objectives are simultaneously an increase of 25% in performance and a reduction of 30% in launch cost wrt Ariane 5+.
+   To achieve these very ambitious goals, numerous major modifications are studied:
+   technical improvements
+   modifications of the Solid Rocket Boosters may consist in filament winding casing, increased loading, simplified casting, improved grain, simplified Thrust Vector Control, ...
+   evolution of the Vulcain engine leading to higher efficiency despite a simplified design, flow separation controlled nozzle extension, propellant management of the two cyrogenic stages,
+   simplified electrical system,
+   increased standardization, for instance on flanged interfaces and manufacturing processes,
+   operational improvements such as launch cycle simplification and standardization of the coupled analyses,
+   organizational improvements such as a redistribution of responsibilities for the developments.
+   All these modifications will of course not be implemented together; the aim is to have a coherent catalogue of improvements in order to enable future choices depending on effective requirements. These basic elements will also be considered for the development of other launchers, in the small or medium size range. (C) 2001 Bonnal, Eymard, Soccodato-CNES. Published by Elsevier Science Ltd.
+C1 CNES Launcher Directorate, F-91023 Evry, France.
+RP Bonnal, C (reprint author), CNES Launcher Directorate, Rond Point Esp, F-91023 Evry, France.
+CR ANTHOINE J, AIAA20003560
+   BONNAL C, IAF00V42
+   NICOLAY RKJ, 20003167 AIAA
+   PIN B, AIAA PROFESSIONAL DE
+   RAVET L, IAF00V101
+   SOCCODATO C, AIAA992906
+NR 6
+TC 1
+Z9 1
+U1 2
+U2 6
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0094-5765
+J9 ACTA ASTRONAUT
+JI Acta Astronaut.
+PD MAR-JUN
+PY 2001
+VL 48
+IS 5-12
+SI SI
+BP 885
+EP 893
+DI 10.1016/S0094-5765(01)00066-2
+PG 9
+WC Engineering, Aerospace
+SC Engineering
+GA 446TV
+UT WOS:000169531000063
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Nedaivoda, A
+   Prisniakov, V
+AF Nedaivoda, A
+   Prisniakov, V
+TI The comparative analysis of the forecasts of development of rocket
+   propulsion in past and now
+SO ACTA ASTRONAUTICA
+LA English
+DT Article; Proceedings Paper
+CT 51st International Astronautical Federation Congress
+CY OCT 02-06, 2000
+CL RIO JANEIRO, BRAZIL
+AB Consideration is being given to use the known long and short forecasts of development of rocket engines in past - at the beginning of development of a missile engineering (K. Tsiolkovsky etc. pioneers of rocket propulsion); on the eve of launching of the artificial satellite of Earth (A. Blagonravov); after manned flight of Yu. Gagarin (V. Gluchko); after manned flight on Moon (" The Forecasts on 2001 " on materials of readings R. Goddard in USA); in middle of 70-s' years (D. Sevruk, V. Prisniakov) and at the end of 20 centure. Last years under the initiative R. Beichel and M. Pouliquen IAA.Advanced Propulsion Working Group carries out large researches on definition of the tendencies of development of rocket propulsion for the next forty years, the outcomes which one will be used in the report. The comparison of development of rocket propulsion expected to the end of 20 century and real-life is given. The report analyses the errors of the forecasts of the past - the absence reliable prognostic procedure; the euphoria of the maiden successes of conquest of space; dominance of military and political- propaganda motives of implementation of the space programs before economical; to keep developments secret; competition of two super-powers USSR and USA etc. (C) 2001 Published by Elsevier Science Ltd.
+C1 Khrunichev State Ctr, Moscow, Russia.
+RP Nedaivoda, A (reprint author), Khrunichev State Ctr, Moscow, Russia.
+CR DENISOV VP, 1975, PAGES SOVIET COSMOON
+   GLASER PE, 1997, SPACE POWER SATELLIT
+   GLUSHKO VP, 1963, BOOK REPORTING 21 CE
+   GREGORY JW, 1975, AIAA PAP
+   KONECCI EB, 1966, P 4 AAS GODD MEM S 1
+   KOTOV IV, 1990, SIMULATION NATL EC P
+   OLONE RG, 1970, AVIATION WEEK, V92
+   PRISNYAKOV VF, 1977, ENGINES FLIGHT VEHIC
+   PRISNYAKOV VF, 1986, KIEV VISCHA SHKOLA
+   RUDI DWB, 1998, IAA ADV PROP WORKSH
+   SEVRUK DD, 1975, 11 INT S SPAC SCI EN
+   TSANDER FA, 1961, PROBLEM FLIGHT USE J
+   TSCHIZHEVSKIY AL, 1999, TALKS TSIOLKOVSKY
+   TSIOLKOVSKY KE, 1947, WORKS ROCKETRY OBORO
+   TSIOLKOVSY KE, 1903, NAUCHNOYE OBOZRENIYE
+   VLADIMIR P, 1997, SELECTED TASKS NONST
+   YAFFEE ML, 1971, AVIATION WEEK, V94
+NR 17
+TC 0
+Z9 0
+U1 0
+U2 1
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0094-5765
+J9 ACTA ASTRONAUT
+JI Acta Astronaut.
+PD MAR-JUN
+PY 2001
+VL 48
+IS 5-12
+SI SI
+BP 905
+EP 916
+DI 10.1016/S0094-5765(01)00070-4
+PG 12
+WC Engineering, Aerospace
+SC Engineering
+GA 446TV
+UT WOS:000169531000065
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Ericsson, LE
+AF Ericsson, LE
+TI Unsteady flow separation can endanger the structural integrity of
+   aerospace launch vehicles
+SO JOURNAL OF SPACECRAFT AND ROCKETS
+LA English
+DT Article
+ID HAMMERHEAD
+AB When during the ascent through the Earth's atmosphere the structural response of an aerospace launch vehicle changes from the usually benign case of the buffet response to wind gusts and air turbulence to the self-excited type, the response amplitude increases dramatically and could often endanger the structural integrity of the launch vehicle. This is what occurs when the structural response starts to interact with and modify the unsteady separated Bow characteristics, which generates aerodynamic negative damping or undamping of the low-frequency bending modes. A literature survey has been performed to document how this condition has affected the various aerospace vehicles launched since the early 1960s, The developed analytic means, described in the referenced publications, can predict the worst-case vehicle response with the accuracy needed for preliminary design, provided that sufficiently detailed static aerodynamic data are available, The purpose is to help the design engineer determine whether any of the described Row phenomena that have been experienced by earlier launch vehicles could possibly occur on the new launch vehicle design, in which case the recommended analysis described in full detail in the referenced publications would need to be performed.
+RP Ericsson, LE (reprint author), 1518 Fordham Way, Mt View, CA 94040 USA.
+CR CHEVALIER HL, 1963, 63204 TDR ARN ENG DE
+   COE CF, 1961, X503 NASA
+   COE CF, 1963, S AER DYN MOD TECH 2, P63
+   COE CF, 1978, TMX778 NASA
+   COLE H, 1965, TND2689 NASA
+   COLE SR, 1992, J SPACECRAFT ROCKETS, V29, P379, DOI 10.2514/3.26362
+   COLE SR, 1970, NASA SPACE VEHICLE D, V2, pCH3
+   Ericsson L. E., 1986, Progress in Aerospace Sciences, V23, P1, DOI 10.1016/0376-0421(86)90005-9
+   ERICSSON LE, 1970, J SPACECRAFT ROCKETS, V7, P1106, DOI 10.2514/3.30109
+   ERICSSON LE, 1965, J SPACECRAFT ROCKETS, V2, P481, DOI 10.2514/3.28216
+   ERICSSON LE, 1967, J SPACECRAFT ROCKETS, V4, P65, DOI 10.2514/3.28811
+   Ericsson LE, 2000, J SPACECRAFT ROCKETS, V37, P28, DOI 10.2514/2.3546
+   ERICSSON LE, 1973, J SPACECRAFT ROCKETS, V10, P276, DOI 10.2514/3.61878
+   ERICSSON LE, 1961, P 6 S BALL MISS AER, V4, P69
+   Ericsson L. E, 1965, CR76912 NASA
+   ERICSSON LE, 1964, CR53375 NASA
+   ERICSSON LE, 1967, M37671 LOCKH MISS SP
+   ERICSSON LE, 1965, CR76919 NASA
+   ERICSSON LE, 1971, RECENT RES UNSTEADY, V1, P481
+   GRAHAN FJ, 1960, TN60128 ARN ENG DEV
+   Hanson P. W., 1965, TND2713 NASA
+   HANSON PW, 1962, TND1391 NASA
+   IVEY W, 1964, RP VESLA6411 NASA
+   Jameson A., 1981, 811259 AIAA
+   KISTLER AL, 1962, 32277 CALTECH JET PR
+   KUMARAJ V, 1997, 970269 AIAA
+   RAINEY AG, 1965, J SPACECRAFT ROCKETS, V2, P289, DOI 10.2514/3.28174
+   REDING JP, 1995, J SPACECRAFT ROCKETS, V32, P55, DOI 10.2514/3.26574
+   REDING JP, 1981, J SPACECRAFT ROCKETS, V18, P241, DOI 10.2514/3.57810
+   REDING JP, 1963, LMSC803185 LOCKH MIS
+   RILEY GF, 1969, AS507 STRUCTURAL DAM, V2
+   ROBERTSON JE, 1963, TGDR63104 ARN ENG DE
+   ROBERTSON JE, 1964, 643 AIAA
+   SHMILOVICH A, 1985, J3852 MCD DOUGL AIRC
+   SPEAKER WV, 1966, 66456 AIAA
+   SYVERTSON CA, 1957, 1328 NACA
+   WOODS P, 1962, AEROSPACE ENG, V21, P42
+NR 37
+TC 6
+Z9 7
+U1 0
+U2 1
+PU AMER INST AERONAUT ASTRONAUT
+PI RESTON
+PA 1801 ALEXANDER BELL DRIVE, STE 500, RESTON, VA 22091 USA
+SN 0022-4650
+J9 J SPACECRAFT ROCKETS
+JI J. Spacecr. Rockets
+PD MAR-APR
+PY 2001
+VL 38
+IS 2
+BP 168
+EP 179
+DI 10.2514/2.3690
+PG 12
+WC Engineering, Aerospace
+SC Engineering
+GA 421VA
+UT WOS:000168083200006
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Lee, JW
+   Lee, YK
+   Byun, YH
+   Hwang, HY
+AF Lee, JW
+   Lee, YK
+   Byun, YH
+   Hwang, HY
+TI Design of space launch vehicle using numerical optimization and inverse
+   method
+SO JOURNAL OF SPACECRAFT AND ROCKETS
+LA English
+DT Article
+AB The inverse method and the numerical optimization technique are developed and implemented for the design of space launch vehicles, which satisfy given heat transfer rate, fineness ratio and internal volume constraints, and show minimum drag characteristics. With the proper specification of the target pressure distribution, the inverse method is successfully applied to the design of a body with 21% less drag than the initial shape. Several gradient approximations, shape functions, and approximate analysis methods are utilized fur the design of optimum nose fairing shapes with heat flux and volume constraints. Several strategies are implemented to the design examples in hypersonic speeds, including a Korean three-stage sounding rocket, The designed bodies have less drag than the initial bodies while maintaining the surface heat transfer rate at the nose. These methods are demonstrated to be efficient design tools for the high-speed vehicle design.
+C1 Konkuk Univ, Dept Aerosp Engn, Gwangjin Gu, Seoul 143701, South Korea.
+   Sejong Univ, Sch Aerosp & Mech Engn, Gwangjin Gu, Seoul 143747, South Korea.
+RP Lee, JW (reprint author), Konkuk Univ, Dept Aerosp Engn, Gwangjin Gu, Seoul 143701, South Korea.
+CR ASHLEY H, 1965, AERODYNAMICS WINGS B, P178
+   Eggers Jr A. J., 1957, 1306 NACA
+   LEE YK, 1998, 984806 AIAA
+   MASON WH, 1994, J SPACECRAFT ROCKETS, V31, P406, DOI 10.2514/3.26453
+   MOORE FG, 1993, J SPACECRAFT ROCKETS, V30, P22, DOI 10.2514/3.55655
+   O'Brien TF, 1999, J SPACECRAFT ROCKETS, V36, P653, DOI 10.2514/2.3497
+   Parker H. M., 1955, 1213 NACA
+   RAMASWAMY MA, 1975, J AIRCRAFT, V12, P1002
+   RAMASWAMY MA, 1975, J AIRCRAFT, V12, P1001, DOI 10.2514/3.44506
+   VANDERPLAATS GN, 1976, X73151 NASA
+   Vanderplaats G. N., 1979, 1370 NASA
+   ZANDBERGEN PJ, 1964, G30 NLR
+   ZOBY EV, 1990, J SPACECRAFT ROCKETS, V27, P361, DOI 10.2514/3.26151
+   ZOBY EV, 1981, J SPACECRAFT ROCKETS, V18, P64, DOI 10.2514/3.57788
+NR 14
+TC 3
+Z9 3
+U1 2
+U2 7
+PU AMER INST AERONAUT ASTRONAUT
+PI RESTON
+PA 1801 ALEXANDER BELL DRIVE, STE 500, RESTON, VA 22091 USA
+SN 0022-4650
+J9 J SPACECRAFT ROCKETS
+JI J. Spacecr. Rockets
+PD MAR-APR
+PY 2001
+VL 38
+IS 2
+BP 212
+EP 218
+DI 10.2514/2.3672
+PG 7
+WC Engineering, Aerospace
+SC Engineering
+GA 421VA
+UT WOS:000168083200012
+OA No
+DA 2017-09-27
+ER
+
+
+PT S
+AU Broadfoot, AL
+AF Broadfoot, AL
+BE Clemesha, B
+TI Remote sensing from the International Space Station
+SO ADVANCES IN REMOTE SENSING OF THE MIDDLE AND UPPER ATMOSPHERE AND THE
+   IONOSPHERE
+SE ADVANCES IN SPACE RESEARCH
+LA English
+DT Article; Proceedings Paper
+CT C2 7 Symposium COSPAR Scientific Commission C held at the 33rd COSPAR
+   Scientific Assembly
+CY JUL, 2000
+CL WARSAW, POLAND
+SP Amer Geophys Union, European Goephys Soc, Int Union Geodesy & Geophys, Int Assoc Geomagnet & Aeronom, IUGG, Int Assoc Meteorol, IUGG, Atmospher Sci, IUGG, Meteorol Middle Atomosphere, Comm Space Res
+AB The time has come to give serious thought to the use of the International Space Station (ISS) as a space platform to advance remote sensing research in several scientific disciplines. The European scientific community has been developing instrumentation for deployment on the ISS for some time now. Recently, NASA opened competitions for scientific programs to be supported as "Missions of Opportunity" to utilize the "EXPRESS Pallet" facility on the ISS. A single EXPRESS Pallet has the capability of carrying a collection of instruments similar to the payload of a conventional satellite. A major difference between ISS and satellite programs is that the research funding will be expended on scientific instrumentation and analysis and not on a spacecraft, launch vehicle, and flight operations. As the ISS becomes fully operational, EXPRESS Pallets could be deployed in short periods of time compared to preparing a satellite program. The ability to retrieve, improve, and re-fly an instrument is important to a progressive research program. This allows the experiment to be responsive to data analysis in a timely manner and also keep pace with developing technology. (C) 2001 COSPAR. Published by Elsevier Science Ltd. All rights reserved.
+C1 Lunar & Planetary Lab, Tucson, AZ 85721 USA.
+RP Broadfoot, AL (reprint author), Lunar & Planetary Lab, 1040 E 4th St,Room 901, Tucson, AZ 85721 USA.
+CR BERNACCA PL, 2000, ULTRA VIOLET ITALIAN
+   Broadfoot AL, 1997, ADV SPACE RES-SERIES, V19, P623, DOI 10.1016/S0273-1177(97)00154-3
+   PARK B, 2000, IN PRESS ADV SPACE R
+   TRAMPUS P, 2000, AIP CONF P, P97
+   TRAMPUS P, 1999, NASACP199209476, P261
+NR 5
+TC 0
+Z9 0
+U1 0
+U2 1
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA SARA BURGERHARTSTRAAT 25, PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0273-1177
+J9 ADV SPACE RES
+PY 2001
+VL 27
+IS 6/7
+BP 1047
+EP 1056
+DI 10.1016/S0273-1177(01)00137-5
+PG 10
+WC Engineering, Aerospace; Astronomy & Astrophysics; Geosciences,
+   Multidisciplinary; Meteorology & Atmospheric Sciences
+SC Engineering; Astronomy & Astrophysics; Geology; Meteorology &
+   Atmospheric Sciences
+GA BT01P
+UT WOS:000171630300001
+OA No
+DA 2017-09-27
+ER
+
+
+PT S
+AU Shepherd, MG
+   Sargoytchev, SI
+   Brown, S
+   Mullins, M
+   Petersen, J
+AF Shepherd, MG
+   Sargoytchev, SI
+   Brown, S
+   Mullins, M
+   Petersen, J
+BE Clemesha, B
+TI Measurements of water vapour in the mesosphere with the Spectral
+   Absorption Line Imager (SALI)
+SO ADVANCES IN REMOTE SENSING OF THE MIDDLE AND UPPER ATMOSPHERE AND THE
+   IONOSPHERE
+SE ADVANCES IN SPACE RESEARCH
+LA English
+DT Article; Proceedings Paper
+CT C2 7 Symposium COSPAR Scientific Commission C held at the 33rd COSPAR
+   Scientific Assembly
+CY JUL, 2000
+CL WARSAW, POLAND
+SP Amer Geophys Union, European Goephys Soc, Int Union Geodesy & Geophys, Int Assoc Geomagnet & Aeronom, IUGG, Int Assoc Meteorol, IUGG, Atmospher Sci, IUGG, Meteorol Middle Atomosphere, Comm Space Res
+ID MIDDLE ATMOSPHERE
+AB Water vapour concentration is one of the most important, yet one of the least known quantities of the mesosphere. Knowledge of water vapour concentration is the key to understanding many mesospheric processes, including the one that is primary focus of our investigation, Polar Mesospheric Clouds (PMC). The processes of formation and occurrence parameters of PMC constitute an interesting problem in their own right, but recent evidence had been provided which suggests that PMC are a critical indicator of climate change. In this context the feasibility of a low cost method of water vapour measurements using an instrument carried aloft by a sounding rocket has been examined and some of the results discussed. It is proposed to measure the strength of the 936nm water absorption line in a solar occultation configuration employing a CCD detector. This leads to the design of a small, low cost and low-mass instrument, which can be flown on a small rocket, of the type of the Orbital Sciences Corporation Viper 5. Alternatively the instrument can be flown as a "passenger" on larger rocket carrying other experiments. In either case flight costs are relatively low. Some performance simulations are presented showing that the instrument we have designed will be sufficiently sensitive to measure water vapor in concentrations that are expected at the summer mesopause, about 85 km height. Sufficient payload design work was carried out showing that the structural, thermal and electrical requirements for a flight on the Viper 5 rocket can be met and thus making the experiment feasible for a flight. (C) 2001 COSPAR. Published by Elsevier Science Ltd. All rights reserved.
+C1 York Univ, Ctr Res Earth & Space Sci, N York, ON M3J 1P3, Canada.
+   Ctr Res Earth & Space Technol, Toronto, ON M3J 3K1, Canada.
+   Mayes Mullins Enterprises Ltd, Nobleton, ON L0G 1N0, Canada.
+RP Shepherd, MG (reprint author), York Univ, Ctr Res Earth & Space Sci, 4700 Keele St, N York, ON M3J 1P3, Canada.
+CR GUNSON MR, 1990, J GEOPHYS RES-ATMOS, V95, P13867, DOI 10.1029/JD095iD09p13867
+   Nedoluha GE, 1996, J GEOPHYS RES-ATMOS, V101, P21183, DOI 10.1029/96JD01741
+   RUSSELL JM, 1993, J GEOPHYS RES-ATMOS, V98, P10777, DOI 10.1029/93JD00799
+   SHEPHERD GG, 1965, APP OPT, V4, P265
+   SHEPHERD MG, 1998, SALI PHASE REPORT CS
+   TURCO RP, 1982, PLANET SPACE SCI, V30, P1147, DOI 10.1016/0032-0633(82)90126-X
+   WIENS RH, 1991, PLANET SPACE SCI, V39, P1363, DOI 10.1016/0032-0633(91)90017-5
+NR 7
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA SARA BURGERHARTSTRAAT 25, PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0273-1177
+J9 ADV SPACE RES
+PY 2001
+VL 27
+IS 6/7
+BP 1081
+EP 1086
+DI 10.1016/S0273-1177(01)00142-9
+PG 6
+WC Engineering, Aerospace; Astronomy & Astrophysics; Geosciences,
+   Multidisciplinary; Meteorology & Atmospheric Sciences
+SC Engineering; Astronomy & Astrophysics; Geology; Meteorology &
+   Atmospheric Sciences
+GA BT01P
+UT WOS:000171630300005
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Gamble, AE
+   Jenkins, PN
+AF Gamble, AE
+   Jenkins, PN
+TI Low cost guidance for the Multiple Launch Rocket System (MLRS) artillery
+   rocket
+SO IEEE AEROSPACE AND ELECTRONIC SYSTEMS MAGAZINE
+LA English
+DT Article
+AB The US Army Aviation and Missile Command has demonstrated the application of advanced technology to significantly improve the accuracy and range of the US Army's Multiple Launch Rocket System (MLRS) through the Guided MLRS Advanced Technology Demonstration (ATD). The addition of a cost-effective guidance and control package to the rocket results in a weapon system that can defeat the target at ranges up to 70 km with significantly fewer rounds, This not only increases the destructive capability of the system but also reduces the cost of the expended ammunition, the cost to transport the ammunition to the combat zone, and the number of launchers required to execute the mission. The guidance kit is housed in the nose of the MLRS and consists of an Inertial Measurement Unit (IMU), four independent electro-mechanically actuated canards, a Global Position System (GPS) Receiver, GPS antennas, a thermal battery, a guidance computer, and power supply electronics. Roll decoupling of the warhead and motor section was required to allow roll control of the guidance section to enable accurate inertial navigation and was accomplished by joining the two sections with a roll bearing. Five flight missiles were built and tested during the ATD. Two IMU vendors were selected to provide flight units (3 flights used vendor A and 2 flights used vendor B). A tightly coupled eight channel GPS receiver was flown on all flights. This paper discusses the ATD development effort and presents flight test results.
+C1 USA, Aviat & Missile Command, Aviat & Missile Res Dev & Engn Ctr, Redstone Arsenal, AL 35898 USA.
+RP Gamble, AE (reprint author), USA, Aviat & Missile Command, Aviat & Missile Res Dev & Engn Ctr, Redstone Arsenal, AL 35898 USA.
+NR 0
+TC 5
+Z9 10
+U1 1
+U2 7
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017-2394 USA
+SN 0885-8985
+J9 IEEE AERO EL SYS MAG
+JI IEEE Aerosp. Electron. Syst. Mag.
+PD JAN
+PY 2001
+VL 16
+IS 1
+BP 33
+EP 39
+DI 10.1109/62.894176
+PG 7
+WC Engineering, Aerospace; Engineering, Electrical & Electronic
+SC Engineering
+GA 394CN
+UT WOS:000166506600007
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Calabro, M
+   Bonnal, C
+   Lenstch, A
+AF Calabro, Max
+   Bonnal, Christophe
+   Lenstch, Aron
+TI ELV: Pressure-fed LOx/LH2 upper stage
+SO ACTA ASTRONAUTICA
+LA English
+DT Article
+AB Cries is leading extensive studies for the future generation of ELVs. The trend is today to research easy to use, robust and reliable solutions for the propulsion of future expendable launch vehicles but also with a high level of performances associated to as low as possible recurring cost of the launch vehicle. Among the different configurations (i.e. "linear", linear with SRBs, tri stages, parallel with cross feeding) conventional two stage architecture seems the one of the best to reach these goals. In the two stage configuration, there is competition between SRB (500ton of propellant), LOx/LH2 (350ton of propellant) or even LOx/methane, but always the second stage is cryotechnic (LH2/LOx), different technological solutions are possible.
+   A way could be an extensive use of composite materials both for the structures, the tanks and the engines with use, as much as possible of automatic processes. In near future breakthrough or improvement of the fiber strength may increase the interest of such technologies.
+   The aim of this paper is to present the technical choices for 40ton of propellant second stage leading to cost effective configuration. (C) 2009 Elsevier Ltd. All rights reserved.
+C1 [Calabro, Max] Inner Arch, Villennes, France.
+   [Bonnal, Christophe; Lenstch, Aron] Cnes DLA, Evry, France.
+RP Calabro, M (reprint author), Inner Arch, Villennes, France.
+EM max-calabro@wanadoo.fr
+CR BONNAL C, IACD2501
+   CALABRO M, 20013692 AIAA
+   LEVY Y, IAC04V401
+   2840384
+   2840039
+NR 5
+TC 0
+Z9 0
+U1 0
+U2 0
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0094-5765
+J9 ACTA ASTRONAUT
+JI Acta Astronaut.
+PD JUN-JUL
+PY 2009
+VL 64
+IS 11-12
+BP 1015
+EP 1020
+DI 10.1016/j.actaastro.2008.12.011
+PG 6
+WC Engineering, Aerospace
+SC Engineering
+GA 440XB
+UT WOS:000265731900001
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Trikha, M
+   Gopalakrishnan, S
+   Mahapatra, DR
+   Pandiyan, R
+AF Trikha, M.
+   Gopalakrishnan, S.
+   Mahapatra, D. Roy
+   Pandiyan, R.
+TI Dynamic Instabilities in Slender Space Launch Vehicles under Propulsive
+   Thrust and Aerodynamic Forces
+SO CMES-COMPUTER MODELING IN ENGINEERING & SCIENCES
+LA English
+DT Article
+DE launch vehicle; stability; flexible body; follower force; aerodynamic
+   forces; propulsive thrust
+ID GEOMETRICALLY NONLINEAR-ANALYSIS; MIXED VARIATIONAL-PRINCIPLES;
+   FREE-FREE BEAM; FINITE ROTATIONS; AEROELASTIC ANALYSIS;
+   WAVE-PROPAGATION; SPATIAL BEAMS; LARGE MOTIONS; CURVED BEAMS; STABILITY
+AB A mechanics based linear analysis of the problem of dynamic instabilities in slender space launch vehicles is undertaken. The flexible body dynamics of the moving vehicle is studied in an inertial frame of reference, including velocity induced curvature effects, which have not been considered so far in the published literature. Coupling among the rigid-body modes, the longitudinal vibrational modes and the transverse vibrational modes due to asymmetric lifting-body cross-section are considered. The model also incorporates the effects of aerodynamic forces and the propulsive thrust of the vehicle. The effects of the coupling between the combustion process (mass variation, developed thrust etc.) and the variables involved in the flexible body dynamics (displacements and velocities) are clearly brought out. The model is one-dimensional, and it can be employed to idealised slender vehicles with complex shapes. Computer simulations are carried out using a standard eigenvalue problem within h-p finite element modelling framework. Stability regimes for a vehicle subjected to propulsive thrust are validated by comparing the results from published literature. Numerical simulations are carried out for a representative vehicle to determine the instability regimes with vehicle speed and propulsive thrust as the parameters. The phenomena of static instability (divergence) and dynamic instability (flutter) are observed. The results at low Mach number match closely with the results obtained from previous models published in the literature.
+C1 [Trikha, M.; Pandiyan, R.] Indian Space Res Org, Satellite Ctr, Bangalore 560017, Karnataka, India.
+   [Gopalakrishnan, S.; Mahapatra, D. Roy] Indian Inst Sci, Dept Aerosp Engn, Bangalore 560012, Karnataka, India.
+RP Trikha, M (reprint author), Indian Space Res Org, Satellite Ctr, Bangalore 560017, Karnataka, India.
+RI Gopalakrishnan, Srinivasan/I-5840-2012
+OI Gopalakrishnan, Srinivasan/0000-0003-3671-9458
+CR Aduri SN, 2006, CMES-COMP MODEL ENG, V15, P1
+   Allen HJ, 1951, 1048 NACA
+   ARGYRIS J, 1982, COMPUT METHOD APPL M, V32, P85, DOI 10.1016/0045-7825(82)90069-X
+   Atluri SN, 2006, CMES-COMP MODEL ENG, V14, P141
+   ATLURI SN, 1984, COMPUT STRUCT, V18, P93, DOI 10.1016/0045-7949(84)90085-3
+   Atluri SN, 2001, COMPUT MECH, V27, P271, DOI 10.1007/s004660100234
+   Atluri SN, 2005, METHODS COMPUTER MOD
+   Atluri SN, 1995, ARCH COMPUTATIONAL M, V2, P49, DOI DOI 10.1007/BF02736189
+   Bathe K.-J., 1975, International Journal for Numerical Methods in Engineering, V9, P353, DOI 10.1002/nme.1620090207
+   Battini JM, 2008, CMES-COMP MODEL ENG, V33, P1
+   BEAL TR, 1965, AIAA J, V3, P486
+   Belytschko T., 1973, International Journal for Numerical Methods in Engineering, V7, P255, DOI 10.1002/nme.1620070304
+   Bisplinghoff R. L., 1962, PRINCIPLES AEROELAST
+   Bolotin VV, 2002, INT J NONLINEAR MECH, V37, P1163, DOI 10.1016/S0020-7462(01)00148-2
+   Bolotin VV, 1963, NONCONSERVATIVE PROB
+   Capri F, 2006, J SPACECRAFT ROCKETS, V43, P92, DOI 10.2514/1.13867
+   Cornelisse J.W., 1979, ROCKET PROPULSION SP, P320
+   Cui XY, 2008, CMES-COMP MODEL ENG, V28, P109
+   Dotson KW, 1998, J SPACECRAFT ROCKETS, V35, P365, DOI 10.2514/2.3336
+   Doyle J. F., 1997, WAVE PROPAGATION STR
+   DUGUNDJI J, 1992, COMPUTATIONAL NONLIN, P127
+   Elishakoff I., 2005, Applied Mechanics Review, V58, P117, DOI 10.1115/1.1849170
+   ELYADA D, 1989, J SPACECRAFT ROCKETS, V26, P95, DOI 10.2514/3.26038
+   Ericsson L. E., 1986, Progress in Aerospace Sciences, V23, P1, DOI 10.1016/0376-0421(86)90005-9
+   ERICSSON LE, 1967, J SPACECRAFT ROCKETS, V4, P65, DOI 10.2514/3.28811
+   Ericsson LE, 2000, J SPACECRAFT ROCKETS, V37, P28, DOI 10.2514/2.3546
+   Fabignon Y, 2003, AEROSP SCI TECHNOL, V7, P191, DOI 10.1016/S1270-9638(02)01194-X
+   Geradin M., 1989, COMPUT MECH, V4, P115, DOI DOI 10.1007/BF00282414
+   GOPALAKRISHNAN S, 1992, J SOUND VIB, V158, P11, DOI 10.1016/0022-460X(92)90660-P
+   Han ZD, 2006, CMES-COMP MODEL ENG, V14, P119
+   Han ZD, 2005, CMES-COMP MODEL ENG, V10, P1
+   Himelblau H., 2001, NASA TECHNICAL HDB
+   HODGES DH, 1990, INT J SOLIDS STRUCT, V26, P1253, DOI 10.1016/0020-7683(90)90060-9
+   Hodges D. H., 2002, INTRO STRUCTURAL DYN
+   HSIAO KM, 1991, COMPUT METHOD APPL M, V87, P1, DOI 10.1016/0045-7825(91)90143-T
+   HUMBAD NG, 1978, J SPACECRAFT ROCKETS, V15, P12, DOI 10.2514/3.27997
+   Ijima K, 2003, CMES-COMP MODEL ENG, V4, P239
+   IURA M, 1988, COMPUT STRUCT, V29, P875, DOI 10.1016/0045-7949(88)90355-0
+   IURA M, 1995, COMPUT STRUCT, V55, P453, DOI 10.1016/0045-7949(95)98871-M
+   Iura M, 2003, CMES-COMP MODEL ENG, V4, P213
+   IURA M, 1988, LARGE SPACE STRUCTUR, pCH3
+   Iura M, 1989, COMPUTATIONAL MECHAN, V4, P73, DOI DOI 10.1007/BF00282411
+   Ivanov AP, 2001, PMM-J APPL MATH MEC+, V65, P617, DOI 10.1016/S0021-8928(01)00066-1
+   Jones N., 1987, International Journal of Impact Engineering, V6, P225, DOI 10.1016/0734-743X(87)90022-4
+   Jorgensen L.H., 1973, D6996 NASA TN
+   KANE TR, 1981, J ASTRONAUT SCI, V29, P245
+   Kulikov GM, 2008, CMES-COMP MODEL ENG, V28, P15
+   Lee K, 2008, CMES-COMP MODEL ENG, V33, P109
+   LESAFFRE N, 2007, INT C COMP EXP ENG S, V2, P101
+   Lin CC, 1997, INT J SOLIDS STRUCT, V34, P3179, DOI 10.1016/S0020-7683(96)00181-3
+   Lin SM, 2008, CMES-COMP MODEL ENG, V23, P175
+   Liu CS, 2006, CMES-COMP MODEL ENG, V16, P157
+   Majorana CE, 2008, CMES-COMP MODEL ENG, V33, P49
+   MEIROVITCH L, 1967, AIAA J, V5, P1439, DOI 10.2514/3.4217
+   Mitra M, 2006, CMES-COMP MODEL ENG, V15, P49
+   Murphy CH, 2003, J GUID CONTROL DYNAM, V26, P89, DOI 10.2514/2.5018
+   *NASA, 1964, NASA
+   Okamoto S, 2003, CMES-COMP MODEL ENG, V4, P287
+   OPPENHEIM BW, 1993, J SPACECRAFT ROCKETS, V30, P360, DOI 10.2514/3.25524
+   PARK YP, 1985, J SOUND VIB, V98, P247, DOI 10.1016/0022-460X(85)90388-8
+   PLATUS DH, 1992, J GUID CONTROL DYNAM, V15, P144, DOI 10.2514/3.20812
+   Quadrelli BM, 1998, INT J NUMER METH ENG, V42, P1071, DOI 10.1002/(SICI)1097-0207(19980730)42:6<1071::AID-NME400>3.0.CO;2-F
+   Quadrelli BM, 1996, AIAA J, V34, P2395, DOI 10.2514/3.13407
+   RAINEY LB, 2004, SPACE MODELING SIMUL, P350
+   Rao J. S., 1996, ROTOR DYNAMICS
+   Rochinha FA, 2000, CMES-COMP MODEL ENG, V1, P7
+   Shiau LC, 2007, CMC-COMPUT MATER CON, V5, P213
+   Simo J. C., 1986, Transactions of the ASME. Journal of Applied Mechanics, V53, P849
+   SIMO JC, 1988, COMPUT METHOD APPL M, V66, P125, DOI 10.1016/0045-7825(88)90073-4
+   Sugiyama Y, 2000, J SOUND VIB, V236, P193, DOI 10.1006/jsvi.1999.2969
+   SUNDARARAMAIAH V, 1976, J SOUND VIB, V48, P571, DOI 10.1016/0022-460X(76)90561-7
+   TRIKHA M, 2008, 46 AIAA AER SCI M EX
+   TRIKHA M, 2008, 49 AIAA ASME ASCE AH
+   Vinod KG, 2006, CMES-COMP MODEL ENG, V16, P197
+   Wen PH, 2007, CMES-COMP MODEL ENG, V21, P177
+   WICKERT JA, 1990, J APPL MECH-T ASME, V57, P738, DOI 10.1115/1.2897085
+   Wickert J. A., 1988, SHOCK VIBRATION DIGE, V20, P3, DOI 10.1177/058310248802000503
+   Wong S, 2008, CMES-COMP MODEL ENG, V36, P97
+   WU JJ, 1975, J SOUND VIB, V43, P45, DOI 10.1016/0022-460X(75)90203-5
+   WU JJ, 1976, AIAA J, V14, P313, DOI 10.2514/3.7098
+   YOUNG CP, 1968, D4846 NASA TN
+NR 81
+TC 1
+Z9 1
+U1 0
+U2 3
+PU TECH SCIENCE PRESS
+PI NORCROSS
+PA 6825 JIMMY CARTER BLVD, STE 1850, NORCROSS, GA 30071 USA
+SN 1526-1492
+EI 1526-1506
+J9 CMES-COMP MODEL ENG
+JI CMES-Comp. Model. Eng. Sci.
+PD MAY
+PY 2009
+VL 45
+IS 2
+BP 97
+EP 139
+PG 43
+WC Engineering, Multidisciplinary; Mathematics, Interdisciplinary
+   Applications
+SC Engineering; Mathematics
+GA 494WX
+UT WOS:000269851300001
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Zhekamukhov, MK
+   Abshaev, AM
+AF Zhekamukhov, M. K.
+   Abshaev, A. M.
+TI Simulation of rocket seeding of convective clouds with coarse-dispersion
+   hygroscopic aerosol. 2. Condensation and coagulation in a cloud seeded
+   with hygroscopic particles
+SO RUSSIAN METEOROLOGY AND HYDROLOGY
+LA English
+DT Article
+AB A set of equations is developed to describe changes in cloud dispersity due to condensation and gravitational coagulation in the area of the salt particle diffusion in hygroscopic seeding of convective clouds with antihail rockets. Competition for moisture between the natural cloud droplets, entrained in the area from outside by turbulent diffusion, and artificial NaCl particles is taken into account. Optimum versions of hygroscopic seeding aimed at precipitation enhancement are discussed.
+C1 [Zhekamukhov, M. K.] Kabardino Balkar State Univ, Nalchik 360004, Kabardino Balka, Russia.
+   [Abshaev, A. M.] High Mt Geophys Inst, Nalchik 360000, Kabardino Balka, Russia.
+RP Zhekamukhov, MK (reprint author), Kabardino Balkar State Univ, Ul Chernyshevskogo 175, Nalchik 360004, Kabardino Balka, Russia.
+CR ABSHAEV MT, 2005, RUSS C CLOUD PHYS HY
+   ZHEKAMUKHOV MK, 2009, RUSS METEOROL HYDROL, V34
+NR 2
+TC 1
+Z9 1
+U1 0
+U2 3
+PU ALLERTON PRESS INC
+PI NEW YORK
+PA 18 WEST 27TH ST, NEW YORK, NY 10001 USA
+SN 1068-3739
+J9 RUSS METEOROL HYDROL
+JI Russ. Meteorol. Hydrol.
+PD MAY
+PY 2009
+VL 34
+IS 5
+BP 293
+EP 300
+DI 10.3103/S1068373909050045
+PG 8
+WC Meteorology & Atmospheric Sciences
+SC Meteorology & Atmospheric Sciences
+GA 476MI
+UT WOS:000268446100004
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Xu, YJ
+AF Xu, Yunjun
+TI Trajectory Analysis for Vertical Takeoff and Vertical Landing Reusable
+   Launch Vehicle's Upper Stage
+SO JOURNAL OF AEROSPACE ENGINEERING
+LA English
+DT Article
+ID ASCENT GUIDANCE; ENTRY GUIDANCE; OPTIMIZATION; DESIGN
+AB Reusable launch vehicles are a promising business for the future because of their flexibility, reliability, low cost, and good operability. There are two takeoff styles: the vertical takeoff and the horizontal takeoff. Compared to the horizontal takeoff vehicle, the vertical takeoff reusable launch vehicle has advantages, such as a shorter down-range landing, a quicker recovery system (wherein takeoff and landing happen in approximately the same location), and a lighter weight. A vertical profile is used for vertical takeoff and vertical landing (VTVL) vehicles to achieve a recovery at the launch site. However, the first stage of the vertical takeoff reusable launch vehicle (RLV) typically can provide a very small or even zero velocity to its second or upper stage, if the upper stage is released at the peak altitude. Therefore, primarily, this type of launch vehicle is used to achieve hundreds of seconds in a microgravity environment. The upper stage payload delivery capabilities of a vertical takeoff RLV and its potential applications are described from a trajectory point of view. A modified optimal control methodology and an intuitive method of the trajectory control, called energy for altitude and time, are used to determine the maximum throw distance, maximum flight time, and orbital insertion capabilities for certain payloads, separately. The results from this investigation show the possibilities of expanding the applications for the VTVL suborbital RLV.
+C1 Univ Oklahoma, Sch Aerosp & Mech Engn, Norman, OK 73019 USA.
+RP Xu, YJ (reprint author), Univ Oklahoma, Sch Aerosp & Mech Engn, Norman, OK 73019 USA.
+EM yjxu@ou.edu
+FU TGV Rockets, Inc
+FX This research work was supported by TGV Rockets, Inc. The guidance and
+   encouragement from Dr. Renaud and Mr. Bahn are highly appreciated.
+CR BELTRACCHI TJ, 1992, J GUID CONTROL DYNAM, V15, P707, DOI 10.2514/3.20895
+   Betts JT, 1998, J GUID CONTROL DYNAM, V21, P193, DOI 10.2514/2.4231
+   BETTS JT, 1991, J GUID CONTROL DYNAM, V14, P431, DOI 10.2514/3.20656
+   BONDARENKO AS, 1999, COPS LARGE SCALE NON
+   Brown R., 2001, J ASYNCHRONOUS LEARN, V5, P18
+   Bryson AE, 1975, APPL OPTIMAL CONTROL
+   Calise AJ, 1998, J GUID CONTROL DYNAM, V21, P867, DOI 10.2514/2.4350
+   FEBLBERG E, 1968, CLASSICAL 5 6 7 8 OR
+   Hanson JM, 2004, J GUID CONTROL DYNAM, V27, P960, DOI 10.2514/1.10886
+   Lu P, 1997, J GUID CONTROL DYNAM, V20, P143, DOI 10.2514/2.4008
+   Lu P, 2003, J GUID CONTROL DYNAM, V26, P283, DOI 10.2514/2.5045
+   MARTIN JC, 2002, 20030015736 NASASTI
+   Prussing J. E., 1993, ORBITAL MECH
+   Rao PP, 1997, J SPACECRAFT ROCKETS, V34, P341, DOI 10.2514/2.3214
+   SIPPEL M, 2002, 11 AIAA AAAF INT C S
+   Tsuchiya T, 2004, J SPACECRAFT ROCKETS, V41, P770, DOI 10.2514/1.1082
+   WALLAS J, 2003, 39 AIAA ASME SAE ASE
+   Wertz J., 1991, SPACE MISSION ANAL D
+   XU Y, 2003, 2003 AAS AIAA ASTR S
+   2006, EARTH ATMOSPHERE MOD
+NR 20
+TC 0
+Z9 0
+U1 0
+U2 11
+PU ASCE-AMER SOC CIVIL ENGINEERS
+PI RESTON
+PA 1801 ALEXANDER BELL DR, RESTON, VA 20191-4400 USA
+SN 0893-1321
+J9 J AEROSPACE ENG
+JI J. Aerosp. Eng.
+PD JAN
+PY 2009
+VL 22
+IS 1
+BP 58
+EP 66
+DI 10.1061/(ASCE)0893-1321(2009)22:1(58)
+PG 9
+WC Engineering, Aerospace; Engineering, Civil
+SC Engineering
+GA 423UX
+UT WOS:000264522300009
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Solda, N
+   Lentini, D
+AF Solda, N.
+   Lentini, D.
+TI Opportunities for a Liquid Rocket Feed System Based on Electric Pumps
+SO JOURNAL OF PROPULSION AND POWER
+LA English
+DT Article
+AB A feed system for liquid-propellant rocket engines based on electric pumps powered by batteries is proposed. It is proven to stand as a viable alternative to the pressure-gas feed system. The dependence of the feed system mass on the different operating parameters is obtained so as to identify the conditions favoring its adoption, that is, a relatively long burning time and a fairly high chamber pressure. Under such conditions, the proposed system is shown to offer significant mass savings with respect to the pressure-gas system when advanced batteries are used. This advantage is further enhanced by the beneficial effect of chamber pressure on the engine effective exhaust velocity. A test case for a low Earth orbit to geostationary equatorial orbit transfer is also presented to identify the optimum value of the burning time, deriving from the competition between the feed system mass and the effect of gravitational losses.
+C1 [Solda, N.; Lentini, D.] Univ Roma La Sapienza, Dipartimento Meccan & Aeronaut, I-00184 Rome, Italy.
+RP Solda, N (reprint author), Univ Roma La Sapienza, Dipartimento Meccan & Aeronaut, Via Eudossiana 18, I-00184 Rome, Italy.
+EM diego.lentini@uniromal.it
+CR BOCKRIS JOM, 2000, MODERN ELECTROCHEM B, V2, P1856
+   BURKE KA, 2003, 20035938 AIAA
+   BURKE KA, 2003, TM2003212730 NASA
+   Christen T, 2000, J POWER SOURCES, V91, P210, DOI 10.1016/S0378-7753(00)00474-2
+   GORDON S, 1994, 13111 NASA RP
+   Humble R. W., 1995, SPACE PROPULSION ANA
+   LENTINI D, 2000, P I MECH ENG G-J AER, V215, P79, DOI DOI 10.1243/0954410011531781
+   MCBRIDE B, 1996, 13112 NASA RP
+   Sutton G. P, 2001, ROCKET PROPULSION EL, P203
+NR 9
+TC 1
+Z9 1
+U1 1
+U2 2
+PU AMER INST AERONAUT ASTRONAUT
+PI RESTON
+PA 1801 ALEXANDER BELL DRIVE, STE 500, RESTON, VA 22091-4344 USA
+SN 0748-4658
+J9 J PROPUL POWER
+JI J. Propul. Power
+PD NOV-DEC
+PY 2008
+VL 24
+IS 6
+BP 1340
+EP 1346
+DI 10.2514/1.35074
+PG 7
+WC Engineering, Aerospace
+SC Engineering
+GA 372EX
+UT WOS:000260886000018
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Suresh, BN
+AF Suresh, B. N.
+TI History of Indian launchers
+SO ACTA ASTRONAUTICA
+LA English
+DT Article; Proceedings Paper
+CT 58th International Astronautical Congress
+CY SEP 24-28, 2007
+CL Hyderabad, INDIA
+AB A multitude of inter-disciplinary technologies have been mastered indigenously for realizing a series of operational space launch vehicles. The vehicles range from relatively tiny Rohini sounding rockets to gigantic satellite launchers, PSLV and GSLV. This paper gives the challenges faced, lessons learned during various development phases and the step-by-step evolution of launch vehicle technologies in India. (C) 2008 Elsevier Ltd. All rights reserved.
+C1 Vikram Sarabhai Space Ctr, Thiruvananthapuram, Kerala, India.
+RP Suresh, BN (reprint author), Vikram Sarabhai Space Ctr, Thiruvananthapuram, Kerala, India.
+EM bn_suresh@iist.ac.in
+CR GUPTA SC, 1988, DEV NAVIGATION GUIDA
+   GUPTA SC, 2006, GROWING ROCKET SYSTE
+   RAO UR, 1993, CURR SCI INDIA, V65, P522
+NR 3
+TC 1
+Z9 1
+U1 0
+U2 2
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0094-5765
+J9 ACTA ASTRONAUT
+JI Acta Astronaut.
+PD JUL-AUG
+PY 2008
+VL 63
+IS 1-4
+BP 428
+EP 434
+DI 10.1016/j.actaastro.2007.12.066
+PG 7
+WC Engineering, Aerospace
+SC Engineering
+GA 325KO
+UT WOS:000257588000047
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Bayley, DJ
+   Hartfield, RJ
+   Burkhalter, JE
+   Jenkins, RM
+AF Bayley, Douglas J.
+   Hartfield, Roy J., Jr.
+   Burkhalter, John E.
+   Jenkins, Rhonald M.
+TI Design optimization of a space launch vehicle using a genetic algorithm
+SO JOURNAL OF SPACECRAFT AND ROCKETS
+LA English
+DT Article; Proceedings Paper
+CT AIAA/ASME/ASCE/AHS/ASC 48th Structures, Structural Dynamics, and
+   Materials Conference/3rd AIAA Multidisciplinary Design Optimization
+   Specialist Conference
+CY APR 23-26, 2007
+CL Honolulu, HI
+SP Amer Inst Aeronaut & Astronaut, ASME, ASCE, AHS, ASC
+AB This paper describes an effort to optimize the design of an entire space launch vehicle to low Earth (circular) orbit, consisting of multiple stages using a genetic algorithm with the goal of minimizing vehicle weight and ultimately vehicle cost. The entire launch vehicle system is analyzed using various multistage configurations to reach low Earth orbit. Specifically, three- and four-stage solid propellant vehicles have been analyzed. The vehicle performance modeling requires that analysis from four separate disciplines be integrated into the design optimization process. The disciplines of propulsion characteristics, aerodynamics, mass properties, and flight dynamics have been integrated to produce a high-fidelity system model of the entire vehicle. In addition, the system model has been validated using the existing launch vehicle data. The cost model is mass based and uses extensive historical data to produce a cost estimating relationship for a solid propellant vehicle. For the design optimization, the goal is for the genetic algorithm to minimize the differences between the desired and actual orbital parameters. This ensures that the payload achieves the desired orbit. One final goal is to minimize the overall vehicle mass, thus minimizing the system cost per launch. This paper will represent the first effort of its kind to minimize the solid propellant launch vehicle cost at the preliminary design level using a genetic algorithm.
+C1 [Bayley, Douglas J.] USAF Acad, Dept Aeronaut, Colorado Springs, CO 80840 USA.
+   [Hartfield, Roy J., Jr.; Burkhalter, John E.; Jenkins, Rhonald M.] Auburn Univ, Dept Aerosp Engn, Auburn, AL 36849 USA.
+RP Bayley, DJ (reprint author), USAF Acad, Dept Aeronaut, Colorado Springs, CO 80840 USA.
+CR ANDERSON MB, 2001, USERS MANUAL IMPROVE
+   ANDERSON MB, 2001, 20013493 AIAA
+   ANDERSON MB, 2001, 20013494 AIAA
+   ANDERSON MB, 1999, 994081 AIAA
+   Anderson M. B., 2001, 20011123 AIAA
+   ANDERSON MB, 1998, THESIS AUBURN U AUBU
+   Braun RD, 1997, J SPACECRAFT ROCKETS, V34, P478, DOI 10.2514/2.3237
+   Brown N. F, 2005, 2005707 AIAA
+   Budianto IA, 2004, J SPACECRAFT ROCKETS, V41, P956, DOI 10.2514/1.14254
+   BURKHALTER JE, 2003, 2006702 MISS SPAC IN
+   Casalino L., 2005, 20053547 AIAA
+   CHERNYAVSKY B, 1998, 983582 AIAA
+   Hartfield R, 2004, J SPACECRAFT ROCKETS, V41, P689, DOI 10.2514/1.3177
+   HARTFIELD RJ, 2005, HHM40204P0061 MISS S
+   HARTFIELD RJ, 2004, 20040451 AIAA
+   Humble R. W., 1995, SPACE PROPULSION ANA
+   Koelle D.E., 2003, HDB COST ENG SPACE T
+   Lian YS, 2005, J PROPUL POWER, V21, P979, DOI 10.2514/1.14667
+   OLDS JR, 1996, 19964092 AIAA
+   Orbital Sciences Corporation, 2006, MIN 1 US GUID REL 2
+   Portz R., 2004, 20043562 AIAA
+   Riddle D., 2007, 2007362 AIAA
+   SANDERS GA, 1982, DRSMIRD832TR ARM MIS
+   SHELTON J, 2005, 20053851 AIAA
+   Tsuchiya T, 2005, J SPACECRAFT ROCKETS, V42, P90, DOI 10.2514/1.8012
+   UNAL R, 1995, P 17 ANN C INT SOC P, P183
+   WERTZ JR, 2004, RS220042004 AIAA
+   WOLLAM J, 2000, 20000685 AIAA
+NR 28
+TC 23
+Z9 25
+U1 0
+U2 2
+PU AMER INST AERONAUT ASTRONAUT
+PI RESTON
+PA 1801 ALEXANDER BELL DRIVE, STE 500, RESTON, VA 22091-4344 USA
+SN 0022-4650
+J9 J SPACECRAFT ROCKETS
+JI J. Spacecr. Rockets
+PD JUL-AUG
+PY 2008
+VL 45
+IS 4
+BP 733
+EP 740
+DI 10.2514/1.35318
+PG 8
+WC Engineering, Aerospace
+SC Engineering
+GA 336UH
+UT WOS:000258389600008
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Cho, GR
+   Park, JJ
+   Chung, ES
+   Hwang, SH
+AF Cho, Gwang-Rae
+   Park, Jeong-Joo
+   Chung, Eui-Seung
+   Hwang, Seung-Hyun
+TI The Korean Sounding Rocket Program
+SO ACTA ASTRONAUTICA
+LA English
+DT Article
+DE Korea Sounding Rocket (KSR); Korea Space Launch Vehicle (KSLV); KSR-I;
+   KSR-II; KSR-III
+ID ONBOARD KSR-III
+AB As a part of the Korea National Space Program, the Korean government has led the Sounding Rocket Program by Korea Aerospace Research Institute (KARI) providing enhanced capabilities across a spectrum of earth sciences and/or astrophysics-related disciplines. In this paper, the Korean Sounding Rocket Program during 1993-2002 is introduced. This program includes Korea Sounding Rocket (KSR)-I, KSR-II, and KSR-III, and a total of five soundings were carried out. Two had flown in KSR-I series. two in KSR-II, and one in KSR-III. The main mission objective is to provide the opportunity to scientists for researching earth sciences and/or astrophysics and to improve Korean rocket development technologies including payload instruments, flight systems, ground systems, operational techniques, and interfaces between subsystems. As demand increased for launching of low-orbit earth satellites internally and externally, the Korean government was ambitiously firing the Korea Space Launch Vehicle (KSLV) Program in 2002, based on experience throughout the Sounding Rocket Program and preparing the world market for space launch vehicles. (C) 2008 Elsevier Ltd. All rights reserved.
+C1 [Cho, Gwang-Rae; Park, Jeong-Joo; Chung, Eui-Seung; Hwang, Seung-Hyun] KARI, Korea Space Launch Vehicle Program Off, Taejon 305333, South Korea.
+RP Hwang, SH (reprint author), KARI, Korea Space Launch Vehicle Program Off, Taejon 305333, South Korea.
+EM shhwang@kari.re.kr
+CR CHAE YS, 2000, N99081 MOST
+   CHAE YS, 2001, N00041 MOST
+   CHO GR, 2003, N01031 MOST
+   Cho H.K., 2003, KOR J ATMOS SCI, V6, P97
+   CHOI SD, 1997, P COSP C SCI MICR
+   Hwang SH, 2007, J GEOPHYS RES-ATMOS, V112, DOI 10.1029/2006JD007978
+   Hwang SH, 2007, ACTA ASTRONAUT, V60, P880, DOI 10.1016/j.actaastro.2006.11.010
+   Hwang SH, 2005, ADV SPACE RES-SERIES, V36, P952, DOI 10.1016/j.asr.2005.05.080
+   Hwang SH, 2004, P SOC PHOTO-OPT INS, V5652, P290, DOI 10.1117/12.580141
+   Hwang SH, 2004, T JPN SOC AERONAUT S, V47, P108, DOI 10.2322/tjsass.47.108
+   Hwang SH, 2004, J KOREAN PHYS SOC, V44, P435
+   Kim J, 1997, J GEOPHYS RES-ATMOS, V102, P16121, DOI 10.1029/97JD00460
+   Kim J, 2001, ADV SPACE RES, V27, P2025, DOI 10.1016/S0273-1177(01)80014-4
+   KIM J, 1998, J ASTRON SPACE SCI, V15, P391
+   KIM J, 1994, P 19 INT S SPAC TECH, P785
+   Kim J, 2007, J KOREAN PHYS SOC, V50, P1256, DOI 10.3938/jkps.50.1256
+   LEE JJ, 1998, J ASTRON SPACE SCI, V15, P401
+   LIM JT, 2003, 14 ANN AIAA USU C SM
+   MOON SH, 1997, N96070 MOST
+   NAM UW, 1998, J ASTRON SPACE SCI, V15, P373
+   Oyama K, 1999, EARTH PLANETS SPACE, V51, P1309
+   PARK S, 1996, J ASTRONOMY SPACE SC, V13, P1
+   PARK SD, 1999, SMALL SAT S JAP
+   RYOO JS, 1993, UCN048049 MOST
+NR 24
+TC 7
+Z9 7
+U1 1
+U2 2
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0094-5765
+J9 ACTA ASTRONAUT
+JI Acta Astronaut.
+PD JUN
+PY 2008
+VL 62
+IS 12
+BP 706
+EP 714
+DI 10.1016/j.actaastro.2008.01.035
+PG 9
+WC Engineering, Aerospace
+SC Engineering
+GA 317RY
+UT WOS:000257038500006
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Fesmire, JE
+   Sass, JP
+AF Fesmire, J. E.
+   Sass, J. P.
+TI Aerogel insulati

@@ -1,0 +1,1015 @@
+
+PT J
+AU Atchison, JA
+   Ozimek, MT
+   Kantsiper, BL
+   Cheng, AE
+AF Atchison, Justin A.
+   Ozimek, Martin T.
+   Kantsiper, Brian L.
+   Cheng, Andrew E.
+TI Trajectory options for the DART mission
+SO ACTA ASTRONAUTICA
+LA English
+DT Article
+AB This study presents interplanetary trajectory options for the Double Asteroid Redirection Test (DART) spacecraft to reach the near Earth object, Didymos binary system, during its 2022 Earth conjunction. DART represents a component of a joint NASA-ESA mission to study near Earth object kinetic impact deflection. The DART trajectory must satisfy mission objectives for arrival timing, geometry, and lighting while minimizing launch vehicle and spacecraft propellant requirements. Chemical propulsion trajectories are feasible from two candidate launch windows in late 2020 and 2021. The 2020 trajectories are highly perturbed by Earth's orbit, requiring post-launch deep space maneuvers to retarget the Didymos system. Within these windows, opportunities exist for flybys of additional near Earth objects: Orpheus in 2021 or 2007 YJ in 2022. A second impact attempt, in the event that the first impact is unsuccessful, can be added at the expense of a shorter launch window and increased (similar to 3x) spacecraft Delta V. However, the second impact arrival geometry has poor lighting, high Earth ranges, and would require additional degrees of freedom for solar panel and/or antenna gimbals. A low-thrust spacecraft configuration increases the trajectory flexibility. A solar electric propulsion spacecraft could be affordably launched as a secondary spacecraft in an Earth orbit and spiral out to target the requisite interplanetary departure condition. A sample solar electric trajectory was constructed from an Earth geostationary transfer using a representative 1.5 kW thruster. The trajectory requires 9 months to depart Earth's sphere of influence, after which its interplanetary-trajectory includes a flyby of Orpheus and a second Didymos impact attempt The solar electric spacecraft implementation would impose additional bus design constraints, including large solar arrays that could pose challenges for terminal guidance. On the basis of this study, there are many feasible options for DART to meet its mission design objectives and enable this unique kinetic impact experiment. (C) 2016 IAA. Published by Elsevier Ltd. All rights reserved.
+C1 [Atchison, Justin A.; Ozimek, Martin T.; Kantsiper, Brian L.; Cheng, Andrew E.] Johns Hopkins Univ, Appl Phys Lab, Baltimore, MD 21218 USA.
+RP Atchison, JA (reprint author), Johns Hopkins Univ, Appl Phys Lab, Baltimore, MD 21218 USA.
+EM Justin.Atchison@jhuapl.edu
+FU NASA
+FX The authors wish to thank the mission design teams at APL and ESTEC-CDF
+   for the valuable discussions and dedication throughout the studies. The
+   AIDA study at APL was funded by NASA.
+CR Sergeyevsky Andrey B., 1982, INTERPLANETARY MIS 2, V1
+   Cheng AF, 2015, ACTA ASTRONAUT, V115, P262, DOI 10.1016/j.actaastro.2015.05.021
+   Cheng AF, 2008, SPACE SCI REV, V140, P189, DOI 10.1007/s11214-007-9271-6
+   Chapman Clark R., 1994, PHYS PROPETIES NEAR
+   CLARKE VC, 1963, AIAA J, V1, P1559
+   Day M, 1996, JOINT PROP C LAK BUE
+   Galvez Andres, 2006, 57 INT ASTR C VAL SP
+   Atchison Justin A., 2015, AAS SPAC MECH C WILL
+   Atchison Justin A., 2014, AST IMP DEFL ASS MIS
+   Oh DY, 2014, J SPACECRAFT ROCKETS, V51, P1822, DOI 10.2514/1.A32889
+   Pravec P., 2003, P INT ASTRONOMICAL U, V8244, P2
+   Scheirich P, 2009, ICARUS, V200, P531, DOI 10.1016/j.icarus.2008.12.001
+   Sims J. A., 1999, AAS AIAA ASTR SPEC C
+NR 13
+TC 0
+Z9 0
+U1 3
+U2 3
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0094-5765
+EI 1879-2030
+J9 ACTA ASTRONAUT
+JI Acta Astronaut.
+PD JUN-JUL
+PY 2016
+VL 123
+BP 330
+EP 339
+DI 10.1016/j.actaastro.2016.03.032
+PG 10
+WC Engineering, Aerospace
+SC Engineering
+GA DX8GS
+UT WOS:000384626700037
+ER
+
+
+PT J
+AU Mazouffre, S
+AF Mazouffre, Stephane
+TI Electric propulsion for satellites and spacecraft: established
+   technologies and novel approaches
+SO PLASMA SOURCES SCIENCE & TECHNOLOGY
+LA English
+DT Review
+DE electric propulsion; plasma; low-temperature
+ID STATIONARY PLASMA THRUSTERS; POWER HYDROGEN ARCJET;
+   HELICON-DOUBLE-LAYER; HALL THRUSTER; ION-THRUSTER; MAGNETIC NOZZLE; WALL
+   INTERACTION; DENSITY PLASMA; SOLAR-SYSTEM; PERFORMANCE
+AB This contribution presents a short review of electric propulsion (EP) technologies for satellites and spacecraft. Electric thrusters, also termed ion or plasma thrusters, deliver a low thrust level compared to their chemical counterparts, but they offer significant advantages for in-space propulsion as energy is uncoupled to the propellant, therefore allowing for large energy densities. Although the development of EP goes back to the 1960s, the technology potential has just begun to be fully exploited because of the increase in the available power aboard spacecraft, as demonstrated by the very recent appearance of all-electric communication satellites. This article first describes the fundamentals of EP: momentum conservation and the ideal rocket equation, specific impulse and thrust, figures of merit and a comparison with chemical propulsion. Subsequently, the influence of the power source type and characteristics on the mission profile is discussed. Plasma thrusters are classically grouped into three categories according to the thrust generation process: electrothermal, electrostatic and electromagnetic devices. The three groups, along with the associated plasma discharge and energy transfer mechanisms, are presented via a discussion of long-standing technologies like arcjet thrusters, magnetoplasmadynamic thrusters, pulsed plasma thrusters and ion engines, as well as Hall thrusters and variants. More advanced concepts and new approaches for performance improvement are discussed afterwards: magnetic shielding and wall-less configurations, negative ion thrusters and plasma acceleration with a magnetic nozzle. Finally, various alternative propellant options are analyzed and possible research paths for the near future are examined.
+C1 [Mazouffre, Stephane] Univ Orleans, CNRS, ICARE, 1C Ave Rech Sci, F-45071 Orleans, France.
+RP Mazouffre, S (reprint author), Univ Orleans, CNRS, ICARE, 1C Ave Rech Sci, F-45071 Orleans, France.
+EM stephane.mazouffre@cnrs-oleans.fr
+CR Aanesland Ane, 2011, Europhysics News, V42, DOI 10.1051/epn/2011604
+   Aanesland A, 2013, APPL PHYS LETT, V102
+   Aanesland A, 2015, IEEE T PLASMA SCI, V43, P321, DOI 10.1109/TPS.2014.2369534
+   Adam JC, 2004, PHYS PLASMAS, V11, P295, DOI 10.1063/1.1632904
+   Ahedo E, 2007, PHYS PLASMAS, V14, DOI 10.1063/1.2749237
+   Ahedo E, 2005, J APPL PHYS, V98, DOI 10.1063/1.1957129
+   Ahedo E, 2003, PHYS PLASMAS, V10, P3397, DOI 10.1063/1.1584432
+   Ahedo E, 2010, PHYS PLASMAS, V17, DOI 10.1063/1.3442736
+   Ahedo E, 2002, PHYS PLASMAS, V9, P4340, DOI 10.1063/1.1503798
+   Ahedo E, 2011, PLASMA PHYS CONTR F, V53, DOI 10.1088/0741-3335/53/12/124037
+   Ahedo E, 2011, PHYS PLASMAS, V18, DOI 10.1063/1.3589268
+   Ahedo E, 2011, PHYS PLASMAS, V18, DOI 10.1063/1.3567159
+   Ahedo E, 2009, PHYS REV LETT, V103, DOI 10.1103/PhysRevLett.103.135002
+   Arefiev AV, 2008, PHYS PLASMAS, V15, DOI 10.1063/1.2907786
+   Arefiev AV, 2004, PHYS PLASMAS, V11, P2942, DOI 10.1063/1.1666328
+   Armano M, 2015, J PHYS CONF SER, V610, DOI 10.1088/1742-6596/610/1/012005
+   Auweter-Kurtz M, 1998, J PROPUL POWER, V14, P764, DOI 10.2514/2.5339
+   Barral S, 2003, PHYS PLASMAS, V10, P4137, DOI 10.1063/1.1611881
+   Barral S, 2005, PHYS PLASMAS, V12, DOI 10.1063/1.1947796
+   Barral S, 2009, PHYS REV E, V79, DOI 10.1103/PhysRevE.79.046401
+   Beal BE, 2004, J PROPUL POWER, V20, P985, DOI 10.2514/1.3765
+   Boeuf JP, 1998, J APPL PHYS, V84, P3541, DOI 10.1063/1.368529
+   Boswell RW, 1997, IEEE T PLASMA SCI, V25, P1229, DOI 10.1109/27.650898
+   Boulos M I, 1994, THERMAL PLASMAS FUND
+   Boxberger A, 2012, P 48 JOINT PROP C AT
+   Bramanti C, 2009, ACTA ASTRONAUT, V64, P735, DOI 10.1016/j.actaastro.2008.11.013
+   Brophy JR, 1998, J PROPUL POWER, V14, P700, DOI 10.2514/2.5332
+   Burton RL, 1998, J PROPUL POWER, V14, P716, DOI 10.2514/2.5334
+   Cannat F, 2015, PHYS PLASMAS, V22, DOI 10.1063/1.4920966
+   Cannat F, 2015, P 34 INT EL PROP C K
+   Cassibry JT, 2008, IEEE T PLASMA SCI, V36, P2180, DOI 10.1109/TPS.2008.2003975
+   Chabert P, 2011, PHYSICS OF RADIO-FREQUENCY PLASMAS, P1, DOI 10.1017/CBO9780511974342
+   Chabert P, 2012, PHYS PLASMAS, V19, DOI 10.1063/1.4737114
+   Charles C, 2007, PLASMA SOURCES SCI T, V16, pR1, DOI 10.1088/0963-0252/16/4/R01
+   Charles C, 2004, PHYS PLASMAS, V11, P1706, DOI 10.1063/1.1652058
+   Charles C, 2012, PLASMA PHYS CONTR F, V54, DOI 10.1088/0741-3335/54/12/124021
+   Charles C, 2012, PLASMA SOURCES SCI T, V21, DOI 10.1088/0963-0252/21/2/022002
+   Charles C, 2003, APPL PHYS LETT, V82, P1356, DOI 10.1063/1.1557319
+   Charles C, 2009, J PHYS D APPL PHYS, V42, DOI 10.1088/0022-3727/42/16/163001
+   Chen FF, 1997, IEEE T PLASMA SCI, V25, P1245, DOI 10.1109/27.650899
+   Cheng SY, 2008, J PROPUL POWER, V24, P987, DOI [10.2514/1.36179, 10.2514/136179]
+   Choueiri E, 1998, J PROPUL POWER, V14, P744, DOI 10.2514/2.5337
+   Choueiri EY, 2004, J PROPUL POWER, V20, P193, DOI 10.2514/1.9245
+   Choueiri EY, 2001, J PROPUL POWER, V17, P967, DOI 10.2514/2.5857
+   Choueiri EY, 2001, PHYS PLASMAS, V8, P5025, DOI 10.1063/1.1409344
+   Choueiri EY, 2001, PHYS PLASMAS, V8, P1411, DOI 10.1063/1.1354644
+   CHOUEIRI EY, 1993, J SPACECRAFT ROCKETS, V30, P749, DOI 10.2514/3.26381
+   CLARK KE, 1970, AIAA J, V8, P216, DOI 10.2514/3.5645
+   Coche P, 2014, PHYS PLASMAS, V21, DOI 10.1063/1.4864625
+   Cohen SA, 2003, PHYS PLASMAS, V10, P2593, DOI 10.1063/1.1568342
+   Courtney D G, 2007, P 30 INT EL PROP C F
+   CURRAN FM, 1992, J SPACECRAFT ROCKETS, V29, P444, DOI 10.2514/3.25484
+   Dankanich JW, 2010, AEROSPACE TECHNOLOGIES ADVANCEMENTS, P219
+   Dannenmayer K, 2011, J PROPUL POWER, V27, P236, DOI 10.2514/1.48382
+   Diaz FRC, 2000, SCI AM, V283, P90
+   Diaz FRC, 2001, AIP CONF PROC, V595, P3
+   Jimenez Diaz M, 2015, P 34 INT EL PROP C H
+   Ducrocq A, 2006, PHYS PLASMAS, V13, DOI 10.1063/1.2359718
+   Ellison CL, 2012, PHYS PLASMAS, V19, DOI 10.1063/1.3671920
+   Florenz R, 2011, P 32 INT EL PROP C W
+   Frisbee RH, 2003, J PROPUL POWER, V19, P1129, DOI 10.2514/2.6948
+   Frisbee RH, 2009, PROG ASTRONAUT AERON, V227, P31
+   Fruchtman A, 2006, PHYS REV LETT, V96, DOI 10.1103/PhysRevLett.96.065002
+   Fruchtman A, 2008, Plasma Sources, Science and Technology, V17, DOI 10.1088/0963-0252/17/2/024016
+   Fujita K, 1999, J PROPUL POWER, V15, P144, DOI 10.2514/2.5403
+   Garrigues L, 2012, J PROPUL POWER, V28, P344, DOI 10.2514/1.B34307
+   Garrigues L, 2011, PLASMA PHYS CONTR F, V53, DOI 10.1088/0741-3335/53/12/124011
+   Garrigues L, 2008, PHYS PLASMAS, V15, DOI 10.1063/1.3013541
+   Garrigues L, 2006, J APPL PHYS, V100, DOI 10.1063/1.2401773
+   Gascon N, 2003, PHYS PLASMAS, V10, P4123, DOI 10.1063/1.1611880
+   Gates M, 2015, ACTA ASTRONAUT, V111, P29, DOI 10.1016/j.actaastro.2015.01.025
+   Gessini P, 2013, P 33 INT EL PROP C W
+   Gibson M A, 2014, P 12 EN CONV ENG C C
+   Gildea S R, 2009, P 31 INT EL PROP C A
+   Goebel DM, 2007, J PROPUL POWER, V23, P1055, DOI 10.2514/1.26404
+   Goebel D M, 2013, P 33 INT EL PROP C W
+   Goebel D. M., 2008, FUNDAMENTALS ELECT P
+   Greig A, 2014, APPL PHYS LETT, V105, DOI 10.1063/1.4892656
+   GROH KH, 1994, REV SCI INSTRUM, V65, P1741, DOI 10.1063/1.1144869
+   Hall S J, 2014, P 50 JOINT PROP C CL, P2014
+   Heberlein J, 2002, PURE APPL CHEM, V74, P327, DOI 10.1351/pac200274030327
+   Heron A, 2013, PHYS PLASMAS, V20, DOI 10.1063/1.4818796
+   Hofer RR, 2014, J APPL PHYS, V115, DOI 10.1063/1.4862314
+   Hofer R R, 2001, P 37 JOINT PROP C SA
+   Holste K, 2015, P 34 INT EL RROP C H
+   HOOPER EB, 1993, J PROPUL POWER, V9, P757, DOI 10.2514/3.23686
+   Horisawa H, 2000, VACUUM, V59, P106, DOI 10.1016/S0042-207X(00)00260-8
+   Hoyt R P, 2005, P 29 INT EL PROP C P
+   Jahn R.G., 1968, PHYS ELECT PROPULSIO
+   Jahn R, 2002, ENCY PHYS SCI TECHNO, P125
+   JANES GS, 1966, PHYS FLUIDS, V9, P1115, DOI 10.1063/1.1761810
+   Jarrige J, 2013, P 44 PLASM LAS C SAN
+   Jarrige J, 2013, P 33 INT EL PROP C W
+   Keidar M, 2005, PLASMA SOURCES SCI T, V14, P661, DOI 10.1088/0963-0252/14/4/004
+   Keidar M, 2004, PHYS PLASMAS, V11, P1715, DOI 10.1063/1.1668642
+   Keidar M, 2015, PLASMA PHYS CONTR F, V57, DOI 10.1088/0741-3335/57/1/014005
+   Kieckhafer A, 2007, J PROPUL POWER, V23, P21, DOI 10.2514/1.16376
+   Kim H, 2015, APPL PHYS LETT, V106, DOI 10.1063/1.4918654
+   Kim V, 1998, J PROPUL POWER, V14, P736, DOI 10.2514/2.5335
+   Kim V, 2007, P 30 INT EL PROP C F
+   Koch N, 2001, P 32 INT EL PROP C W
+   Kodys A D, 2005, P 41 JOINT PROP C TU
+   Koizumi H, 2003, P 28 INT EL PROP C T
+   Koo JW, 2006, PHYS PLASMAS, V13, DOI 10.1063/1.2172191
+   Koppel C R, 2005, P 41 JOINT PROP C TU
+   Kornfeld G, 2007, P 30 INT EL PROP C F
+   Krulle G, 1998, J PROPUL POWER, V14, P754, DOI 10.2514/2.5338
+   Kubota K, 2005, P 29 INT EL PROP C P
+   Kuninaka H, 1998, J PROPUL POWER, V14, P1022, DOI 10.2514/2.5369
+   Kuninaka H, 2007, J PROPUL POWER, V23, P544, DOI 10.2514/1.25434
+   KURIKI K, 1978, AIAA J, V16, P1062, DOI 10.2514/3.61004
+   Kuwano H., 2007, P 30 INT EL PROP C F
+   Lafleur T, 2015, PLASMA SOURCES SCI T, V24, DOI 10.1088/0963-0252/24/1/015005
+   Langendorf S, 2015, PHYS PLASMAS, V22, DOI 10.1063/1.4914854
+   La Pointe M R, 2004, P 40 JOINT PROP C FO
+   Lazurenko A, 2006, J PROPUL POWER, V22, P38, DOI 10.2514/1.8279
+   Le Q H and Herdricht G 2013 Development of a 1 kW class thermal arcjet thruster TALOS, 2013, P 33 INT EL PROP C W
+   LEE C, 1995, J VAC SCI TECHNOL A, V13, P368, DOI 10.1116/1.579366
+   Leiter H J, 2003, P 28 INT EL PROP C T
+   Lieberman MA, 1994, PRINCIPLES PLASMA DI
+   Loeb HW, 2005, PLASMA PHYS CONTR F, V47, pB565, DOI 10.1088/0741-3335/47/12B/S41
+   Loeb H W, 2005, P 29 INT C PROP C PR
+   Longmier BW, 2011, PLASMA SOURCES SCI T, V20, DOI 10.1088/0963-0252/20/1/015007
+   Longmier B W, 2011, P 32 INT EL PROP C W
+   LOVBERG RH, 1982, AIAA J, V20, P971, DOI 10.2514/3.51155
+   MacDonald NA, 2012, J APPL PHYS, V111, DOI 10.1063/1.4707953
+   Markusic TE, 2005, J PROPUL POWER, V21, P392, DOI 10.2514/1.4362
+   Marrese-Reading C, 2005, P 41 JOINT PROP C TU
+   Martinez-Sanchez M, 1998, J PROPUL POWER, V14, P688, DOI 10.2514/2.5331
+   Massey D, 2008, P 44 JOINT PROP C HA
+   Mazouffre S, 2014, J APPL PHYS, V116, DOI 10.1063/1.4904965
+   Mazouffre S, 2012, J PHYS D APPL PHYS, V45, DOI 10.1088/0022-3727/45/18/185203
+   Mazouffre S, 2007, J APPL PHYS, V102, DOI 10.1063/1.2757716
+   Mazouffre S, 2014, IEEE T PLASMA SCI, V42, P2668, DOI 10.1109/TPS.2014.2331180
+   Mazouffre S, 2013, PLASMA SOURCES SCI T, V22, DOI 10.1088/0963-0252/22/1/013001
+   McDonald M S, 2011, P 47 JOINT PROP C SA
+   Meezan NB, 2001, PHYS REV E, V63, DOI 10.1103/PhysRevE.63.026410
+   Merino M, 2015, IEEE T PLASMA SCI, V43, P244, DOI 10.1109/TPS.2014.2316020
+   Merino M, 2014, PLASMA SOURCES SCI T, V23, DOI 10.1088/0963-0252/23/3/032001
+   Mikellides IG, 2014, J APPL PHYS, V116, DOI 10.1063/1.4892160
+   Mikellides IG, 2014, J APPL PHYS, V115, DOI 10.1063/1.4862313
+   Mikellides IG, 2013, APPL PHYS LETT, V102, DOI 10.1063/1.4776192
+   Mikellides IG, 2011, PHYS PLASMAS, V18, DOI 10.1063/1.3551583
+   Mikellides P G, 1995, P 31 JOINT PROP C SA
+   Molina-Cabrera P, 2011, P 32 INT EL PROP C W
+   Morozov AI, 2000, REV PL PHYS, V21, P203
+   Nakata D, 2005, P 29 INT EL PROP C P
+   Oh DY, 2007, J SPACECRAFT ROCKETS, V44, P399, DOI 10.2514/1.21613
+   Olsen C S, 2014, IEEE T PLASMA SCI, V43, P252
+   Paganucci F, 2001, P 27 INT EL PROP C P
+   Patterson M J, 2009, P 45 JOINT PROP C DE
+   Patterson M J, 2012, P 48 JOINT PROP C AT
+   Patterson M J, 2015, P 51 JOINT PROP C OR
+   Perez-Luna J, 2007, PHYS PLASMAS, V14, DOI 10.1063/1.2783989
+   Peterson P, 2003, P 39 JOINT PROP C HU
+   Polk JE, 2008, IEEE T PLASMA SCI, V36, P2167, DOI 10.1109/TPS.2008.2004374
+   Polzin K A, 2015, P 34 INT EL PROP C H
+   Pottinger S, 2011, J PHYS D APPL PHYS, V44, DOI 10.1088/0022-3727/44/23/235201
+   Rafalskyi D, 2014, J APPL PHYS, V115, DOI 10.1063/1.4863876
+   Raitses Y, 2005, PHYS PLASMAS, V12, DOI 10.1063/1.1891747
+   Raitses Y, 2001, PHYS PLASMAS, V8, P2579, DOI 10.1063/1.1355318
+   Renaud D, 2015, REV SCI INSTRUM, V86, DOI 10.1063/1.4937604
+   Rezaeiha A, 2014, J PROPUL POWER, V30, P253, DOI 10.2514/1.B34807
+   Schonherr T, 2016, ENCY PLASMA TECHNOLO
+   Seo M, 2013, APPL PHYS LETT, V103, DOI 10.1063/1.4820774
+   Sercel J C, 1987, P 19 FLUID DYN PLASM
+   Shabshelowitz A, 2013, J PROPUL POWER, V29, P919, DOI 10.2514/1.B34720
+   Singh LA, 2015, PROG AEROSP SCI, V75, P15, DOI 10.1016/j.paerosci.2015.03.001
+   Smirnov A, 2003, J APPL PHYS, V94, P852, DOI 10.1063/1.1585114
+   SOVEY JS, 1994, J PROPUL POWER, V10, P18, DOI 10.2514/3.23706
+   Spanjers G G, 1996, P 32 JOINT PROP C LA
+   Stein WB, 2008, J PROPUL POWER, V24, P1007, DOI 10.2514/1.34036
+   Sutton GP, 2010, ROCKET PROPULSION EL
+   Szabo J, 2012, P 48 JOINT PROP C AT
+   Szabo J, 2012, J PROPUL POWER, V28, P848, DOI [10.2514/1.B3429, 10.2514/1.B34291]
+   Takahashi K, 2011, APPL PHYS LETT, V98, DOI 10.1063/1.3577608
+   Takahashi K, 2013, J PHYS D APPL PHYS, V46, DOI 10.1088/0022-3727/46/35/352001
+   Tikhonov V B, 1997, P 25 INT EL PROP C C
+   Tsikata S, 2010, PHYS PLASMAS, V17, DOI 10.1063/1.3499350
+   Tsikata S, 2009, PHYS PLASMAS, V16, DOI 10.1063/1.3093261
+   Turner MJL, 2009, SPRINGER-PRAX BOOKS, P1
+   Vaudolon J, 2015, APPL PHYS LETT, V107, DOI 10.1063/1.4932196
+   Vaudolon J, 2015, PLASMA SOURCES SCI T, V24, DOI 10.1088/0963-0252/24/3/032003
+   Volkmar C, 2015, EUR PHYS J D, V69, DOI 10.1140/epjd/e2015-60380-4
+   Walker MLR, 2007, J PROPUL POWER, V23, P528, DOI 10.2514/1.23688
+   Welle R, 1997, P 35 AER SCI M EXH R
+   West MD, 2008, J PROPUL POWER, V24, P134, DOI 10.2514/1.31414
+   Wilbur PJ, 1998, J PROPUL POWER, V14, P708, DOI 10.2514/2.5333
+   Williams LT, 2013, PLASMA SOURCES SCI T, V22, DOI 10.1088/0963-0252/22/5/055019
+   Williams L T, 2011, P 47 JOINT PROP C SA
+   YORK TM, 1992, J PROPUL POWER, V8, P1023, DOI 10.2514/3.23588
+   Zhurin VV, 1999, PLASMA SOURCES SCI T, V8, pR1, DOI 10.1088/0963-0252/8/1/021
+   Ziemer JK, 2001, PLASMA SOURCES SCI T, V10, P395, DOI 10.1088/0963-0252/10/3/302
+NR 193
+TC 5
+Z9 5
+U1 37
+U2 63
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA TEMPLE CIRCUS, TEMPLE WAY, BRISTOL BS1 6BE, ENGLAND
+SN 0963-0252
+EI 1361-6595
+J9 PLASMA SOURCES SCI T
+JI Plasma Sources Sci. Technol.
+PD JUN
+PY 2016
+VL 25
+IS 3
+AR 033002
+DI 10.1088/0963-0252/25/3/033002
+PG 27
+WC Physics, Fluids & Plasmas
+SC Physics
+GA DM7RJ
+UT WOS:000376557400006
+ER
+
+
+PT J
+AU Okutsu, M
+   Landau, DF
+   Rogers, BA
+   Longuski, JM
+AF Okutsu, Masataka
+   Landau, Damon F.
+   Rogers, Blake A.
+   Longuski, James M.
+TI Low-thrust roundtrip trajectories to Mars with one-synodic-period repeat
+   time
+SO ACTA ASTRONAUTICA
+LA English
+DT Article
+DE Human missions; Mars cycler; Electric propulsion
+ID NUCLEAR ELECTRIC PROPULSION; CYCLER; EARTH; MISSIONS; SPACE; DESIGN
+AB Cycler trajectories-both ballistic and powered-are reported in the literature in which there are two-vehicle, three-vehicle, and four-vehicle cases. Such trajectories permit the installation of cycler vehicles which provide safe and comfortable living conditions for human space travel between Earth and Mars during every synodic opportunity. The question the present paper answers is a logical, obvious one: Does a single-vehicle, one-synodic-period cycler exist? The answer is yes: such a trajectory can be flown but only with a high-power electric propulsion system. In our example, it is found that "stopover" trajectories that spend 30 days in orbit about Earth and 30 days about Mars, and return astronauts to Earth in one synodic period require a 90-t power generator with a power level of 11 MWe. Fortuitously, and in lieu of using chemical propulsion, the high power level of the electric propulsion system would also be effective in hauling the cargo payload via a spiral trajectory about the Earth. But because one synodic period is not enough for the cycler vehicle to fly both the interplanetary trajectories and the Earth-spiral trajectories, we suggest developing two nuclear power generators, which could alternate flying the interplanetary trajectories and the Earth-spiral trajectories. Once these power generators are launched and begin operating in space, the mass requirement in seven subsequent missions (over a period of 15 years beginning in 2022) would be modest at 250-300 metric tons to low-Earth orbit per mission. Thus two cargo launches of NASA's Space Launch System and one crew launch of the Falcon Heavy, for example, would be adequate to maintain support for each consecutive mission. Although we propose developing two sets of electric propulsion systems to account for the Earth-spiral phases, only one vehicle is flown on a heliocentric trajectory at any given time. Thus, our low-thrust stopover cycler with zero encounter velocities falls into a category of a "one-vehicle cycler," which completes the gap in the literature, where we have already seen multiple-vehicle cycler concepts. (C) 2015 IAA. Published by Elsevier Ltd. All rights reserved.
+C1 [Okutsu, Masataka; Landau, Damon F.; Rogers, Blake A.; Longuski, James M.] Purdue Univ, W Lafayette, IN 47907 USA.
+RP Okutsu, M (reprint author), Catholic Univ Amer, 620 Michigan Ave NE, Washington, DC 20064 USA.
+EM okutsu@cua.edu
+FU U.S.-based fellowship National Science Foundation Graduate Research
+   Fellowship; U.S.-based fellowship National Defense Science and
+   Engineering Graduate Fellowship
+FX The second author's work has been sponsored by two U.S.-based
+   fellowships: National Science Foundation Graduate Research Fellowship
+   and National Defense Science and Engineering Graduate Fellowship.
+CR Aldrin B., 2001, P SPAC 2001 C EXP AL
+   Bishop R.H., 2000, P RICH H BATT ASTR C
+   Brophy J., 2012, ASTEROID RETRIEVAL F
+   Brophy J.R., 2011, P 47 AIAA ASME SAE A
+   BROWN H, 1966, J SPACECRAFT ROCKETS, V3, P1402, DOI 10.2514/3.28666
+   BUDEN D, 1985, J PROPUL POWER, V1, P70, DOI 10.2514/3.22761
+   BYRNES DV, 1993, J SPACECRAFT ROCKETS, V30, P334, DOI 10.2514/3.25519
+   Byrnes D.V., 2002, P AIAA ASS ASTR SPEC
+   Chen KJ, 2012, J SPACECRAFT ROCKETS, V49, P955, DOI 10.2514/1.A32109
+   Chen KJ, 2005, J SPACECRAFT ROCKETS, V42, P921, DOI 10.2514/1.11610
+   Chen K.J., 2002, P AIAA AAS ASTR SPEC
+   Choueiri E, 1998, J PROPUL POWER, V14, P744, DOI 10.2514/2.5337
+   Choueiri EY, 2004, J PROPUL POWER, V20, P193, DOI 10.2514/1.9245
+   Drake B.G., 2009, HUMAN EXPLORATION MA
+   Falck R.D., 2003, TM2003212227 GLENN R
+   FARQUHAR RW, 1969, ASTRONAUT AERONAUT, V7, P52
+   Friedlariden A.L., 1986, P AIAA ASS ASTR C WI
+   Frisbee RH, 2003, J PROPUL POWER, V19, P1129, DOI 10.2514/2.6948
+   Frisbee R.H., 1996, P AIAA ASME SAE ASEE
+   George L., 1998, INTERPLANETARY MISSI
+   Gilland J.H., 1991, 189058 NASA
+   Gilland J.H., 1990, P 21 EL PROP C
+   Hoffman S.J., 1986, P AIAA AAS ASTR C WI
+   Hoffman S. J., 1997, HUMAN EXPLORATION MA
+   HOLLISTER WM, 1969, ASTRONAUT ACTA, V14, P311
+   Landau D., 2012, P 22 AAS AIAA SPAC M
+   Landau DF, 2007, J GUID CONTROL DYNAM, V30, P1209, DOI 10.2514/1.30071
+   Landau DF, 2007, JBIS-J BRIT INTERPLA, V60, P122
+   Landau DF, 2007, J SPACECRAFT ROCKETS, V44, P203, DOI 10.2514/1.23189
+   Larson W.J., 1999, HUMAN SPACEFLIGHT MI, P278
+   Drake B.G., 1998, REFERENCE MISSION VE
+   McConaghy TT, 2006, J SPACECRAFT ROCKETS, V43, P456, DOI 10.2514/1.15215
+   McConaghy TT, 2004, J SPACECRAFT ROCKETS, V41, P622, DOI 10.2514/1.11939
+   McConaghy TT, 2003, J SPACECRAFT ROCKETS, V40, P380, DOI 10.2514/2.3973
+   McElrath T. P., 2012, P GLOB SPAC EXPL C W
+   McGuire M.L., 2006, 2006214106 GLENN RES
+   Mickelsen W.R., 1967, P AIAA EL PROP PLAS
+   Mills J., 1990, BD909
+   Moeller R.C., 2007, P 43 AIAA ASME SAE A
+   National Aeronautics and Space Administration, 2009, FS200807031GRC NASA
+   National Aeronautics and Space Administration Space Launch System NASAfacts, 2012, FS20120659MSFC NASA
+   Nock K.T., 2000, 51004911007 GAC NASA
+   Nock K.T., 2003, 51005921023 GAC NASA
+   Okutsu M, 2002, J SPACECRAFT ROCKETS, V39, P31, DOI 10.2514/2.3778
+   Okutsu M., 2005, P AAS AIAA ASTR SPEC
+   Parker EN, 2006, SCI AM, V294, P40
+   Penzo P.A., 2002, P AIAA AAS ASTR SPEC
+   RAGSAC RV, 1967, J SPACECRAFT ROCKETS, V4, P462, DOI 10.2514/3.28888
+   Rail C.S., 1971, P AIAA 9 AER SCI NEW
+   Rauwolf G.A., 2002, P AIAA AAS ASTR SPEC
+   Ross SA, 2005, PRINC LECT FINANC, P42
+   Russell RP, 2004, J GUID CONTROL DYNAM, V27, P321, DOI 10.2514/1.1011
+   Sankaran K., 2003, P 1 INT C NEW TRENDS
+   Shepard K., 1990, P AIAA AAS ASTR C PO
+   Sims J, 2006, P AIAA AAS ASTR SPEC
+   Sims J.A., 1999, ADV ASTRONAUTICAL  1, V103, P583
+   Sims J. A., 1999, P AAS AIAA ASTR SPEC
+   Sponaugle S.J., 1991, P AAS AIAA SPAC FLIG
+   Strange N., 2012, P GLOB SPAC EXPL C W
+   Sweetser T.H., 2001, P AAS AIAA ASTR SPEC
+   Toups L, 2012, P GLOB SPAC EXPL C W
+   Whitehead J., 2008, P AIAA SPACE 2008 C
+   Zola C.L., 1966, TND3400 NASA LEW RES
+   Zubrin R., 1997, THE CASE FOR MARS, Vfirst, P89
+NR 64
+TC 0
+Z9 0
+U1 0
+U2 4
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0094-5765
+EI 1879-2030
+J9 ACTA ASTRONAUT
+JI Acta Astronaut.
+PD MAY-JUN
+PY 2015
+VL 110
+BP 191
+EP 205
+DI 10.1016/j.actaastro.2015.01.006
+PG 15
+WC Engineering, Aerospace
+SC Engineering
+GA CG8YC
+UT WOS:000353600600018
+ER
+
+
+PT J
+AU Keidar, M
+   Zhuang, T
+   Shashurin, A
+   Teel, G
+   Chiu, D
+   Lukas, J
+   Haque, S
+   Brieda, L
+AF Keidar, Michael
+   Zhuang, Taisen
+   Shashurin, Alexey
+   Teel, George
+   Chiu, Dereck
+   Lukas, Joseph
+   Haque, Samudra
+   Brieda, Lubos
+TI Electric propulsion for small satellites
+SO PLASMA PHYSICS AND CONTROLLED FUSION
+LA English
+DT Article; Proceedings Paper
+CT 41st European-Physical-Society Conference on Plasma Physics
+CY JUN 23-27, 2014
+CL Max Planck Inst Plasma Phys, Berlin, GERMANY
+HO Max Planck Inst Plasma Phys
+DE plasma propulsion; micropropulsion; micro-cathode arc thruster
+ID ARC PLASMA-JET; AXIAL MAGNETIC-FIELD; VACUUM-ARC; THRUSTER; CATHODE;
+   EXPANSION; OPTIMIZATION; ANODE
+AB Propulsion is required for satellite motion in outer space. The displacement of a satellite in space, orbit transfer and its attitude control are the task of space propulsion, which is carried out by rocket engines. Electric propulsion uses electric energy to energize or accelerate the propellant. The electric propulsion, which uses electrical energy to accelerate propellant in the form of plasma, is known as plasma propulsion. Plasma propulsion utilizes the electric energy to first, ionize the propellant and then, deliver energy to the resulting plasma leading to plasma acceleration. Many types of plasma thrusters have been developed over last 50 years. The variety of these devices can be divided into three main categories dependent on the mechanism of acceleration: (i) electrothermal, (ii) electrostatic and (iii) electromagnetic. Recent trends in space exploration associate with the paradigm shift towards small and efficient satellites, or micro-and nano-satellites. A particular example of microthruster considered in this paper is the micro-cathode arc thruster (mu CAT). The mu CAT is based on vacuum arc discharge. Thrust is produced when the arc discharge erodes some of the cathode at high velocity and is accelerated out the nozzle by a Lorentz force. The thrust amount is controlled by varying the frequency of pulses with demonstrated range to date of 1-50 Hz producing thrust ranging from 1 mu N to 0.05 mN.
+C1 [Keidar, Michael; Zhuang, Taisen; Shashurin, Alexey; Teel, George; Chiu, Dereck; Lukas, Joseph; Haque, Samudra; Brieda, Lubos] George Washington Univ, Washington, DC 20052 USA.
+RP Keidar, M (reprint author), George Washington Univ, Washington, DC 20052 USA.
+EM keidar@gwu.edu
+FU NASA DC grant
+FX This work was supported in part by NASA DC grant.
+CR Ahedo E, 2011, PLASMA PHYS CONTR F, V53, DOI 10.1088/0741-3335/53/12/124037
+   Au M, 2004, 20043618 AIAA
+   Beilis II, 2002, IEEE T PLASMA SCI, V30, P2124, DOI 10.1109/TPS.2002.807330
+   Beilis II, 1998, J APPL PHYS, V83, P709, DOI 10.1063/1.366742
+   Boxman R L, 1995, VACUUM ARC SCI TECHN
+   Boyd ID, 2002, P SOC PHOTO-OPT INS, V4760, P852, DOI 10.1117/12.482040
+   Brieda L, 2004, 40 JOINT PROP C FORT
+   Burton RL, 1998, J PROPUL POWER, V14, P716, DOI 10.2514/2.5334
+   Choueiri EY, 1996, J SPACECRAFT ROCKETS, V33, P96, DOI 10.2514/3.55713
+   Choueiri E Y, 2007, MCGRAW HILL ENCY SCI
+   DJAKOV BE, 1974, J PHYS D APPL PHYS, V7, P569, DOI 10.1088/0022-3727/7/4/311
+   Dunning J W, 2001, 27 INT EL PROP C PAS
+   Ecker G, 1958, J APPL PHYS, V29, P1606
+   Gassend B L P, 2007, THESIS MIT
+   Goebel D. M., 2008, FUNDAMENTALS ELECT P
+   Gonzalez D A, 2001, 37 AIAA ASME SAE ASE
+   Guarducci M, 2011, 32 INT EL PROP C WIE
+   Gulchinski F S, 2000, 36 AIAA JOINT PROP C
+   Hruby V, 2012, 1 INT CUBESAT WORKSH
+   Jahn R.G., 1968, PHYS ELECT PROPULSIO
+   Jahn R, 2002, ENCY PHYS SCI TECHNO, P125
+   Kalentev, 2014, CONTRIB PLASM PHYS, V54, P235
+   Keidar M, 2006, J PROPUL POWER, V22, P48, DOI 10.2514/1.13954
+   Keidar M, 2005, PLASMA SOURCES SCI T, V14, P661, DOI 10.1088/0963-0252/14/4/004
+   Keidar M, 1996, IEEE T PLASMA SCI, V24, P226, DOI 10.1109/27.491763
+   Keidar M, 2004, J PROPUL POWER, V20, P978, DOI 10.2514/1.2471
+   Keidar M, 2004, J APPL PHYS, V96, P49, DOI 10.1063/1.1753658
+   Keidar M, 2013, PLASMA ENGINEERING: APPLICATIONS FROM AEROSPACE TO BIO- AND NANOTECHNOLOGY, P1
+   Keidar M, 2003, J PROPUL POWER, V19, P424, DOI 10.2514/2.6125
+   Keidar M, 1997, IEEE T PLASMA SCI, V25, P580, DOI 10.1109/27.640668
+   Keidar M, 1995, IEEE T PLASMA SCI, V23, P902, DOI 10.1109/27.476473
+   Keidar M, 1996, J PHYS D APPL PHYS, V29, P1973, DOI 10.1088/0022-3727/29/7/034
+   Keidar M, 2000, REV SCI INSTRUM, V71, P698, DOI 10.1063/1.1150265
+   Keidar M, 2004, 40 AIAA JOINT PROP C
+   Keidar M, 2000, 20003430 AIAA
+   Keidar M, 2008, IEEE T PLASMA SCI, V36, P1962, DOI 10.1109/TPS.2008.2005834
+   Martel F, 2012, ICUBESAT WORKSH CAMB
+   Micci MM, 2000, MICROPROPULSION SMAL
+   Mueller J, 2008, CUB SAT 5 ANN DEV WO
+   MURPHREE DL, 1970, PHYS FLUIDS, V13, P1747, DOI 10.1063/1.1693149
+   Phipps C, 2002, AIAA J, V40, P310, DOI 10.2514/2.1647
+   Polk J, 2001, IEPC2001211
+   Qi N, 2001, 37 JOINT PROP C SALT
+   Qi N, 1998, AIAA983663
+   Robertson RM, 1938, PHYS REV, V53, P578, DOI 10.1103/PhysRev.53.578
+   Scharlemann C A, 2000, 003260 AIAA
+   Schein J, 2001, 01228 IEPC
+   Spanjers G G, 2001, 27 INT EL PROP C PAS
+   Spanjers G G, 2002, 38 AIAA JOINT PROP C
+   Spores R A, 1997, P 25 INT EL PROP C E, V1, P1
+   Taccogna F, 2008, PLASMA SOURCES SCI T, V17, DOI 10.1088/0963-0252/17/2/024003
+   Tanberg R, 1930, PHYS REV, V35, P1080, DOI 10.1103/PhysRev.35.1080
+   Velasquez-Garcia LF, 2006, J MICROELECTROMECH S, V15, P1272, DOI 10.1109/JMEMS.2006.879710
+   Zakrzwsky C, 2002, 38 JOINT PROP C IND
+   Zhuang T, 2011, PLASMA SOURCES SCI T, V20, DOI 10.1088/0963-0252/20/1/015009
+   Zhuang T, 2011, PHYS PLASMAS, V19
+   Zhuang TS, 2014, J PROPUL POWER, V30, P29, DOI 10.2514/1.B34567
+   Zhuang TS, 2011, IEEE T PLASMA SCI, V39, P2936, DOI 10.1109/TPS.2011.2160407
+NR 58
+TC 17
+Z9 17
+U1 7
+U2 49
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA TEMPLE CIRCUS, TEMPLE WAY, BRISTOL BS1 6BE, ENGLAND
+SN 0741-3335
+EI 1361-6587
+J9 PLASMA PHYS CONTR F
+JI Plasma Phys. Control. Fusion
+PD JAN
+PY 2015
+VL 57
+IS 1
+AR 014005
+DI 10.1088/0741-3335/57/1/014005
+PG 10
+WC Physics, Fluids & Plasmas
+SC Physics
+GA AZ4MG
+UT WOS:000348194900006
+ER
+
+
+PT J
+AU Lyons, VJ
+AF Lyons, Valerie J.
+TI Power and Propulsion at NASA Glenn Research Center: Historic Perspective
+   of Major Accomplishments
+SO JOURNAL OF AEROSPACE ENGINEERING
+LA English
+DT Article
+DE Power; Propulsion; Space power; NASA history; Lewis Research Center;
+   Alternative energy; Solar power; Nuclear space power; Electric
+   propulsion; Stirling convertors
+ID SYSTEM
+AB Propulsion and power have long been core competencies of the National Aeronautics and Space Administration (NASA) Glenn Research Center (GRC). At the dawn of the space era, the center brought key propulsion and power technology to support spacecraft development. This paper serves as an introduction to a series of papers describing the highlights of the GRC's power and propulsion research and development efforts. The power papers cover solar and nuclear power generation and energy conversion, energy storage (focusing on batteries, flywheels, and fuel cells), power systems, and power management and distribution. The propulsion papers cover chemical propulsion, cryogenic propellant systems, electric propulsion, and nuclear thermal rocket propulsion. Each paper addresses some history, current efforts, and future plans for each of the technology areas. DOI: 10.1061/(ASCE)AS.1943-5525.0000315. (C) 2013 American Society of Civil Engineers.
+C1 NASA, Power & In Space Prop Div, Glenn Res Ctr, Cleveland, OH 44135 USA.
+RP Lyons, VJ (reprint author), NASA, Power & In Space Prop Div, Glenn Res Ctr, 21000 Brookpk Rd, Cleveland, OH 44135 USA.
+EM Valerie.J.Lyons@nasa.gov
+CR Bailey S. G., 2011, ROLE NASA PHOTOVOLTA
+   Beremand D. G., 1970, X52826 TM NASA
+   Borowski SK, 2013, J AEROSPACE ENG, V26, P334, DOI 10.1061/(ASCE)AS.1943-5525.0000313
+   Bulzan D., 2010, NASA GREEN AVIATION
+   Burke K., 2012, 2012217421E18093 TM
+   Chan J, 2007, AIP CONF PROC, V880, P615
+   Dawson V., 2004, NASA
+   Easton R.L., 1958, REV SCI INSTRUM, V30, P70
+   Encyclopedia Astronautica, 1989, MIR 2
+   Hendricks R. C., 2008, INT EN CONV ENG C EX
+   Hoberecht M., 2011, 2011217107E17783 TM
+   Kenny BH, 2005, IEEE T IND APPL, V41, P1029, DOI 10.1109/TIA.2005.851021
+   Klann J. L., 1968, IEEE INT EN CONV ENG, V1, P407
+   Klann J. L., 1968, D4600 TN NASA
+   Linne DL, 2013, J AEROSPACE ENG, V26, P317, DOI 10.1061/(ASCE)AS.1943-5525.0000303
+   Lyons V. J., 2008, TM2008215447 AM I AE
+   Lyons V. J., 2009, 20094584 AM I AER AS
+   Lyons V. J., 2012, AEROSPACE POWER TECH
+   Mason LS, 2013, J AEROSPACE ENG, V26, P352, DOI 10.1061/(ASCE)AS.1943-5525.0000318
+   Mason L. S., 1999, TM1999209380 NASA
+   Meyer ML, 2013, J AEROSPACE ENG, V26, P343, DOI 10.1061/(ASCE)AS.1943-5525.0000297
+   NASA, 1993, SOL DYN POW SYST DEV
+   Patel M., 2005, SPACECRAFT POWER SYS
+   Patterson MJ, 2013, J AEROSPACE ENG, V26, P300, DOI 10.1061/(ASCE)AS.1943-5525.0000304
+   Peto M. A., 1994, LEWIS LEAD US RUSSIA
+   Reid C. M., 2011, TM2011217209 NASA
+   Reid CM, 2013, J AEROSPACE ENG, V26, P361, DOI 10.1061/(ASCE)AS.1943-5525.0000323
+   Scheidegger B. T., 2012, INSTALLATION OHIOS 1
+   Schulze N. R., 1991, FUSION TECHNOL, V19
+   Scott J. H., 2008, 20085793 AM I AER AS
+   Seng G. T., 2007, SMART EFFICIENT COMP
+   Seng G. T., 2007, ZERO CO2 RES PROJECT
+   Seng G. T., 2007, REVOLUTIONARY AEROPR
+   Shaw R. J., 2003, TM2004212729 NASA
+   Steffen CJ, 2009, NUCL TECHNOL, V166, P240
+   Steffen C. J., 2005, GT200568619 ASME
+   Veris J., 2001, AEROSP FRONTIERS, V3, P1
+   Wilson K. K., 1995, LEWIS NEWS, V2, P1
+   Witcofski R. D., 1979, TM80155 NASA
+NR 39
+TC 0
+Z9 0
+U1 5
+U2 49
+PU ASCE-AMER SOC CIVIL ENGINEERS
+PI RESTON
+PA 1801 ALEXANDER BELL DR, RESTON, VA 20191-4400 USA
+SN 0893-1321
+J9 J AEROSPACE ENG
+JI J. Aerosp. Eng.
+PD APR
+PY 2013
+VL 26
+IS 2
+SI SI
+BP 288
+EP 299
+DI 10.1061/(ASCE)AS.1943-5525.0000315
+PG 12
+WC Engineering, Aerospace; Engineering, Civil
+SC Engineering
+GA 118YR
+UT WOS:000317063900007
+ER
+
+
+PT J
+AU Charles, C
+   Boswell, RW
+   Takahashi, K
+AF Charles, C.
+   Boswell, R. W.
+   Takahashi, K.
+TI Investigation of radiofrequency plasma sources for space travel
+SO PLASMA PHYSICS AND CONTROLLED FUSION
+LA English
+DT Article; Proceedings Paper
+CT 39th European-Physical-Society Conference on Plasma Physics
+CY JUL 02-06, 2012
+CL Stockholm, SWEDEN
+ID HELICON DIFFUSION PLASMAS; DISCHARGE; BREAKDOWN
+AB Optimization of radiofrequency (RF) plasma sources for the development of space thrusters differs from other applications such as plasma processing of materials since power efficiency, propellant usage, particle acceleration or heating become driving parameters. The development of two RF (13.56 MHz) plasma sources, the high-pressure (similar to 1 Torr) capacitively coupled 'pocket rocket' plasma micro-thruster and the low-pressure (similar to 1 mTorr) inductively coupled helicon double layer thruster (HDLT), is discussed within the context of mature and emerging electric propulsion devices. The density gradient in low-pressure expanding RF plasmas creates an electric field that accelerates positive ions out of the plasma. Generally, the total potential drop is similar to that of a wall sheath allowing the plasma electrons to neutralize the ion beam. A high-pressure expansion with no applied magnetic field can result in large dissociation rates and/or a collimated beam of ions of small area and a flowing heated neutral beam ('pocket rocket'). A low-pressure expansion dominated by a magnetic field can result in the formation of electric double layers which produce a very directed neutralized beam of ions of large area (HDLT).
+C1 [Charles, C.; Boswell, R. W.] Australian Natl Univ, Res Sch Phys & Engn, Space Plasma Power & Prop Lab, Canberra, ACT 0200, Australia.
+   [Takahashi, K.] Iwate Univ, Dept Elect Engn & Comp Sci, Morioka, Iwate 0208551, Japan.
+RP Charles, C (reprint author), Australian Natl Univ, Res Sch Phys & Engn, Space Plasma Power & Prop Lab, GPO Box 4, Canberra, ACT 0200, Australia.
+EM christine.charles@anu.edu.au
+RI Charles, Christine/C-2826-2009
+CR Ahedo E, 2010, PHYS PLASMAS, V17, DOI 10.1063/1.3442736
+   Ahedo E, 2011, PLASMA PHYS CONTR F, V53, DOI 10.1088/0741-3335/53/12/124037
+   Ahedo E, 2011, PHYS PLASMAS, V18, DOI 10.1063/1.3567159
+   Boswell R, 2011, IEEE T PLASMA SCI, V39, P2512, DOI 10.1109/TPS.2011.2143434
+   Brown S C, 1959, BASIC DATA OF PLASMA
+   Chabert P., 2011, PHYS RADIO FREQUENCY
+   Charles C, 2006, APPL PHYS LETT, V89, DOI 10.1063/1.2426881
+   Charles C, 2012, APPL PHYS LETT, V100, DOI 10.1063/1.3694281
+   Charles C, 2012, PLASMA SOURCES SCI T, V21, DOI 10.1088/0963-0252/21/2/022002
+   Charles C, 1998, J APPL PHYS, V84, P350, DOI 10.1063/1.368034
+   Charles C, 2009, J PHYS D APPL PHYS, V42, DOI 10.1088/0022-3727/42/16/163001
+   CHARLES C, 1995, APPL PHYS LETT, V67, P40, DOI 10.1063/1.115485
+   CHARLES C, 1995, J APPL PHYS, V78, P766, DOI 10.1063/1.360335
+   Choueiri E Y, 2004, PROPULSION POWER, V20, P193
+   Dunaevsky A, 2006, APPL PHYS LETT, V88, DOI 10.1063/1.2214127
+   Fruchtman A, 2011, IEEE T PLASMA SCI, V39, P530, DOI 10.1109/TPS.2010.2089067
+   Goebel D. M., 2008, FUNDAMENTALS OF ELEC
+   Huang XJ, 2008, PHYS PLASMAS, V15, DOI 10.1063/1.3025826
+   Jahn R. G., 2006, PHYSICS OF ELECTRIC
+   Lafleur T, 2011, PHYS PLASMAS, V18, DOI 10.1063/1.3610570
+   Lafleur T, 2011, PHYS PLASMAS, V18, DOI 10.1063/1.3573864
+   Lieberman MA, 1994, PRINCIPLES PLASMA DI
+   Longmier BW, 2011, PLASMA SOURCES SCI T, V20, DOI 10.1088/0963-0252/20/1/015007
+   Meek J. M., 1953, ELECT BREAKDOWN GASE
+   Pottinger S, 2011, J PHYS D APPL PHYS, V44, DOI 10.1088/0022-3727/44/23/235201
+   Smith HB, 1997, J APPL PHYS, V82, P561, DOI 10.1063/1.365615
+   Smith HB, 2003, PHYS PLASMAS, V10, P875, DOI 10.1063/1.1531615
+   Takahashi K, 2011, APPL PHYS LETT, V98, DOI 10.1063/1.3577608
+   Takahashi K, 2012, PHYS PLASMAS, V19, DOI 10.1063/1.4747701
+   Takahashi K, 2011, PHYS REV LETT, V107, DOI 10.1103/PhysRevLett.107.235001
+   West MD, 2008, J PROPUL POWER, V24, P134, DOI 10.2514/1.31414
+   Zhurin VV, 1999, PLASMA SOURCES SCI T, V8, pR1, DOI 10.1088/0963-0252/8/1/021
+NR 32
+TC 10
+Z9 11
+U1 7
+U2 42
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA TEMPLE CIRCUS, TEMPLE WAY, BRISTOL BS1 6BE, ENGLAND
+SN 0741-3335
+EI 1361-6587
+J9 PLASMA PHYS CONTR F
+JI Plasma Phys. Control. Fusion
+PD DEC
+PY 2012
+VL 54
+IS 12
+AR 124021
+DI 10.1088/0741-3335/54/12/124021
+PN 1-2
+PG 7
+WC Physics, Fluids & Plasmas
+SC Physics
+GA 057QW
+UT WOS:000312579500024
+ER
+
+
+PT J
+AU Kluever, CA
+AF Kluever, Craig A.
+TI Optimal Geostationary Orbit Transfers Using Onboard Chemical-Electric
+   Propulsion
+SO JOURNAL OF SPACECRAFT AND ROCKETS
+LA English
+DT Article
+ID LOW-THRUST TRANSFERS; SATELLITE; OPTIMIZATION
+AB A comprehensive analysis of maximum-payload transfers to geostationary Earth orbit using combined chemical and electric propulsion is presented. The mission sequence begins with injection into an elliptical orbit with an arbitrary apogee altitude, an apogee burn using the onboard chemical stage to raise perigee and/or reduce inclination, and a low-thrust transfer to geostationary orbit. A new optimization method is developed for this transfer problem, and this approach greatly reduces the design space and eliminates numerical integration of the system dynamics and the associated convergence issues. The new technique includes realistic effects such as Earth eclipses and solar-cell degradation due to passage through the radiation belts. Maximum-payload transfers are obtained for six launch options from NASA Kennedy Space Center and the Sea Launch option. All optimal transfers from NASA Kennedy Space Center use essentially the same starting orbit for the electric stage when transfer time is fixed. The payload mass benefit from using electric propulsion divided by transfer time (the so-called net transportation rate) is determined to range from 4.4 kg/day for the smallest launch vehicle (Atlas 501) to 10.5 kg/day for the largest launch vehicle (Atlas 551) considered in this study. A method for approximating payload mass, beginning-of-life array power, and transportation rate is developed, and its prediction error is shown to be less than 5% for all cases.
+C1 Univ Missouri, Dept Mech & Aerosp Engn, Columbia, MO 65211 USA.
+RP Kluever, CA (reprint author), Univ Missouri, Dept Mech & Aerosp Engn, Columbia, MO 65211 USA.
+CR Byers DC, 2008, J PROPUL POWER, V24, P1369, DOI 10.2514/1.35322
+   Cho MG, 2005, J SPACECRAFT ROCKETS, V42, P740, DOI 10.2514/1.6694
+   Hofer R. R., 2006, 20064469 AIAA
+   Hofer R.R., 2010, 20106623 AIAA
+   Ilgen M. R., 1994, 94129 AM ASTR SOC
+   Jenkin A. B., 2005, 05394 AM ASTR SOC
+   Jenkin A.B., 2004, 20045086 AIAA
+   Kechichian JA, 1999, J GUID CONTROL DYNAM, V22, P421, DOI 10.2514/2.4414
+   Kluever CA, 2004, J SPACECRAFT ROCKETS, V41, P461, DOI 10.2514/1.10939
+   Kluever C. A., 2010, SPACECRAFT TRAJECTOR, P112, DOI 10.1017/CBO9780511778025.006
+   Kluever CA, 2011, J GUID CONTROL DYNAM, V34, P300, DOI 10.2514/1.51024
+   Martinez-Sanchez M, 1998, J PROPUL POWER, V14, P688, DOI 10.2514/2.5331
+   Marvin D.C., 2000, TOR200012101 AER COR
+   Neta B, 1998, J ASTRONAUT SCI, V46, P91
+   Oh DY, 2004, J SPACECRAFT ROCKETS, V41, P831, DOI 10.2514/1.13096
+   Oleson SR, 1997, J SPACECRAFT ROCKETS, V34, P22, DOI 10.2514/2.3187
+   REDDING DC, 1984, J GUID CONTROL DYNAM, V7, P148
+   Sackett L., 1975, CR134927 NASA
+   SCHEEL WA, 1994, J GUID CONTROL DYNAM, V17, P1185, DOI 10.2514/3.21331
+   Spitzer A., 1995, 95215 AM ASTR SOC
+   Stuhlinger E., 1964, ION PROPULSION SPACE, V1st, P313
+   [Anonymous], 2010, ATLAS 5 LAUNCH SERVI
+   [Anonymous], 2008, SEA LAUNCH USERS GUI
+   [Anonymous], 2007, DELTA 4 PAYLOAD PLAN
+NR 24
+TC 8
+Z9 11
+U1 1
+U2 7
+PU AMER INST AERONAUT ASTRONAUT
+PI RESTON
+PA 1801 ALEXANDER BELL DRIVE, STE 500, RESTON, VA 22091-4344 USA
+SN 0022-4650
+J9 J SPACECRAFT ROCKETS
+JI J. Spacecr. Rockets
+PD NOV-DEC
+PY 2012
+VL 49
+IS 6
+BP 1174
+EP 1182
+DI 10.2514/1.A32213
+PG 9
+WC Engineering, Aerospace
+SC Engineering
+GA 064NS
+UT WOS:000313082900022
+ER
+
+
+PT J
+AU Derz, U
+   Seboldt, W
+AF Derz, Uwe
+   Seboldt, Wolfgang
+TI Mars sample return mission architectures utilizing low thrust propulsion
+SO ACTA ASTRONAUTICA
+LA English
+DT Article
+DE Mars sample return; Low thrust electric propulsion
+AB The Mars sample return mission is a flagship mission within ESA's Aurora program and envisioned to take place in the timeframe of 2020-2025. Previous studies developed a mission architecture consisting of two elements, an orbiter and a lander, each utilizing chemical propulsion and a heavy launcher like Ariane 5 ECA. The lander transports an ascent vehicle to the surface of Mars. The orbiter performs a separate impulsive transfer to Mars, conducts a rendezvous in Mars orbit with the sample container, delivered by the ascent vehicle, and returns the samples back to Earth in a small Earth entry capsule. Because the launch of the heavy orbiter by Ariane 5 ECA makes an Earth swing by mandatory for the trans-Mars injection, its total mission time amounts to about 1460 days. The present study takes a fresh look at the subject and conducts a more general mission and system analysis of the space transportation elements including electric propulsion for the transfer. Therefore, detailed spacecraft models for orbiters, landers and ascent vehicles are developed. Based on that, trajectory calculations and optimizations of interplanetary transfers, Mars entries, descents and landings as well as Mars ascents are carried out. The results of the system analysis identified electric propulsion for the orbiter as most beneficial in terms of launch mass, leading to a reduction of launch vehicle requirements and enabling a launch by a Soyuz-Fregat into GTO. Such a sample return mission could be conducted within 1150-1250 days. Concerning the lander, a separate launch in combination with electric propulsion leads to a significant reduction of launch vehicle requirements, but also requires a large number of engines and correspondingly a large power system. Therefore, a lander performing a separate chemical transfer could possibly be more advantageous. Alternatively, a second possible mission architecture has been developed, requiring only one heavy launch vehicle (e.g., Proton). In that case the lander is transported piggyback by the electrically propelled orbiter. (C) 2012 Elsevier Ltd. All rights reserved.
+C1 [Derz, Uwe; Seboldt, Wolfgang] German Aerosp Ctr DLR, Inst Space Syst, D-51147 Cologne, Germany.
+RP Derz, U (reprint author), Astrium Space Transportat, Airbus Allee 1, D-28199 Bremen, Germany.
+EM uwe.derz@astrium.eads.net; wolfgang.seboldt@dlr.de
+CR Bessone L., 2004, CDF20A ESA EUR SPAC
+   The Boeing Company, 2002, 0040043 MDS BOEING C
+   Dachwald B, 2005, ACTA ASTRONAUT, V57, P175, DOI 10.1016/j.actaastro.2005.03.004
+   Dachwald B, 2004, THESIS U BUNDESWEHR
+   Dachwald B, 2008, ACTA ASTRONAUT, V63, P91, DOI 10.1016/j.actaastro.2007.12.023
+   Davies C, 2006, NASASP20063401
+   Derz U., 2009, THESIS RWTH AACHEN U
+   Derz U., 2009, P 11 INT S SPAC FLIG
+   Fehlberg E., 1968, R287 NASA TR MARSH S
+   Galvez A., 2005, CDF39A ESA EUR SPAC
+   [Anonymous], 2008, PREL PLANN INT MARS
+   Kemble S, 2006, S-P B ASTRONAUT ENG, P1, DOI 10.1007/3-540-37645-3
+   Killinger R., 1999, P 26 INT EL PROP C K, P373
+   Leiter H., 2006, P 42 AIAA ASME SAE A
+   Messerschmid E., 2000, RAUMFAHRTSYSTEME
+   MSR ESOC Team, 2005, MSRMSTNESA00001 EUR
+   Mura F., 2007, MARS SAMPLE RETURN E
+   Oberto R., 2000, MARS SAMPLE RETURN C
+   Perino M.A., 2005, MSRVRPAI0004 ESA
+   Perkinson M-C., 2004, TNMSRAST014 ESA
+   Seboldt W., 2007, P 7 INT S LAUNCH TEC
+   Spence B, 2005, AEROSP CONF PROC, P824
+   Spurmann J., 2008, P 59 INT ASTR C GLAS
+NR 23
+TC 3
+Z9 3
+U1 1
+U2 14
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0094-5765
+J9 ACTA ASTRONAUT
+JI Acta Astronaut.
+PD AUG-SEP
+PY 2012
+VL 77
+BP 83
+EP 96
+DI 10.1016/j.actaastro.2012.03.017
+PG 14
+WC Engineering, Aerospace
+SC Engineering
+GA 959HO
+UT WOS:000305303700009
+ER
+
+
+PT J
+AU Cai, CP
+   Wang, LM
+AF Cai, Chunpei
+   Wang, Limei
+TI Numerical Validations for a Set of Collisionless Rocket Plume Solutions
+SO JOURNAL OF SPACECRAFT AND ROCKETS
+LA English
+DT Article
+ID VACUUM; EXPANSION; FLOW; JET; GAS
+AB This paper presents some validation results for a set of improved, complete, gaskinetic solutions for a rarefied jet expanding into vacuum. A classical rocket plume model with a cosine relation and direct simulation Monte Carlo results are used to validate this set of analytical solutions. For the analytical and direct simulation Monte Carlo results, there is excellent agreement for flows with large Knudsen numbers. To reduce the computation cost, a set of simplified analytical solutions is introduced as well. A cosine-law plume model has improved performance at low Knudsen numbers. However, for more rarefied high-speed rocket plume flows, such as those fired from electric propulsion devices, the newly developed model has relatively better performance. The new analytical solutions further provide velocity, temperature, and pressure results.
+C1 [Cai, Chunpei; Wang, Limei] New Mexico State Univ, Dept Mech & Aerosp Engn, Las Cruces, NM 88001 USA.
+RP Cai, CP (reprint author), New Mexico State Univ, Dept Mech & Aerosp Engn, Las Cruces, NM 88001 USA.
+EM ccai@nmsu.edu; wlm@nmsu.edu
+FU NASA [NNX09CF71P]; NSF [DMS-0914706, CBET-0854411]
+FX This project is supported by NASA-NNX09CF71P, NSF-DMS-0914706, and
+   NSF-CBET-0854411. The authors would like to thank the two anonymous
+   reviewers for their valuable and constructive suggestions, which were
+   very important to improve the quality of this paper.
+CR ALBINI FA, 1965, AIAA J, V3, P1535
+   Ashkenas H., 1966, RAR GAS DYN 4 S, V2, P311
+   Bird G. A., 1994, MOL GAS DYNAMICS DIR
+   Boyton FP, 1967, AIAA J, V5, P1703, DOI DOI 10.2514/3.4283
+   Boyton F. P, 1968, J SPACECRAFT ROCKETS, V5, P1143, DOI [10.2514/3.29439, DOI 10.2514/3.29439]
+   BROOK JW, 1969, J SPACECRAFT ROCKETS, V6, P626, DOI 10.2514/3.29626
+   Cai C., 2011, THEORETICAL NUMERICA
+   Cai C., 2005, THESIS U MICHIGAN AN
+   Cai CP, 2007, J SPACECRAFT ROCKETS, V44, P1326, DOI 10.2514/1.32173
+   Cai CP, 2007, J SPACECRAFT ROCKETS, V44, P619, DOI 10.2514/1.25893
+   Campargue R., 2005, 24 INT S RAR GAS DYN
+   Gaffuri G, 2009, J THERMOPHYS HEAT TR, V23, P83, DOI 10.2514/1.36237
+   Jeric H., 1988, 24 JOINT PROP C AIAA
+   Kannenberg KC, 1999, J THERMOPHYS HEAT TR, V13, P226, DOI 10.2514/2.6440
+   Khasawneh K., 2011, PHYS FLUIDS, V23, P1, DOI DOI 10.1063/1.3549934
+   Khasawneh K, 2010, PHYS FLUIDS, V22, DOI 10.1063/1.3490409
+   Liu H., 2011, 20110668 AIAA
+   Liu H., 2012, COMPUTERS FLUI UNPUB
+   Manzella D. H., 1989, 19892840 AIAA
+   NARASIMHA R, 1961, J FLUID MECH, V10, P371, DOI 10.1017/S0022112061000986
+   NARASIMHA R, 1962, J FLUID MECH, V12, P294, DOI 10.1017/S0022112062000208
+   NOLLER HG, 1966, J VAC SCI TECHNOL, V3, P202
+   Sanna G, 2005, INTRODUCTION TO MOLECULAR BEAMS GAS DYNAMICS, P1, DOI 10.1142/9781860947407
+   Simmons F S, 2000, ROCKET EXHAUST PLUME
+   SIMONS GA, 1972, AIAA J, V10, P1534, DOI 10.2514/3.6656
+   Sirignano W. A., 2000, FLUID DYNAMICS TRANS
+   Wilmoth R. G., 961812 AIAA
+   Woronowicz M, 2011, 20113772 AIAA
+NR 28
+TC 10
+Z9 10
+U1 0
+U2 3
+PU AMER INST AERONAUT ASTRONAUT
+PI RESTON
+PA 1801 ALEXANDER BELL DRIVE, STE 500, RESTON, VA 22091-4344 USA
+SN 0022-4650
+J9 J SPACECRAFT ROCKETS
+JI J. Spacecr. Rockets
+PD JAN-FEB
+PY 2012
+VL 49
+IS 1
+BP 59
+EP 68
+DI 10.2514/1.A32046
+PG 10
+WC Engineering, Aerospace
+SC Engineering
+GA 891HA
+UT WOS:000300206600005
+ER
+
+
+PT J
+AU Brophy, J
+AF Brophy, John
+TI The Dawn Ion Propulsion System
+SO SPACE SCIENCE REVIEWS
+LA English
+DT Review
+DE Dawn; Ion propulsion; Electric propulsion; SEP
+AB Dawn's ion propulsion system (IPS) is the most advanced propulsion system ever built for a deep-space mission. Aside from the Mars gravity assist it provides all of the post-launch Delta V required for the mission including the heliocentric transfer to Vesta, orbit capture at Vesta, transfer to various Vesta science orbits, escape from Vesta, the heliocentric transfer to Ceres, orbit capture at Ceres, and transfer to the different Ceres science orbits. The ion propulsion system provides a total Delta V of nearly 11 km/s, comparable to the Delta V provided by the 3-stage launch vehicle, and a total impulse of 1.2x10(7) N s.
+C1 CALTECH, Jet Prop Lab, Pasadena, CA 91125 USA.
+RP Brophy, J (reprint author), CALTECH, Jet Prop Lab, Pasadena, CA 91125 USA.
+EM john.r.brophy@jpl.nasa.gov
+CR Brophy J. R., 2000, JPL PUBLICATION, V00-10
+   Brophy J.R., 2002, 2002 JOINT PROP C IN
+   Ganapathi G.B., 1999, 35 AIAA ASME SAEIASE
+   Lo C.J., 2009, CR2009215681 NASA
+   Polk J.E., 1999, 35 AIAA ASME SAEIASE
+   Rawlin V.K., 1998, 37 AIAA ASME SAEIASE
+   Rayman MD, 2001, ACTA ASTRONAUT, V48, P693, DOI 10.1016/S0094-5765(01)00044-3
+   Rayman M.D., 2003, SPACE TECHNOLOGY, V23, P185
+   Sengupta A., 2005, NASATP2004213391
+NR 9
+TC 4
+Z9 4
+U1 1
+U2 15
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0038-6308
+J9 SPACE SCI REV
+JI Space Sci. Rev.
+PD DEC
+PY 2011
+VL 163
+IS 1-4
+BP 251
+EP 261
+DI 10.1007/s11214-011-9848-y
+PG 11
+WC Astronomy & Astrophysics
+SC Astronomy & Astrophysics
+GA 875AQ
+UT WOS:000299002100011
+ER
+
+
+PT J
+AU Kharytonov, OM
+   Kiforenko, BM
+AF Kharytonov, Oleksii M.
+   Kiforenko, Boris M.
+TI Finite-thrust optimization of interplanetary transfers of space vehicle
+   with bimodal nuclear thermal propulsion
+SO ACTA ASTRONAUTICA
+LA English
+DT Article
+DE Bimodal nuclear thermal rocket propulsion; Interplanetary transfer;
+   High-thrust planet-centric maneuvers; Low thrust heliocentric maneuvers;
+   Finite-thrust optimization; Pontryagin's maximum principle
+AB The nuclear thermal rocket (NTR) propulsion is one of the leading promising technologies for primary space propulsion for manned exploration of the solar system due to its high specific impulse capability and sufficiently high thrust-to-weight ratio. Another benefit of NTR is its possible bimodal design, when nuclear reactor is used for generation of a jet thrust in a high-thrust mode and (with an appropriate power conversion system) as a source of electric power to supply the payload and the electric engines in a low-thrust mode. The model of the NTR thrust control was developed considering high-thrust NTR as a propulsion system of limited power and exhaust velocity. For the proposed model the control of the thrust value is accomplished by the regulation of reactor thermal power and propellant mass flow rate. The problem of joint optimization of the combination of high- and low-thrust arcs and the parameters of bimodal NTR (BNTR) propulsion system is considered for the interplanetary transfers. The interplanetary trajectory of the space vehicle is formed by the high-thrust NTR burns, which define planet-centric maneuvers and by the low-thrust heliocentric arcs where the nuclear electric propulsion (NEP) is used. The high-thrust arcs are analyzed using finite-thrust approach. The motion of the corresponding dynamical system is realized in three phase spaces concerning the departure planet-centric maneuver by means of high-thrust NTR propulsion, the low-thrust NEP heliocentric maneuver and the approach high-thrust NTR planet-centric maneuver. The phase coordinates are related at the time instants of the change of the phase spaces due to the relations between the space vehicle masses. The optimal control analysis is performed using Pontryagin's maximum principle. The numerical results are analyzed for Earth-Mars "sprint" transfer. The optimal values of the parameters that define the masses of NTR and NEP subsystems have been evaluated. It is shown that the low-thrust NEP subsystem with Brayton cycle power conversion system is preferable in comparison with NEP subsystem with thermoemission power conversion system. (C) 2011 Elsevier Ltd. All rights reserved.
+C1 [Kharytonov, Oleksii M.] Taras Shevchenko Natl Univ Kyiv, UA-01033 Kiev, Ukraine.
+   [Kiforenko, Boris M.] SP Timoshenko Inst Mech NASU, UA-03057 Kiev, Ukraine.
+RP Kharytonov, OM (reprint author), Taras Shevchenko Natl Univ Kyiv, 64 Volodymyrska St, UA-01033 Kiev, Ukraine.
+EM kharytonov@univ.kiev.ua
+CR Azimov DM, 2003, J SPACECRAFT ROCKETS, V40, P433, DOI 10.2514/2.3964
+   Beletsky V.V., 1964, COSMIC RES, V2, P303
+   Borowski S.K., 2004, NASACP2004212963, V1, P305
+   BOROWSKI SK, 2002, NASATM1998208834REV1
+   BUSSARD R. W., 1965, FUNDAMENTALS NUCL FL
+   GRODZOVSKIY GL, 1975, MEKHANIKA KOSMICHESK
+   Il'in V.A., 1976, OPTIMALNYE PERELETY
+   IVANOV VA, 1981, TEORIYA OPTIMALNYKH
+   Kharitonov AM, 2009, J AUTOMAT INF SCI, V41, P71, DOI 10.1615/JAutomatInfScien.v41.i8.70
+   KOSENKO AB, 2009, IZV RAN ENERG, V3, P140
+   NOCA M, 2001, P 18 S SPAC NUCL POW
+   OKHOTSIMSKY DE, 1990, FOUNDATIONS SPACEFLI
+   TARABA M, 2006, ACTA ASTRONAUT, V58, P88, DOI 10.1016/j.actaastro.2005.04.013
+   WILLIS EA, 1968, D45341968 NASA TN
+NR 14
+TC 1
+Z9 1
+U1 1
+U2 18
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0094-5765
+J9 ACTA ASTRONAUT
+JI Acta Astronaut.
+PD AUG-SEP
+PY 2011
+VL 69
+IS 3-4
+BP 223
+EP 233
+DI 10.1016/j.actaastro.2011.03.003
+PG 11
+WC Engineering, Aerospace
+SC Engineering
+GA 781AZ
+UT WOS:000291904300011
+ER
+
+
+PT J
+AU Landau, D
+   Chase, J
+   Randolph, T
+   Timmerman, P
+   Oh, D
+AF Landau, Damon
+   Chase, James
+   Randolph, Thomas
+   Timmerman, Paul
+   Oh, David
+TI Electric Propulsion System Selection Process for Interplanetary Missions
+SO JOURNAL OF SPACECRAFT AND ROCKETS
+LA English
+DT Article; Proceedings Paper
+CT AIAA/AAS Astrodynamics Specialist Conference
+CY AUG 18-21, 2008
+CL Honolulu, HI
+SP Amer Inst Aeronaut & Astronaut, AAS
+ID OPERATIONS
+AB The disparate design problems of select

@@ -1,0 +1,728 @@
+PT J
+AU Son, M
+   Radhakrishnan, K
+   Yoon, Y
+   Koo, J
+AF Son, Min
+   Radhakrishnan, Kanmaniraja
+   Yoon, Youngbin
+   Koo, Jaye
+TI Numerical study on the combustion characteristics of a fuel-centered
+   pintle injector for methane rocket engines
+SO ACTA ASTRONAUTICA
+LA English
+DT Article; Proceedings Paper
+CT 3rd IAA Space Flight Safety Symposium
+CY JUL 04-08, 2016
+CL St Petersburg, RUSSIA
+SP IAA
+DE Pintle injector; Liquid rocket engine; Numerical simulation; Turbulent
+   combustion; Combustion characteristics
+ID SIMULATIONS; DYNAMICS; FLAMES
+AB A pintle injector is a movable injector capable of controlling injection area and velocities. Although pintle injectors are not a new concept, they have become more notable due to new applications such as planet landers and low-cost engines. However, there has been little consistent research on pintle injectors because they have many design variations and mechanisms. In particular, simulation studies are required for bipropellant applications. In this study, combustion simulation was conducted using methane and oxygen to determine the effects of injection condition and geometries upon combustion characteristics. Steady and two-dimensional axisymmetric conditions were assumed and a 6-step Jones-Lindstedt mechanism with an eddy-dissipation concept model was used for turbulent kinetic reaction. As a result, the results with wide flame angles showed good combustion performances with a large recirculation under the pintle tip. Under lower mass flow-rate conditions, the combustion performance got worse with lower flame angles. To solve this problem, decreasing the pintle opening distance was very effective and the flame angle recovered. In addition, a specific recirculation zone was observed near the post, suggesting that proper design of the post could increase the combustion performance, while the geometry without a recirculation zone had the poor performance.
+C1 [Son, Min; Radhakrishnan, Kanmaniraja] Korea Aerosp Univ, Grad Sch, Goyang 10540, South Korea.
+   [Yoon, Youngbin] Seoul Natl Univ, Sch Mech & Aeronaut Engn, Seoul 08826, South Korea.
+   [Koo, Jaye] Korea Aerosp Univ, Sch Aerosp & Mech Engn, Goyang 10540, South Korea.
+RP Koo, J (reprint author), Korea Aerosp Univ, Sch Aerosp & Mech Engn, Goyang 10540, South Korea.
+EM jykoo@kau.ac.kr
+FU Advanced Research Center Program through the National Research
+   Foundation of Korea (NRF) grant - Korea Government (MSIP) through
+   Advanced Space Propulsion Research Center at Seoul National University
+   [NRF-2013R1A5A1073861]
+FX This work was supported by Advanced Research Center Program
+   (NRF-2013R1A5A1073861) through the National Research Foundation of Korea
+   (NRF) grant funded by the Korea Government (MSIP) (NRF-2013R1A5A1073861)
+   contracted through Advanced Space Propulsion Research Center at Seoul
+   National University.
+CR Austin BL, 2005, J PROPUL POWER, V21, P627, DOI 10.2514/1.7988
+   Bedard M.J., 2012, P 48 AIAA ASME SAE A
+   Betelin VB, 2015, ACTA ASTRONAUT, V109, P269, DOI 10.1016/j.actaastro.2014.11.014
+   Betelin VB, 2013, ACTA ASTRONAUT, V89, P46, DOI 10.1016/j.actaastro.2013.03.001
+   Betts E.M., 2010, P 46 AIAA ASME SAE A
+   Calvignac J., 2003, P 39 AIAA ASME SAE A
+   Casiano MJ, 2010, J PROPUL POWER, V26, P897, DOI 10.2514/1.49791
+   Cuoci A., 2009, ACCURACY FLEXIBILITY
+   Dressler G.A., 2000, P 36 AIAA ASME SAE A
+   Frassoldati A., 2009, P 1 INT C SUST FOSS
+   Gavin K.R., 2001, P 37 AIAA ASME SAE A
+   Gilroy R., 1989, P 25 AIAA ASME SAE A
+   Giorgi M.G.D., 2014, ENERGY, V7, P477
+   Gomet L, 2014, ACTA ASTRONAUT, V94, P184, DOI 10.1016/j.actaastro.2013.08.016
+   Gordon S., 1996, COMPUTER PROGRAM CAL
+   Gromsld J.M., 2010, P 46 AIAA ASME SAE A
+   Hakim L, 2015, P COMBUST INST, V35, P1461, DOI 10.1016/j.proci.2014.05.142
+   Huo H., 2013, P 51 AIAA AER SCI M
+   Huzel D.K., 1991, MODERN ENG DESIGN LI
+   JONES WP, 1988, COMBUST FLAME, V73, P233, DOI 10.1016/0010-2180(88)90021-1
+   Neill T, 2009, ACTA ASTRONAUT, V65, P696, DOI 10.1016/j.actaastro.2009.01.052
+   Oefelein JC, 2005, P COMBUST INST, V30, P2929, DOI 10.1016/j.proci.2004.08.212
+   Rezende R.N., 2015, P 51 AIAA SAE ASEE J
+   Robinson PJ, 2010, ACTA ASTRONAUT, V66, P836, DOI 10.1016/j.actaastro.2009.08.026
+   Seedhouse E., 2013, SPACE X MAKING COMME
+   Singla G, 2005, P COMBUST INST, V30, P2921, DOI 10.1016/j.proci.2004.08.063
+   Smirnov NN, 2015, ACTA ASTRONAUT, V117, P338, DOI 10.1016/j.actaastro.2015.08.013
+   Smirnov NN, 2014, ACTA ASTRONAUT, V104, P134, DOI 10.1016/j.actaastro.2014.07.019
+   Son M., 2015, J ILASS KOREA, V20, P114
+   Son M, 2016, J THERM SCI, V25, P90, DOI 10.1007/s11630-016-0838-y
+   Son M, 2015, J THERM SCI, V24, P37, DOI 10.1007/s11630-015-0753-7
+   Yue CG, 2011, COMM COM INF SC, V159, P477
+   Yue CG, 2009, SCI CHINA SER E, V52, P2918, DOI [10.1007/S11431-009-0185-2, 10.1007/s11431-009-0185-2]
+   Zong N, 2007, P COMBUST INST, V31, P2309, DOI 10.1016/j.proci.2006.08.106
+NR 34
+TC 1
+Z9 1
+U1 1
+U2 1
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0094-5765
+EI 1879-2030
+J9 ACTA ASTRONAUT
+JI Acta Astronaut.
+PD JUN
+PY 2017
+VL 135
+BP 139
+EP 149
+DI 10.1016/j.actaastro.2017.02.005
+PG 11
+WC Engineering, Aerospace
+SC Engineering
+GA EU9UK
+UT WOS:000401385000020
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Grujicic, M
+   d'Entremont, B
+   Snipes, J
+   Ramaswami, S
+AF Grujicic, Mica
+   d'Entremont, Brian
+   Snipes, Jennifer
+   Ramaswami, S.
+TI A novel blast-mitigation concept for light tactical vehicles
+SO INTERNATIONAL JOURNAL OF NUMERICAL METHODS FOR HEAT & FLUID FLOW
+LA English
+DT Article
+DE Design optimization; Blast mitigation; Side-vent-channels; Surrogate box
+   structure
+ID PULSE DETONATION ENGINES; MATERIAL MODEL; SAND
+AB Purpose -A new concept solution for improving blast survivability of the light tactical military vehicles is proposed and critically assessed using computational engineering methods and tools.
+   Design/methodology/approach -The solution is inspired by the principle of operation of the rocket-engine nozzles, in general and the so called "pulse detonation" rocket engines, in particular, and is an extension of the recently introduced so-called "blast chimney" concept (essentially a vertical channel connecting the bottom and the roof and passing through the cabin of a light tactical vehicle). Relative to the blast-chimney concept, the new solution offers benefits since it does not compromise the cabin space or the ability of the vehicle occupants to scout the environment and, is not expected to, degrade the vehicle's structural durability/reliability. The proposed concept utilizes side vent channels attached to the V-shaped vehicle underbody whose geometry is optimized with respect to the attainment of the maximum downward thrust on the vehicle. In the course of the channel design optimization, analytical and computational analyses of supersonic flow (analogous to the one often used in the case of the pulse detonation engine) are employed.
+   Findings -The preliminary results obtained reveal the beneficial effects of the side channels in reducing the blast momentum, although the extent of these effects is quite small (2-4 per cent).
+   Originality/value -To the authors' knowledge, the present work is the first exploration of the side-vent-channels concept for mitigating the effect of buried-mine explosion on a light tactical vehicle.
+C1 [Grujicic, Mica; d'Entremont, Brian; Snipes, Jennifer; Ramaswami, S.] Clemson Univ, Dept Mech Engn, Clemson, SC 29634 USA.
+RP Snipes, J (reprint author), Clemson Univ, Dept Mech Engn, Clemson, SC 29634 USA.
+EM snipes8@clemson.edu
+CR ANSYS, 2009, ANSYS AUT THEOR MAN
+   Barry K., 2011, CARANDDRIVER    1207
+   Bragov AM, 2008, INT J IMPACT ENG, V35, P967, DOI 10.1016/j.ijimpeng.2007.07.004
+   Brannen K., 2010, DEFENSE NEWS    1101
+   Brannen K., 2011, DEFENSE NEWS    0722
+   Capouellez J., 2010, 27 ARM SCI C ORL FL, P1
+   Chapman D. J., 2006, P 2006 SEM ANN C EXP, V2, P834
+   Dassault Systemes, 2010, ABAQUS VERS 6 10 US
+   Grujicic M, 2008, SOIL DYN EARTHQ ENG, V28, P1045, DOI 10.1016/j.soildyn.2007.11.008
+   Grujicic M, 2006, MULTIDISCIP MODEL MA, V2, P363, DOI 10.1163/157361106778554851
+   Grujicic M, 2008, SOIL DYN EARTHQ ENG, V28, P20, DOI 10.1016/j.soildyn.2007.05.00l
+   Grujicic M, 2006, SHOCK VIB, V13, P41
+   Grujicic M, 2014, J MATER ENG PERFORM, V23, P1, DOI 10.1007/s11665-013-0637-5
+   Grujicic M, 2009, MULTIDISCIP MODEL MA, V5, P311
+   Grujicic M., 2009, J AUTOMOBILE ENG, V223, P1419
+   Grujicic M., 2009, J AUTOMOBILE ENG, V223, P903
+   Grujicic M., 2009, J AUTOMOBILE ENG, V223, P301
+   Grujicic M, 2010, MULTIDISCIP MODEL MA, V6, P229
+   Grujicic M, 2013, MULTIDISCIP MODEL MA, V9, P367, DOI 10.1108/MMMS-01-2013-0002
+   He X, 2003, J SCI COMPUT, V19, P201, DOI 10.1023/A:1025351924837
+   Kerley G. I., 2006, KTS061
+   Kim TH, 2004, MAR GEORESOUR GEOTEC, V22, P33, DOI 10.1080/10641190490467071
+   Ma FH, 2006, J PROPUL POWER, V22, P1188, DOI 10.2514/1.21755
+   Owens ZC, 2007, J PROPUL POWER, V23, P325, DOI 10.2514/1.22415
+   von Neumann J., 1963, J VONNEUMANN COLLECT, V6, P219
+NR 25
+TC 0
+Z9 0
+U1 0
+U2 0
+PU EMERALD GROUP PUBLISHING LTD
+PI BINGLEY
+PA HOWARD HOUSE, WAGON LANE, BINGLEY BD16 1WA, W YORKSHIRE, ENGLAND
+SN 0961-5539
+EI 1758-6585
+J9 INT J NUMER METHOD H
+JI Int. J. Numer. Methods Heat Fluid Flow
+PY 2017
+VL 27
+IS 4
+BP 889
+EP 923
+DI 10.1108/HFF-12-2015-0502
+PG 35
+WC Thermodynamics; Mathematics, Interdisciplinary Applications; Mechanics
+SC Thermodynamics; Mathematics; Mechanics
+GA EZ5SG
+UT WOS:000404777700008
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Sohier, H
+   Piet-Lahanier, H
+   Farges, JL
+AF Sohier, Henri
+   Piet-Lahanier, Helene
+   Farges, Jean-Loup
+TI Analysis and optimization of an air-launch-to-orbit separation
+SO ACTA ASTRONAUTICA
+LA English
+DT Article
+DE Sensitivity analysis; Air-launch-to-orbit; Screening; Morris method;
+   Factors fixing; Latin hypercube
+ID SENSITIVITY-ANALYSIS; MODELS
+AB In an air-launch-to-orbit, a space rocket is launched from a carrier aircraft Air-launch-to-orbit appears as particularly interesting for nano- and microsatellites which are generally launched as secondary loads, that is, placed in the conventional launch vehicle's payload section with a larger primary satellite. In an air-launch-to-orbit, a small satellite can be launched alone as a primary load, away from a carrier aircraft, aboard a smaller rocket vehicle, and in doing so, benefit from more flexible dates and trajectories. One of the most important phases of the mission is the separation between the carrier aircraft and the space rocket. A flight simulator including a large number of factors of uncertainties has been especially developed to study the separation, and a safety criteria has been defined with respect to store collision avoidance. It is used for a sensitivity analysis and an optimization of the possible trajectories. The sensitivity analysis first requires a screening method to select unessential factors that can be held constant. The Morris method is amongst the most popular screening methods. It requires limited calculations, but may result in keeping constant an essential factor which would greatly affect the results of the sensitivity analysis. This paper shows that this risk can be important in spite of recent improvements of the Morris method. It presents an adaptation of this method which divides this risk by a factor of ten on a standard test function. It is based on the maximum of the elementary effects instead of their average. The method focuses the calculations on the factors with a low impact, checking the convergence of this set of factors, and uses two different factor variations instead of one. This adaptation of the Morris method is used to limit the amount of the air-launch-to-orbit simulations and simplify the uncertainty domain for analysis by Sobol's method. The aerodynamic perturbations due to wind, the parameters defining the trajectory, the interactions, and the mass characteristics of the systems are detected as factors with a high impact The parameters of the trajectory are finally optimized with a stochastic gradient method. It shows that the separation is safer with a low speed, a low climb angle, and a high vertical acceleration of the aircraft. A trajectory offering such a separation will be tested with an air-launch-to-orbit demonstrator from the French space agency CNES and the French aerospace laboratory ONERA. (C) 2014 IAA. Published by Elsevier Ltd. All rights reserved.
+C1 [Sohier, Henri] CNES, F-75612 Paris, France.
+   [Sohier, Henri; Farges, Jean-Loup] Off Natl Etud & Rech Aerosp, F-31055 Toulouse, France.
+   [Piet-Lahanier, Helene] Off Natl Etud & Rech Aerosp, Chem Huniere, F-91123 Palaiseau, France.
+RP Sohier, H (reprint author), CNES, 52 Rue J Hillairet, F-75612 Paris, France.
+EM henri.sohier@onera.fr
+FU French space agency CNES (Centre National dEtudes Spatiales); French
+   aerospace laboratory Onera (Office National d'Etudes et de Recherches
+   Aerospatiales)
+FX The authors thank the French space agency CNES (Centre National dEtudes
+   Spatiales) and the French aerospace laboratory Onera (Office National
+   d'Etudes et de Recherches Aerospatiales) for funding this work.
+CR Bhagwat MJ, 2003, J AM HELICOPTER SOC, V48, P143
+   Byko M, 2004, JOM-US, V56, P24, DOI 10.1007/s11837-004-0247-7
+   Campolongo F, 2011, COMPUT PHYS COMMUN, V182, P978, DOI 10.1016/j.cpc.2010.12.039
+   Cenko A., 2004, USE STAT TOOLS IMPRO
+   Cenko A., 2010, 27 INT C AER SCI
+   [Anonymous], 2011, REP HOR LAUNCH STUD
+   Francos A, 2003, RELIAB ENG SYST SAFE, V79, P205, DOI 10.1016/S0951-8320(02)00231-4
+   Fu M. C., 2005, TECHNICAL REPORT
+   Gotor M. P. G., 2008, P 59 INT ASTR C
+   Hamm NAS, 2006, COMPUT GEOSCI-UK, V32, P803, DOI 10.1016/j.cageo.2005.10.007
+   Hingre H., 2011, 4 EUR C AER SCI
+   Ledogar J., 2012, 28 INT C AER SCI
+   Maeda M., 2010, J AERO AQUA BIOMECH, V1, P71, DOI DOI 10.5226/JABMECH.1.71
+   MORRIS MD, 1991, TECHNOMETRICS, V33, P161, DOI 10.2307/1269043
+   Pamadi B. N., 2005, AIAA CIRA 13 INT SPA
+   Perez RE, 2004, 10 AIAA ISSMO MULT A
+   Saltelli A., 2004, SENSITIVITY ANAL PRA
+   Saltelli A, 2010, COMPUT PHYS COMMUN, V181, P259, DOI 10.1016/j.cpc.2009.09.018
+   Schade C., 1994, P 15 INT COMM SAT SY
+   Sobol IM, 2007, RELIAB ENG SYST SAFE, V92, P957, DOI 10.1016/j.ress.2006.07.001
+   Sobol IM, 2001, MATH COMPUT SIMULAT, V55, P271, DOI 10.1016/S0378-4754(00)00270-6
+   Sohier H., 2014, IEEE AER C
+   Sohier H., 2014, 19 IFAC WORLD C
+   Tong C, 2006, RELIAB ENG SYST SAFE, V91, P1257, DOI 10.1016/j.ress.2005.11.027
+   Yang J, 2011, ENVIRON MODELL SOFTW, V26, P444, DOI 10.1016/j.envsoft.2010.10.007
+NR 25
+TC 4
+Z9 4
+U1 1
+U2 10
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0094-5765
+EI 1879-2030
+J9 ACTA ASTRONAUT
+JI Acta Astronaut.
+PD MAR-APR
+PY 2015
+VL 108
+BP 18
+EP 29
+DI 10.1016/j.actaastro.2014.11.043
+PG 12
+WC Engineering, Aerospace
+SC Engineering
+GA CB6JV
+UT WOS:000349734200002
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Wang, K
+   Fan, W
+   Yan, Y
+   Jin, L
+AF Wang, Ke
+   Fan, Wei
+   Yan, Yu
+   Jin, Le
+TI Preliminary Studies on a Small-Scale Single-Tube Pulse Detonation Rocket
+   Prototype
+SO INTERNATIONAL JOURNAL OF TURBO & JET-ENGINES
+LA English
+DT Article
+DE detonation; rocket engine; kerosene; oxygen
+ID IMPULSE; ENGINES; PERFORMANCE
+AB As a new concept propulsion system, the pulse detonation engine has received extensive concerns from all over the world in the past few years. With oxidizer on board, it operates as a rocket engine which is known as pulse detonation rocket engine. In this study, a rocket model powered by a single-tube pulse detonation rocket engine was fabricated to demonstrate and validate whether or not it could operate stably and reliably independently. The single-tube pulse detonation rocket prototype consisted of a wireless control unit, three tanks for oxidizer, fuel and purge gas, various valves and a detonation tube. With compact design, the pulse detonation rocket prototype had an outer diameter of 260 mm and a length of 2200 mm. Oxygen, liquid aviation kerosene and nitrogen were utilized as oxidizer, fuel and purge gas, respectively. Operation tests were carried out to obtain proper operating conditions for the pulse detonation rocket prototype first, and then sliding test was conducted. It was concluded that the pulse detonation rocket prototype could operate stably and reliably. The generated thrust was estimated and compared with theoretical value.
+C1 [Wang, Ke; Fan, Wei; Yan, Yu; Jin, Le] Northwestern Polytech Univ, Sch Power & Energy, Xian 710072, Peoples R China.
+RP Fan, W (reprint author), Northwestern Polytech Univ, Sch Power & Energy, Xian 710072, Peoples R China.
+EM weifan419@nwpu.edu.cn
+FU National Natural Science Foundation of China [51176158]; Doctoral
+   Program Foundation of Ministry of Education of China [20126102110029];
+   Doctorate Foundation of Northwestern Polytechnical University
+   [CX201112]; Ministry of Education of China
+FX This work is supported by National Natural Science Foundation of China
+   (51176158), Doctoral Program Foundation of Ministry of Education of
+   China (20126102110029), Doctorate Foundation of Northwestern
+   Polytechnical University (CX201112) and Scholarship Award for Excellent
+   Doctoral Student granted by Ministry of Education of China. The authors
+   are grateful to Cheng Yuan, Xudong Zhu, Yang Mu and Wei Chen for their
+   assistance with the experiments.
+CR Bussing T, 1996, DEV HIGH SPEED VEHIC, V165, P421
+   Cheatham S., 2005, COMBUSTION THEORY MO, V19, P23
+   Cooper M, 2004, J PROPUL POWER, V20, P947, DOI 10.2514/1.4997
+   Cooper M, 2002, J PROPUL POWER, V18, P1033, DOI 10.2514/2.6052
+   Cooper M., 20023628 AIAA
+   Endo T, 2004, AIAA J, V42, P1921, DOI 10.2514/1.976
+   Gordon S., 1994, RP1311 NASA
+   He X, 2003, J SCI COMPUT, V19, P201, DOI 10.1023/A:1025351924837
+   Heiser WH, 2002, J PROPUL POWER, V18, P68, DOI 10.2514/2.5899
+   Kailasanath K, 2009, 2009631 AIAA, P2009
+   Kasahara J, 2009, J PROPUL POWER, V25, P1281, DOI 10.2514/1.42224
+   Kasahara J, 2009, J PROPUL POWER, V25, P173, DOI 10.2514/1.37924
+   Li CP, 2003, J PROPUL POWER, V19, P908, DOI 10.2514/2.6183
+   McBride B. J., 1996, RP1311 NASA
+   Morris CI, 2005, J PROPUL POWER, V21, P527, DOI 10.2514/1.7875
+   NICHOLLS JA, 1957, JET PROPULSION, V27, P534
+   Sato S, 2006, J PROPUL POWER, V22, P64, DOI 10.2514/1.9514
+   Wintenberger E, 2003, J PROPUL POWER, V19, P22, DOI 10.2514/2.6099
+   Yan Y., 2010, INT J TURBO JET ENGI, V27
+   Zitoun R, 1999, COMBUST SCI TECHNOL, V144, P93, DOI 10.1080/00102209908924199
+NR 20
+TC 2
+Z9 2
+U1 1
+U2 5
+PU WALTER DE GRUYTER GMBH
+PI BERLIN
+PA GENTHINER STRASSE 13, D-10785 BERLIN, GERMANY
+SN 0334-0082
+J9 INT J TURBO JET ENG
+JI Int. J. Turbo. Jet-Engines
+PD JUN
+PY 2013
+VL 30
+IS 2
+BP 145
+EP 151
+DI 10.1515/tjj-2013-0001
+PG 7
+WC Engineering, Aerospace
+SC Engineering
+GA 220KF
+UT WOS:000324581500002
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Lee, BS
+   Choi, JH
+   Kwon, OJ
+AF Lee, Bum Seok
+   Choi, Jae Hoon
+   Kwon, Oh Joon
+TI Numerical Simulation of Free-Flight Rockets Air-Launched from a
+   Helicopter
+SO JOURNAL OF AIRCRAFT
+LA English
+DT Article
+ID PREDICTION
+AB Numerical simulation of unsteady flows around a complete helicopter was conducted, and the effect of rotor downwash on the behavior of free-flight rockets air-launched from the helicopter and their plume was investigated. For this purpose, a three-dimensional inviscid flow solver based on unstructured meshes was developed, and an overset mesh technique was adopted to handle the relative motion of the main rotor, tail rotor, fuselage, and traveling rockets. The flow solver was coupled with six-degrees-of-freedom equations of motion to describe the trajectory of the free-flight rockets. To validate the flow solver for simulating the plume flow from the rocket nozzle, calculations were made for a jet flow impinging on flat plates. To demonstrate the accuracy of the flow solver for predicting rotor downwash, a rotor-fuselage aerodynamic interaction flow was calculated, and the results were compared with available experimental data. The trajectory simulation of an external store released from a fixed wing was also performed to validate the present flow solver coupled with the six-degrees-of-freedom equations of motion. Then the present method was applied to the simulation of free-flight rockets air-launched from a complete helicopter configuration. It was found that rotor downwash has nonnegligible effects on the trajectory of the air-launched rockets and their plume development, which may potentially affect the safety and the reliability of other equipments installed on the mother helicopter.
+C1 [Lee, Bum Seok; Choi, Jae Hoon; Kwon, Oh Joon] Korea Adv Inst Sci & Technol, Dept Aerosp Engn, Taejon 305701, South Korea.
+RP Lee, BS (reprint author), Korea Adv Inst Sci & Technol, Dept Aerosp Engn, Taejon 305701, South Korea.
+EM good-xyz@kaist.ac.kr; cjh0711@kaist.ac.kr; ojkwon@kaist.ac.kr
+RI KWON, OH JOON/C-1532-2011
+FU Agency for Defense Development; Defense Acquisition Program
+   Administration; National Research Foundation of Korea [2009-0083510];
+   Korean government through Multi-Phenomena CFD Engineering Research
+   Center
+FX The work was partially supported by the Agency for Defense Development
+   and the Defense Acquisition Program Administration. The contract number
+   was UD070041AD. The six-degrees-of-freedom simulation was supported by
+   the National Research Foundation of Korea grant no. 2009-0083510, funded
+   by the Korean government through Multi-Phenomena CFD Engineering
+   Research Center.
+CR Bousman W. G., 2003, TP2003212265 NASA
+   Cavallo P. A., 2004, 20041057 AIAA
+   Elliot J. W., 1988, 100541 NASA TM
+   Hilbert K. B., 1984, 85890 NASA TM
+   Jung M. S., 2009, 20093536 AIAA
+   Jung M. S., 2007, INT C PAR COMP FLUID
+   Karypis G, 1998, J PARALLEL DISTR COM, V48, P96, DOI 10.1006/jpdc.1997.1404
+   Kenyon A. R., 2007, AM HEL SOC 63 ANN FO, P945
+   LAMONT PJ, 1980, J FLUID MECH, V100, P471, DOI 10.1017/S0022112080001255
+   LIJEWSKI LE, 1994, J AIRCRAFT, V31, P886, DOI 10.2514/3.46575
+   Nakahashi K, 2000, AIAA J, V38, P2077, DOI 10.2514/2.869
+   Nam HJ, 2006, J AM HELICOPTER SOC, V51, P141
+   Raymond EM, 2000, 2000210286 NASA TM
+   ROE PL, 1981, J COMPUT PHYS, V43, P357, DOI 10.1016/0021-9991(81)90128-5
+   Shanks S., 1991, 19911663 AIAA
+   Taylor R. B., 1979, R799129855 UTRC
+   Wake BE, 1996, J AM HELICOPTER SOC, V41, P7
+   Wei F.-S., 2001, 20010992 AIAA
+NR 18
+TC 3
+Z9 5
+U1 0
+U2 5
+PU AMER INST AERONAUTICS  ASTRONAUTICS
+PI RESTON
+PA 1801 ALEXANDER BELL DRIVE, STE 500, RESTON, VA 22091-4344 USA
+SN 0021-8669
+EI 1533-3868
+J9 J AIRCRAFT
+JI J. Aircr.
+PD SEP-OCT
+PY 2011
+VL 48
+IS 5
+BP 1766
+EP 1775
+DI 10.2514/1.C031365
+PG 10
+WC Engineering, Aerospace
+SC Engineering
+GA 831TR
+UT WOS:000295754500026
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Elliott, J
+   Alkalai, L
+AF Elliott, John
+   Alkalai, Leon
+TI Lunette: A network of lunar landers for in-situ geophysical science
+SO ACTA ASTRONAUTICA
+LA English
+DT Article; Proceedings Paper
+CT 60th International Astronautical Congress
+CY OCT 12-16, 2009
+CL Daejeon, SOUTH KOREA
+DE Lunar lander; Network
+AB Over the last 3 years, a team at JPL has worked to design a new concept for a small, low cost lander applicable to a variety of in-situ lunar exploration activities. This concept, named Lunette, originated as a design which would exploit potential excess capacity of EELV launches by being compatible with the EELV Secondary Payload Adapter (ESPA). The original Lunette mission concept would have allowed up to six low cost landers to be delivered to a targeted region of the moon, with landings separated by a few km, allowing establishment of a regional network with a single, shared launch. The original concept faced limits in the extent of regional distribution of landing sites since all six landers were dependent on a single solid rocket braking motor. In the last year the Lunette team has focused on a modification of the original ESPA-based concept to a design that would allow launch of multiple individual landers (each with its own braking stage) on a single launch vehicle, where each lander would be capable of independent targeting and landing. With such an implementation, the entire lunar surface could be accessed for establishment of network nodes that could enable high priority geophysical measurements on a scale not seen since Apollo. The present paper discusses the current state of the design of the Lunette geophysical network lander, as well as describing mission design, science operations, and an innovative design solution allowing the lander to take critical data continuously, even over the lunar night, without the need for radioisotope power systems. (C) 2010 Published by Elsevier Ltd.
+C1 [Elliott, John; Alkalai, Leon] CALTECH, Jet Prop Lab, Pasadena, CA 91125 USA.
+RP Elliott, J (reprint author), CALTECH, Jet Prop Lab, Pasadena, CA 91125 USA.
+EM jelliott@jpl.nasa.gov
+CR CHUNG MJ, 2010, P AIAA GUID NAV CONT
+   ELLIOTT JO, 2008, P 59 INT ASTR C GLAS
+   *NASA, 2009, SCI DEF TEAM ILN ANC
+   NASA, 1969, NASA
+   RONCOLI RB, 2010, P AIAA GUID NAV CONT
+NR 5
+TC 7
+Z9 7
+U1 1
+U2 2
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0094-5765
+J9 ACTA ASTRONAUT
+JI Acta Astronaut.
+PD APR-MAY
+PY 2011
+VL 68
+IS 7-8
+BP 1201
+EP 1207
+DI 10.1016/j.actaastro.2010.10.024
+PG 7
+WC Engineering, Aerospace
+SC Engineering
+GA 727SL
+UT WOS:000287821600053
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Alfano, S
+AF Alfano, Salvatore
+TI Ballistic representation for kinematic access
+SO CELESTIAL MECHANICS & DYNAMICAL ASTRONOMY
+LA English
+DT Article
+DE Anti-satellite; Kinetic kill; Vulnerability; Collision; Ballistic
+   missile; ASAT; KKV; Intercept trajectories; Space situational awareness;
+   SOLARA; Kinematic access
+AB This work uses simple two-body orbital dynamics to initially determine the kinematic access for a ballistic vehicle. Primarily this analysis was developed to assess when a rocket body might conjunct with an orbiting satellite platform. A family of access opportunities can be represented as a volume for a specific rocket relative to its launch platform. Alternately, the opportunities can be represented as a geographical footprint relative to aircraft or satellite position that encompasses all possible launcher locations for a specific rocket. A thrusting rocket is treated as a ballistic vehicle that receives all its energy at launch and follows a coasting trajectory. To do so, the rocket's burnout energy is used to find its equivalent initial velocity for a given launcher's altitude. Three kinematic access solutions are then found that account for spherical Earth rotation. One solution finds the maximum range for an ascent-only trajectory while another solution accommodates a descending trajectory. In addition, the ascent engagement for the descending trajectory is used to depict a rapid access scenario. These preliminary solutions are formulated to address ground-, sea-, or air-launched vehicles.
+C1 CSSI, Colorado Springs, CO 80920 USA.
+RP Alfano, S (reprint author), CSSI, 7150 Campus Dr,Suite 260, Colorado Springs, CO 80920 USA.
+EM salfano@centerforspace.com
+CR Bate R. R., 1971, FUNDAMENTALS ASTRODY
+   FORDEN G, 2008, PRELIMINARY ANAL PRO
+   KELSO TS, 2007, 2007 AMOS C, V321
+   PASTRICK HL, 1988, AIAA GUID NAV CONTR
+   Verne J, 1865, EARTH MOON
+NR 5
+TC 1
+Z9 1
+U1 1
+U2 6
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0923-2958
+J9 CELEST MECH DYN ASTR
+JI Celest. Mech. Dyn. Astron.
+PD JAN
+PY 2011
+VL 109
+IS 1
+BP 45
+EP 58
+DI 10.1007/s10569-010-9312-4
+PG 14
+WC Astronomy & Astrophysics; Mathematics, Interdisciplinary Applications
+SC Astronomy & Astrophysics; Mathematics
+GA 709TG
+UT WOS:000286463700004
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Boccaletto, L
+   Dussauge, JP
+AF Boccaletto, Luca
+   Dussauge, Jean-Paul
+TI High-Performance Rocket Nozzle Concept
+SO JOURNAL OF PROPULSION AND POWER
+LA English
+DT Article
+AB An innovative technical solution that overcomes the limitation induced by flow separation phenomena and allows increasing the vacuum-specific impulse of a main stage rocket engine is presented. After reviewing the open technical literature on flow separation and advance nozzles design, the newly proposed concept is extensively presented. Three-dimensional computational fluid dynamics analyses and experimental results (cold gas subscale models) demonstrate the effectiveness of a simple device, adaptable to any bell-shaped nozzle and which provides a solution to the flow separation issue, while increasing vacuum-specific impulse performances for booster and main stage engines. Moreover, this new concept gives rise to a wider engine-throttling range, even at low altitude, without incurring flow separation and associated side loads. Experimental data show a potential for favorable behavior even during transient phases, allowing significant reduction on transient side-loads activity. Finally, three-dimensional computational fluid dynamics computations have been extended to the hot tiring case (chemically reactive hydrogen/oxygen propellants), both in steady-state and transient conditions. The results show the suitability of the proposed concept for application to real rocket engines.
+C1 [Boccaletto, Luca] ESA, European Space Res & Technol Ctr, NL-2201 AZ Noordwijk, Netherlands.
+   [Dussauge, Jean-Paul] Univ Aix Marseille 1, CNRS, IUSTI, Superson Grp, F-13453 Marseille 13, France.
+RP Boccaletto, L (reprint author), ESA, European Space Res & Technol Ctr, Keperlaan 1, NL-2201 AZ Noordwijk, Netherlands.
+EM Luca.Boccaletto@esa.int; jean-paul.dussauge@polytech.univ-mrs.fr
+FU Centre National dEtudes Spatiales (CNES)
+FX The experimental work has been funded by Centre National dEtudes
+   Spatiales (CNES). The author would like to thank M. Pons (CNES) for his
+   suggestion; F. Cahuzac and M. Illig (CNES) for their support, in
+   particular during the preparation and the execution of the experimental
+   campaign: J. Duval (ATMOSTAT) and all his team for their invaluable
+   work; and the people at HP systems for their help. A special thanks to
+   L. Lequette (BERTIN Technologies), for his suggestions and constructive
+   remarks.
+CR *BERT TECHN, 2009, CPS C SOFTW PACK VER
+   Besnard E., 2004, 40 AIAA ASME SAE ASE
+   BOCCALETTO L, 2007, 37 AIAA FLIUD DYN C
+   BOCCALETTO L, 2005, 41 AIAA ASME SAE SEE
+   CHAPMAN D, 1958, 1536 NACA AM AER LAB
+   DELERY J, 1999, 1217078 ONERA RT DAF
+   DUNN SS, 1999, 36 JANNAF COMB SUBC
+   DURBIN PA, 1995, AIAA J, V33, P659, DOI 10.2514/3.12628
+   Frey M., 2005, 6 INT S LAUNCH TECHN
+   GOETZ A, 2005, 41 AIAA ASME SAE ASE
+   Kalitzin G, 2005, J COMPUT PHYS, V204, P265, DOI 10.1016/j.jcp.2004.10.018
+   NIT K, 2009, 45 AIAA ASME SAE SEE
+   NIU K, 2009, 45 AIAA ASME SAE SEE
+   NURNBERGERGENIN C, 2007, 2 EUR C AER SCI EUCA
+   Ostlund J., 2005, Applied Mechanics Review, V58, P143, DOI 10.1115/1.1894402
+   Ostlund J., 1999, 35 AIAA ASME SAE ASE
+   Papamoschou D., 2006, 36 AIAA FLUID DYN C
+   PONOMAREV NB, 2009, 45 AIAA ASME SAE SEE
+   POROSEVA S, ANN RES BRIEFS 2001
+   REIJASSE P, 2008, 38 AIAA FLUID DYN C
+   REIJASSE P, 2005, 6 INT S LAUNCH TECHN
+   RUF J, 2009, 45 AIAA ASME SAE SEE
+   SATO M, 2007, 43 AIAA ASME SAE ASE
+   SATO M, 2002, 56 INT ASTR C INT AS
+   SEMENOV VV, 2006, 57 INT ASTR C INT AS
+   Shi J., 2005, 46 AIAA ASME ASCE AH
+   SMALLEY K, 2007, 48 AIAA ASME ASCE AH
+   SPAID FW, 1972, AIAA J, V10, P915, DOI 10.2514/3.50245
+   STARK R, 2005, 41 AIAA ASME SAE SEE
+   SUMMERFIELD M, 1954, JET PROPULSION, V24, P319
+   VERNA SB, 2009, 45 AIAA ASME SAE SEE
+   Watanabe Y, 2004, 40 AIAA ASME SAE ASE
+NR 32
+TC 2
+Z9 3
+U1 0
+U2 12
+PU AMER INST AERONAUT ASTRONAUT
+PI RESTON
+PA 1801 ALEXANDER BELL DRIVE, STE 500, RESTON, VA 22091-4344 USA
+SN 0748-4658
+J9 J PROPUL POWER
+JI J. Propul. Power
+PD SEP-OCT
+PY 2010
+VL 26
+IS 5
+BP 969
+EP 979
+DI 10.2514/1.48904
+PG 11
+WC Engineering, Aerospace
+SC Engineering
+GA 662FT
+UT WOS:000282793500006
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Ridolfi, L
+   Pontani, M
+   Teofilatto, P
+AF Ridolfi, L.
+   Pontani, M.
+   Teofilatto, P.
+TI Effect of different flight conditions at the release of a small
+   spacecraft from a high performance aircraft
+SO ACTA ASTRONAUTICA
+LA English
+DT Article
+DE Air-launched systems; Trajectory optimization
+AB In recent years, mainly due to miniaturization of electronics as well as to the improvement of computer performance, small spacecraft have increased their capabilities. More and more frequently specific mission objectives can be achieved with cheap satellites of reduced size. The growing use of small satellites stimulates the development of systems specifically dedicated to orbit injection of small payloads. In this context, one option is represented by air-launched rockets. The use of an air-launched rocket for delivering a small payload into the desired orbit has several advantages. First of all, payload release is much more flexible, because the delivery conditions are directly related to the dynamics of the aircraft and can be viewed as independent of ground facilities. In addition, reduced costs are associated with higher efficiency of an aircraft in the lower layers of the atmosphere with respect to traditional ground-launched rockets. To date, air-launched rockets separate from the ail-craft in a horizontal flight condition. Then they maneuver in order to achieve the correct flight path angle for injecting into a gravity-turn arc of trajectory. Relevant losses are associated to this pitch maneuver; in addition, in this phase the rocket usually needs an aerodynamic control. Hence, the release of a rocket departing with a high flight path angle from the aircraft would avoid these losses and would simplify the control system, because in such a Situation the pitch maneuver becomes unnecessary: This paper is aimed at investigating the dynamic behavior and performance of a payload delivered from a high performance aircraft, which flies with a high flight path angle. In particular, this work is concerned with showing the differences and tradeoffs among different starting conditions of a multistage air-launched rocket related to several flight path angles of the aircraft at release. An optimal system configuration, which allows placing a micro-satellite into a specified low Earth orbit, is proposed. This configuration is selected by optimizing the release condition, the mass distribution among the stages, and the trajectory (through the determination of the optimal control law). (C) 2009 Elsevier Ltd. All rights reserved.
+C1 [Ridolfi, L.; Pontani, M.; Teofilatto, P.] Scuola Ingn Aerosp Roma, I-00138 Rome, Italy.
+RP Teofilatto, P (reprint author), Scuola Ingn Aerosp Roma, Via Salaria 881, I-00138 Rome, Italy.
+EM Ridolfi.Luigi@gmail.com; mauro.pontani@uniroma1.it;
+   paolo.teofilatto@uniroma1.it
+OI Pontani, Mauro/0000-0003-3095-7391
+CR AMICK JL, 1952, 2754 NACA LANGL AER
+   CHEN T, 2006, P 4 RESP SPAC C LOS
+   DEGTYAREV A, 2006, IAC06D2104 AIAA
+   FERRI A, 1958, VISTAS ASTRONAUTICS, V2
+   GATTI A, 2009, P 20 AIDAA C MIL JUN
+   Hammond W.E., 2001, AIAA ED SERIES
+   LEE JW, 2007, P 5 INT C COMP SCI A
+   LUZZATI P, 2005, P 17 AIDAA C VOLT SE
+   TEOFILATTO P, 2005, P 1 C MIL SPAC QUEST
+   PEGASUS
+NR 10
+TC 0
+Z9 0
+U1 1
+U2 4
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0094-5765
+J9 ACTA ASTRONAUT
+JI Acta Astronaut.
+PD MAR-APR
+PY 2010
+VL 66
+IS 5-6
+BP 665
+EP 673
+DI 10.1016/j.actaastro.2009.08.006
+PG 9
+WC Engineering, Aerospace
+SC Engineering
+GA 547UZ
+UT WOS:000273916300005
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Ji, YM
+   Kim, YS
+   Lee, JW
+   Park, JS
+AF Ji, Young Moo
+   Kim, Young Shin
+   Lee, Jae-Woo
+   Park, Jun Sang
+TI Effect of CG and control surface area on supersonic separation of an
+   air-launching rocket from the mother plane
+SO AEROSPACE SCIENCE AND TECHNOLOGY
+LA English
+DT Article
+DE Shock wave interaction; Supersonic air-launching rocket; Supersonic
+   separation
+AB An analysis was made about the flow characteristics and the rocket motion during supersonic separation of a air-launching rocket from the mother plane. The three-dimensional Euler equations were numerically solved to analyze the steady/unsteady flow fields around the rocket. The simulation results clearly demonstrated the effect of shock-expansion wave interaction between the rocket and its mother plane. A comprehensive analysis showed that the presence of properly designed fins can make the pitch-up motion be more stabilized, and design parameters such as fin size and location of the center of gravity of the rocket are essentially important factors for safe separation. Finally, a guideline about the supersonic air-launching rocket design for safe separation is proposed. (C) 2009 Elsevier Masson SAS. All rights reserved.
+C1 [Lee, Jae-Woo] Konkuk Univ, Dept Aerosp Engn, INVEST, Seoul 143701, South Korea.
+   [Park, Jun Sang] Halla Univ, Dept Mech Engn, Wonju 220712, South Korea.
+RP Lee, JW (reprint author), Konkuk Univ, Dept Aerosp Engn, INVEST, 1 Hwayang, Seoul 143701, South Korea.
+EM jwlee@konkuk.ac.kr
+FU KOSEF [R01-2006-000-10744-0]; Brain Korea-21 Program (BK21)
+FX This work was supported by grant number R01-2006-000-10744-0 from the
+   Basic Research Program of the KOSEF in 2006 and Brain Korea-21 Program
+   (BK21).
+CR BALKE WB, 1998, MISSILE DATCOM USERS
+   BANG HC, 2000, J KOREAN SOC AERONAU, V28
+   BRUCE L, 1995, AGARD FDP S AER STOR
+   *CFDRC, 2004, CFD FASTRAN THEOR MA
+   DONAHUE B, 2003, 39 AIAA ASME SAE ASE
+   Fleeman E.L., 2001, TACTICAL MISSILE DES
+   JOSYULA E, 1999, J SPACECRAFT ROCKETS, V36
+   KIM JH, 2003, P KSAS C NOV
+   KIM YS, 2003, 21 APPL AER C
+   KIM YS, 2004, THESIS KONKUK U KORE
+   Lasek M., 2002, 40 AIAA AER SCI M EX
+   Lee J.-W., 2003, ASDL EXT ADV BOARD R
+   LEE JW, 2002, AAA20025492 MDO TECH
+   MACKLIN F, 2003, 39 AIAA ASME SAE ASE
+   MIN BY, 2006, J AEROSPACE SCI TECH, V10
+   *ORB SCI CORP, 1998, PEG US GUID
+NR 16
+TC 0
+Z9 0
+U1 0
+U2 2
+PU ELSEVIER FRANCE-EDITIONS SCIENTIFIQUES MEDICALES ELSEVIER
+PI PARIS
+PA 23 RUE LINOIS, 75724 PARIS, FRANCE
+SN 1270-9638
+J9 AEROSP SCI TECHNOL
+JI Aerosp. Sci. Technol.
+PD JAN-FEB
+PY 2010
+VL 14
+IS 1
+BP 19
+EP 25
+DI 10.1016/j.ast.2009.10.001
+PG 7
+WC Engineering, Aerospace
+SC Engineering
+GA 547VF
+UT WOS:000273916900003
+OA No
+DA 2017-09-27
+ER
+
+
+PT J
+AU Jain, S
+   Yehia, O
+   Qiao, L
+AF Jain, S.
+   Yehia, O.
+   Qiao, L.
+TI Flame speed enhancement of solid nitrocellulose monopropellant coupled
+   with graphite at microscales
+SO JOURNAL OF APPLIED PHYSICS
+LA English
+DT Article
+ID THERMOPOWER WAVE SOURCES; COMBUSTION WAVES; MICROTHRUSTER; THRUSTER;
+   MICROPROPULSION; PERFORMANCE; HYBRID; SYSTEM; HEAT
+AB The flame-speed-enhancement phenomenon of a solid monopropellant (nitrocellulose) using a highly conductive thermal base (graphite sheet) was demonstrated and studied both experimentally and theoretically. A propellant layer ranging from 20 mu m to 170 mu m was deposited on the top of a 20-mu m thick graphite sheet. Self-propagating oscillatory combustion waves were observed, with average flame speed enhancements up to 14 times the bulk value. The ratio of the fuel-to-graphite layer thickness affects not only the average reaction front velocities but also the period and the amplitude of the combustion wave oscillations. To better understand the flame-speed enhancement and the oscillatory nature of the combustion waves, the coupled nitrocellulose-graphite system was modeled using one-dimensional energy conservation equations along with simple one-step chemistry. The period and the amplitude of the oscillatory combustion waves were predicted as a function of the ratio of the fuel-to-graphite thickness (R), the ratio of the graphite-to-fuel thermal diffusivity (a0), and the non-dimensional inverse adiabatic temperature rise (beta). The predicted flame speeds and the characteristics of the oscillations agree well with the experimental data. The new concept of using a highly conductive thermal base such as carbon-based nano-and microstructures to enhance flame 
